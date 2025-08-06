@@ -67,7 +67,7 @@ async function fetchMatches() {
 }
 
 // ✅ تشغيل البوت كل 20 ثانية
-cron.schedule("*/10 * * * * *", fetchMatches);
+cron.schedule("*/600 * * * * *", fetchMatches);
 
 // تشغيل أول مرة عند بدء السيرفر
 fetchMatches();
