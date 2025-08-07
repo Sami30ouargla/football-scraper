@@ -33,7 +33,7 @@ async function fetchMatches() {
         const awayLogo = $(matchEl).find(".fco-match-team-and-score__team-b img").attr("src");
         const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
         const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
-        const time = $(matchEl).find("time").attr("dateTime") || "";
+        const time = $(matchEl).find("time").attr("datetime") || "";
         const matchUrl = "https://www.kooora.com/كرة-القدم/مباريات-اليوم" + $(matchEl).find("a.fco-match-start-date").attr("href");
 
         matches.push({
