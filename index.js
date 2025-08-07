@@ -13,12 +13,41 @@ admin.initializeApp({
 
 const db = admin.database();
 
-// ✅ دالة لجلب المباريات
+// ✅ دالة لمقارنة البيانات ومعرفة التغييرات
+function findDifferences(oldData, newData) {
+  const updates = {};
+
+  newData.leagues.forEach((newLeague, leagueIndex) => {
+    const oldLeague = oldData?.leagues?.[leagueIndex];
+
+    // إذا كانت البطولة جديدة أو اسمها تغير
+    if (!oldLeague || oldLeague.leagueName !== newLeague.leagueName) {
+      updates[`leagues/${leagueIndex}`] = newLeague;
+      return;
+    }
+
+    // مقارنة المباريات داخل البطولة
+    newLeague.matches.forEach((newMatch, matchIndex) => {
+      const oldMatch = oldLeague.matches?.[matchIndex];
+
+      if (
+        !oldMatch ||
+        JSON.stringify(oldMatch) !== JSON.stringify(newMatch)
+      ) {
+        updates[`leagues/${leagueIndex}/matches/${matchIndex}`] = newMatch;
+      }
+    });
+  });
+
+  return updates;
+}
+
+// ✅ دالة جلب المباريات وتحديث فقط التغييرات
 async function fetchMatches() {
   try {
-    console.log("⏳ جلب المباريات من kooora...");
-    const { data } = await axios.get("https://www.kooora.com/كرة-القدم/مباريات-اليوم");
+    console.log("⏳ جلب المباريات من Kooora...");
 
+    const { data } = await axios.get("https://www.kooora.com/كرة-القدم/مباريات-اليوم");
     const $ = cheerio.load(data);
     const leagues = [];
 
@@ -48,26 +77,33 @@ async function fetchMatches() {
         });
       });
 
-      leagues.push({
-        leagueName,
-        matches
-      });
+      leagues.push({ leagueName, matches });
     });
 
-    // ✅ حفظ البيانات في Firebase
-    await db.ref("matches").set({
+    const newData = {
       updatedAt: new Date().toISOString(),
       leagues
-    });
+    };
 
-    console.log("✅ تم تحديث المباريات في Firebase بنجاح");
+    const snapshot = await db.ref("matches").once("value");
+    const oldData = snapshot.val();
+
+    const changes = findDifferences(oldData, newData);
+
+    if (Object.keys(changes).length > 0) {
+      changes["updatedAt"] = newData.updatedAt;
+      await db.ref("matches").update(changes);
+      console.log("✅ تم تحديث التغييرات فقط في Firebase");
+    } else {
+      console.log("✅ لا توجد تغييرات جديدة");
+    }
   } catch (error) {
     console.error("❌ خطأ في جلب المباريات:", error.message);
   }
 }
 
 // ✅ تشغيل البوت كل 20 ثانية
-cron.schedule("*/10 * * * * *", fetchMatches);
+cron.schedule("*/20 * * * * *", fetchMatches);
 
 // تشغيل أول مرة عند بدء السيرفر
 fetchMatches();
