@@ -3,37 +3,32 @@ const cheerio = require("cheerio");
 const cron = require("node-cron");
 const admin = require("firebase-admin");
 
-// ✅ قراءة مفتاح Firebase من Environment Variables في Render
+// ✅ قراءة مفتاح Firebase من Environment Variables
 const firebaseKey = JSON.parse(process.env.FIREBASE_KEY);
 
 admin.initializeApp({
   credential: admin.credential.cert(firebaseKey),
-  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com" // ← ضع رابط Realtime Database الخاص بك
+  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com"
 });
 
 const db = admin.database();
 
-// ✅ دالة لمقارنة البيانات ومعرفة التغييرات
+// ✅ مقارنة البيانات لمعرفة التغييرات
 function findDifferences(oldData, newData) {
   const updates = {};
 
   newData.leagues.forEach((newLeague, leagueIndex) => {
     const oldLeague = oldData?.leagues?.[leagueIndex];
 
-    // إذا كانت البطولة جديدة أو اسمها تغير
     if (!oldLeague || oldLeague.leagueName !== newLeague.leagueName) {
       updates[`leagues/${leagueIndex}`] = newLeague;
       return;
     }
 
-    // مقارنة المباريات داخل البطولة
     newLeague.matches.forEach((newMatch, matchIndex) => {
       const oldMatch = oldLeague.matches?.[matchIndex];
 
-      if (
-        !oldMatch ||
-        JSON.stringify(oldMatch) !== JSON.stringify(newMatch)
-      ) {
+      if (!oldMatch || JSON.stringify(oldMatch) !== JSON.stringify(newMatch)) {
         updates[`leagues/${leagueIndex}/matches/${matchIndex}`] = newMatch;
       }
     });
@@ -42,7 +37,7 @@ function findDifferences(oldData, newData) {
   return updates;
 }
 
-// ✅ دالة جلب المباريات وتحديث فقط التغييرات
+// ✅ جلب المباريات
 async function fetchMatches() {
   try {
     console.log("⏳ جلب المباريات من Kooora...");
@@ -54,7 +49,7 @@ async function fetchMatches() {
     $(".fco-competition-section").each((i, section) => {
       const leagueName = $(section).find(".fco-competition-section__header-name").text().trim() || "غير معروف";
 
-      // ✅ اسم الدولة ورابط العلم مع منع undefined
+      // 🔹 تعديل: منع undefined
       const countryName = $(section).find(".fco-competition-section__header-country").text().trim() || "غير محدد";
       const countryFlag = $(section).find(".fco-competition-section__header-country img").attr("src") || null;
 
@@ -67,20 +62,21 @@ async function fetchMatches() {
         const awayLogo = $(matchEl).find(".fco-match-team-and-score__team-b img").attr("src") || null;
         const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
         const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
-        const time = $(matchEl).find("time").attr("datetime") || "";
+
+        // 🔹 تعديل: سحب الوقت بما فيه 90+6
+        let timeText = $(matchEl).find(".fco-match-minute").text().trim();
+        if (!timeText) timeText = $(matchEl).find("time").attr("datetime") || "";
+        const time = timeText || "";
+
         const matchUrl = "https://www.kooora.com" + ($(matchEl).find("a.fco-match-start-date").attr("href") || "");
 
-        // ✅ حالة المباراة
+        // 🔹 تعديل: حالة المباراة
         const status = $(matchEl).find(".fco-match-status").text().trim() || "غير محدد";
 
-        // ✅ المرحلة الزمنية
-        const period = $(matchEl).find(".fco-match-minute").text().trim() || null;
+        // 🔹 تعديل: المرحلة الزمنية
+        const period = time || "غير محدد";
 
-        // ✅ البطاقات الحمراء
-        const redCardsHome = parseInt($(matchEl).find(".fco-match-team-and-score__team-a .fco-red-card").text().trim() || "0");
-        const redCardsAway = parseInt($(matchEl).find(".fco-match-team-and-score__team-b .fco-red-card").text().trim() || "0");
-
-        // ✅ اسم الملعب
+        // 🔹 تعديل: اسم الملعب
         const venue = $(matchEl).find(".fco-match-venue").text().trim() || null;
 
         matches.push({
@@ -96,8 +92,6 @@ async function fetchMatches() {
           countryFlag,
           status,
           period,
-          redCardsHome,
-          redCardsAway,
           venue
         });
       });
