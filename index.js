@@ -55,7 +55,7 @@ async function fetchMatches() {
       const leagueName = $(section).find(".fco-competition-section__header-name").text().trim() || "غير معروف";
       const matches = [];
 
-      $(section).find(".fco-match-row").each((j, matchEl) => {
+  $(section).find(".fco-match-row").each((j, matchEl) => {
   const homeTeam = $(matchEl).find(".fco-match-team-and-score__team-a .fco-long-name").text().trim();
   const awayTeam = $(matchEl).find(".fco-match-team-and-score__team-b .fco-long-name").text().trim();
   const homeLogo = $(matchEl).find(".fco-match-team-and-score__team-a img").attr("src");
@@ -64,8 +64,15 @@ async function fetchMatches() {
   const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
   const time = $(matchEl).find("time").attr("datetime") || "";
 
-  // 🆕 الوقت الحالي للمباراة (مثلاً "13'")
-  const liveTime = $(matchEl).find(".fco-match-state .fco-match-time").text().trim() || "";
+  // 🆕 استخراج حالة المباراة أو وقتها الحالي
+  let matchStatus = "";
+  if ($(matchEl).find(".fco-match-state .fco-match-time").length > 0) {
+    // إذا كان هناك وقت مباشر مثل "13'"
+    matchStatus = $(matchEl).find(".fco-match-state .fco-match-time").text().trim();
+  } else if ($(matchEl).find(".fco-match-state").length > 0) {
+    // إذا كان هناك نص مثل "استراحة" أو "انتهت"
+    matchStatus = $(matchEl).find(".fco-match-state").text().trim();
+  }
 
   const matchUrl = "https://www.kooora.com/كرة-القدم/مباريات-اليوم" + $(matchEl).find("a.fco-match-start-date").attr("href");
 
@@ -77,10 +84,11 @@ async function fetchMatches() {
     scoreHome,
     scoreAway,
     time,
-    liveTime, // 🆕 إضافة الوقت الحالي هنا
+    matchStatus, // 🆕 هنا ستجد إما الوقت أو الحالة مثل استراحة
     matchUrl
   });
 });
+
 
 
       leagues.push({ leagueName, matches });
