@@ -3,46 +3,15 @@ const cheerio = require("cheerio");
 const cron = require("node-cron");
 const admin = require("firebase-admin");
 
-// ✅ قراءة مفتاح Firebase من Environment Variables في Render
+// تهيئة Firebase
 const firebaseKey = JSON.parse(process.env.FIREBASE_KEY);
-
 admin.initializeApp({
   credential: admin.credential.cert(firebaseKey),
-  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com" // ← ضع رابط Realtime Database الخاص بك
+  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com"
 });
 
 const db = admin.database();
 
-// ✅ دالة لمقارنة البيانات ومعرفة التغييرات
-function findDifferences(oldData, newData) {
-  const updates = {};
-
-  newData.leagues.forEach((newLeague, leagueIndex) => {
-    const oldLeague = oldData?.leagues?.[leagueIndex];
-
-    // إذا كانت البطولة جديدة أو اسمها تغير
-    if (!oldLeague || oldLeague.leagueName !== newLeague.leagueName) {
-      updates[`leagues/${leagueIndex}`] = newLeague;
-      return;
-    }
-
-    // مقارنة المباريات داخل البطولة
-    newLeague.matches.forEach((newMatch, matchIndex) => {
-      const oldMatch = oldLeague.matches?.[matchIndex];
-
-      if (
-        !oldMatch ||
-        JSON.stringify(oldMatch) !== JSON.stringify(newMatch)
-      ) {
-        updates[`leagues/${leagueIndex}/matches/${matchIndex}`] = newMatch;
-      }
-    });
-  });
-
-  return updates;
-}
-
-// ✅ دالة جلب المباريات مع تفاصيل إضافية
 async function fetchMatches() {
   try {
     console.log("⏳ جلب المباريات من Kooora...");
@@ -56,32 +25,31 @@ async function fetchMatches() {
       const matches = [];
 
       $(section).find(".fco-match-row").each((j, matchEl) => {
-        // ✅ معلومات الفريقين
+        // معلومات أساسية
         const homeTeam = $(matchEl).find(".fco-match-team-and-score__team-a .fco-long-name").text().trim();
         const awayTeam = $(matchEl).find(".fco-match-team-and-score__team-b .fco-long-name").text().trim();
+        
+        // الشعارات
         const homeLogo = $(matchEl).find(".fco-match-team-and-score__team-a img").attr("src") || "";
         const awayLogo = $(matchEl).find(".fco-match-team-and-score__team-b img").attr("src") || "";
         
-        // ✅ النتيجة
+        // النتائج
         const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
         const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
         
-        // ✅ وقت المباراة
+        // الوقت ورابط المباراة
         const time = $(matchEl).find("time").attr("datetime") || "";
         const matchUrl = "https://www.kooora.com" + ($(matchEl).find("a.fco-match-start-date").attr("href") || "");
         
-        // ✅ حالة المباراة (لم تبدأ، جارية، انتهت)
-        const matchStatus = $(matchEl).find(".fco-match-status").text().trim() || "لم تبدأ";
-        
-        // ✅ الدقيقة الحالية (إذا كانت المباراة جارية)
+        // حالة المباراة والدقيقة الحالية
+        const matchStatusElement = $(matchEl).find(".fco-match-status");
+        let matchStatus = matchStatusElement.text().trim() || "لم تبدأ";
         let currentMinute = "";
-        if (matchStatus.includes("'")) {
-          currentMinute = matchStatus.split("'")[0].trim();
-        }
-        
-        // ✅ حالة المباراة (مباشر، مؤجل، انتهت)
         let status = "upcoming";
+        
+        // تحليل حالة المباراة بدقة
         if (matchStatus.includes("'")) {
+          currentMinute = matchStatus.replace(/'/g, '').trim();
           status = "live";
         } else if (matchStatus.includes("انتهت")) {
           status = "finished";
@@ -89,7 +57,7 @@ async function fetchMatches() {
           status = "postponed";
         }
         
-        // ✅ معلومات إضافية من الـ JSON-LD إذا وجدت
+        // معلومات إضافية من JSON-LD
         const jsonLdScript = $(matchEl).find('script[type="application/ld+json"]').html();
         let jsonLdData = {};
         if (jsonLdScript) {
@@ -100,11 +68,12 @@ async function fetchMatches() {
           }
         }
 
+        // إضافة المباراة إلى القائمة
         matches.push({
           homeTeam,
           awayTeam,
-          homeLogo: homeLogo.includes("http") ? homeLogo : `https:${homeLogo}`,
-          awayLogo: awayLogo.includes("http") ? awayLogo : `https:${awayLogo}`,
+          homeLogo: homeLogo.startsWith("http") ? homeLogo : `https:${homeLogo}`,
+          awayLogo: awayLogo.startsWith("http") ? awayLogo : `https:${awayLogo}`,
           scoreHome,
           scoreAway,
           time,
@@ -114,7 +83,7 @@ async function fetchMatches() {
           status,
           location: jsonLdData.location?.name || "",
           startDate: jsonLdData.startDate || "",
-          eventStatus: jsonLdData.eventStatus || "",
+          eventStatus: jsonLdData.eventStatus || "https://schema.org/EventScheduled",
           homeTeamLogo: jsonLdData.homeTeam?.logo || "",
           awayTeamLogo: jsonLdData.awayTeam?.logo || ""
         });
@@ -123,30 +92,21 @@ async function fetchMatches() {
       leagues.push({ leagueName, matches });
     });
 
+    // تحديث قاعدة البيانات
     const newData = {
       updatedAt: new Date().toISOString(),
       leagues
     };
 
-    const snapshot = await db.ref("matches").once("value");
-    const oldData = snapshot.val();
-
-    const changes = findDifferences(oldData, newData);
-
-    if (Object.keys(changes).length > 0) {
-      changes["updatedAt"] = newData.updatedAt;
-      await db.ref("matches").update(changes);
-      console.log("✅ تم تحديث التغييرات فقط في Firebase");
-    } else {
-      console.log("✅ لا توجد تغييرات جديدة");
-    }
+    await db.ref("matches").set(newData);
+    console.log("✅ تم تحديث جميع البيانات في Firebase");
   } catch (error) {
     console.error("❌ خطأ في جلب المباريات:", error.message);
   }
 }
 
-// ✅ تشغيل البوت كل 20 ثانية
+// تشغيل كل 20 ثانية
 cron.schedule("*/20 * * * * *", fetchMatches);
 
-// تشغيل أول مرة عند بدء السيرفر
+// التشغيل الأولي
 fetchMatches();
