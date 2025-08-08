@@ -49,7 +49,7 @@ async function fetchMatches() {
     $(".fco-competition-section").each((i, section) => {
       const leagueName = $(section).find(".fco-competition-section__header-name").text().trim() || "غير معروف";
 
-      // 🔹 تعديل: منع undefined
+      // 🔹 منع undefined
       const countryName = $(section).find(".fco-competition-section__header-country").text().trim() || "غير محدد";
       const countryFlag = $(section).find(".fco-competition-section__header-country img").attr("src") || null;
 
@@ -63,21 +63,25 @@ async function fetchMatches() {
         const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
         const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
 
-        // 🔹 تعديل: سحب الوقت بما فيه 90+6
+        // 🔹 جلب الوقت من أكثر من مكان
         let timeText = $(matchEl).find(".fco-match-minute").text().trim();
+        if (!timeText) timeText = $(matchEl).find(".fco-match-status").text().trim();
+        if (!timeText) timeText = $(matchEl).find(".fco-match-period").text().trim();
         if (!timeText) timeText = $(matchEl).find("time").attr("datetime") || "";
-        const time = timeText || "";
 
-        const matchUrl = "https://www.kooora.com" + ($(matchEl).find("a.fco-match-start-date").attr("href") || "");
+        const time = timeText || "غير محدد";
 
-        // 🔹 تعديل: حالة المباراة
+        // 🔹 status نفس النص إذا وجد
         const status = $(matchEl).find(".fco-match-status").text().trim() || "غير محدد";
 
-        // 🔹 تعديل: المرحلة الزمنية
-        const period = time || "غير محدد";
+        // 🔹 period = الوقت إذا المباراة مباشرة أو فيها وقت إضافي
+        const period = (time.includes("+") || (!isNaN(parseInt(time)) && parseInt(time) > 0)) ? time : "غير محدد";
 
-        // 🔹 تعديل: اسم الملعب
+        // 🔹 اسم الملعب
         const venue = $(matchEl).find(".fco-match-venue").text().trim() || null;
+
+        // 🔹 رابط المباراة
+        const matchUrl = "https://www.kooora.com" + ($(matchEl).find("a.fco-match-start-date").attr("href") || "");
 
         matches.push({
           homeTeam,
