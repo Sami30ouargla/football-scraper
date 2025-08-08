@@ -53,50 +53,50 @@ async function fetchMatches() {
 
     $(".fco-competition-section").each((i, section) => {
       const leagueName = $(section).find(".fco-competition-section__header-name").text().trim() || "غير معروف";
+
+      // ✅ اسم الدولة ورابط العلم
+      const countryName = $(section).find(".fco-competition-section__header-country").text().trim();
+      const countryFlag = $(section).find(".fco-competition-section__header-country img").attr("src");
+
       const matches = [];
 
       $(section).find(".fco-match-row").each((j, matchEl) => {
-  const homeTeam = $(matchEl).find(".fco-match-team-and-score__team-a .fco-long-name").text().trim();
-  const awayTeam = $(matchEl).find(".fco-match-team-and-score__team-b .fco-long-name").text().trim();
-  const homeLogo = $(matchEl).find(".fco-match-team-and-score__team-a img").attr("src");
-  const awayLogo = $(matchEl).find(".fco-match-team-and-score__team-b img").attr("src");
-  const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
-  const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
-  const time = $(matchEl).find("time").attr("datetime") || "";
-  const matchUrl = "https://www.kooora.com" + ($(matchEl).find("a.fco-match-start-date").attr("href") || "");
+        const homeTeam = $(matchEl).find(".fco-match-team-and-score__team-a .fco-long-name").text().trim();
+        const awayTeam = $(matchEl).find(".fco-match-team-and-score__team-b .fco-long-name").text().trim();
+        const homeLogo = $(matchEl).find(".fco-match-team-and-score__team-a img").attr("src");
+        const awayLogo = $(matchEl).find(".fco-match-team-and-score__team-b img").attr("src");
+        const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
+        const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
+        const time = $(matchEl).find("time").attr("datetime") || "";
+        const matchUrl = "https://www.kooora.com" + ($(matchEl).find("a.fco-match-start-date").attr("href") || "");
 
-  // ✅ الدولة ورابط العلم
-  const countryName = $(section).find(".fco-competition-section__header-country").text().trim();
-  const countryFlag = $(section).find(".fco-competition-section__header-country img").attr("src");
+        // ✅ حالة المباراة (LIVE / FINISHED / POSTPONED)
+        const status = $(matchEl).find(".fco-match-status").text().trim() || "غير محدد";
 
-  // ✅ حالة المباراة (مثل LIVE أو FINISHED أو POSTPONED)
-  const status = $(matchEl).find(".fco-match-status").text().trim() || "غير محدد";
+        // ✅ المرحلة الزمنية (الدقيقة والشوط)
+        const period = $(matchEl).find(".fco-match-minute").text().trim() || null;
 
-  // ✅ المرحلة الزمنية (الدقيقة والشوط)
-  const period = $(matchEl).find(".fco-match-minute").text().trim();
+        // ✅ اسم الملعب
+        const venue = $(matchEl).find(".fco-match-venue").text().trim() || null;
 
-  // ✅ اسم الملعب
-  const venue = $(matchEl).find(".fco-match-venue").text().trim() || null;
+        matches.push({
+          homeTeam,
+          awayTeam,
+          homeLogo,
+          awayLogo,
+          scoreHome,
+          scoreAway,
+          time,
+          matchUrl,
+          countryName,
+          countryFlag,
+          status,
+          period,
+          venue
+        });
+      });
 
-  matches.push({
-    homeTeam,
-    awayTeam,
-    homeLogo,
-    awayLogo,
-    scoreHome,
-    scoreAway,
-    time,
-    matchUrl,
-    countryName,
-    countryFlag,
-    status,
-    period,
-    venue
-  });
-});
-
-
-      leagues.push({ leagueName, matches });
+      leagues.push({ leagueName, countryName, countryFlag, matches });
     });
 
     const newData = {
