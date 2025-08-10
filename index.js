@@ -46,7 +46,7 @@ async function fetchMatchDetails() {
   try {
     console.log("⏳ جلب تفاصيل المباراة من Kooora...");
     
-    const matchUrl = "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%B1%D8%A7%D8%B3-%D8%B6%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7/tl6JyuYs4K2z1AU-7WT1V";
+    const matchUrl = "https://www.kooora.com/كرة-القدم/مباراة/بالميراس-ضد-سيارا/tl6JyuYs4K2z1AU-7WT1V";
     
     // إضافة headers لتفادي مشاكل CORS
     const { data } = await axios.get(matchUrl, {
