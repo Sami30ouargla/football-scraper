@@ -8,7 +8,7 @@ const firebaseKey = JSON.parse(process.env.FIREBASE_KEY);
 
 admin.initializeApp({
   credential: admin.credential.cert(firebaseKey),
-  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com" // ← ضع رابط Realtime Database الخاص بك
+  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com"
 });
 
 const db = admin.database();
@@ -17,110 +17,120 @@ const db = admin.database();
 function findDifferences(oldData, newData) {
   const updates = {};
 
-  newData.leagues.forEach((newLeague, leagueIndex) => {
-    const oldLeague = oldData?.leagues?.[leagueIndex];
-
-    // إذا كانت البطولة جديدة أو اسمها تغير
-    if (!oldLeague || oldLeague.leagueName !== newLeague.leagueName) {
-      updates[`leagues/${leagueIndex}`] = newLeague;
-      return;
-    }
-
-    // مقارنة المباريات داخل البطولة
-    newLeague.matches.forEach((newMatch, matchIndex) => {
-      const oldMatch = oldLeague.matches?.[matchIndex];
-
-      if (
-        !oldMatch ||
-        JSON.stringify(oldMatch) !== JSON.stringify(newMatch)
-      ) {
-        updates[`leagues/${leagueIndex}/matches/${matchIndex}`] = newMatch;
-      }
-    });
-  });
+  if (!oldData || JSON.stringify(oldData) !== JSON.stringify(newData)) {
+    updates["match"] = newData;
+  }
 
   return updates;
 }
 
-// ✅ دالة جلب المباريات وتحديث فقط التغييرات
-async function fetchMatches() {
+// ✅ دالة جلب تفاصيل المباراة
+async function fetchMatchDetails() {
   try {
-    console.log("⏳ جلب المباريات من Kooora...");
-
-    const { data } = await axios.get("https://www.kooora.com/كرة-القدم/مباريات-اليوم");
+    console.log("⏳ جلب تفاصيل المباراة من Kooora...");
+    
+    const matchUrl = "https://www.kooora.com/كرة-القدم/مباراة/بالميراس-v-سيارا/tl6JyuYs4K2z1AU-7WT1V";
+    const { data } = await axios.get(matchUrl);
     const $ = cheerio.load(data);
-    const leagues = [];
 
-    $(".fco-competition-section").each((i, section) => {
-      const leagueName = $(section).find(".fco-competition-section__header-name").text().trim() || "غير معروف";
-      const matches = [];
-
-  $(section).find(".fco-match-row").each((j, matchEl) => {
-  const homeTeam = $(matchEl).find(".fco-match-team-and-score__team-a .fco-long-name").text().trim();
-  const awayTeam = $(matchEl).find(".fco-match-team-and-score__team-b .fco-long-name").text().trim();
-  const homeLogo = $(matchEl).find(".fco-match-team-and-score__team-a img").attr("src");
-  const awayLogo = $(matchEl).find(".fco-match-team-and-score__team-b img").attr("src");
-  const scoreHome = $(matchEl).find(".fco-match-score[data-side='team-a']").text().trim() || "-";
-  const scoreAway = $(matchEl).find(".fco-match-score[data-side='team-b']").text().trim() || "-";
-  const time = $(matchEl).find("time").attr("datetime") || "";
-
-  // 🆕 استخراج حالة المباراة أو وقتها الحالي
-  let matchStatus = "";
-  if ($(matchEl).find(".fco-match-state .fco-match-time").length > 0) {
-    // إذا كان هناك وقت مباشر مثل "13'"
-    matchStatus = $(matchEl).find(".fco-match-state .fco-match-time").text().trim();
-  } else if ($(matchEl).find(".fco-match-state").length > 0) {
-    // إذا كان هناك نص مثل "استراحة" أو "انتهت"
-    matchStatus = $(matchEl).find(".fco-match-state").text().trim();
-  }
-
-  const matchUrlPath = $(matchEl).find("a.fco-match-start-date").attr("href") 
-    || $(matchEl).find("a.fco-match-team-and-score__container").attr("href") 
-    || "";
-const matchUrl = matchUrlPath ? "https://www.kooora.com" + matchUrlPath : "";
-
-matches.push({
-  homeTeam,
-  awayTeam,
-  homeLogo,
-  awayLogo,
-  scoreHome,
-  scoreAway,
-  time,
-  matchStatus,
-  matchUrl
-});
-});
-
-
-
-      leagues.push({ leagueName, matches });
+    // استخراج معلومات المباراة الأساسية
+    const leagueName = $(".fco-match-header-competition-name").text().trim() || "غير معروف";
+    const matchDate = $(".fco-match-header-match-day").attr("datetime") || "";
+    
+    // استخراج معلومات الفريقين
+    const homeTeam = $(".fco-match-header__grid-team:first-child .fco-long-name").text().trim();
+    const awayTeam = $(".fco-match-header__grid-team:last-child .fco-long-name").text().trim();
+    const homeLogo = $(".fco-match-header__grid-team:first-child img").attr("src");
+    const awayLogo = $(".fco-match-header__grid-team:last-child img").attr("src");
+    
+    // استخراج النتيجة وحالة المباراة
+    const scoreHome = $(".fco-match-header-score[data-side='team-a']").text().trim() || "-";
+    const scoreAway = $(".fco-match-header-score[data-side='team-b']").text().trim() || "-";
+    const matchStatus = $(".fco-match-state").text().trim();
+    
+    // استخراج إحصائيات المباراة
+    const stats = {};
+    $(".fco-match-stats-row").each((i, el) => {
+      const statName = $(el).find(".fco-match-stats-row__label").text().trim();
+      const homeValue = $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim();
+      const awayValue = $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim();
+      
+      stats[statName] = {
+        home: homeValue,
+        away: awayValue
+      };
     });
-
+    
+    // استخراج الأحداث الرئيسية
+    const events = [];
+    $(".fco-events__list-element").each((i, el) => {
+      const eventType = $(el).find(".fco-event-icon use").attr("xlink:href").split("#")[1];
+      const playerName = $(el).find(".fco-key-event-row__info-description-whole").text().trim();
+      const time = $(el).find(".fco-match-time").text().trim();
+      const team = $(el).find(".fco-key-event-row").hasClass("fco-key-event-row--team-A") ? "home" : "away";
+      
+      events.push({
+        type: eventType,
+        player: playerName,
+        time: time,
+        team: team
+      });
+    });
+    
+    // استخراج توقعات الجمهور
+    const predictions = {
+      home: {
+        percent: $(".fco-match-predictor__result:first-child .fco-match-predictor__result-vote-percent").text().trim(),
+        votes: $(".fco-match-predictor__result:first-child .fco-match-predictor__result-vote-votes").text().trim()
+      },
+      draw: {
+        percent: $(".fco-match-predictor__result:nth-child(2) .fco-match-predictor__result-vote-percent").text().trim(),
+        votes: $(".fco-match-predictor__result:nth-child(2) .fco-match-predictor__result-vote-votes").text().trim()
+      },
+      away: {
+        percent: $(".fco-match-predictor__result:last-child .fco-match-predictor__result-vote-percent").text().trim(),
+        votes: $(".fco-match-predictor__result:last-child .fco-match-predictor__result-vote-votes").text().trim()
+      }
+    };
+    
     const newData = {
       updatedAt: new Date().toISOString(),
-      leagues
+      match: {
+        leagueName,
+        matchDate,
+        homeTeam,
+        awayTeam,
+        homeLogo,
+        awayLogo,
+        scoreHome,
+        scoreAway,
+        matchStatus,
+        stats,
+        events,
+        predictions,
+        matchUrl
+      }
     };
 
-    const snapshot = await db.ref("matches").once("value");
+    const snapshot = await db.ref("matchDetails").once("value");
     const oldData = snapshot.val();
 
     const changes = findDifferences(oldData, newData);
 
     if (Object.keys(changes).length > 0) {
       changes["updatedAt"] = newData.updatedAt;
-      await db.ref("matches").update(changes);
-      console.log("✅ تم تحديث التغييرات فقط في Firebase");
+      await db.ref("matchDetails").update(changes);
+      console.log("✅ تم تحديث تفاصيل المباراة في Firebase");
     } else {
-      console.log("✅ لا توجد تغييرات جديدة");
+      console.log("✅ لا توجد تغييرات جديدة في تفاصيل المباراة");
     }
   } catch (error) {
-    console.error("❌ خطأ في جلب المباريات:", error.message);
+    console.error("❌ خطأ في جلب تفاصيل المباراة:", error.message);
   }
 }
 
-// ✅ تشغيل البوت كل 20 ثانية
-cron.schedule("*/20 * * * * *", fetchMatches);
+// ✅ تشغيل البوت كل دقيقة
+cron.schedule("*/60 * * * * *", fetchMatchDetails);
 
 // تشغيل أول مرة عند بدء السيرفر
-fetchMatches();  
+fetchMatchDetails();
