@@ -90,14 +90,21 @@ async function fetchMatchDetails() {
       events.push(event);
     });
 
-    // 3. إحصائيات المباراة - معدلة لتعمل مع الهيكل الجديد
+    // 3. إحصائيات المباراة - التعديل الأساسي هنا
     const stats = {};
     $(".fco-match-stats-row").each((i, el) => {
       const statName = $(el).find(".fco-match-stats-row__label").text().trim();
       if (statName) {
+        // نص القيم لجهة الفريق المضيف والضيف من العنصر المناسب
+        const homeValue = $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim() ||
+                          $(el).find(".fco-match-stats-row__stat:first-child").text().trim() || "0";
+
+        const awayValue = $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim() ||
+                          $(el).find(".fco-match-stats-row__stat:last-child").text().trim() || "0";
+
         stats[statName] = {
-          home: $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim() || "0",
-          away: $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim() || "0"
+          home: homeValue,
+          away: awayValue
         };
       }
     });
