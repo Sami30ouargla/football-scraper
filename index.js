@@ -34,7 +34,7 @@ function validateData(data) {
   const requiredFields = [
     data.matchInfo?.homeTeam,
     data.matchInfo?.awayTeam,
-    data.events?.length > 0,
+    data.events?.length >= 0, // يمكن أن تكون المباراة بدون أحداث بعد
     Object.keys(data.stats).length > 0
   ];
   
@@ -74,30 +74,31 @@ async function fetchMatchDetails() {
       matchUrl: matchUrl
     };
 
-    // 2. الأحداث الرئيسية
+    // 2. الأحداث الرئيسية - معدلة لتعمل مع الهيكل الجديد
     const events = [];
     $(".fco-events__list-element").each((i, el) => {
+      const eventElement = $(el).find(".fco-key-event-row");
       const event = {
         time: $(el).find(".fco-match-time").text().trim(),
         icon: $(el).find(".fco-event-icon use").attr("xlink:href")?.split("#")[1] || "unknown",
-        text: $(el).find(".fco-key-event-row__info-description-main, .fco-key-event-row__info-description-whole").text().trim(),
-        score: $(el).find(".fco-key-event-row__score").text().trim(),
-        assistant: $(el).find(".fco-key-event-row__info-description-secondary--opaque").text().trim(),
-        team: $(el).find(".fco-key-event-row--team-A").length ? "home" : 
-              $(el).find(".fco-key-event-row--team-B").length ? "away" : "none"
+        text: eventElement.find(".fco-key-event-row__info-description-main, .fco-key-event-row__info-description-whole").text().trim(),
+        score: eventElement.find(".fco-key-event-row__score").text().trim(),
+        assistant: eventElement.find(".fco-key-event-row__info-description-secondary--opaque").text().trim(),
+        team: eventElement.hasClass("fco-key-event-row--team-A") ? "home" : 
+              eventElement.hasClass("fco-key-event-row--team-B") ? "away" : "none"
       };
       events.push(event);
     });
 
-    // 3. إحصائيات المباراة
+    // 3. إحصائيات المباراة - معدلة لتعمل مع الهيكل الجديد
     const stats = {};
     $(".fco-match-stats-row").each((i, el) => {
       const statName = $(el).find(".fco-match-stats-row__label").text().trim();
-      const homeValue = $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim() || "0";
-      const awayValue = $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim() || "0";
-      
       if (statName) {
-        stats[statName] = { home: homeValue, away: awayValue };
+        stats[statName] = {
+          home: $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim() || "0",
+          away: $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim() || "0"
+        };
       }
     });
 
@@ -121,7 +122,7 @@ async function fetchMatchDetails() {
       }
     });
 
-    // 5. التشكيلات الأساسية والبدلاء
+    // 5. التشكيلات الأساسية والبدلاء - معدلة لتعمل مع الهيكل الجديد
     const lineups = {
       home: {
         starting: [],
@@ -133,6 +134,7 @@ async function fetchMatchDetails() {
       }
     };
     
+    // جلب تشكيل الفريق المضيف
     $(".fco-lineup-team[data-side='home'] .fco-lineup-player:not(.fco-lineup-player--substitute)").each((i, el) => {
       lineups.home.starting.push({
         player: $(el).find(".fco-lineup-player__name").text().trim(),
@@ -149,6 +151,7 @@ async function fetchMatchDetails() {
       });
     });
     
+    // جلب تشكيل الفريق الضيف
     $(".fco-lineup-team[data-side='away'] .fco-lineup-player:not(.fco-lineup-player--substitute)").each((i, el) => {
       lineups.away.starting.push({
         player: $(el).find(".fco-lineup-player__name").text().trim(),
@@ -242,6 +245,12 @@ async function fetchMatchDetails() {
       }
     } else {
       console.error("❌ البيانات المجموعة غير مكتملة، لم يتم الحفظ");
+      console.error("تفاصيل النقص:", {
+        hasMatchInfo: !!newData.matchInfo,
+        hasEvents: newData.events.length > 0,
+        hasStats: Object.keys(newData.stats).length > 0,
+        hasLineups: newData.lineups.home.starting.length > 0 || newData.lineups.away.starting.length > 0
+      });
     }
   } catch (error) {
     console.error("❌ خطأ في جلب تفاصيل المباراة:", {
