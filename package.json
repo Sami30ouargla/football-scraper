@@ -1,0 +1,16 @@
+{
+  "name": "football-scraper",
+  "version": "1.0.0",
+  "description": "Bot to fetch matches from kooora and store in Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^5.1.0",
+    "firebase-admin": "^11.10.1",
+    "node-cron": "^3.0.2"
+  }
+}
