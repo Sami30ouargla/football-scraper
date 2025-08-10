@@ -48,48 +48,56 @@ async function fetchMatchDetails() {
       matchUrl: matchUrl
     };
 
-    // 2. الأحداث الرئيسية (من التعليق الصوتي)
+    // 2. الأحداث الرئيسية (من قسم الأحداث)
     const events = [];
-    $(".fco-commentary__event").each((i, el) => {
-      const eventText = $(el).find(".fco-commentary__event-text").text().trim();
-      const eventTime = $(el).find(".fco-commentary__event-time").text().trim();
+    $(".fco-events__list-element").each((i, el) => {
+      const eventTime = $(el).find(".fco-match-time").text().trim();
+      const eventIcon = $(el).find(".fco-event-icon use").attr("xlink:href").split("#")[1];
+      const eventText = $(el).find(".fco-key-event-row__info-description-main").text().trim() || 
+                       $(el).find(".fco-key-event-row__info-description-whole").text().trim();
+      const eventScore = $(el).find(".fco-key-event-row__score").text().trim();
+      const secondaryText = $(el).find(".fco-key-event-row__info-description-secondary--opaque").text().trim();
       
-      // تحديد نوع الحدث
+      // تحديد نوع الحدث بناء على الأيقونة
       let eventType = "other";
-      if (eventText.includes("هد")) eventType = "goal";
-      if (eventText.includes("بطاقة")) eventType = "card";
-      if (eventText.includes("تغيير")) eventType = "substitution";
-      if (eventText.includes("ضربة جزاء")) eventType = "penalty";
+      if (eventIcon.includes("GOAL")) eventType = "goal";
+      if (eventIcon.includes("CARD_YELLOW")) eventType = "yellow_card";
+      if (eventIcon.includes("CARD_RED")) eventType = "red_card";
+      if (eventIcon.includes("SUB")) eventType = "substitution";
+      if (eventIcon.includes("PENALTY")) eventType = "penalty";
       
       // تحديد الفريق
       let team = "none";
-      if ($(el).hasClass("fco-commentary__event--team-a")) team = "home";
-      if ($(el).hasClass("fco-commentary__event--team-b")) team = "away";
+      if ($(el).find(".fco-key-event-row--team-A").length) team = "home";
+      if ($(el).find(".fco-key-event-row--team-B").length) team = "away";
       
       events.push({
         type: eventType,
         text: eventText,
         time: eventTime,
-        team: team
+        team: team,
+        score: eventScore,
+        secondaryText: secondaryText,
+        iconType: eventIcon
       });
     });
 
-    // 3. إحصائيات المباراة
+    // 3. إحصائيات المباراة (معدلة لتعمل مع الهيكل الجديد)
     const stats = {};
     $(".fco-match-stats-row").each((i, el) => {
       const statName = $(el).find(".fco-match-stats-row__label").text().trim();
-      const homeValue = $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-value").text().trim();
-      const awayValue = $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-value").text().trim();
+      const homeValue = $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim();
+      const awayValue = $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim();
       
-      if (statName) {
+      if (statName && homeValue && awayValue) {
         stats[statName] = {
-          home: homeValue || "0",
-          away: awayValue || "0"
+          home: homeValue,
+          away: awayValue
         };
       }
     });
 
-    // 4. ترتيب الفريقين في الدوري
+    // 4. ترتيب الفريقين في الدوري (محدثة)
     const standings = [];
     $(".fco-standings-table__row").each((i, el) => {
       const position = $(el).find(".fco-standings-table__cell--position").text().trim();
@@ -109,7 +117,7 @@ async function fetchMatchDetails() {
       }
     });
 
-    // 5. التشكيلات الأساسية والبدلاء
+    // 5. التشكيلات الأساسية والبدلاء (محدثة)
     const lineups = {
       home: {
         starting: [],
@@ -121,7 +129,7 @@ async function fetchMatchDetails() {
       }
     };
     
-    // التشكيل الأساسي للفريق المضيف
+    // ملء التشكيلات من الهيكل الجديد
     $(".fco-lineup-team[data-side='home'] .fco-lineup-player:not(.fco-lineup-player--substitute)").each((i, el) => {
       lineups.home.starting.push({
         player: $(el).find(".fco-lineup-player__name").text().trim(),
@@ -130,7 +138,6 @@ async function fetchMatchDetails() {
       });
     });
     
-    // البدلاء للفريق المضيف
     $(".fco-lineup-team[data-side='home'] .fco-lineup-player.fco-lineup-player--substitute").each((i, el) => {
       lineups.home.substitutes.push({
         player: $(el).find(".fco-lineup-player__name").text().trim(),
@@ -138,7 +145,6 @@ async function fetchMatchDetails() {
       });
     });
     
-    // التشكيل الأساسي للفريق الضيف
     $(".fco-lineup-team[data-side='away'] .fco-lineup-player:not(.fco-lineup-player--substitute)").each((i, el) => {
       lineups.away.starting.push({
         player: $(el).find(".fco-lineup-player__name").text().trim(),
@@ -147,7 +153,6 @@ async function fetchMatchDetails() {
       });
     });
     
-    // البدلاء للفريق الضيف
     $(".fco-lineup-team[data-side='away'] .fco-lineup-player.fco-lineup-player--substitute").each((i, el) => {
       lineups.away.substitutes.push({
         player: $(el).find(".fco-lineup-player__name").text().trim(),
@@ -155,7 +160,7 @@ async function fetchMatchDetails() {
       });
     });
 
-    // 6. توقعات الجمهور
+    // 6. توقعات الجمهور (محدثة)
     const predictions = {
       home: {
         percent: $(".fco-match-predictor__result:first-child .fco-match-predictor__result-vote-percent").text().trim(),
@@ -171,21 +176,25 @@ async function fetchMatchDetails() {
       }
     };
 
-    // 7. الهدافون
+    // 7. الهدافون (محدثة)
     const scorers = {
       home: [],
       away: []
     };
     
-    // أهداف الفريق المضيف
     $(".fco-match-header__scorers-left li").each((i, el) => {
       scorers.home.push($(el).text().trim());
     });
     
-    // أهداف الفريق الضيف
     $(".fco-match-header__scorers-right li").each((i, el) => {
       scorers.away.push($(el).text().trim());
     });
+
+    // 8. تفاصيل إضافية (مضافة)
+    const matchDetails = {
+      referee: $(".fco-match-details__list-item:contains('الحكم')").text().replace('الحكم', '').trim(),
+      stadium: $(".fco-match-details__list-item:contains('الملعب')").text().replace('الملعب', '').trim()
+    };
 
     const newData = {
       updatedAt: new Date().toISOString(),
@@ -195,7 +204,8 @@ async function fetchMatchDetails() {
       standings,
       lineups,
       predictions,
-      scorers
+      scorers,
+      matchDetails
     };
 
     const snapshot = await db.ref("matchDetails").once("value");
