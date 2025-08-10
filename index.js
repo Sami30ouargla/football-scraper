@@ -4,7 +4,7 @@ const cron = require("node-cron");
 const admin = require("firebase-admin");
 
 // تهيئة Firebase
-const serviceAccount = require("./firebase-key.json"); // أو استخدام process.env
+const firebaseKey = JSON.parse(process.env.FIREBASE_KEY);
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com/"
