@@ -76,38 +76,42 @@ async function fetchMatchDetails() {
 
     // 2. الأحداث الرئيسية - معدلة لتعمل مع الهيكل الجديد
     const events = [];
-    $(".fco-events__list-element").each((i, el) => {
-      const eventElement = $(el).find(".fco-key-event-row");
-      const event = {
-        time: $(el).find(".fco-match-time").text().trim(),
-        icon: $(el).find(".fco-event-icon use").attr("xlink:href")?.split("#")[1] || "unknown",
-        text: eventElement.find(".fco-key-event-row__info-description-main, .fco-key-event-row__info-description-whole").text().trim(),
-        score: eventElement.find(".fco-key-event-row__score").text().trim(),
-        assistant: eventElement.find(".fco-key-event-row__info-description-secondary--opaque").text().trim(),
-        team: eventElement.hasClass("fco-key-event-row--team-A") ? "home" : 
-              eventElement.hasClass("fco-key-event-row--team-B") ? "away" : "none"
-      };
-      events.push(event);
-    });
+$(".fco-events__list-element .fco-key-event-row").each((i, el) => {
+  const $el = $(el);
+  const time = $el.find(".fco-match-time").text().trim();
+  const iconHref = $el.find("svg.use").attr("xlink:href") || $el.find("use").attr("xlink:href");
+  const icon = iconHref ? iconHref.split("#")[1] : "unknown";
+  const mainDesc = $el.find(".fco-key-event-row__info-description-main").text().trim();
+  const secondaryDesc = $el.find(".fco-key-event-row__info-description-secondary--opaque").text().trim();
+  const score = $el.find(".fco-key-event-row__score").text().trim() || "";
+  // تحديد الفريق بناءً على الكلاس
+  const team = $el.hasClass("fco-key-event-row--team-A") ? "home" :
+               $el.hasClass("fco-key-event-row--team-B") ? "away" : "none";
+
+  events.push({
+    time,
+    icon,
+    text: mainDesc,
+    assistant: secondaryDesc,
+    score,
+    team
+  });
+});
+
 
     // 3. إحصائيات المباراة - التعديل الأساسي هنا
     const stats = {};
-    $(".fco-match-stats-row").each((i, el) => {
-      const statName = $(el).find(".fco-match-stats-row__label").text().trim();
-      if (statName) {
-        // نص القيم لجهة الفريق المضيف والضيف من العنصر المناسب
-        const homeValue = $(el).find(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label").text().trim() ||
-                          $(el).find(".fco-match-stats-row__stat:first-child").text().trim() || "0";
+$(".fco-match-stats-row").each((i, el) => {
+  const $el = $(el);
+  const statName = $el.find(".fco-match-stats-row__label").text().trim();
+  if (statName) {
+    stats[statName] = {
+      home: $el.find(".fco-match-stats-row__stat:nth-child(1) .fco-match-stats-row__stat-label").text().trim() || "0",
+      away: $el.find(".fco-match-stats-row__stat:nth-child(3) .fco-match-stats-row__stat-label").text().trim() || "0"
+    };
+  }
+});
 
-        const awayValue = $(el).find(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label").text().trim() ||
-                          $(el).find(".fco-match-stats-row__stat:last-child").text().trim() || "0";
-
-        stats[statName] = {
-          home: homeValue,
-          away: awayValue
-        };
-      }
-    });
 
     // 4. ترتيب الفريقين في الدوري
     const standings = [];
@@ -131,49 +135,40 @@ async function fetchMatchDetails() {
 
     // 5. التشكيلات الأساسية والبدلاء - معدلة لتعمل مع الهيكل الجديد
     const lineups = {
-      home: {
-        starting: [],
-        substitutes: []
-      },
-      away: {
-        starting: [],
-        substitutes: []
-      }
-    };
-    
-    // جلب تشكيل الفريق المضيف
-    $(".fco-lineup-team[data-side='home'] .fco-lineup-player:not(.fco-lineup-player--substitute)").each((i, el) => {
-      lineups.home.starting.push({
-        player: $(el).find(".fco-lineup-player__name").text().trim(),
-        number: $(el).find(".fco-lineup-player__number").text().trim(),
-        position: $(el).find(".fco-lineup-player__position").text().trim(),
-        isCaptain: $(el).hasClass("fco-lineup-player--captain")
-      });
-    });
-    
-    $(".fco-lineup-team[data-side='home'] .fco-lineup-player.fco-lineup-player--substitute").each((i, el) => {
-      lineups.home.substitutes.push({
-        player: $(el).find(".fco-lineup-player__name").text().trim(),
-        number: $(el).find(".fco-lineup-player__number").text().trim()
-      });
-    });
-    
-    // جلب تشكيل الفريق الضيف
-    $(".fco-lineup-team[data-side='away'] .fco-lineup-player:not(.fco-lineup-player--substitute)").each((i, el) => {
-      lineups.away.starting.push({
-        player: $(el).find(".fco-lineup-player__name").text().trim(),
-        number: $(el).find(".fco-lineup-player__number").text().trim(),
-        position: $(el).find(".fco-lineup-player__position").text().trim(),
-        isCaptain: $(el).hasClass("fco-lineup-player--captain")
-      });
-    });
-    
-    $(".fco-lineup-team[data-side='away'] .fco-lineup-player.fco-lineup-player--substitute").each((i, el) => {
-      lineups.away.substitutes.push({
-        player: $(el).find(".fco-lineup-player__name").text().trim(),
-        number: $(el).find(".fco-lineup-player__number").text().trim()
-      });
-    });
+  home: { starting: [], substitutes: [] },
+  away: { starting: [], substitutes: [] }
+};
+
+$(".fco-lineup-team[data-side='home'] .fco-lineup-player").each((i, el) => {
+  const $el = $(el);
+  const isSub = $el.hasClass("fco-lineup-player--substitute");
+  const player = $el.find(".fco-lineup-player__name").text().trim();
+  const number = $el.find(".fco-lineup-player__number").text().trim();
+  const position = $el.find(".fco-lineup-player__position").text().trim();
+  const isCaptain = $el.hasClass("fco-lineup-player--captain");
+
+  if (isSub) {
+    lineups.home.substitutes.push({ player, number });
+  } else {
+    lineups.home.starting.push({ player, number, position, isCaptain });
+  }
+});
+
+$(".fco-lineup-team[data-side='away'] .fco-lineup-player").each((i, el) => {
+  const $el = $(el);
+  const isSub = $el.hasClass("fco-lineup-player--substitute");
+  const player = $el.find(".fco-lineup-player__name").text().trim();
+  const number = $el.find(".fco-lineup-player__number").text().trim();
+  const position = $el.find(".fco-lineup-player__position").text().trim();
+  const isCaptain = $el.hasClass("fco-lineup-player--captain");
+
+  if (isSub) {
+    lineups.away.substitutes.push({ player, number });
+  } else {
+    lineups.away.starting.push({ player, number, position, isCaptain });
+  }
+});
+
 
     // 6. توقعات الجمهور
     const predictions = {
