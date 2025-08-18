@@ -14177,14 +14177,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جروف",
-              "IMG": "/assets/images/player-logo/?id=77599",
-              "ID": 49462994,
+              "Name": "هاريسون",
+              "IMG": "/assets/images/player-logo/?id=43901",
+              "ID": 3095813,
               "Extra": [
                 {
-                  "Name": "أمبادو",
-                  "IMG": "/assets/images/player-logo/?id=51181",
-                  "ID": 3135966
+                  "Name": "جيمس",
+                  "IMG": "/assets/images/player-logo/?id=40092",
+                  "ID": 1839582
                 }
               ]
             },
@@ -14198,14 +14198,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "هاريسون",
-              "IMG": "/assets/images/player-logo/?id=43901",
-              "ID": 3095813,
+              "Name": "جروف",
+              "IMG": "/assets/images/player-logo/?id=77599",
+              "ID": 49462994,
               "Extra": [
                 {
-                  "Name": "جيمس",
-                  "IMG": "/assets/images/player-logo/?id=40092",
-                  "ID": 1839582
+                  "Name": "أمبادو",
+                  "IMG": "/assets/images/player-logo/?id=51181",
+                  "ID": 3135966
                 }
               ]
             },
@@ -14602,6 +14602,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "برانثويت",
+                "Player-Logo": "/assets/images/player-logo/?id=78501",
+                "Player-ID": 49684197,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مدافع أيسر",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
@@ -14618,16 +14628,6 @@
                 "Player-Name": "باترسون",
                 "Player-Logo": "/assets/images/player-logo/?id=79491",
                 "Player-ID": 50208645,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "برانثويت",
-                "Player-Logo": "/assets/images/player-logo/?id=78501",
-                "Player-ID": 49684197,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -17360,8 +17360,8 @@
       },
       "Time-Start": "2025-08-19T00:00",
       "Time-End": "2025-08-19T02:00",
-      "Time-Now": 45,
-      "Match-Status": "شوط",
+      "Time-Now": 46,
+      "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Sarmiento-Junin-%D8%B6%D8%AF-%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D8%AA%D9%88%D9%83%D9%88%D9%85%D8%A7%D9%86&id=4326175&date=2025-08-18",
       "matchDetails": {
         "Match-Card": {
@@ -17383,7 +17383,7 @@
           "Date": "2025-08-18",
           "Time": "22:00",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": 5,
           "Group": null
         },
@@ -17469,6 +17469,48 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "Godoy",
+              "IMG": "/assets/images/player-logo/?id=160786",
+              "ID": 72765683,
+              "Extra": [
+                {
+                  "Name": "Díaz",
+                  "IMG": "/assets/images/player-logo/?id=110235",
+                  "ID": 65397234
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 5
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Garcia",
+              "IMG": "/assets/images/player-logo/?id=101409",
+              "ID": 61033143,
+              "Extra": [
+                {
+                  "Name": "Giménez",
+                  "IMG": "/assets/images/player-logo/?id=118679",
+                  "ID": 66719059
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 6
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "أوزكي",
               "IMG": "/assets/images/player-logo/?id=8375",
               "ID": 322648,
@@ -17481,7 +17523,7 @@
               ]
             },
             "Place": "right",
-            "Order": 5
+            "Order": 7
           },
           {
             "Event-Time": "45+1'",
@@ -17502,7 +17544,7 @@
               ]
             },
             "Place": "right",
-            "Order": 6
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -17517,6 +17559,26 @@
                 "Player-Name": "Acosta",
                 "Player-Logo": "/assets/images/player-logo/?id=8449",
                 "Player-ID": 350296,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Garcia",
+                "Player-Logo": "/assets/images/player-logo/?id=101409",
+                "Player-ID": 61033143,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Godoy",
+                "Player-Logo": "/assets/images/player-logo/?id=160786",
+                "Player-ID": 72765683,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -17547,26 +17609,6 @@
                 "Player-Name": "Frías",
                 "Player-Logo": "/assets/images/player-logo/?id=111082",
                 "Player-ID": 65439634,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Garcia",
-                "Player-Logo": "/assets/images/player-logo/?id=101409",
-                "Player-ID": 61033143,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Godoy",
-                "Player-Logo": "/assets/images/player-logo/?id=160786",
-                "Player-ID": 72765683,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -17713,7 +17755,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "Giménez",
                 "Player-Logo": "/assets/images/player-logo/?id=118679",
                 "Player-ID": 66719059,
@@ -17723,7 +17765,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6.8,
                 "Player-Name": "Villalba",
                 "Player-Logo": "/assets/images/player-logo/?id=80684",
                 "Player-ID": 50481278,
@@ -17733,7 +17775,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.8,
                 "Player-Name": "Contrera",
                 "Player-Logo": "/assets/images/player-logo/?id=134340",
                 "Player-ID": 70717471,
@@ -18009,7 +18051,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Godoy",
                 "Player-Logo": "/assets/images/player-logo/?id=156186",
                 "Player-ID": 71409226,
@@ -18019,7 +18061,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "Ortíz",
                 "Player-Logo": "/assets/images/player-logo/?id=115942",
                 "Player-ID": 66462835,
@@ -18074,11 +18116,11 @@
       "Team-Left": {
         "Name": "كروزيرو",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1213",
-        "Goal": 0
+        "Goal": 1
       },
       "Time-Start": "2025-08-19T01:00",
       "Time-End": "2025-08-19T03:00",
-      "Time-Now": 4,
+      "Time-Now": 5,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84-%D8%B6%D8%AF-%D9%83%D8%B1%D9%88%D8%B2%D9%8A%D8%B1%D9%88&id=4380432&date=2025-08-18",
       "matchDetails": {
@@ -18096,7 +18138,7 @@
             "Name": "كروزيرو",
             "Color": "#0033CC",
             "Logo": "/assets/images/team-logo/?id=1213",
-            "Goal": 0
+            "Goal": 1
           },
           "Date": "2025-08-18",
           "Time": "23:00",
@@ -18683,7 +18725,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T23:06:24.197Z",
+    "lastUpdated": "2025-08-18T23:07:24.264Z",
     "count": 27
   }
 }
