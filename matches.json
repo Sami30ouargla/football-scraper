@@ -8796,7 +8796,7 @@
             "Order": 5
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -8817,7 +8817,7 @@
             "Order": 6
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -8838,7 +8838,7 @@
             "Order": 7
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -8880,7 +8880,7 @@
             "Order": 9
           },
           {
-            "Event-Time": "60'",
+            "Event-Time": "61'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -9015,7 +9015,7 @@
             "Order": 16
           },
           {
-            "Event-Time": "83'",
+            "Event-Time": "84'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -9600,7 +9600,7 @@
               "ID": 77397175,
               "Extra": [
                 {
-                  "Name": "بيازيد",
+                  "Name": "",
                   "IMG": "/assets/images/unknown-user.png",
                   "ID": 77386674
                 }
@@ -12741,7 +12741,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "أوبوز",
                 "Player-Logo": "/assets/images/player-logo/?id=80698",
                 "Player-ID": 51234047,
@@ -14836,28 +14836,7 @@
             "Order": 2
           },
           {
-            "Event-Time": "67'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "الغزواني",
-              "IMG": "/assets/images/player-logo/?id=73113",
-              "ID": 44411649,
-              "Extra": [
-                {
-                  "Name": "رودريجيز",
-                  "IMG": "/assets/images/player-logo/?id=117731",
-                  "ID": 66632879
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 3
-          },
-          {
-            "Event-Time": "67'",
+            "Event-Time": "65'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -14871,6 +14850,27 @@
                   "Name": "أغوادو",
                   "IMG": "/assets/images/player-logo/?id=116602",
                   "ID": 66501019
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 3
+          },
+          {
+            "Event-Time": "65'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الغزواني",
+              "IMG": "/assets/images/player-logo/?id=73113",
+              "ID": 44411649,
+              "Extra": [
+                {
+                  "Name": "رودريجيز",
+                  "IMG": "/assets/images/player-logo/?id=117731",
+                  "ID": 66632879
                 }
               ]
             },
@@ -15088,7 +15088,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
-                "Ranking": 6.4,
+                "Ranking": 6.3,
                 "Player-Name": "رافا مير",
                 "Player-Logo": "/assets/images/player-logo/?id=39781",
                 "Player-ID": 941403,
@@ -15176,22 +15176,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "سانتياجو",
-                "Player-Logo": "/assets/images/player-logo/?id=147840",
-                "Player-ID": 70900103,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "المهاجم المتأخر",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "بويار",
                 "Player-Logo": "/assets/images/player-logo/?id=148185",
                 "Player-ID": 70844816,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "سانتياجو",
+                "Player-Logo": "/assets/images/player-logo/?id=147840",
+                "Player-ID": 70900103,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -15452,22 +15452,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "وسط دفاعي",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "روكا",
-                "Player-Logo": "/assets/images/player-logo/?id=44842",
-                "Player-ID": 3143139,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيسر",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
                 "Player-Name": "الزلزولي",
                 "Player-Logo": "/assets/images/player-logo/?id=102544",
                 "Player-ID": 62694855,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "روكا",
+                "Player-Logo": "/assets/images/player-logo/?id=44842",
+                "Player-ID": 3143139,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -16699,7 +16699,7 @@
             "Order": 8
           },
           {
-            "Event-Time": "52'",
+            "Event-Time": "51'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -18641,7 +18641,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T22:56:27.881Z",
+    "lastUpdated": "2025-08-18T22:57:33.050Z",
     "count": 27
   }
 }
