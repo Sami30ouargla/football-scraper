@@ -14177,14 +14177,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "هاريسون",
-              "IMG": "/assets/images/player-logo/?id=43901",
-              "ID": 3095813,
+              "Name": "جروف",
+              "IMG": "/assets/images/player-logo/?id=77599",
+              "ID": 49462994,
               "Extra": [
                 {
-                  "Name": "جيمس",
-                  "IMG": "/assets/images/player-logo/?id=40092",
-                  "ID": 1839582
+                  "Name": "أمبادو",
+                  "IMG": "/assets/images/player-logo/?id=51181",
+                  "ID": 3135966
                 }
               ]
             },
@@ -14198,14 +14198,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جروف",
-              "IMG": "/assets/images/player-logo/?id=77599",
-              "ID": 49462994,
+              "Name": "هاريسون",
+              "IMG": "/assets/images/player-logo/?id=43901",
+              "ID": 3095813,
               "Extra": [
                 {
-                  "Name": "أمبادو",
-                  "IMG": "/assets/images/player-logo/?id=51181",
-                  "ID": 3135966
+                  "Name": "جيمس",
+                  "IMG": "/assets/images/player-logo/?id=40092",
+                  "ID": 1839582
                 }
               ]
             },
@@ -14602,16 +14602,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "برانثويت",
-                "Player-Logo": "/assets/images/player-logo/?id=78501",
-                "Player-ID": 49684197,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مدافع أيسر",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
@@ -14628,6 +14618,16 @@
                 "Player-Name": "باترسون",
                 "Player-Logo": "/assets/images/player-logo/?id=79491",
                 "Player-ID": 50208645,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "برانثويت",
+                "Player-Logo": "/assets/images/player-logo/?id=78501",
+                "Player-ID": 49684197,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -19044,7 +19044,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T23:58:27.356Z",
+    "lastUpdated": "2025-08-18T23:59:27.402Z",
     "count": 27
   }
 }
