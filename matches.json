@@ -12366,11 +12366,11 @@
       "Team-Left": {
         "Name": "بوروسيا دورتموند",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=341",
-        "Goal": 0
+        "Goal": 1
       },
       "Time-Start": "2025-08-18T20:45",
       "Time-End": "2025-08-18T22:45",
-      "Time-Now": 79,
+      "Time-Now": 80,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%88%D8%AA-%D9%81%D8%A7%D9%8A%D8%B3-%D8%A5%D9%8A%D8%B3%D9%86-%D8%B6%D8%AF-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF&id=4450694&date=2025-08-18",
       "matchDetails": {
@@ -12388,7 +12388,7 @@
             "Name": "بوروسيا دورتموند",
             "Color": "#FDDC06",
             "Logo": "/assets/images/team-logo/?id=341",
-            "Goal": 0
+            "Goal": 1
           },
           "Date": "2025-08-18",
           "Time": "18:45",
@@ -12504,6 +12504,21 @@
             },
             "Place": "right",
             "Order": 5
+          },
+          {
+            "Event-Time": "79'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "جيراسي",
+              "IMG": "/assets/images/player-logo/?id=38053",
+              "ID": 379069,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 6
           }
         ],
         "Match-Lineup": {
@@ -12522,7 +12537,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيسر",
+                "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": -1,
                 "Player-Name": "بوباري",
@@ -12624,7 +12639,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7,
                 "Player-Name": "T. Kraulich",
                 "Player-Logo": "/assets/images/player-logo/?id=81111",
                 "Player-ID": 51236384,
@@ -12644,7 +12659,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "J. Ríos Alonso",
                 "Player-Logo": "/assets/images/player-logo/?id=177474",
                 "Player-ID": 61405939,
@@ -12654,7 +12669,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.5,
                 "Player-Name": "Brumme",
                 "Player-Logo": "/assets/images/player-logo/?id=132930",
                 "Player-ID": 52681635,
@@ -12664,7 +12679,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "غجاسولا",
                 "Player-Logo": "/assets/images/player-logo/?id=59760",
                 "Player-ID": 366028,
@@ -12674,7 +12689,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6.7,
                 "Player-Name": "T. Moustier",
                 "Player-Logo": "/assets/images/player-logo/?id=177482",
                 "Player-ID": 75401497,
@@ -12694,7 +12709,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7.1,
                 "Player-Name": "Mizuta",
                 "Player-Logo": "/assets/images/player-logo/?id=100987",
                 "Player-ID": 61716625,
@@ -12740,7 +12755,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.7,
                 "Player-Name": "بيلينجهام",
                 "Player-Logo": "/assets/images/player-logo/?id=105891",
                 "Player-ID": 64350505,
@@ -12750,7 +12765,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.6,
                 "Player-Name": "براندت",
                 "Player-Logo": "/assets/images/player-logo/?id=1830",
                 "Player-ID": 447669,
@@ -12920,7 +12935,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7.2,
                 "Player-Name": "نميشا",
                 "Player-Logo": "/assets/images/player-logo/?id=81207",
                 "Player-ID": 51042327,
@@ -12950,7 +12965,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.1,
                 "Player-Name": "كوتو",
                 "Player-Logo": "/assets/images/player-logo/?id=72058",
                 "Player-ID": 40742145,
@@ -12999,7 +13014,7 @@
       },
       "Time-Start": "2025-08-18T20:45",
       "Time-End": "2025-08-18T22:45",
-      "Time-Now": 77,
+      "Time-Now": 78,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D8%AF%D9%8A%D9%86%D9%8A%D8%B2%D9%8A-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B1%D8%B1%D8%A7%D8%B1%D9%8A%D8%B3%D9%8A&id=4459612&date=2025-08-18",
       "matchDetails": {
@@ -14007,7 +14022,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.3,
                 "Player-Name": "جودموندسون",
                 "Player-Logo": "/assets/images/player-logo/?id=68706",
                 "Player-ID": 886874,
@@ -14221,22 +14236,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "برانثويت",
-                "Player-Logo": "/assets/images/player-logo/?id=78501",
-                "Player-ID": 49684197,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مدافع أيمن",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
                 "Player-Name": "باترسون",
                 "Player-Logo": "/assets/images/player-logo/?id=79491",
                 "Player-ID": 50208645,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "برانثويت",
+                "Player-Logo": "/assets/images/player-logo/?id=78501",
+                "Player-ID": 49684197,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14253,7 +14268,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "غارنير",
                 "Player-Logo": "/assets/images/player-logo/?id=67060",
                 "Player-ID": 12433748,
@@ -14372,7 +14387,7 @@
       },
       "Time-Start": "2025-08-18T21:00",
       "Time-End": "2025-08-18T23:00",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D9%84%D8%AA%D8%B4%D9%8A-%D8%B6%D8%AF-%D8%B1%D9%8A%D8%A7%D9%84-%D8%A8%D9%8A%D8%AA%D9%8A%D8%B3&id=4469115&date=2025-08-18",
       "matchDetails": {
@@ -14566,22 +14581,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "سانتياجو",
-                "Player-Logo": "/assets/images/player-logo/?id=147840",
-                "Player-ID": 70900103,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "المهاجم المتأخر",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "بويار",
                 "Player-Logo": "/assets/images/player-logo/?id=148185",
                 "Player-ID": 70844816,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "سانتياجو",
+                "Player-Logo": "/assets/images/player-logo/?id=147840",
+                "Player-ID": 70900103,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14628,7 +14643,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.7,
                 "Player-Name": "نونيز",
                 "Player-Logo": "/assets/images/player-logo/?id=117744",
                 "Player-ID": 66471677,
@@ -14678,7 +14693,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.5,
                 "Player-Name": "رودريجيز",
                 "Player-Logo": "/assets/images/player-logo/?id=117731",
                 "Player-ID": 66632879,
@@ -14782,7 +14797,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
+                "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "بيريز",
@@ -15232,22 +15247,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "إسمايلي",
-                "Player-Logo": "/assets/images/player-logo/?id=48044",
-                "Player-ID": 3093438,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيسر",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
                 "Player-Name": "نجي",
                 "Player-Logo": "/assets/images/player-logo/?id=151319",
                 "Player-ID": 71370735,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "إسمايلي",
+                "Player-Logo": "/assets/images/player-logo/?id=48044",
+                "Player-ID": 3093438,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -15274,7 +15289,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "ماسينا",
                 "Player-Logo": "/assets/images/player-logo/?id=26961",
                 "Player-ID": 594180,
@@ -15448,7 +15463,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المهاجم",
+                "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "ماسولين",
@@ -15682,7 +15697,7 @@
           "Date": "2025-08-18",
           "Time": "19:15",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": 2,
           "Group": null
         },
@@ -15901,7 +15916,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 6.3,
                 "Player-Name": "كونان",
                 "Player-Logo": "/assets/images/player-logo/?id=46685",
                 "Player-ID": 3207537,
@@ -15961,7 +15976,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "بينيتيز",
                 "Player-Logo": "/assets/images/player-logo/?id=85112",
                 "Player-ID": 51968507,
@@ -17420,7 +17435,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T20:23:10.301Z",
+    "lastUpdated": "2025-08-18T20:24:10.713Z",
     "count": 27
   }
 }
