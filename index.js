@@ -46,28 +46,10 @@ function buildDetailsUrl(match, date) {
 }
 
 function enrichMatch(m, date, details = null) {
-  // استخراج رابط البث المباشر من التفاصيل
-  let liveStreamUrl = null;
-  if (details && details["STING-WEB-Match-Details"]) {
-    const matchDetails = details["STING-WEB-Match-Details"];
-    if (matchDetails["STING-WEB-WatchTV"]) {
-      liveStreamUrl = matchDetails["STING-WEB-WatchTV"];
-    } else if (matchDetails["STING-WEB-Match-Info"]) {
-      const matchInfo = matchDetails["STING-WEB-Match-Info"];
-      const watchTvMatch = matchInfo.match(/<a class="STING-WEB-WatchTV[^>]+href="([^"]+)"/i);
-      if (watchTvMatch) {
-        liveStreamUrl = watchTvMatch[1];
-      }
-    }
-  }
-
   return {
     ...m,
     detailsUrl: buildDetailsUrl(m, date),
-    matchDetails: {
-      ...(details?.["STING-WEB-Match-Details"] || {}),
-      "STING-WEB-LiveStream": liveStreamUrl ? abs(liveStreamUrl) : null,
-    },
+    matchDetails: details,
     "Cup-Logo": abs(m?.["Cup-Logo"]),
     "Team-Right": {
       ...(m?.["Team-Right"] || {}),
