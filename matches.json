@@ -5011,27 +5011,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Rossmann",
-              "IMG": "/assets/images/player-logo/?id=114494",
-              "ID": 65540175,
-              "Extra": [
-                {
-                  "Name": "Heyer",
-                  "IMG": "/assets/images/player-logo/?id=68512",
-                  "ID": 31253661
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 5
-          },
-          {
-            "Event-Time": "45+1'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "لوندال",
               "IMG": "/assets/images/player-logo/?id=84019",
               "ID": 49556581,
@@ -5040,6 +5019,27 @@
                   "Name": "زيمارمان",
                   "IMG": "/assets/images/player-logo/?id=42042",
                   "ID": 3070138
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 5
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Rossmann",
+              "IMG": "/assets/images/player-logo/?id=114494",
+              "ID": 65540175,
+              "Extra": [
+                {
+                  "Name": "Heyer",
+                  "IMG": "/assets/images/player-logo/?id=68512",
+                  "ID": 31253661
                 }
               ]
             },
@@ -5092,13 +5092,7 @@
               "Name": "ابلكامب",
               "IMG": "/assets/images/player-logo/?id=73452",
               "ID": 46531566,
-              "Extra": [
-                {
-                  "Name": null,
-                  "IMG": "/assets/images/unknown-user.png",
-                  "ID": 77397078
-                }
-              ]
+              "Extra": []
             },
             "Place": "right",
             "Order": 9
@@ -5269,7 +5263,7 @@
             "Order": 18
           },
           {
-            "Event-Time": "89'",
+            "Event-Time": "88'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -5290,7 +5284,7 @@
             "Order": 19
           },
           {
-            "Event-Time": "90'",
+            "Event-Time": "88'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -5693,7 +5687,7 @@
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Egouli",
+                "Player-Name": "",
                 "Player-Logo": "/assets/images/player-logo/?id=200451",
                 "Player-ID": 77397077,
                 "FieldLine": 0,
@@ -17366,8 +17360,8 @@
       },
       "Time-Start": "2025-08-19T00:00",
       "Time-End": "2025-08-19T02:00",
-      "Time-Now": -1,
-      "Match-Status": "لم تبدأ",
+      "Time-Now": 1,
+      "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Sarmiento-Junin-%D8%B6%D8%AF-%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D8%AA%D9%88%D9%83%D9%88%D9%85%D8%A7%D9%86&id=4326175&date=2025-08-18",
       "matchDetails": {
         "Match-Card": {
@@ -18560,7 +18554,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T22:01:23.563Z",
+    "lastUpdated": "2025-08-18T22:02:24.642Z",
     "count": 27
   }
 }
