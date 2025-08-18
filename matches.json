@@ -1977,6 +1977,27 @@
             "Order": 3
           },
           {
+            "Event-Time": "70'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "صياحين",
+              "IMG": "/assets/images/player-logo/?id=201162",
+              "ID": 77087690,
+              "Extra": [
+                {
+                  "Name": "المناصرة",
+                  "IMG": "/assets/images/player-logo/?id=110397",
+                  "ID": 65438371
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 4
+          },
+          {
             "Event-Time": "75'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -1995,7 +2016,7 @@
               ]
             },
             "Place": "right",
-            "Order": 4
+            "Order": 5
           },
           {
             "Event-Time": "83'",
@@ -2010,7 +2031,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 5
+            "Order": 6
           },
           {
             "Event-Time": "87'",
@@ -2025,7 +2046,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 6
+            "Order": 7
           },
           {
             "Event-Time": "90'",
@@ -2040,7 +2061,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 7
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -2516,7 +2537,7 @@
       },
       "Time-Start": "2025-08-18T17:45",
       "Time-End": "2025-08-18T19:45",
-      "Time-Now": 54,
+      "Time-Now": 55,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%DA%AF%D9%84-%DA%AF%D9%87%D8%B1-%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86-%D8%B6%D8%AF-%D8%B4%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%D9%8A-%D8%A3%D8%B1%D8%A7%D9%83&id=4509330&date=2025-08-18",
       "matchDetails": {
@@ -6097,7 +6118,7 @@
       },
       "Time-Start": "2025-08-18T18:30",
       "Time-End": "2025-08-18T20:30",
-      "Time-Now": 30,
+      "Time-Now": 31,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A8%D9%8A%D8%B2%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%B3%D8%A7%D9%85%D8%A8%D8%AF%D9%88%D8%B1%D9%8A%D8%A7&id=4459614&date=2025-08-18",
       "matchDetails": {
@@ -6496,7 +6517,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
+                "Position": "مهاجم أيمن",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "Narro",
@@ -6697,7 +6718,7 @@
       },
       "Time-Start": "2025-08-18T18:30",
       "Time-End": "2025-08-18T20:30",
-      "Time-Now": 31,
+      "Time-Now": 32,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%82-%D8%B6%D8%AF-%D8%B5%D8%AD%D8%A7%D8%B1&id=4506424&date=2025-08-18",
       "matchDetails": {
@@ -6764,7 +6785,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 1,
+      "Time-Now": 2,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D8%B1%D9%86%D8%A7%D9%85%D9%88-%D8%B6%D8%AF-%D8%AF%D9%8A%D8%BA%D8%B1%D9%81%D9%88%D8%B1%D8%B3&id=4316962&date=2025-08-18",
       "matchDetails": {
@@ -7243,7 +7264,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 1,
+      "Time-Now": 2,
       "Match-Status": "الشوط الأول",
       "Group": "المجموعة ج",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1&id=4465623&date=2025-08-18",
@@ -7705,9 +7726,9 @@
                 "Position": "N/A",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "Pape",
+                "Player-Name": "Djibo",
                 "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77381418,
+                "Player-ID": 77365015,
                 "FieldLine": 33,
                 "FieldSide": 0
               },
@@ -7735,9 +7756,9 @@
                 "Position": "N/A",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "Djibo",
+                "Player-Name": "Pape",
                 "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77365015,
+                "Player-ID": 77381418,
                 "FieldLine": 33,
                 "FieldSide": 100
               },
@@ -7823,7 +7844,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 1,
+      "Time-Now": 2,
       "Match-Status": "الشوط الأول",
       "Group": "المجموعة ج",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%86%D9%88%D8%A8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7&id=4465625&date=2025-08-18",
@@ -11983,7 +12004,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T17:01:12.054Z",
+    "lastUpdated": "2025-08-18T17:02:12.395Z",
     "count": 27
   }
 }
