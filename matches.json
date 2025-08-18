@@ -1828,7 +1828,7 @@
       },
       "Time-Start": "2025-08-18T16:00",
       "Time-End": "2025-08-18T18:00",
-      "Time-Now": 72,
+      "Time-Now": 73,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B5%D8%AD%D9%85-%D8%B6%D8%AF-%D8%A8%D9%87%D9%84%D8%A7%D8%A1&id=4506423&date=2025-08-18",
       "matchDetails": {
@@ -1895,7 +1895,7 @@
       },
       "Time-Start": "2025-08-18T17:00",
       "Time-End": "2025-08-18T19:00",
-      "Time-Now": 31,
+      "Time-Now": 32,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A8%D9%82%D8%B9%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%B7&id=4506151&date=2025-08-18",
       "matchDetails": {
@@ -4398,13 +4398,495 @@
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "جنوب أفريقيا",
-            "Formation": "N/A",
-            "Team": []
+            "Formation": "4-4-2",
+            "Team": [
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Xulu",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 66839759,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Dlambewu",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372795,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "ليباسا",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 67877626,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Majadibodu",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372796,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Makarine",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372797,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Malaoa",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372798,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Mashini",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372799,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Masiya",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372800,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Masuku",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372792,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Mbanjwa",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372801,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Nkosi",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372802,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Thuntsane",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372803,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Tlolane",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372804,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المدرب",
+                "Status": "Management",
+                "Ranking": "N/A",
+                "Player-Name": "Ntseki",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372805,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Mashego",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372787,
+                "FieldLine": 33,
+                "FieldSide": 0
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Mphahlele",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372788,
+                "FieldLine": 33,
+                "FieldSide": 33
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Mngonyama",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77191810,
+                "FieldLine": 33,
+                "FieldSide": 66
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Johannes",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372790,
+                "FieldLine": 33,
+                "FieldSide": 100
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Dolly",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 76831192,
+                "FieldLine": 66,
+                "FieldSide": 0
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Ndlondlo",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372793,
+                "FieldLine": 66,
+                "FieldSide": 33
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Khoza",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372791,
+                "FieldLine": 66,
+                "FieldSide": 66
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Jooste",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372789,
+                "FieldLine": 66,
+                "FieldSide": 100
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Maema",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 66558793,
+                "FieldLine": 99,
+                "FieldSide": 25
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Kutumela",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372794,
+                "FieldLine": 99,
+                "FieldSide": 75
+              }
+            ]
           },
           "Away-Team": {
             "Team-Name": "أوغندا",
-            "Formation": "N/A",
-            "Team": []
+            "Formation": "4-2-3-1",
+            "Team": [
+              {
+                "Position": "حارس مرمى",
+                "Status": "Starting",
+                "Ranking": 7,
+                "Player-Name": "Mutakubwa",
+                "Player-Logo": "/assets/images/player-logo/?id=200110",
+                "Player-ID": 77060033,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Ahimbisibwe",
+                "Player-Logo": "/assets/images/player-logo/?id=205115",
+                "Player-ID": 77194129,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Anyama",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343971,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Bwambale",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343972,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Kiggundu",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343978,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Kusiima",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343980,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Kwikiriza",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343981,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Mwere",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77365431,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Ngonde",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343974,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Odong",
+                "Player-Logo": "/assets/images/player-logo/?id=205119",
+                "Player-ID": 77194130,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Odongo",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343975,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Sentamu",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343982,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Usama",
+                "Player-Logo": "/assets/images/player-logo/?id=205120",
+                "Player-ID": 77194131,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المدرب",
+                "Status": "Management",
+                "Ranking": "N/A",
+                "Player-Name": "Ochama",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343983,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": -1,
+                "Player-Name": "Achayi",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343977,
+                "FieldLine": 25,
+                "FieldSide": 0
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": -1,
+                "Player-Name": "موكوندان",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 67696878,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "R. Torach",
+                "Player-Logo": "/assets/images/player-logo/?id=200111",
+                "Player-ID": 71100006,
+                "FieldLine": 25,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "كيزيتو",
+                "Player-Logo": "/assets/images/player-logo/?id=104941",
+                "Player-ID": 62478124,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Starting",
+                "Ranking": 7.3,
+                "Player-Name": "واتامبالا",
+                "Player-Logo": "/assets/images/player-logo/?id=126348",
+                "Player-ID": 67694326,
+                "FieldLine": 50,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Starting",
+                "Ranking": 6.2,
+                "Player-Name": "E. Ssebagala",
+                "Player-Logo": "/assets/images/player-logo/?id=200112",
+                "Player-ID": 77060072,
+                "FieldLine": 50,
+                "FieldSide": 80
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": -1,
+                "Player-Name": "Mpande",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77343973,
+                "FieldLine": 75,
+                "FieldSide": 0
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "كاكاندي",
+                "Player-Logo": "/assets/images/player-logo/?id=160170",
+                "Player-ID": 72693524,
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم المتأخر",
+                "Status": "Starting",
+                "Ranking": 7.5,
+                "Player-Name": "أوكيلو",
+                "Player-Logo": "/assets/images/player-logo/?id=104944",
+                "Player-ID": 64276794,
+                "FieldLine": 75,
+                "FieldSide": 100
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 6.4,
+                "Player-Name": "Ssemugabi",
+                "Player-Logo": "/assets/images/player-logo/?id=181559",
+                "Player-ID": 75504617,
+                "FieldLine": 100,
+                "FieldSide": 50
+              }
+            ]
           }
         }
       }
@@ -8026,7 +8508,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T15:31:17.769Z",
+    "lastUpdated": "2025-08-18T15:32:20.270Z",
     "count": 27
   }
 }
