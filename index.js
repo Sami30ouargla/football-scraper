@@ -184,3 +184,16 @@ async function tick() {
   await tick();
   setInterval(tick, POLL_MS);
 })();
+
+// ✅ إضافة سيرفر Express علشان Render يفتح رابط عام
+const express = require("express");
+const app = express();
+
+app.get("/", (req, res) => {
+  res.send("⚽ Football Scraper is alive and running!");
+});
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`✅ Web server is running on port ${PORT}`);
+});
