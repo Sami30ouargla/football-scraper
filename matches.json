@@ -9460,7 +9460,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 95,
+      "Time-Now": 97,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D8%B1%D9%86%D8%A7%D9%85%D9%88-%D8%B6%D8%AF-%D8%AF%D9%8A%D8%BA%D8%B1%D9%81%D9%88%D8%B1%D8%B3&id=4316962&date=2025-08-18",
       "matchDetails": {
@@ -10276,7 +10276,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 98,
+      "Time-Now": 100,
       "Match-Status": "الشوط الثاني",
       "Group": "المجموعة ج",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%86%D9%88%D8%A8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7&id=4465625&date=2025-08-18",
@@ -10597,6 +10597,27 @@
             },
             "Place": "right",
             "Order": 15
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Tlolane",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77372804,
+              "Extra": [
+                {
+                  "Name": "Mashego",
+                  "IMG": "/assets/images/unknown-user.png",
+                  "ID": 77372787
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 16
           }
         ],
         "Match-Lineup": {
@@ -10641,6 +10662,16 @@
                 "Player-Name": "Masuku",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77372792,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Tlolane",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77372804,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -10725,16 +10756,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "N/A",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Tlolane",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77372804,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
@@ -10757,7 +10778,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 5.3,
+                "Ranking": 5.2,
                 "Player-Name": "Johannes",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77372790,
@@ -11112,7 +11133,7 @@
       },
       "Time-Start": "2025-08-18T19:45",
       "Time-End": "2025-08-18T21:45",
-      "Time-Now": 53,
+      "Time-Now": 55,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B6%D8%AF-%D8%B3%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%B1%D8%AD%D8%A7%D9%86&id=4506150&date=2025-08-18",
       "matchDetails": {
@@ -11551,7 +11572,7 @@
       },
       "Time-Start": "2025-08-18T20:30",
       "Time-End": "2025-08-18T22:30",
-      "Time-Now": 23,
+      "Time-Now": 25,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%82%D8%A7%D8%B3%D9%85-%D8%A8%D8%A7%D8%B4%D8%A7-%D8%B6%D8%AF-%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%B3%D8%A8%D9%88%D8%B1&id=4475715&date=2025-08-18",
       "matchDetails": {
@@ -11775,7 +11796,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "هاجرادينوفيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=27811",
                 "Player-ID": 353241,
@@ -11785,7 +11806,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.2,
                 "Player-Name": "فال",
                 "Player-Logo": "/assets/images/player-logo/?id=44090",
                 "Player-ID": 3108668,
@@ -11981,7 +12002,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "باتاغوف",
                 "Player-Logo": "/assets/images/player-logo/?id=117134",
                 "Player-ID": 66129379,
@@ -12090,7 +12111,7 @@
       },
       "Time-Start": "2025-08-18T20:45",
       "Time-End": "2025-08-18T22:45",
-      "Time-Now": 8,
+      "Time-Now": 10,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%88%D8%AA-%D9%81%D8%A7%D9%8A%D8%B3-%D8%A5%D9%8A%D8%B3%D9%86-%D8%B6%D8%AF-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF&id=4450694&date=2025-08-18",
       "matchDetails": {
@@ -12619,7 +12640,7 @@
       },
       "Time-Start": "2025-08-18T20:45",
       "Time-End": "2025-08-18T22:45",
-      "Time-Now": 8,
+      "Time-Now": 10,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D8%AF%D9%8A%D9%86%D9%8A%D8%B2%D9%8A-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B1%D8%B1%D8%A7%D8%B1%D9%8A%D8%B3%D9%8A&id=4459612&date=2025-08-18",
       "matchDetails": {
@@ -16588,7 +16609,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T18:56:23.281Z",
+    "lastUpdated": "2025-08-18T18:57:10.394Z",
     "count": 27
   }
 }
