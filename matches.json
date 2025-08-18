@@ -6243,7 +6243,325 @@
       "Time-Now": 90,
       "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%DB%8C%D8%B1%D8%B3%D8%A8%D9%88%D9%84%DB%8C%D8%B3-%D8%B6%D8%AF-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D9%81%D8%AC%D8%B1-%D8%B3%D8%A8%D8%A7%D8%B3%D9%8A&id=4510476&date=2025-08-18",
-      "matchDetails": null
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4510476,
+          "Cup-Name": "الدرجة الأولى",
+          "Cup-Logo": "/assets/images/cup-logo/?id=561",
+          "Team-Right": {
+            "Name": "بیرسبولیس",
+            "Color": "#CC0000",
+            "Logo": "/assets/images/team-logo/?id=9355",
+            "Goal": 1
+          },
+          "Team-Left": {
+            "Name": "مقاومت فجر سباسي",
+            "Color": "#c7d0d8",
+            "Logo": "/assets/images/team-logo/?id=10196",
+            "Goal": 1
+          },
+          "Date": "2025-08-18",
+          "Time": "16:00",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": 1,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "Seyed Vahid Kazemi",
+          "Match-Video": "N/A",
+          "Club-Name": "Shahr-e Qods Stadium",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 25000,
+          "Tv": "N/A"
+        },
+        "Match-Events": [
+          {
+            "Event-Time": "15'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "Shahabi",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77397464,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 1
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "عليبور",
+              "IMG": "/assets/images/player-logo/?id=55386",
+              "ID": 449527,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          }
+        ],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "بیرسبولیس",
+            "Formation": "",
+            "Team": [
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "زاده",
+                "Player-Logo": "/assets/images/player-logo/?id=55379",
+                "Player-ID": 470798,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "عليبور",
+                "Player-Logo": "/assets/images/player-logo/?id=55386",
+                "Player-ID": 449527,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط الجناح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "عالیشاه‎",
+                "Player-Logo": "/assets/images/player-logo/?id=65300",
+                "Player-ID": 409559,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Bakić",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397410,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "باراج",
+                "Player-Logo": "/assets/images/player-logo/?id=181802",
+                "Player-ID": 75520398,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "كنعاني",
+                "Player-Logo": "/assets/images/player-logo/?id=62239",
+                "Player-ID": 2035527,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Kazemian",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77342845,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "رفیعی‎",
+                "Player-Logo": "/assets/images/player-logo/?id=12817",
+                "Player-ID": 589553,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "رفيعي",
+                "Player-Logo": "/assets/images/player-logo/?id=140455",
+                "Player-ID": 70950053,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "سهرايي",
+                "Player-Logo": "/assets/images/player-logo/?id=181800",
+                "Player-ID": 75520395,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "شكاري",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 67891359,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المدرب",
+                "Status": "Management",
+                "Ranking": "N/A",
+                "Player-Name": "Hashemian",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77342846,
+                "FieldLine": 0,
+                "FieldSide": 50
+              }
+            ]
+          },
+          "Away-Team": {
+            "Team-Name": "مقاومت فجر سباسي",
+            "Formation": "",
+            "Team": [
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Bozorg",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 76846700,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Gholamzadeh",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397457,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Haghdoust",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397458,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Jafarikia",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397459,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Moradi",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397460,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Motlaghzadeh",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397461,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Mousavi",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397462,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "ريجي",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 70902005,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Abbasi",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397463,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Shahabi",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397464,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Zare",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397465,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المدرب",
+                "Status": "Management",
+                "Ranking": "N/A",
+                "Player-Name": "Ghorbani",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77397466,
+                "FieldLine": 0,
+                "FieldSide": 50
+              }
+            ]
+          }
+        }
+      }
     },
     {
       "Cup-id": 20,
@@ -17042,7 +17360,7 @@
       },
       "Time-Start": "2025-08-19T00:00",
       "Time-End": "2025-08-19T02:00",
-      "Time-Now": 44,
+      "Time-Now": 45,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Sarmiento-Junin-%D8%B6%D8%AF-%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D8%AA%D9%88%D9%83%D9%88%D9%85%D8%A7%D9%86&id=4326175&date=2025-08-18",
       "matchDetails": {
@@ -17054,7 +17372,7 @@
             "Name": "Sarmiento Junin",
             "Color": "#096D37",
             "Logo": "/assets/images/team-logo/?id=7117",
-            "Goal": 1
+            "Goal": 2
           },
           "Team-Left": {
             "Name": "اتلتيكو توكومان",
@@ -17328,7 +17646,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "جونزاليز",
                 "Player-Logo": "/assets/images/player-logo/?id=83073",
                 "Player-ID": 52708691,
@@ -17634,7 +17952,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "Godoy",
                 "Player-Logo": "/assets/images/player-logo/?id=156186",
                 "Player-ID": 71409226,
@@ -18308,7 +18626,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T22:45:32.079Z",
+    "lastUpdated": "2025-08-18T22:46:24.171Z",
     "count": 27
   }
 }
