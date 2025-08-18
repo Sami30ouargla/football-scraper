@@ -1097,27 +1097,6 @@
             "Order": 11
           },
           {
-            "Event-Time": "65'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "بارتلو",
-              "IMG": "/assets/images/player-logo/?id=96710",
-              "ID": 58437646,
-              "Extra": [
-                {
-                  "Name": "كارلوس",
-                  "IMG": "/assets/images/player-logo/?id=15784",
-                  "ID": 79162
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 12
-          },
-          {
             "Event-Time": "64'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -1132,6 +1111,27 @@
                   "Name": "كووالتشيك",
                   "IMG": "/assets/images/player-logo/?id=76585",
                   "ID": 42407805
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "64'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بارتلو",
+              "IMG": "/assets/images/player-logo/?id=96710",
+              "ID": 58437646,
+              "Extra": [
+                {
+                  "Name": "كارلوس",
+                  "IMG": "/assets/images/player-logo/?id=15784",
+                  "ID": 79162
                 }
               ]
             },
@@ -1828,8 +1828,8 @@
       },
       "Time-Start": "2025-08-18T16:00",
       "Time-End": "2025-08-18T18:00",
-      "Time-Now": -1,
-      "Match-Status": "لم تبدأ",
+      "Time-Now": 45,
+      "Match-Status": "شوط",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B5%D8%AD%D9%85-%D8%B6%D8%AF-%D8%A8%D9%87%D9%84%D8%A7%D8%A1&id=4506423&date=2025-08-18",
       "matchDetails": {
         "Match-Card": {
@@ -1840,18 +1840,18 @@
             "Name": "صحم",
             "Color": "#0066FF",
             "Logo": "/assets/images/team-logo/?id=12183",
-            "Goal": "-"
+            "Goal": 0
           },
           "Team-Left": {
             "Name": "بهلاء",
             "Color": "#c7d0d8",
             "Logo": "/assets/images/team-logo/?id=16999",
-            "Goal": "-"
+            "Goal": 0
           },
           "Date": "2025-08-18",
           "Time": "14:00",
           "Time-Zone": -120,
-          "Status": "لم تبدأ",
+          "Status": "شوط",
           "Round": 1,
           "Group": null
         },
@@ -3324,26 +3324,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "أوناتشو",
-                "Player-Logo": "/assets/images/player-logo/?id=38965",
-                "Player-ID": 525431,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "زوبكوف",
-                "Player-Logo": "/assets/images/player-logo/?id=45116",
-                "Player-ID": 886839,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيسر",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -3385,7 +3365,7 @@
               },
               {
                 "Position": "قلب الدفاع",
-                "Status": "Missing",
+                "Status": "Doubtful",
                 "Ranking": "N/A",
                 "Player-Name": "بنيّة",
                 "Player-Logo": "/assets/images/player-logo/?id=104563",
@@ -4371,22 +4351,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "سانتياجو",
-                "Player-Logo": "/assets/images/player-logo/?id=147840",
-                "Player-ID": 70900103,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "المهاجم المتأخر",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "بويار",
                 "Player-Logo": "/assets/images/player-logo/?id=148185",
                 "Player-ID": 70844816,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "سانتياجو",
+                "Player-Logo": "/assets/images/player-logo/?id=147840",
+                "Player-ID": 70900103,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4607,7 +4587,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
+                "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "بيريز",
@@ -4860,22 +4840,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Doubtful",
-                "Ranking": "N/A",
-                "Player-Name": "نجي",
-                "Player-Logo": "/assets/images/player-logo/?id=151319",
-                "Player-ID": 71370735,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "إسمايلي",
                 "Player-Logo": "/assets/images/player-logo/?id=48044",
                 "Player-ID": 3093438,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Doubtful",
+                "Ranking": "N/A",
+                "Player-Name": "نجي",
+                "Player-Logo": "/assets/images/player-logo/?id=151319",
+                "Player-ID": 71370735,
                 "FieldLine": 0,
                 "FieldSide": 50
               }
@@ -6529,7 +6509,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T12:05:32.540Z",
+    "lastUpdated": "2025-08-18T14:54:05.106Z",
     "count": 27
   }
 }
