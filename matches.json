@@ -6759,7 +6759,7 @@
       },
       "Time-Start": "2025-08-18T18:00",
       "Time-End": "2025-08-18T20:00",
-      "Time-Now": 120,
+      "Time-Now": 121,
       "Match-Status": "تمديد الشوط2",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%88%D9%86%D8%B3%D8%AA%D8%B1-%D8%B6%D8%AF-%D9%87%D8%B1%D8%AA%D8%A7-%D8%A8%D8%B1%D9%84%D9%8A%D9%86&id=4450690&date=2025-08-18",
       "matchDetails": {
@@ -7094,6 +7094,21 @@
             },
             "Place": "left",
             "Order": 16
+          },
+          {
+            "Event-Time": "119'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ميير",
+              "IMG": "/assets/images/player-logo/?id=74435",
+              "ID": 44364884,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 17
           }
         ],
         "Match-Lineup": {
@@ -7264,7 +7279,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.4,
                 "Player-Name": "بريسينجر",
                 "Player-Logo": "/assets/images/player-logo/?id=59655",
                 "Player-ID": 551640,
@@ -7294,7 +7309,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 7.3,
                 "Player-Name": "ميير",
                 "Player-Logo": "/assets/images/player-logo/?id=74435",
                 "Player-ID": 44364884,
@@ -7440,7 +7455,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.4,
                 "Player-Name": "لايستنر",
                 "Player-Logo": "/assets/images/player-logo/?id=43130",
                 "Player-ID": 348728,
@@ -7540,12 +7555,14 @@
       "Team-Right": {
         "Name": "سبيزيا",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=263",
-        "Goal": 1
+        "Goal": 1,
+        "Penalty": 1
       },
       "Team-Left": {
         "Name": "سامبدوريا",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=230",
-        "Goal": 0
+        "Goal": 1,
+        "Penalty": 1
       },
       "Time-Start": "2025-08-18T18:30",
       "Time-End": "2025-08-18T20:30",
@@ -7567,7 +7584,7 @@
             "Name": "سامبدوريا",
             "Color": "#223199",
             "Logo": "/assets/images/team-logo/?id=230",
-            "Goal": 0
+            "Goal": 1
           },
           "Date": "2025-08-18",
           "Time": "16:30",
@@ -7905,6 +7922,21 @@
             },
             "Place": "left",
             "Order": 17
+          },
+          {
+            "Event-Time": 2,
+            "Event-Name": "هدف ركلة ترجيح",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=3",
+            "Event-SubType-Id": 3,
+            "Event-SubType-Name": "ركلة جزاء",
+            "Event-Player": {
+              "Name": "شوني",
+              "IMG": "/assets/images/player-logo/?id=104749",
+              "ID": 63791515,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 18
           }
         ],
         "Match-Lineup": {
@@ -8440,7 +8472,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 73,
+      "Time-Now": 74,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D8%B1%D9%86%D8%A7%D9%85%D9%88-%D8%B6%D8%AF-%D8%AF%D9%8A%D8%BA%D8%B1%D9%81%D9%88%D8%B1%D8%B3&id=4316962&date=2025-08-18",
       "matchDetails": {
@@ -8558,7 +8590,7 @@
             "Order": 5
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -8579,7 +8611,7 @@
             "Order": 6
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -8642,7 +8674,7 @@
             "Order": 9
           },
           {
-            "Event-Time": "61'",
+            "Event-Time": "60'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -8676,6 +8708,21 @@
             },
             "Place": "right",
             "Order": 11
+          },
+          {
+            "Event-Time": "71'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "سوندغرين",
+              "IMG": "/assets/images/player-logo/?id=78000",
+              "ID": 372954,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 12
           }
         ],
         "Match-Lineup": {
@@ -8686,7 +8733,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6,
                 "Player-Name": "H. Keto",
                 "Player-Logo": "/assets/images/player-logo/?id=102284",
                 "Player-ID": 55422971,
@@ -8796,7 +8843,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "A. Bjornstrom",
                 "Player-Logo": "/assets/images/player-logo/?id=77712",
                 "Player-ID": 15551473,
@@ -8806,7 +8853,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 7.5,
                 "Player-Name": "Grozdanic",
                 "Player-Logo": "/assets/images/player-logo/?id=130008",
                 "Player-ID": 67904714,
@@ -8816,7 +8863,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 8.6,
+                "Ranking": 8.4,
                 "Player-Name": "محمد",
                 "Player-Logo": "/assets/images/player-logo/?id=182939",
                 "Player-ID": 76142577,
@@ -8826,7 +8873,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7,
                 "Player-Name": "Rapp",
                 "Player-Logo": "/assets/images/player-logo/?id=157065",
                 "Player-ID": 67887451,
@@ -8846,7 +8893,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.2,
                 "Player-Name": "A. Zeljkovic",
                 "Player-Logo": "/assets/images/player-logo/?id=114428",
                 "Player-ID": 66221531,
@@ -8856,7 +8903,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.4,
                 "Player-Name": "ليماتا",
                 "Player-Logo": "/assets/images/player-logo/?id=130260",
                 "Player-ID": 67911722,
@@ -8866,7 +8913,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.5,
                 "Player-Name": "C. Johansson",
                 "Player-Logo": "/assets/images/player-logo/?id=132656",
                 "Player-ID": 67181603,
@@ -8876,7 +8923,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "شمعون",
                 "Player-Logo": "/assets/images/player-logo/?id=91532",
                 "Player-ID": 57987944,
@@ -8922,7 +8969,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Olsson",
                 "Player-Logo": "/assets/images/player-logo/?id=91230",
                 "Player-ID": 57988119,
@@ -9032,7 +9079,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 7.5,
                 "Player-Name": "سوندغرين",
                 "Player-Logo": "/assets/images/player-logo/?id=78000",
                 "Player-ID": 372954,
@@ -9121,7 +9168,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 74,
+      "Time-Now": 75,
       "Match-Status": "الشوط الثاني",
       "Group": "المجموعة ج",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D9%8A%D8%AC%D8%B1&id=4465623&date=2025-08-18",
@@ -9227,7 +9274,7 @@
               "ID": 77397175,
               "Extra": [
                 {
-                  "Name": "",
+                  "Name": "بيازيد",
                   "IMG": "/assets/images/unknown-user.png",
                   "ID": 77386674
                 }
@@ -9573,7 +9620,7 @@
               {
                 "Position": "N/A",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.6,
                 "Player-Name": "Ahamat",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77365024,
@@ -9822,7 +9869,7 @@
       },
       "Time-Start": "2025-08-18T19:00",
       "Time-End": "2025-08-18T21:00",
-      "Time-Now": 76,
+      "Time-Now": 77,
       "Match-Status": "الشوط الثاني",
       "Group": "المجموعة ج",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%86%D9%88%D8%A8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A3%D9%88%D8%BA%D9%86%D8%AF%D8%A7&id=4465625&date=2025-08-18",
@@ -10443,7 +10490,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.6,
+                "Ranking": 7.5,
                 "Player-Name": "Ssemugabi",
                 "Player-Logo": "/assets/images/player-logo/?id=181559",
                 "Player-ID": 75504617,
@@ -10911,7 +10958,7 @@
       },
       "Time-Start": "2025-08-18T20:30",
       "Time-End": "2025-08-18T22:30",
-      "Time-Now": 1,
+      "Time-Now": 2,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%82%D8%A7%D8%B3%D9%85-%D8%A8%D8%A7%D8%B4%D8%A7-%D8%B6%D8%AF-%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%B3%D8%A8%D9%88%D8%B1&id=4475715&date=2025-08-18",
       "matchDetails": {
@@ -11512,7 +11559,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيسر",
+                "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "بوباري",
@@ -15377,7 +15424,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T18:33:23.732Z",
+    "lastUpdated": "2025-08-18T18:34:10.640Z",
     "count": 27
   }
 }
