@@ -17360,7 +17360,7 @@
       },
       "Time-Start": "2025-08-19T00:00",
       "Time-End": "2025-08-19T02:00",
-      "Time-Now": 13,
+      "Time-Now": 14,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Sarmiento-Junin-%D8%B6%D8%AF-%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D8%AA%D9%88%D9%83%D9%88%D9%85%D8%A7%D9%86&id=4326175&date=2025-08-18",
       "matchDetails": {
@@ -17677,7 +17677,7 @@
           },
           "Away-Team": {
             "Team-Name": "اتلتيكو توكومان",
-            "Formation": "5-3-2",
+            "Formation": "4-4-2",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -17870,16 +17870,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Nicola",
-                "Player-Logo": "/assets/images/player-logo/?id=113113",
-                "Player-ID": 65799738,
-                "FieldLine": 33,
-                "FieldSide": 0
-              },
-              {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
                 "Ranking": "N/A",
@@ -17887,17 +17877,17 @@
                 "Player-Logo": "/assets/images/player-logo/?id=68593",
                 "Player-ID": 30066632,
                 "FieldLine": 33,
-                "FieldSide": 25
+                "FieldSide": 0
               },
               {
-                "Position": "لاعب الوسط الجناح",
+                "Position": "قلب الدفاع",
                 "Status": "Starting",
                 "Ranking": "N/A",
                 "Player-Name": "أورتيز",
                 "Player-Logo": "/assets/images/player-logo/?id=52598",
                 "Player-ID": 3950216,
                 "FieldLine": 33,
-                "FieldSide": 50
+                "FieldSide": 33
               },
               {
                 "Position": "قلب الدفاع",
@@ -17907,7 +17897,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=61778",
                 "Player-ID": 10245303,
                 "FieldLine": 33,
-                "FieldSide": 75
+                "FieldSide": 66
               },
               {
                 "Position": "مدافع أيمن",
@@ -17920,24 +17910,14 @@
                 "FieldSide": 100
               },
               {
-                "Position": "لاعب الوسط المحور",
+                "Position": "المهاجم الصريح",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "Godoy",
-                "Player-Logo": "/assets/images/player-logo/?id=156186",
-                "Player-ID": 71409226,
+                "Player-Name": "Nicola",
+                "Player-Logo": "/assets/images/player-logo/?id=113113",
+                "Player-ID": 65799738,
                 "FieldLine": 66,
-                "FieldSide": 20
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Ortíz",
-                "Player-Logo": "/assets/images/player-logo/?id=115942",
-                "Player-ID": 66462835,
-                "FieldLine": 66,
-                "FieldSide": 50
+                "FieldSide": 0
               },
               {
                 "Position": "لاعب الوسط المحور",
@@ -17947,7 +17927,27 @@
                 "Player-Logo": "/assets/images/player-logo/?id=72779",
                 "Player-ID": 44095777,
                 "FieldLine": 66,
-                "FieldSide": 80
+                "FieldSide": 33
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Ortíz",
+                "Player-Logo": "/assets/images/player-logo/?id=115942",
+                "Player-ID": 66462835,
+                "FieldLine": 66,
+                "FieldSide": 66
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Godoy",
+                "Player-Logo": "/assets/images/player-logo/?id=156186",
+                "Player-ID": 71409226,
+                "FieldLine": 66,
+                "FieldSide": 100
               },
               {
                 "Position": "المهاجم الصريح",
@@ -18596,7 +18596,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T22:14:32.484Z",
+    "lastUpdated": "2025-08-18T22:15:32.400Z",
     "count": 27
   }
 }
