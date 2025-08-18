@@ -11130,7 +11130,7 @@
       "Team-Right": {
         "Name": "الجزيرة",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=8283",
-        "Goal": 1
+        "Goal": 2
       },
       "Team-Left": {
         "Name": "سما السرحان",
@@ -11139,7 +11139,7 @@
       },
       "Time-Start": "2025-08-18T19:45",
       "Time-End": "2025-08-18T21:45",
-      "Time-Now": 58,
+      "Time-Now": 59,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B6%D8%AF-%D8%B3%D9%85%D8%A7-%D8%A7%D9%84%D8%B3%D8%B1%D8%AD%D8%A7%D9%86&id=4506150&date=2025-08-18",
       "matchDetails": {
@@ -11578,7 +11578,7 @@
       },
       "Time-Start": "2025-08-18T20:30",
       "Time-End": "2025-08-18T22:30",
-      "Time-Now": 28,
+      "Time-Now": 29,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%82%D8%A7%D8%B3%D9%85-%D8%A8%D8%A7%D8%B4%D8%A7-%D8%B6%D8%AF-%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%B3%D8%A8%D9%88%D8%B1&id=4475715&date=2025-08-18",
       "matchDetails": {
@@ -12117,7 +12117,7 @@
       },
       "Time-Start": "2025-08-18T20:45",
       "Time-End": "2025-08-18T22:45",
-      "Time-Now": 13,
+      "Time-Now": 14,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%88%D8%AA-%D9%81%D8%A7%D9%8A%D8%B3-%D8%A5%D9%8A%D8%B3%D9%86-%D8%B6%D8%AF-%D8%A8%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AF%D9%88%D8%B1%D8%AA%D9%85%D9%88%D9%86%D8%AF&id=4450694&date=2025-08-18",
       "matchDetails": {
@@ -12646,7 +12646,7 @@
       },
       "Time-Start": "2025-08-18T20:45",
       "Time-End": "2025-08-18T22:45",
-      "Time-Now": 13,
+      "Time-Now": 14,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D8%AF%D9%8A%D9%86%D9%8A%D8%B2%D9%8A-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B1%D8%B1%D8%A7%D8%B1%D9%8A%D8%B3%D9%8A&id=4459612&date=2025-08-18",
       "matchDetails": {
@@ -13744,8 +13744,8 @@
       },
       "Time-Start": "2025-08-18T21:00",
       "Time-End": "2025-08-18T23:00",
-      "Time-Now": -1,
-      "Match-Status": "لم تبدأ",
+      "Time-Now": 1,
+      "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D9%84%D8%AA%D8%B4%D9%8A-%D8%B6%D8%AF-%D8%B1%D9%8A%D8%A7%D9%84-%D8%A8%D9%8A%D8%AA%D9%8A%D8%B3&id=4469115&date=2025-08-18",
       "matchDetails": {
         "Match-Card": {
@@ -13756,18 +13756,18 @@
             "Name": "إلتشي",
             "Color": "#005632",
             "Logo": "/assets/images/team-logo/?id=156",
-            "Goal": "-"
+            "Goal": 0
           },
           "Team-Left": {
             "Name": "ريال بيتيس",
             "Color": "#008A45",
             "Logo": "/assets/images/team-logo/?id=146",
-            "Goal": "-"
+            "Goal": 0
           },
           "Date": "2025-08-18",
           "Time": "19:00",
           "Time-Zone": -120,
-          "Status": "لم تبدأ",
+          "Status": "الشوط الأول",
           "Round": 1,
           "Group": null
         },
@@ -14525,22 +14525,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "إسمايلي",
-                "Player-Logo": "/assets/images/player-logo/?id=48044",
-                "Player-ID": 3093438,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيسر",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
                 "Player-Name": "نجي",
                 "Player-Logo": "/assets/images/player-logo/?id=151319",
                 "Player-ID": 71370735,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "إسمايلي",
+                "Player-Logo": "/assets/images/player-logo/?id=48044",
+                "Player-ID": 3093438,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14741,7 +14741,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المهاجم",
+                "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "ماسولين",
@@ -16625,7 +16625,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T19:00:18.395Z",
+    "lastUpdated": "2025-08-18T19:01:19.244Z",
     "count": 27
   }
 }
