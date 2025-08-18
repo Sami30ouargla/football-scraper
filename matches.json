@@ -9792,7 +9792,7 @@
                 "Position": "N/A",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "بوجمعة",
+                "Player-Name": "",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77386676,
                 "FieldLine": 0,
@@ -9932,7 +9932,7 @@
                 "Position": "N/A",
                 "Status": "Starting",
                 "Ranking": 6.7,
-                "Player-Name": "غزالة",
+                "Player-Name": "",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77386664,
                 "FieldLine": 33,
@@ -10002,7 +10002,7 @@
                 "Position": "N/A",
                 "Status": "Starting",
                 "Ranking": 6.4,
-                "Player-Name": "بيازيد",
+                "Player-Name": "",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77386674,
                 "FieldLine": 99,
@@ -15868,7 +15868,7 @@
             "Order": 12
           },
           {
-            "Event-Time": "79'",
+            "Event-Time": "80'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -16091,22 +16091,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "إسمايلي",
-                "Player-Logo": "/assets/images/player-logo/?id=48044",
-                "Player-ID": 3093438,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيسر",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
                 "Player-Name": "نجي",
                 "Player-Logo": "/assets/images/player-logo/?id=151319",
                 "Player-ID": 71370735,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "إسمايلي",
+                "Player-Logo": "/assets/images/player-logo/?id=48044",
+                "Player-ID": 3093438,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -17360,7 +17360,7 @@
       },
       "Time-Start": "2025-08-19T00:00",
       "Time-End": "2025-08-19T02:00",
-      "Time-Now": 46,
+      "Time-Now": 47,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Sarmiento-Junin-%D8%B6%D8%AF-%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%83%D9%88-%D8%AA%D9%88%D9%83%D9%88%D9%85%D8%A7%D9%86&id=4326175&date=2025-08-18",
       "matchDetails": {
@@ -17383,7 +17383,7 @@
           "Date": "2025-08-18",
           "Time": "22:00",
           "Time-Zone": -120,
-          "Status": "الشوط الأول",
+          "Status": "شوط",
           "Round": 5,
           "Group": null
         },
@@ -17651,7 +17651,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "فيجو",
                 "Player-Logo": "/assets/images/player-logo/?id=65276",
                 "Player-ID": 13214688,
@@ -18641,7 +18641,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T22:47:23.671Z",
+    "lastUpdated": "2025-08-18T22:48:31.869Z",
     "count": 27
   }
 }
