@@ -1,190 +1,186 @@
-const puppeteer = require('puppeteer');
-const admin = require('firebase-admin');
-const cron = require('node-cron');
+const axios = require("axios");
+const { Octokit } = require("@octokit/rest");
+const path = require("path");
+const fs = require("fs");
 
-// قراءة مفتاح Firebase من Environment Variables
-const firebaseKey = JSON.parse(process.env.FIREBASE_KEY);
+// 🔐 إعدادات GitHub
+const GITHUB_TOKEN = process.env.TOKEN_KEY; // استخدام متغير البيئة بدلاً من الملف
+const REPO_OWNER = "Sami30ouargla";
+const REPO_NAME = "football-scraper";
+const FILE_PATH = "matches.json";
+const BRANCH = "main";
 
-admin.initializeApp({
-  credential: admin.credential.cert(firebaseKey),
-  databaseURL: "https://fast-tv-f9422-default-rtdb.firebaseio.com"
+// تهيئة Octokit
+const octokit = new Octokit({
+  auth: GITHUB_TOKEN,
+  baseUrl: "https://api.github.com",
+  userAgent: "Football Scraper",
+  request: {
+    timeout: 10000
+  }
 });
 
-const db = admin.database();
+// ⚙️ إعدادات قابلة للتغيير
+const BASE = "https://www.yalla-shoot-365.com";
+const LANG = process.env.YS_LANG || "27";
+const TIME_OFFSET = encodeURIComponent(process.env.YS_TZ || "+02:00");
+const POLL_MS = Number(process.env.POLL_MS || 60_000);
+const DATE = process.env.YS_DATE || new Date().toISOString().slice(0, 10);
 
-async function fetchMatchDetails() {
+// 🧩 دوال مساعدة
+const abs = (u) => (u?.startsWith("/") ? `${BASE}${u}` : u || "");
+const slugify = (txt) =>
+  encodeURI(
+    String(txt || "")
+      .trim()
+      .replace(/\s+/g, "-")
+      .replace(/-+/g, "-")
+  );
+
+function buildDetailsUrl(match, date) {
+  const right = match?.["Team-Right"]?.Name || "";
+  const left = match?.["Team-Left"]?.Name || "";
+  const slug = slugify(`${right}-ضد-${left}`);
+  const id = match?.["Match-id"];
+  return `${BASE}/match/?${slug}&id=${id}&date=${date}`;
+}
+
+function enrichMatch(m, date, details = null) {
+  return {
+    ...m,
+    detailsUrl: buildDetailsUrl(m, date),
+    matchDetails: details,
+    "Cup-Logo": abs(m?.["Cup-Logo"]),
+    "Team-Right": {
+      ...(m?.["Team-Right"] || {}),
+      Logo: abs(m?.["Team-Right"]?.Logo),
+    },
+    "Team-Left": {
+      ...(m?.["Team-Left"] || {}),
+      Logo: abs(m?.["Team-Left"]?.Logo),
+    },
+  };
+}
+
+// 📡 جلب قائمة المباريات
+async function fetchMatches(date) {
+  const url = `${BASE}/matches/npm/?date=${date}&lang=${LANG}&time=${TIME_OFFSET}`;
+  const { data } = await axios.get(url, {
+    headers: {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119 Safari/537.36",
+      Accept: "application/json, text/javascript,*/*;q=0.1",
+      Referer: `${BASE}/matches/?date=${date}&lang=${LANG}&time=${decodeURIComponent(TIME_OFFSET)}`,
+    },
+    timeout: 20000,
+  });
+  return Array.isArray(data?.["STING-WEB-Matches"]) ? data["STING-WEB-Matches"] : [];
+}
+
+// 📡 جلب تفاصيل مباراة معينة
+async function fetchMatchDetails(matchId) {
+  const url = `${BASE}/matches/npm/events/?MatchID=${matchId}&lang=${LANG}&time=-120`;
   try {
-    console.log("⏳ جلب تفاصيل المباراة من Kooora باستخدام Puppeteer...");
-
-    const matchUrl = "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%B1%D8%A7%D8%B3-%D8%B6%D8%AF-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7/tl6JyuYs4K2z1AU-7WT1V";
-
-    const browser = await puppeteer.launch({
-      args: ['--no-sandbox', '--disable-setuid-sandbox'],
-      headless: true
+    const { data } = await axios.get(url, {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119 Safari/537.36",
+        Accept: "application/json, text/javascript,*/*;q=0.1",
+      },
+      timeout: 20000,
     });
-
-    const page = await browser.newPage();
-
-    await page.goto(matchUrl, { waitUntil: 'networkidle0' });
-
-    // تنفيذ جافاسكريبت داخل الصفحة للحصول على البيانات
-    const newData = await page.evaluate(() => {
-      const matchInfo = {
-        leagueName: document.querySelector(".fco-match-header-competition-name")?.textContent.trim() || "غير معروف",
-        matchDate: document.querySelector(".fco-match-header-match-day")?.getAttribute("datetime") || "",
-        homeTeam: document.querySelector(".fco-match-header__grid-team:first-child .fco-long-name")?.textContent.trim() || "",
-        awayTeam: document.querySelector(".fco-match-header__grid-team:last-child .fco-long-name")?.textContent.trim() || "",
-        homeLogo: document.querySelector(".fco-match-header__grid-team:first-child img")?.getAttribute("src") || "",
-        awayLogo: document.querySelector(".fco-match-header__grid-team:last-child img")?.getAttribute("src") || "",
-        scoreHome: document.querySelector(".fco-match-header-score[data-side='team-a']")?.textContent.trim() || "-",
-        scoreAway: document.querySelector(".fco-match-header-score[data-side='team-b']")?.textContent.trim() || "-",
-        matchStatus: document.querySelector(".fco-match-state")?.textContent.trim() || "",
-        firstHalfScore: document.querySelector(".fco-match-header__results-item:first-child .fco-match-header__sub-score")?.textContent.trim() || "",
-        finalScore: document.querySelector(".fco-match-header__results-item:last-child .fco-match-header__sub-score")?.textContent.trim() || "",
-        matchUrl: location.href
-      };
-
-      const events = [];
-      document.querySelectorAll(".fco-events__list-element").forEach(el => {
-        const eventElement = el.querySelector(".fco-key-event-row");
-        events.push({
-          time: el.querySelector(".fco-match-time")?.textContent.trim() || "",
-          icon: eventElement?.querySelector("use")?.getAttribute("xlink:href")?.split("#")[1] || "unknown",
-          text: eventElement?.querySelector(".fco-key-event-row__info-description-main")?.textContent.trim() || "",
-          assistant: eventElement?.querySelector(".fco-key-event-row__info-description-secondary--opaque")?.textContent.trim() || "",
-          score: eventElement?.querySelector(".fco-key-event-row__score")?.textContent.trim() || "",
-          team: eventElement?.classList.contains("fco-key-event-row--team-A") ? "home" :
-                eventElement?.classList.contains("fco-key-event-row--team-B") ? "away" : "none"
-        });
-      });
-
-      const stats = {};
-      document.querySelectorAll(".fco-match-stats-row").forEach(el => {
-        const statName = el.querySelector(".fco-match-stats-row__label")?.textContent.trim();
-        if (statName) {
-          stats[statName] = {
-            home: el.querySelector(".fco-match-stats-row__stat:first-child .fco-match-stats-row__stat-label")?.textContent.trim() || "0",
-            away: el.querySelector(".fco-match-stats-row__stat:last-child .fco-match-stats-row__stat-label")?.textContent.trim() || "0"
-          };
-        }
-      });
-
-      const standings = [];
-      document.querySelectorAll(".fco-standings-table__row").forEach(el => {
-        const position = el.querySelector(".fco-standings-table__cell--position")?.textContent.trim();
-        const team = el.querySelector(".fco-standings-table__team-name--long")?.textContent.trim();
-        const played = el.querySelector(".fco-standings-table__cell--played")?.textContent.trim();
-        const points = el.querySelector(".fco-standings-table__cell--points")?.textContent.trim();
-        if (team && position) {
-          standings.push({
-            position,
-            team,
-            played,
-            points,
-            isHomeTeam: team === matchInfo.homeTeam,
-            isAwayTeam: team === matchInfo.awayTeam
-          });
-        }
-      });
-
-      const lineups = { home: { starting: [], substitutes: [] }, away: { starting: [], substitutes: [] } };
-      
-      document.querySelectorAll(".fco-lineup-team[data-side='home'] .fco-lineup-player:not(.fco-lineup-player--substitute)").forEach(el => {
-        lineups.home.starting.push({
-          player: el.querySelector(".fco-lineup-player__name")?.textContent.trim(),
-          number: el.querySelector(".fco-lineup-player__number")?.textContent.trim(),
-          position: el.querySelector(".fco-lineup-player__position")?.textContent.trim(),
-          isCaptain: el.classList.contains("fco-lineup-player--captain")
-        });
-      });
-      document.querySelectorAll(".fco-lineup-team[data-side='home'] .fco-lineup-player.fco-lineup-player--substitute").forEach(el => {
-        lineups.home.substitutes.push({
-          player: el.querySelector(".fco-lineup-player__name")?.textContent.trim(),
-          number: el.querySelector(".fco-lineup-player__number")?.textContent.trim()
-        });
-      });
-
-      document.querySelectorAll(".fco-lineup-team[data-side='away'] .fco-lineup-player:not(.fco-lineup-player--substitute)").forEach(el => {
-        lineups.away.starting.push({
-          player: el.querySelector(".fco-lineup-player__name")?.textContent.trim(),
-          number: el.querySelector(".fco-lineup-player__number")?.textContent.trim(),
-          position: el.querySelector(".fco-lineup-player__position")?.textContent.trim(),
-          isCaptain: el.classList.contains("fco-lineup-player--captain")
-        });
-      });
-      document.querySelectorAll(".fco-lineup-team[data-side='away'] .fco-lineup-player.fco-lineup-player--substitute").forEach(el => {
-        lineups.away.substitutes.push({
-          player: el.querySelector(".fco-lineup-player__name")?.textContent.trim(),
-          number: el.querySelector(".fco-lineup-player__number")?.textContent.trim()
-        });
-      });
-
-      const predictions = {
-        home: {
-          percent: document.querySelector(".fco-match-predictor__result:first-child .fco-match-predictor__result-vote-percent")?.textContent.trim() || "0%",
-          votes: document.querySelector(".fco-match-predictor__result:first-child .fco-match-predictor__result-vote-votes")?.textContent.trim() || "0"
-        },
-        draw: {
-          percent: document.querySelector(".fco-match-predictor__result:nth-child(2) .fco-match-predictor__result-vote-percent")?.textContent.trim() || "0%",
-          votes: document.querySelector(".fco-match-predictor__result:nth-child(2) .fco-match-predictor__result-vote-votes")?.textContent.trim() || "0"
-        },
-        away: {
-          percent: document.querySelector(".fco-match-predictor__result:last-child .fco-match-predictor__result-vote-percent")?.textContent.trim() || "0%",
-          votes: document.querySelector(".fco-match-predictor__result:last-child .fco-match-predictor__result-vote-votes")?.textContent.trim() || "0"
-        }
-      };
-
-      const scorers = { home: [], away: [] };
-      document.querySelectorAll(".fco-match-header__scorers-left li").forEach(el => {
-        scorers.home.push(el.textContent.trim());
-      });
-      document.querySelectorAll(".fco-match-header__scorers-right li").forEach(el => {
-        scorers.away.push(el.textContent.trim());
-      });
-
-      const matchDetails = {
-        referee: document.querySelector(".fco-match-info__referee")?.textContent.trim() ||
-                 document.querySelector(".fco-match-details__list-item:contains('الحكم')")?.textContent.replace('الحكم', '').trim() || "غير معروف",
-        stadium: document.querySelector(".fco-match-info__stadium")?.textContent.trim() ||
-                 document.querySelector(".fco-match-details__list-item:contains('الملعب')")?.textContent.replace('الملعب', '').trim() || "غير معروف",
-        attendance: document.querySelector(".fco-match-info__attendance")?.textContent.trim() || "غير معروف"
-      };
-
-      return {
-        updatedAt: new Date().toISOString(),
-        matchInfo,
-        events,
-        stats,
-        standings,
-        lineups,
-        predictions,
-        scorers,
-        matchDetails
-      };
-    });
-
-    await browser.close();
-
-    console.log("ℹ️ البيانات المجموعة:");
-    console.log("- معلومات المباراة:", newData.matchInfo);
-    console.log("- عدد الأحداث:", newData.events.length);
-    console.log("- عدد الإحصائيات:", Object.keys(newData.stats).length);
-    console.log("- التشكيلات:", {
-      home: newData.lineups.home.starting.length + " أساسي + " + newData.lineups.home.substitutes.length + " بدلاء",
-      away: newData.lineups.away.starting.length + " أساسي + " + newData.lineups.away.substitutes.length + " بدلاء"
-    });
-
-    // تخزين البيانات في Firebase Realtime Database
-    await db.ref("matchDetails").set(newData);
-
-    console.log("✅ تم تحديث تفاصيل المباراة في Firebase بنجاح");
-  } catch (error) {
-    console.error("❌ خطأ في جلب تفاصيل المباراة:", error);
+    return data?.["STING-WEB-Match-Details"] || null;
+  } catch (err) {
+    console.error(`❌ فشل جلب تفاصيل المباراة ${matchId}:`, err.message);
+    return null;
   }
 }
 
-// تشغيل البوت كل دقيقتين
-cron.schedule("*/2 * * * *", fetchMatchDetails);
+// 💾 حفظ التحديثات في GitHub + تحديث CDN
+async function saveMatches(date, matchesWithDetails) {
+  try {
+    const data = {
+      matches: matchesWithDetails,
+      meta: {
+        date,
+        lastUpdated: new Date().toISOString(),
+        count: matchesWithDetails.length,
+      },
+    };
 
-// تشغيل أول مرة عند بدء السيرفر
-fetchMatchDetails();
+    // محاولة جلب SHA الملف إذا كان موجوداً
+    let sha;
+    try {
+      const { data: fileData } = await octokit.rest.repos.getContent({
+        owner: REPO_OWNER,
+        repo: REPO_NAME,
+        path: FILE_PATH,
+        ref: BRANCH,
+      });
+      sha = fileData.sha;
+    } catch (err) {
+      if (err.status !== 404) throw err;
+    }
+
+    // رفع الملف إلى GitHub
+    await octokit.rest.repos.createOrUpdateFileContents({
+      owner: REPO_OWNER,
+      repo: REPO_NAME,
+      path: FILE_PATH,
+      message: `تحديث المباريات - ${new Date().toISOString()}`,
+      content: Buffer.from(JSON.stringify(data, null, 2)).toString("base64"),
+      sha: sha,
+      branch: BRANCH,
+    });
+
+    // إرسال طلب لتحديث CDN (jsDelivr)
+    try {
+      await axios.get(`https://purge.jsdelivr.net/gh/${REPO_OWNER}/${REPO_NAME}@${BRANCH}/${FILE_PATH}`);
+      console.log("✅ تم تحديث CDN بنجاح");
+    } catch (cdnError) {
+      console.warn("⚠️ تحذير: فشل تحديث CDN", cdnError.message);
+    }
+
+    console.log("✅ تم تحديث الملف في GitHub بنجاح");
+  } catch (err) {
+    console.error("❌ فشل في التحديث:", {
+      message: err.message,
+      status: err.status,
+      request: {
+        method: err.request?.method,
+        url: err.request?.url,
+      }
+    });
+    throw err;
+  }
+}
+
+// 🔄 حلقة التحديث
+async function tick() {
+  try {
+    console.log(`📡 جلب مباريات ${DATE} (كل ${Math.round(POLL_MS / 1000)} ثانية)...`);
+    const rawMatches = await fetchMatches(DATE);
+    console.log(`✅ تم جلب ${rawMatches.length} مباراة.`);
+
+    const matchesWithDetails = [];
+    for (const match of rawMatches) {
+      const details = await fetchMatchDetails(match["Match-id"]);
+      matchesWithDetails.push(enrichMatch(match, DATE, details));
+    }
+
+    await saveMatches(DATE, matchesWithDetails);
+    console.log("🔥 تم التحديث في GitHub وCDN.\n");
+  } catch (err) {
+    console.error("❌ خطأ:", err?.message || err);
+  }
+}
+
+// ▶️ تشغيل أولي وتكرار
+(async () => {
+  // التحقق من وجود التوكن
+  if (!GITHUB_TOKEN) {
+    console.error("❌ خطأ: لم يتم تعيين متغير البيئة TOKEN_KEY");
+    process.exit(1);
+  }
+
+  await tick();
+  setInterval(tick, POLL_MS);
+})();
