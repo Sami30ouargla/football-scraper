@@ -2404,7 +2404,7 @@
       },
       "Time-Start": "2025-08-18T17:45",
       "Time-End": "2025-08-18T19:45",
-      "Time-Now": 5,
+      "Time-Now": 6,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%DA%AF%D9%84-%DA%AF%D9%87%D8%B1-%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86-%D8%B6%D8%AF-%D8%B4%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%D9%8A-%D8%A3%D8%B1%D8%A7%D9%83&id=4509330&date=2025-08-18",
       "matchDetails": {
@@ -2471,7 +2471,7 @@
       },
       "Time-Start": "2025-08-18T17:45",
       "Time-End": "2025-08-18T19:45",
-      "Time-Now": 4,
+      "Time-Now": 5,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B0%D9%88%D8%A8-%D9%87%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A8%D9%8A%D9%83%D8%A7%D9%86&id=4511004&date=2025-08-18",
       "matchDetails": {
@@ -3282,7 +3282,7 @@
           },
           "Away-Team": {
             "Team-Name": "ماينز 05",
-            "Formation": "3-5-2",
+            "Formation": "3-4-3",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -3408,11 +3408,21 @@
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
                 "Ranking": "N/A",
+                "Player-Name": "كوهر",
+                "Player-Logo": "/assets/images/player-logo/?id=1801",
+                "Player-ID": 348454,
+                "FieldLine": 33,
+                "FieldSide": 25
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
                 "Player-Name": "بيل",
                 "Player-Logo": "/assets/images/player-logo/?id=5616",
                 "Player-ID": 87372,
                 "FieldLine": 33,
-                "FieldSide": 25
+                "FieldSide": 50
               },
               {
                 "Position": "مدافع أيمن",
@@ -3421,16 +3431,6 @@
                 "Player-Name": "كوستا",
                 "Player-Logo": "/assets/images/player-logo/?id=27026",
                 "Player-ID": 508224,
-                "FieldLine": 33,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "كوهر",
-                "Player-Logo": "/assets/images/player-logo/?id=1801",
-                "Player-ID": 348454,
                 "FieldLine": 33,
                 "FieldSide": 75
               },
@@ -3448,11 +3448,11 @@
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "نيبل",
-                "Player-Logo": "/assets/images/player-logo/?id=80757",
-                "Player-ID": 51120783,
+                "Player-Name": "أميري",
+                "Player-Logo": "/assets/images/player-logo/?id=13827",
+                "Player-ID": 581528,
                 "FieldLine": 66,
-                "FieldSide": 25
+                "FieldSide": 33
               },
               {
                 "Position": "وسط دفاعي",
@@ -3462,17 +3462,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=131661",
                 "Player-ID": 67774532,
                 "FieldLine": 66,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "أميري",
-                "Player-Logo": "/assets/images/player-logo/?id=13827",
-                "Player-ID": 581528,
-                "FieldLine": 66,
-                "FieldSide": 75
+                "FieldSide": 66
               },
               {
                 "Position": "مدافع أيمن",
@@ -3485,14 +3475,14 @@
                 "FieldSide": 100
               },
               {
-                "Position": "المهاجم الصريح",
+                "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "هوليرباخ",
-                "Player-Logo": "/assets/images/player-logo/?id=86657",
-                "Player-ID": 51211541,
+                "Player-Name": "نيبل",
+                "Player-Logo": "/assets/images/player-logo/?id=80757",
+                "Player-ID": 51120783,
                 "FieldLine": 99,
-                "FieldSide": 25
+                "FieldSide": 0
               },
               {
                 "Position": "المهاجم المتأخر",
@@ -3502,7 +3492,17 @@
                 "Player-Logo": "/assets/images/player-logo/?id=82210",
                 "Player-ID": 52232154,
                 "FieldLine": 99,
-                "FieldSide": 75
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "هوليرباخ",
+                "Player-Logo": "/assets/images/player-logo/?id=86657",
+                "Player-ID": 51211541,
+                "FieldLine": 99,
+                "FieldSide": 100
               }
             ]
           }
@@ -9670,7 +9670,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T15:52:12.091Z",
+    "lastUpdated": "2025-08-18T15:53:10.056Z",
     "count": 27
   }
 }
