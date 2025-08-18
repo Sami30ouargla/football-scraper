@@ -2404,7 +2404,7 @@
       },
       "Time-Start": "2025-08-18T17:45",
       "Time-End": "2025-08-18T19:45",
-      "Time-Now": 11,
+      "Time-Now": 12,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%DA%AF%D9%84-%DA%AF%D9%87%D8%B1-%D8%B3%DB%8C%D8%B1%D8%AC%D8%A7%D9%86-%D8%B6%D8%AF-%D8%B4%D8%A7%D8%B1%D8%AF%D8%A7%D8%B1%D9%8A-%D8%A3%D8%B1%D8%A7%D9%83&id=4509330&date=2025-08-18",
       "matchDetails": {
@@ -2471,7 +2471,7 @@
       },
       "Time-Start": "2025-08-18T17:45",
       "Time-End": "2025-08-18T19:45",
-      "Time-Now": 10,
+      "Time-Now": 11,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B0%D9%88%D8%A8-%D9%87%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A8%D9%8A%D9%83%D8%A7%D9%86&id=4511004&date=2025-08-18",
       "matchDetails": {
@@ -2749,7 +2749,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "الإدارة",
+                "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
                 "Player-Name": "Masuleh",
@@ -2932,16 +2932,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Heuer",
-                "Player-Logo": "/assets/images/player-logo/?id=98840",
-                "Player-ID": 60352611,
-                "FieldLine": 25,
-                "FieldSide": 0
-              },
-              {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
                 "Ranking": "N/A",
@@ -2949,7 +2939,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=114501",
                 "Player-ID": 66235702,
                 "FieldLine": 25,
-                "FieldSide": 33
+                "FieldSide": 0
               },
               {
                 "Position": "قلب الدفاع",
@@ -2958,6 +2948,16 @@
                 "Player-Name": "جاكيل",
                 "Player-Logo": "/assets/images/player-logo/?id=56798",
                 "Player-ID": 3630691,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Heuer",
+                "Player-Logo": "/assets/images/player-logo/?id=98840",
+                "Player-ID": 60352611,
                 "FieldLine": 25,
                 "FieldSide": 66
               },
@@ -3807,7 +3807,7 @@
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "شفاينفورت",
-            "Formation": "4-4-2",
+            "Formation": "5-4-1",
             "Team": [
               {
                 "Position": "N/A",
@@ -3947,7 +3947,7 @@
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77160634,
                 "FieldLine": 33,
-                "FieldSide": 33
+                "FieldSide": 25
               },
               {
                 "Position": "N/A",
@@ -3957,7 +3957,7 @@
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 32299014,
                 "FieldLine": 33,
-                "FieldSide": 66
+                "FieldSide": 50
               },
               {
                 "Position": "N/A",
@@ -3967,27 +3967,27 @@
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77362854,
                 "FieldLine": 33,
+                "FieldSide": 75
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Bausenwein",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77160625,
+                "FieldLine": 33,
                 "FieldSide": 100
               },
               {
                 "Position": "N/A",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "Endres",
+                "Player-Name": "Obiogumu",
                 "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77038421,
+                "Player-ID": 77362860,
                 "FieldLine": 66,
                 "FieldSide": 0
-              },
-              {
-                "Position": "N/A",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Geis",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 76639587,
-                "FieldLine": 66,
-                "FieldSide": 33
               },
               {
                 "Position": "لاعب الوسط المحور",
@@ -3997,15 +3997,25 @@
                 "Player-Logo": "/assets/images/player-logo/?id=114405",
                 "Player-ID": 65130334,
                 "FieldLine": 66,
+                "FieldSide": 33
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Geis",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 76639587,
+                "FieldLine": 66,
                 "FieldSide": 66
               },
               {
                 "Position": "N/A",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "Bausenwein",
+                "Player-Name": "Endres",
                 "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77160625,
+                "Player-ID": 77038421,
                 "FieldLine": 66,
                 "FieldSide": 100
               },
@@ -4017,23 +4027,13 @@
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77372955,
                 "FieldLine": 99,
-                "FieldSide": 25
-              },
-              {
-                "Position": "N/A",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Obiogumu",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77362860,
-                "FieldLine": 99,
-                "FieldSide": 75
+                "FieldSide": 50
               }
             ]
           },
           "Away-Team": {
             "Team-Name": "فورتونا دوسيلدورف",
-            "Formation": "4-2-3-1",
+            "Formation": "4-1-4-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -4096,12 +4096,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "N/A",
+                "Position": "مدافع أيمن",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Lunddal",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77397078,
+                "Player-Name": "لوندال",
+                "Player-Logo": "/assets/images/player-logo/?id=84019",
+                "Player-ID": 49556581,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4186,16 +4186,6 @@
                 "FieldSide": 100
               },
               {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الكسندروبولوس",
-                "Player-Logo": "/assets/images/player-logo/?id=77996",
-                "Player-ID": 42173367,
-                "FieldLine": 50,
-                "FieldSide": 20
-              },
-              {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
                 "Ranking": "N/A",
@@ -4203,7 +4193,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=138024",
                 "Player-ID": 70778274,
                 "FieldLine": 50,
-                "FieldSide": 80
+                "FieldSide": 50
               },
               {
                 "Position": "مهاجم أيسر",
@@ -4223,7 +4213,17 @@
                 "Player-Logo": "/assets/images/player-logo/?id=73452",
                 "Player-ID": 46531566,
                 "FieldLine": 75,
-                "FieldSide": 50
+                "FieldSide": 33
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الكسندروبولوس",
+                "Player-Logo": "/assets/images/player-logo/?id=77996",
+                "Player-ID": 42173367,
+                "FieldLine": 75,
+                "FieldSide": 66
               },
               {
                 "Position": "مهاجم أيمن",
@@ -10393,7 +10393,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-18T15:58:11.630Z",
+    "lastUpdated": "2025-08-18T15:59:12.316Z",
     "count": 27
   }
 }
