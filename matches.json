@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T12:00",
       "Time-End": "2025-08-19T14:00",
-      "Time-Now": 91,
+      "Time-Now": 92,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1345,6 +1345,48 @@
             },
             "Place": "right",
             "Order": 14
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الحسن",
+              "IMG": "/assets/images/player-logo/?id=57123",
+              "ID": 6812732,
+              "Extra": [
+                {
+                  "Name": "الخيبري",
+                  "IMG": "/assets/images/player-logo/?id=47607",
+                  "ID": 3231193
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 15
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أنجيلو",
+              "IMG": "/assets/images/player-logo/?id=82773",
+              "ID": 52595731,
+              "Extra": [
+                {
+                  "Name": "رونالدو",
+                  "IMG": "/assets/images/player-logo/?id=817",
+                  "ID": 116798
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 16
           }
         ],
         "Match-Lineup": {
@@ -1369,6 +1411,26 @@
                 "Player-Name": "الغنام",
                 "Player-Logo": "/assets/images/player-logo/?id=45558",
                 "Player-ID": 2079447,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الحسن",
+                "Player-Logo": "/assets/images/player-logo/?id=57123",
+                "Player-ID": 6812732,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "أنجيلو",
+                "Player-Logo": "/assets/images/player-logo/?id=82773",
+                "Player-ID": 52595731,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -1403,16 +1465,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الحسن",
-                "Player-Logo": "/assets/images/player-logo/?id=57123",
-                "Player-ID": 6812732,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مدافع أيسر",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -1439,16 +1491,6 @@
                 "Player-Name": "أمان",
                 "Player-Logo": "/assets/images/player-logo/?id=151742",
                 "Player-ID": 71388836,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "أنجيلو",
-                "Player-Logo": "/assets/images/player-logo/?id=82773",
-                "Player-ID": 52595731,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -6743,7 +6785,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:57:23.377Z",
+    "lastUpdated": "2025-08-19T13:58:21.326Z",
     "count": 28
   }
 }
