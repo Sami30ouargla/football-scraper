@@ -7219,14 +7219,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "الله",
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 77366943,
+              "Name": "الرشيد",
+              "IMG": "/assets/images/player-logo/?id=101652",
+              "ID": 52018583,
               "Extra": [
                 {
-                  "Name": "حسين",
-                  "IMG": "/assets/images/player-logo/?id=190060",
-                  "ID": 76798000
+                  "Name": "يعقوب",
+                  "IMG": "/assets/images/player-logo/?id=105987",
+                  "ID": 64685713
                 }
               ]
             },
@@ -7240,14 +7240,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "الرشيد",
-              "IMG": "/assets/images/player-logo/?id=101652",
-              "ID": 52018583,
+              "Name": "الله",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77366943,
               "Extra": [
                 {
-                  "Name": "يعقوب",
-                  "IMG": "/assets/images/player-logo/?id=105987",
-                  "ID": 64685713
+                  "Name": "حسين",
+                  "IMG": "/assets/images/player-logo/?id=190060",
+                  "ID": 76798000
                 }
               ]
             },
@@ -11399,7 +11399,7 @@
       "Time-Start": "2025-08-19T19:00",
       "Time-End": "2025-08-19T21:00",
       "Time-Now": 90,
-      "Match-Status": "انتهت للتو",
+      "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%B6%D8%AF-%D8%A3%D9%88%D8%B3%D8%A7%D8%B3%D9%88%D9%86%D8%A7&id=4467568&date=2025-08-19",
       "matchDetails": {
         "Match-Card": {
@@ -11421,7 +11421,7 @@
           "Date": "2025-08-19",
           "Time": "19:00",
           "Time-Zone": -120,
-          "Status": "انتهت للتو",
+          "Status": "انتهت",
           "Round": 1,
           "Group": null
         },
@@ -11768,12 +11768,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيسر",
+                "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
-                "Player-Name": "ميندي",
-                "Player-Logo": "/assets/images/player-logo/?id=49410",
-                "Player-ID": 631606,
+                "Player-Name": "روديجر",
+                "Player-Logo": "/assets/images/player-logo/?id=5542",
+                "Player-ID": 334865,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "إندريك",
+                "Player-Logo": "/assets/images/player-logo/?id=106075",
+                "Player-ID": 58949561,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -11798,22 +11808,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
+                "Position": "مدافع أيسر",
                 "Status": "Missing",
                 "Ranking": "N/A",
-                "Player-Name": "إندريك",
-                "Player-Logo": "/assets/images/player-logo/?id=106075",
-                "Player-ID": 58949561,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "روديجر",
-                "Player-Logo": "/assets/images/player-logo/?id=5542",
-                "Player-ID": 334865,
+                "Player-Name": "ميندي",
+                "Player-Logo": "/assets/images/player-logo/?id=49410",
+                "Player-ID": 631606,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14017,7 +14017,7 @@
       "Time-Start": "2025-08-19T19:00",
       "Time-End": "2025-08-19T21:00",
       "Time-Now": 90,
-      "Match-Status": "انتهت للتو",
+      "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%B6%D8%AF-%D8%A3%D9%8A%D9%87.%D8%A3%D9%8A.-%D8%A8%D8%A7%D9%81%D9%88%D8%B3&id=4523033&date=2025-08-19",
       "matchDetails": {
         "Match-Card": {
@@ -15455,7 +15455,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T21:14:13.773Z",
+    "lastUpdated": "2025-08-19T21:15:13.629Z",
     "count": 28
   }
 }
