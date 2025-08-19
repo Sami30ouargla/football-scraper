@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T12:00",
       "Time-End": "2025-08-19T14:00",
-      "Time-Now": 96,
+      "Time-Now": 97,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1417,6 +1417,21 @@
             },
             "Place": "right",
             "Order": 18
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بروزوفيتش",
+              "IMG": "/assets/images/player-logo/?id=68",
+              "ID": 349465,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 19
           }
         ],
         "Match-Lineup": {
@@ -1723,7 +1738,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.6,
                 "Player-Name": "العبود",
                 "Player-Logo": "/assets/images/player-logo/?id=48349",
                 "Player-ID": 555441,
@@ -6815,7 +6830,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T14:02:21.723Z",
+    "lastUpdated": "2025-08-19T14:03:25.020Z",
     "count": 28
   }
 }
