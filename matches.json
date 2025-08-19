@@ -4050,14 +4050,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "مدبولى",
-              "IMG": "/assets/images/player-logo/?id=51742",
-              "ID": 3391168,
+              "Name": "أوفا",
+              "IMG": "/assets/images/player-logo/?id=85741",
+              "ID": 53862235,
               "Extra": [
                 {
-                  "Name": "ابراهيم",
-                  "IMG": "/assets/images/player-logo/?id=10336",
-                  "ID": 219273
+                  "Name": "شلبي",
+                  "IMG": "/assets/images/player-logo/?id=85882",
+                  "ID": 53914154
                 }
               ]
             },
@@ -4071,40 +4071,19 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "أوفا",
-              "IMG": "/assets/images/player-logo/?id=85741",
-              "ID": 53862235,
+              "Name": "مدبولى",
+              "IMG": "/assets/images/player-logo/?id=51742",
+              "ID": 3391168,
               "Extra": [
                 {
-                  "Name": "شلبي",
-                  "IMG": "/assets/images/player-logo/?id=85882",
-                  "ID": 53914154
+                  "Name": "ابراهيم",
+                  "IMG": "/assets/images/player-logo/?id=10336",
+                  "ID": 219273
                 }
               ]
             },
             "Place": "left",
             "Order": 6
-          },
-          {
-            "Event-Time": "68'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "جهينة",
-              "IMG": "/assets/images/player-logo/?id=192775",
-              "ID": 76831340,
-              "Extra": [
-                {
-                  "Name": "الفيومي",
-                  "IMG": "/assets/images/player-logo/?id=217991",
-                  "ID": 77358822
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 7
           },
           {
             "Event-Time": "68'",
@@ -4121,6 +4100,27 @@
                   "Name": "كشري",
                   "IMG": "/assets/images/player-logo/?id=218022",
                   "ID": 77359007
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 7
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "جهينة",
+              "IMG": "/assets/images/player-logo/?id=192775",
+              "ID": 76831340,
+              "Extra": [
+                {
+                  "Name": "الفيومي",
+                  "IMG": "/assets/images/player-logo/?id=217991",
+                  "ID": 77358822
                 }
               ]
             },
@@ -5108,7 +5108,7 @@
       },
       "Time-Start": "2025-08-19T16:00",
       "Time-End": "2025-08-19T18:00",
-      "Time-Now": 83,
+      "Time-Now": 84,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%B6%D8%AF-Shams-Azar-Qazvin&id=4509334&date=2025-08-19",
       "matchDetails": {
@@ -5448,7 +5448,7 @@
       },
       "Time-Start": "2025-08-19T16:00",
       "Time-End": "2025-08-19T18:00",
-      "Time-Now": 77,
+      "Time-Now": 78,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Chadormalu-Sc-%D8%B6%D8%AF-%D9%81%D9%88%D9%84%D8%A7%D8%AF&id=4509335&date=2025-08-19",
       "matchDetails": {
@@ -5757,7 +5757,7 @@
       },
       "Time-Start": "2025-08-19T16:15",
       "Time-End": "2025-08-19T18:15",
-      "Time-Now": 67,
+      "Time-Now": 68,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%84%D8%A7%D9%81%D8%A7%D9%86-%D8%B6%D8%AF-%D8%B3%D8%A8%D8%A7%D9%87%D8%A7%D9%86&id=4509333&date=2025-08-19",
       "matchDetails": {
@@ -6082,7 +6082,7 @@
       },
       "Time-Start": "2025-08-19T17:00",
       "Time-End": "2025-08-19T19:00",
-      "Time-Now": 44,
+      "Time-Now": 45,
       "Match-Status": "الشوط الأول",
       "Group": "المجموعة د",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88&id=4465624&date=2025-08-19",
@@ -6399,7 +6399,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "أليكس",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 71167552,
@@ -6409,7 +6409,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "Tochukwu",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77367251,
@@ -6429,7 +6429,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "Adedayo",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77367252,
@@ -6625,7 +6625,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "إيتوا",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77366898,
@@ -6645,7 +6645,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "نونغو",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77366900,
@@ -6724,7 +6724,7 @@
       },
       "Time-Start": "2025-08-19T17:00",
       "Time-End": "2025-08-19T19:00",
-      "Time-Now": 44,
+      "Time-Now": 45,
       "Match-Status": "الشوط الأول",
       "Group": "المجموعة د",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84&id=4465626&date=2025-08-19",
@@ -6775,21 +6775,6 @@
             },
             "Place": "right",
             "Order": 1
-          },
-          {
-            "Event-Time": "26'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "سيمبو",
-              "IMG": "/assets/images/player-logo/?id=161040",
-              "ID": 77382860,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 2
           }
         ],
         "Match-Lineup": {
@@ -7305,7 +7290,7 @@
       },
       "Time-Start": "2025-08-19T17:00",
       "Time-End": "2025-08-19T19:00",
-      "Time-Now": 42,
+      "Time-Now": 43,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%8A%D9%85%D9%86%D8%A7%D8%B3%D8%AA%D9%83%D8%A7-%D8%AA%D9%88%D8%B1%D8%B1%D9%8A%D9%84%D8%A7%D9%81%D9%8A%D8%BA%D8%A7-%D8%B6%D8%AF-%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%88&id=4529359&date=2025-08-19",
       "matchDetails": {
@@ -7372,7 +7357,7 @@
       },
       "Time-Start": "2025-08-19T17:30",
       "Time-End": "2025-08-19T19:30",
-      "Time-Now": 16,
+      "Time-Now": 17,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D8%A7-%D8%B6%D8%AF-%D9%84%D8%B1%D9%88%D9%83%D8%A7-%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88&id=4530083&date=2025-08-19",
       "matchDetails": {
@@ -7451,18 +7436,18 @@
             "Name": "الحسين إربد",
             "Color": "#F2F200",
             "Logo": "/assets/images/team-logo/?id=8285",
-            "Goal": "-"
+            "Goal": 0
           },
           "Team-Left": {
             "Name": "الرمثا",
             "Color": "#0000CC",
             "Logo": "/assets/images/team-logo/?id=8281",
-            "Goal": "-"
+            "Goal": 0
           },
           "Date": "2025-08-19",
           "Time": "17:45",
           "Time-Zone": -120,
-          "Status": "لم تبدأ",
+          "Status": "الشوط الأول",
           "Round": 4,
           "Group": null
         },
@@ -10856,7 +10841,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T17:44:22.570Z",
+    "lastUpdated": "2025-08-19T17:45:23.121Z",
     "count": 28
   }
 }
