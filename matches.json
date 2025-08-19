@@ -1713,7 +1713,7 @@
           },
           "Away-Team": {
             "Team-Name": "الاتحاد",
-            "Formation": "4-4-2",
+            "Formation": "4-2-3-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -1882,7 +1882,7 @@
                 "Player-Name": "ميتاج",
                 "Player-Logo": "/assets/images/player-logo/?id=81405",
                 "Player-ID": 51378142,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 0
               },
               {
@@ -1892,7 +1892,7 @@
                 "Player-Name": "بيريرا",
                 "Player-Logo": "/assets/images/player-logo/?id=10354",
                 "Player-ID": 316961,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 33
               },
               {
@@ -1902,7 +1902,7 @@
                 "Player-Name": "الموسى",
                 "Player-Logo": "/assets/images/player-logo/?id=101479",
                 "Player-ID": 62160053,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 66
               },
               {
@@ -1912,58 +1912,58 @@
                 "Player-Name": "الشنقيطي",
                 "Player-Logo": "/assets/images/player-logo/?id=72978",
                 "Player-ID": 46229312,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 100
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "فابينيو",
+                "Player-Logo": "/assets/images/player-logo/?id=2063",
+                "Player-ID": 84369,
+                "FieldLine": 50,
+                "FieldSide": 20
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "كانتي",
+                "Player-Logo": "/assets/images/player-logo/?id=1911",
+                "Player-ID": 510360,
+                "FieldLine": 50,
+                "FieldSide": 80
               },
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.6,
                 "Player-Name": "بيرجوين\t",
                 "Player-Logo": "/assets/images/player-logo/?id=15756",
                 "Player-ID": 535101,
-                "FieldLine": 66,
+                "FieldLine": 75,
                 "FieldSide": 0
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "فابينيو",
-                "Player-Logo": "/assets/images/player-logo/?id=2063",
-                "Player-ID": 84369,
-                "FieldLine": 66,
-                "FieldSide": 33
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "كانتي",
-                "Player-Logo": "/assets/images/player-logo/?id=1911",
-                "Player-ID": 510360,
-                "FieldLine": 66,
-                "FieldSide": 66
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": 7.1,
-                "Player-Name": "ديابي",
-                "Player-Logo": "/assets/images/player-logo/?id=56281",
-                "Player-ID": 3177765,
-                "FieldLine": 66,
-                "FieldSide": 100
               },
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "عوار",
                 "Player-Logo": "/assets/images/player-logo/?id=45475",
                 "Player-ID": 3131250,
-                "FieldLine": 99,
-                "FieldSide": 25
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
+                "Ranking": 7.4,
+                "Player-Name": "ديابي",
+                "Player-Logo": "/assets/images/player-logo/?id=56281",
+                "Player-ID": 3177765,
+                "FieldLine": 75,
+                "FieldSide": 100
               },
               {
                 "Position": "المهاجم الصريح",
@@ -1972,8 +1972,8 @@
                 "Player-Name": "بنزيما",
                 "Player-Logo": "/assets/images/player-logo/?id=543",
                 "Player-ID": 84773,
-                "FieldLine": 99,
-                "FieldSide": 75
+                "FieldLine": 100,
+                "FieldSide": 50
               }
             ]
           }
@@ -6861,7 +6861,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T14:15:24.066Z",
+    "lastUpdated": "2025-08-19T14:16:22.055Z",
     "count": 28
   }
 }
