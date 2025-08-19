@@ -14177,14 +14177,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "هاريسون",
-              "IMG": "/assets/images/player-logo/?id=43901",
-              "ID": 3095813,
+              "Name": "جروف",
+              "IMG": "/assets/images/player-logo/?id=77599",
+              "ID": 49462994,
               "Extra": [
                 {
-                  "Name": "جيمس",
-                  "IMG": "/assets/images/player-logo/?id=40092",
-                  "ID": 1839582
+                  "Name": "أمبادو",
+                  "IMG": "/assets/images/player-logo/?id=51181",
+                  "ID": 3135966
                 }
               ]
             },
@@ -14198,14 +14198,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جروف",
-              "IMG": "/assets/images/player-logo/?id=77599",
-              "ID": 49462994,
+              "Name": "هاريسون",
+              "IMG": "/assets/images/player-logo/?id=43901",
+              "ID": 3095813,
               "Extra": [
                 {
-                  "Name": "أمبادو",
-                  "IMG": "/assets/images/player-logo/?id=51181",
-                  "ID": 3135966
+                  "Name": "جيمس",
+                  "IMG": "/assets/images/player-logo/?id=40092",
+                  "ID": 1839582
                 }
               ]
             },
@@ -18363,7 +18363,7 @@
       "Team-Right": {
         "Name": "ميراسول",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1269",
-        "Goal": 0
+        "Goal": 1
       },
       "Team-Left": {
         "Name": "كروزيرو",
@@ -18372,7 +18372,7 @@
       },
       "Time-Start": "2025-08-19T01:00",
       "Time-End": "2025-08-19T03:00",
-      "Time-Now": 64,
+      "Time-Now": 65,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84-%D8%B6%D8%AF-%D9%83%D8%B1%D9%88%D8%B2%D9%8A%D8%B1%D9%88&id=4380432&date=2025-08-18",
       "matchDetails": {
@@ -18384,7 +18384,7 @@
             "Name": "ميراسول",
             "Color": "#28B94A",
             "Logo": "/assets/images/team-logo/?id=1269",
-            "Goal": 0
+            "Goal": 1
           },
           "Team-Left": {
             "Name": "كروزيرو",
@@ -18524,6 +18524,21 @@
             },
             "Place": "left",
             "Order": 7
+          },
+          {
+            "Event-Time": "65'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "Negueba",
+              "IMG": "/assets/images/player-logo/?id=71309",
+              "ID": 226135,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -18694,7 +18709,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "رينالدو",
                 "Player-Logo": "/assets/images/player-logo/?id=3097",
                 "Player-ID": 28189,
@@ -18754,7 +18769,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7.1,
                 "Player-Name": "Danielzinho",
                 "Player-Logo": "/assets/images/player-logo/?id=42842",
                 "Player-ID": 267278,
@@ -18990,7 +19005,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.2,
                 "Player-Name": "K. Prates",
                 "Player-Logo": "/assets/images/player-logo/?id=196708",
                 "Player-ID": 76951739,
@@ -19000,7 +19015,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.5,
                 "Player-Name": "Villalba",
                 "Player-Logo": "/assets/images/player-logo/?id=8392",
                 "Player-ID": 379632,
@@ -19010,7 +19025,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 6.8,
                 "Player-Name": "برونو",
                 "Player-Logo": "/assets/images/player-logo/?id=42215",
                 "Player-ID": 3072682,
@@ -19020,7 +19035,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "Jonathan",
                 "Player-Logo": "/assets/images/player-logo/?id=151764",
                 "Player-ID": 70120060,
@@ -19040,7 +19055,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "والاس",
                 "Player-Logo": "/assets/images/player-logo/?id=3230",
                 "Player-ID": 483544,
@@ -19095,7 +19110,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-19T00:29:23.579Z",
+    "lastUpdated": "2025-08-19T00:30:24.241Z",
     "count": 27
   }
 }
