@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T14:00",
       "Time-End": "2025-08-19T16:00",
-      "Time-Now": 24,
+      "Time-Now": 25,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1138,6 +1138,21 @@
             },
             "Place": "left",
             "Order": 3
+          },
+          {
+            "Event-Time": "24'",
+            "Event-Name": "بطاقة حمراء",
+            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ماني",
+              "IMG": "/assets/images/player-logo/?id=7914",
+              "ID": 357281,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 4
           }
         ],
         "Match-Lineup": {
@@ -1358,7 +1373,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7.6,
+                "Ranking": 7.3,
                 "Player-Name": "ماني",
                 "Player-Logo": "/assets/images/player-logo/?id=7914",
                 "Player-ID": 357281,
@@ -1575,7 +1590,7 @@
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
-                "Player-Name": "Blanc",
+                "Player-Name": "بلان",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77399159,
                 "FieldLine": 0,
@@ -6469,7 +6484,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T12:26:24.644Z",
+    "lastUpdated": "2025-08-19T12:27:22.313Z",
     "count": 27
   }
 }
