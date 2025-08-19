@@ -10496,7 +10496,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -14821,7 +14821,7 @@
       "Team-Right": {
         "Name": "فيليز سارسفيلد",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=872",
-        "Goal": 0
+        "Goal": 1
       },
       "Team-Left": {
         "Name": "فورتاليزا",
@@ -14830,7 +14830,7 @@
       },
       "Time-Start": "2025-08-19T22:00",
       "Time-End": "2025-08-20T00:00",
-      "Time-Now": 7,
+      "Time-Now": 8,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D9%84%D9%8A%D8%B2-%D8%B3%D8%A7%D8%B1%D8%B3%D9%81%D9%8A%D9%84%D8%AF-%D8%B6%D8%AF-%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7&id=4443285&date=2025-08-19",
       "matchDetails": {
@@ -14865,7 +14865,44 @@
           "Club-Capacity": "N/A",
           "Tv": "N/A"
         },
-        "Match-Events": [],
+        "Match-Events": [
+          {
+            "Event-Time": "7'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "Carrizo",
+              "IMG": "/assets/images/player-logo/?id=146097",
+              "ID": 71088016,
+              "Extra": [
+                {
+                  "Name": "جوميز",
+                  "IMG": "/assets/images/player-logo/?id=8173",
+                  "ID": 435328
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "8'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Carrizo",
+              "IMG": "/assets/images/player-logo/?id=146097",
+              "ID": 71088016,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          }
+        ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "فيليز سارسفيلد",
@@ -15455,7 +15492,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T22:07:18.537Z",
+    "lastUpdated": "2025-08-19T22:08:20.365Z",
     "count": 28
   }
 }
