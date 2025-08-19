@@ -1042,11 +1042,11 @@
       "Team-Left": {
         "Name": "الاتحاد",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=8593",
-        "Goal": 0
+        "Goal": 1
       },
       "Time-Start": "2025-08-19T14:00",
       "Time-End": "2025-08-19T16:00",
-      "Time-Now": 15,
+      "Time-Now": 16,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1064,7 +1064,7 @@
             "Name": "الاتحاد",
             "Color": "#DED113",
             "Logo": "/assets/images/team-logo/?id=8593",
-            "Goal": 0
+            "Goal": 1
           },
           "Date": "2025-08-19",
           "Time": "12:00",
@@ -1102,12 +1102,27 @@
             },
             "Place": "left",
             "Order": 1
+          },
+          {
+            "Event-Time": "16'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "بيرجوين\t",
+              "IMG": "/assets/images/player-logo/?id=15756",
+              "ID": 535101,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "النصر",
-            "Formation": "4-2-1-3",
+            "Formation": "4-4-1-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -1320,14 +1335,14 @@
                 "FieldSide": 100
               },
               {
-                "Position": "لاعب الوسط المحور",
+                "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
-                "Player-Name": "الخيبري",
-                "Player-Logo": "/assets/images/player-logo/?id=47607",
-                "Player-ID": 3231193,
+                "Ranking": 7.7,
+                "Player-Name": "ماني",
+                "Player-Logo": "/assets/images/player-logo/?id=7914",
+                "Player-ID": 357281,
                 "FieldLine": 50,
-                "FieldSide": 20
+                "FieldSide": 0
               },
               {
                 "Position": "وسط دفاعي",
@@ -1337,7 +1352,27 @@
                 "Player-Logo": "/assets/images/player-logo/?id=68",
                 "Player-ID": 349465,
                 "FieldLine": 50,
-                "FieldSide": 80
+                "FieldSide": 33
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "الخيبري",
+                "Player-Logo": "/assets/images/player-logo/?id=47607",
+                "Player-ID": 3231193,
+                "FieldLine": 50,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
+                "Ranking": 6.5,
+                "Player-Name": "كومان",
+                "Player-Logo": "/assets/images/player-logo/?id=2226",
+                "Player-ID": 513714,
+                "FieldLine": 50,
+                "FieldSide": 100
               },
               {
                 "Position": "المهاجم المتأخر",
@@ -1350,16 +1385,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": 7.7,
-                "Player-Name": "ماني",
-                "Player-Logo": "/assets/images/player-logo/?id=7914",
-                "Player-ID": 357281,
-                "FieldLine": 100,
-                "FieldSide": 0
-              },
-              {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
                 "Ranking": 6.7,
@@ -1368,22 +1393,12 @@
                 "Player-ID": 116798,
                 "FieldLine": 100,
                 "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "كومان",
-                "Player-Logo": "/assets/images/player-logo/?id=2226",
-                "Player-ID": 513714,
-                "FieldLine": 100,
-                "FieldSide": 100
               }
             ]
           },
           "Away-Team": {
             "Team-Name": "الاتحاد",
-            "Formation": "4-2-1-3",
+            "Formation": "4-4-2",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -1536,12 +1551,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المدرب",
+                "Position": "الإدارة",
                 "Status": "Management",
                 "Ranking": "N/A",
-                "Player-Name": "بلان",
-                "Player-Logo": "/assets/images/player-logo/?id=71301",
-                "Player-ID": 17149194,
+                "Player-Name": "Blanc",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77399159,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -1552,7 +1567,7 @@
                 "Player-Name": "ميتاج",
                 "Player-Logo": "/assets/images/player-logo/?id=81405",
                 "Player-ID": 51378142,
-                "FieldLine": 25,
+                "FieldLine": 33,
                 "FieldSide": 0
               },
               {
@@ -1562,7 +1577,7 @@
                 "Player-Name": "بيريرا",
                 "Player-Logo": "/assets/images/player-logo/?id=10354",
                 "Player-ID": 316961,
-                "FieldLine": 25,
+                "FieldLine": 33,
                 "FieldSide": 33
               },
               {
@@ -1572,7 +1587,7 @@
                 "Player-Name": "الموسى",
                 "Player-Logo": "/assets/images/player-logo/?id=101479",
                 "Player-ID": 62160053,
-                "FieldLine": 25,
+                "FieldLine": 33,
                 "FieldSide": 66
               },
               {
@@ -1582,38 +1597,8 @@
                 "Player-Name": "الشنقيطي",
                 "Player-Logo": "/assets/images/player-logo/?id=72978",
                 "Player-ID": 46229312,
-                "FieldLine": 25,
+                "FieldLine": 33,
                 "FieldSide": 100
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "فابينيو",
-                "Player-Logo": "/assets/images/player-logo/?id=2063",
-                "Player-ID": 84369,
-                "FieldLine": 50,
-                "FieldSide": 20
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.4,
-                "Player-Name": "كانتي",
-                "Player-Logo": "/assets/images/player-logo/?id=1911",
-                "Player-ID": 510360,
-                "FieldLine": 50,
-                "FieldSide": 80
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "عوار",
-                "Player-Logo": "/assets/images/player-logo/?id=45475",
-                "Player-ID": 3131250,
-                "FieldLine": 75,
-                "FieldSide": 50
               },
               {
                 "Position": "مهاجم أيسر",
@@ -1622,18 +1607,28 @@
                 "Player-Name": "بيرجوين\t",
                 "Player-Logo": "/assets/images/player-logo/?id=15756",
                 "Player-ID": 535101,
-                "FieldLine": 100,
+                "FieldLine": 66,
                 "FieldSide": 0
               },
               {
-                "Position": "المهاجم الصريح",
+                "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "بنزيما",
-                "Player-Logo": "/assets/images/player-logo/?id=543",
-                "Player-ID": 84773,
-                "FieldLine": 100,
-                "FieldSide": 50
+                "Ranking": 6.5,
+                "Player-Name": "فابينيو",
+                "Player-Logo": "/assets/images/player-logo/?id=2063",
+                "Player-ID": 84369,
+                "FieldLine": 66,
+                "FieldSide": 33
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": 6.4,
+                "Player-Name": "كانتي",
+                "Player-Logo": "/assets/images/player-logo/?id=1911",
+                "Player-ID": 510360,
+                "FieldLine": 66,
+                "FieldSide": 66
               },
               {
                 "Position": "مهاجم أيمن",
@@ -1642,8 +1637,28 @@
                 "Player-Name": "ديابي",
                 "Player-Logo": "/assets/images/player-logo/?id=56281",
                 "Player-ID": 3177765,
-                "FieldLine": 100,
+                "FieldLine": 66,
                 "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Starting",
+                "Ranking": 6.5,
+                "Player-Name": "عوار",
+                "Player-Logo": "/assets/images/player-logo/?id=45475",
+                "Player-ID": 3131250,
+                "FieldLine": 99,
+                "FieldSide": 25
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "بنزيما",
+                "Player-Logo": "/assets/images/player-logo/?id=543",
+                "Player-ID": 84773,
+                "FieldLine": 99,
+                "FieldSide": 75
               }
             ]
           }
@@ -6433,7 +6448,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T12:17:19.029Z",
+    "lastUpdated": "2025-08-19T12:18:23.792Z",
     "count": 27
   }
 }
