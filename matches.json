@@ -2103,7 +2103,7 @@
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "الأهلي",
-            "Formation": "",
+            "Formation": "4-2-3-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -2116,52 +2116,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
+                "Position": "المدرب",
+                "Status": "Management",
                 "Ranking": "N/A",
-                "Player-Name": "أبو رحال",
-                "Player-Logo": "/assets/images/player-logo/?id=157442",
-                "Player-ID": 72047612,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الحصري",
-                "Player-Logo": "/assets/images/player-logo/?id=217755",
-                "Player-ID": 77351481,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الشطي",
-                "Player-Logo": "/assets/images/player-logo/?id=217756",
-                "Player-ID": 77351519,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "المحارمة",
-                "Player-Logo": "/assets/images/player-logo/?id=157448",
-                "Player-ID": 72047618,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "إنديو",
-                "Player-Logo": "/assets/images/player-logo/?id=48546",
-                "Player-ID": 3345400,
+                "Player-Name": "ياسين",
+                "Player-Logo": "/assets/images/player-logo/?id=201277",
+                "Player-ID": 77092279,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -2172,8 +2132,38 @@
                 "Player-Name": "حداد",
                 "Player-Logo": "/assets/images/player-logo/?id=201222",
                 "Player-ID": 77089127,
-                "FieldLine": 0,
-                "FieldSide": 50
+                "FieldLine": 25,
+                "FieldSide": 0
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "أبو رحال",
+                "Player-Logo": "/assets/images/player-logo/?id=157442",
+                "Player-ID": 72047612,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Shatti",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77399376,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "المحارمة",
+                "Player-Logo": "/assets/images/player-logo/?id=157448",
+                "Player-ID": 72047618,
+                "FieldLine": 50,
+                "FieldSide": 20
               },
               {
                 "Position": "وسط دفاعي",
@@ -2182,8 +2172,18 @@
                 "Player-Name": "الدين",
                 "Player-Logo": "/assets/images/player-logo/?id=201230",
                 "Player-ID": 77089308,
-                "FieldLine": 0,
-                "FieldSide": 50
+                "FieldLine": 50,
+                "FieldSide": 80
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "النعيم",
+                "Player-Logo": "/assets/images/player-logo/?id=201126",
+                "Player-ID": 77087044,
+                "FieldLine": 75,
+                "FieldSide": 0
               },
               {
                 "Position": "لاعب الوسط المحور",
@@ -2192,7 +2192,7 @@
                 "Player-Name": "الذيابات",
                 "Player-Logo": "/assets/images/player-logo/?id=217757",
                 "Player-ID": 77351544,
-                "FieldLine": 0,
+                "FieldLine": 75,
                 "FieldSide": 50
               },
               {
@@ -2202,34 +2202,24 @@
                 "Player-Name": "البشابشة",
                 "Player-Logo": "/assets/images/player-logo/?id=157452",
                 "Player-ID": 72047622,
-                "FieldLine": 0,
-                "FieldSide": 50
+                "FieldLine": 75,
+                "FieldSide": 100
               },
               {
-                "Position": "مهاجم أيسر",
+                "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "النعيم",
-                "Player-Logo": "/assets/images/player-logo/?id=201126",
-                "Player-ID": 77087044,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المدرب",
-                "Status": "Management",
-                "Ranking": "N/A",
-                "Player-Name": "ياسين",
-                "Player-Logo": "/assets/images/player-logo/?id=201277",
-                "Player-ID": 77092279,
-                "FieldLine": 0,
+                "Player-Name": "إنديو",
+                "Player-Logo": "/assets/images/player-logo/?id=48546",
+                "Player-ID": 3345400,
+                "FieldLine": 100,
                 "FieldSide": 50
               }
             ]
           },
           "Away-Team": {
             "Team-Name": "الوحدات",
-            "Formation": "",
+            "Formation": "4-2-3-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -2242,92 +2232,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
+                "Position": "المدرب",
+                "Status": "Management",
                 "Ranking": "N/A",
-                "Player-Name": "شلباية",
-                "Player-Logo": "/assets/images/player-logo/?id=72006",
-                "Player-ID": 38226774,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الحاج",
-                "Player-Logo": "/assets/images/player-logo/?id=157455",
-                "Player-ID": 72047626,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "جاموس",
-                "Player-Logo": "/assets/images/player-logo/?id=157444",
-                "Player-ID": 72047614,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "موالي",
-                "Player-Logo": "/assets/images/player-logo/?id=192073",
-                "Player-ID": 75530416,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "راتب",
-                "Player-Logo": "/assets/images/player-logo/?id=13013",
-                "Player-ID": 607305,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "نياس",
-                "Player-Logo": "/assets/images/player-logo/?id=70585",
-                "Player-ID": 38956358,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "كزعر",
-                "Player-Logo": "/assets/images/player-logo/?id=139142",
-                "Player-ID": 70918463,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "داوود",
-                "Player-Logo": "/assets/images/player-logo/?id=83865",
-                "Player-ID": 53066366,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "معوض",
-                "Player-Logo": "/assets/images/player-logo/?id=201181",
-                "Player-ID": 77087910,
+                "Player-Name": "نيستوروفيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=202081",
+                "Player-ID": 77109322,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -2338,17 +2248,97 @@
                 "Player-Name": "نبهان",
                 "Player-Logo": "/assets/images/player-logo/?id=189341",
                 "Player-ID": 76777467,
-                "FieldLine": 0,
+                "FieldLine": 25,
+                "FieldSide": 0
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "معوض",
+                "Player-Logo": "/assets/images/player-logo/?id=201181",
+                "Player-ID": 77087910,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الحاج",
+                "Player-Logo": "/assets/images/player-logo/?id=157455",
+                "Player-ID": 72047626,
+                "FieldLine": 25,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "شلباية",
+                "Player-Logo": "/assets/images/player-logo/?id=72006",
+                "Player-ID": 38226774,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "داوود",
+                "Player-Logo": "/assets/images/player-logo/?id=83865",
+                "Player-ID": 53066366,
+                "FieldLine": 50,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "جاموس",
+                "Player-Logo": "/assets/images/player-logo/?id=157444",
+                "Player-ID": 72047614,
+                "FieldLine": 50,
+                "FieldSide": 80
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "كزعر",
+                "Player-Logo": "/assets/images/player-logo/?id=139142",
+                "Player-ID": 70918463,
+                "FieldLine": 75,
+                "FieldSide": 0
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "راتب",
+                "Player-Logo": "/assets/images/player-logo/?id=13013",
+                "Player-ID": 607305,
+                "FieldLine": 75,
                 "FieldSide": 50
               },
               {
-                "Position": "المدرب",
-                "Status": "Management",
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "نيستوروفيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=202081",
-                "Player-ID": 77109322,
-                "FieldLine": 0,
+                "Player-Name": "موالي",
+                "Player-Logo": "/assets/images/player-logo/?id=192073",
+                "Player-ID": 75530416,
+                "FieldLine": 75,
+                "FieldSide": 100
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "نياس",
+                "Player-Logo": "/assets/images/player-logo/?id=70585",
+                "Player-ID": 38956358,
+                "FieldLine": 100,
                 "FieldSide": 50
               }
             ]
@@ -7035,7 +7025,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T14:39:23.533Z",
+    "lastUpdated": "2025-08-19T14:40:21.309Z",
     "count": 27
   }
 }
