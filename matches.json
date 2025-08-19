@@ -1097,6 +1097,27 @@
             "Order": 11
           },
           {
+            "Event-Time": "65'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بارتلو",
+              "IMG": "/assets/images/player-logo/?id=96710",
+              "ID": 58437646,
+              "Extra": [
+                {
+                  "Name": "كارلوس",
+                  "IMG": "/assets/images/player-logo/?id=15784",
+                  "ID": 79162
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
             "Event-Time": "64'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -1111,27 +1132,6 @@
                   "Name": "كووالتشيك",
                   "IMG": "/assets/images/player-logo/?id=76585",
                   "ID": 42407805
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 12
-          },
-          {
-            "Event-Time": "64'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "بارتلو",
-              "IMG": "/assets/images/player-logo/?id=96710",
-              "ID": 58437646,
-              "Extra": [
-                {
-                  "Name": "كارلوس",
-                  "IMG": "/assets/images/player-logo/?id=15784",
-                  "ID": 79162
                 }
               ]
             },
@@ -19293,7 +19293,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-19T01:08:29.215Z",
+    "lastUpdated": "2025-08-19T01:09:23.608Z",
     "count": 27
   }
 }
