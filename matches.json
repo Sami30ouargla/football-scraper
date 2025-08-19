@@ -18372,7 +18372,7 @@
       },
       "Time-Start": "2025-08-19T01:00",
       "Time-End": "2025-08-19T03:00",
-      "Time-Now": 58,
+      "Time-Now": 59,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84-%D8%B6%D8%AF-%D9%83%D8%B1%D9%88%D8%B2%D9%8A%D8%B1%D9%88&id=4380432&date=2025-08-18",
       "matchDetails": {
@@ -18488,6 +18488,27 @@
             },
             "Place": "right",
             "Order": 5
+          },
+          {
+            "Event-Time": "58'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Negueba",
+              "IMG": "/assets/images/player-logo/?id=71309",
+              "ID": 226135,
+              "Extra": [
+                {
+                  "Name": "إدواردو",
+                  "IMG": "/assets/images/player-logo/?id=14577",
+                  "ID": 101675
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 6
           }
         ],
         "Match-Lineup": {
@@ -18502,6 +18523,16 @@
                 "Player-Name": "Walter",
                 "Player-Logo": "/assets/images/player-logo/?id=6936",
                 "Player-ID": 543250,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Negueba",
+                "Player-Logo": "/assets/images/player-logo/?id=71309",
+                "Player-ID": 226135,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -18572,16 +18603,6 @@
                 "Player-Name": "Alex",
                 "Player-Logo": "/assets/images/player-logo/?id=3345",
                 "Player-ID": 398769,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Negueba",
-                "Player-Logo": "/assets/images/player-logo/?id=71309",
-                "Player-ID": 226135,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -19004,7 +19025,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "والاس",
                 "Player-Logo": "/assets/images/player-logo/?id=3230",
                 "Player-ID": 483544,
@@ -19014,7 +19035,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.5,
                 "Player-Name": "واندرسون",
                 "Player-Logo": "/assets/images/player-logo/?id=1198",
                 "Player-ID": 397435,
@@ -19034,7 +19055,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "إدواردو",
                 "Player-Logo": "/assets/images/player-logo/?id=7709",
                 "Player-ID": 545444,
@@ -19044,7 +19065,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.4,
                 "Player-Name": "خورخي",
                 "Player-Logo": "/assets/images/player-logo/?id=64557",
                 "Player-ID": 9932355,
@@ -19059,7 +19080,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-19T00:23:23.965Z",
+    "lastUpdated": "2025-08-19T00:24:23.747Z",
     "count": 27
   }
 }
