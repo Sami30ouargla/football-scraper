@@ -9392,7 +9392,7 @@
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
-      "Time-Now": 99,
+      "Time-Now": 100,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A&id=4506642&date=2025-08-19",
       "matchDetails": {
@@ -9738,27 +9738,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "إيزاك",
-              "IMG": "/assets/images/player-logo/?id=204392",
-              "ID": 77183365,
-              "Extra": [
-                {
-                  "Name": "الديب",
-                  "IMG": "/assets/images/player-logo/?id=51676",
-                  "ID": 1840806
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 18
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "عبدالغني",
               "IMG": "/assets/images/player-logo/?id=80147",
               "ID": 50572843,
@@ -9771,7 +9750,7 @@
               ]
             },
             "Place": "right",
-            "Order": 19
+            "Order": 18
           },
           {
             "Event-Time": "90'",
@@ -9788,6 +9767,27 @@
                   "Name": "إيبوكا",
                   "IMG": "/assets/images/player-logo/?id=87847",
                   "ID": 55328189
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 19
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "إيزاك",
+              "IMG": "/assets/images/player-logo/?id=204392",
+              "ID": 77183365,
+              "Extra": [
+                {
+                  "Name": "الديب",
+                  "IMG": "/assets/images/player-logo/?id=51676",
+                  "ID": 1840806
                 }
               ]
             },
@@ -10310,8 +10310,8 @@
       "Team-Left": {
         "Name": "غودالاخارا",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=8577",
-        "Goal": 1,
-        "Penalty": 1
+        "Goal": 2,
+        "Penalty": 2
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
@@ -10333,7 +10333,7 @@
             "Name": "غودالاخارا",
             "Color": "#FFCC00",
             "Logo": "/assets/images/team-logo/?id=8577",
-            "Goal": 1
+            "Goal": 2
           },
           "Date": "2025-08-19",
           "Time": "18:00",
@@ -10382,7 +10382,7 @@
       },
       "Time-Start": "2025-08-19T18:45",
       "Time-End": "2025-08-19T20:45",
-      "Time-Now": 57,
+      "Time-Now": 58,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B1%D8%A7%D9%86%D9%85%D9%8A%D8%B1-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%AA%D9%88%D9%86&id=4465596&date=2025-08-19",
       "matchDetails": {
@@ -10603,7 +10603,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.3,
                 "Player-Name": "Smith",
                 "Player-Logo": "/assets/images/player-logo/?id=138395",
                 "Player-ID": 61408209,
@@ -10613,7 +10613,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Lowe",
                 "Player-Logo": "/assets/images/player-logo/?id=3950",
                 "Player-ID": 534127,
@@ -10643,7 +10643,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.9,
                 "Player-Name": "بلاكر",
                 "Player-Logo": "/assets/images/player-logo/?id=152787",
                 "Player-ID": 71521943,
@@ -10653,7 +10653,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.7,
                 "Player-Name": "C. Norman",
                 "Player-Logo": "/assets/images/player-logo/?id=143571",
                 "Player-ID": 70839898,
@@ -10673,7 +10673,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 7.8,
                 "Player-Name": "C. Whitaker",
                 "Player-Logo": "/assets/images/player-logo/?id=195879",
                 "Player-ID": 76950636,
@@ -10699,7 +10699,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.2,
                 "Player-Name": "Dudek",
                 "Player-Logo": "/assets/images/player-logo/?id=193698",
                 "Player-ID": 76792896,
@@ -10869,7 +10869,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.4,
                 "Player-Name": "B. Whitfield",
                 "Player-Logo": "/assets/images/player-logo/?id=143560",
                 "Player-ID": 64927857,
@@ -13933,7 +13933,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T19:59:14.056Z",
+    "lastUpdated": "2025-08-19T20:00:16.867Z",
     "count": 28
   }
 }
