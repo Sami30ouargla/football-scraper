@@ -1192,7 +1192,7 @@
           },
           {
             "Event-Time": "67'",
-            "Event-Name": "تأخير",
+            "Event-Name": "VAR - الهدف الغي",
             "Event-Logo": "/assets/images/event-logo/?id=11&subType=25",
             "Event-SubType-Id": 25,
             "Event-SubType-Name": "Var",
@@ -9568,7 +9568,7 @@
           },
           {
             "Event-Time": "77'",
-            "Event-Name": "تأخير",
+            "Event-Name": "VAR - الهدف الغي",
             "Event-Logo": "/assets/images/event-logo/?id=11&subType=25",
             "Event-SubType-Id": 25,
             "Event-SubType-Name": "Var",
@@ -12523,7 +12523,7 @@
           },
           {
             "Event-Time": "80'",
-            "Event-Name": "تأخير",
+            "Event-Name": "VAR - الهدف الغي",
             "Event-Logo": "/assets/images/event-logo/?id=11&subType=25",
             "Event-SubType-Id": 25,
             "Event-SubType-Name": "Var",
@@ -14096,7 +14096,7 @@
           },
           {
             "Event-Time": "31'",
-            "Event-Name": "تأخير",
+            "Event-Name": "VAR - الهدف الغي",
             "Event-Logo": "/assets/images/event-logo/?id=11&subType=25",
             "Event-SubType-Id": 25,
             "Event-SubType-Name": "Var",
@@ -14815,7 +14815,7 @@
       },
       "Time-Start": "2025-08-19T22:00",
       "Time-End": "2025-08-20T00:00",
-      "Time-Now": 83,
+      "Time-Now": 84,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D9%84%D9%8A%D8%B2-%D8%B3%D8%A7%D8%B1%D8%B3%D9%81%D9%8A%D9%84%D8%AF-%D8%B6%D8%AF-%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7&id=4443285&date=2025-08-19",
       "matchDetails": {
@@ -14945,27 +14945,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Herrera",
-              "IMG": "/assets/images/player-logo/?id=113447",
-              "ID": 65930705,
-              "Extra": [
-                {
-                  "Name": "لوبيز",
-                  "IMG": "/assets/images/player-logo/?id=42177",
-                  "ID": 154142
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 6
-          },
-          {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "Lucero",
               "IMG": "/assets/images/player-logo/?id=8407",
               "ID": 478479,
@@ -14978,7 +14957,7 @@
               ]
             },
             "Place": "right",
-            "Order": 7
+            "Order": 6
           },
           {
             "Event-Time": "46'",
@@ -14995,6 +14974,27 @@
                   "Name": "مارينيو",
                   "IMG": "/assets/images/player-logo/?id=26876",
                   "ID": 888354
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 7
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Herrera",
+              "IMG": "/assets/images/player-logo/?id=113447",
+              "ID": 65930705,
+              "Extra": [
+                {
+                  "Name": "لوبيز",
+                  "IMG": "/assets/images/player-logo/?id=42177",
+                  "ID": 154142
                 }
               ]
             },
@@ -15170,7 +15170,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "Andrada",
                 "Player-Logo": "/assets/images/player-logo/?id=204195",
                 "Player-ID": 77148046,
@@ -15370,7 +15370,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.3,
                 "Player-Name": "Gordon",
                 "Player-Logo": "/assets/images/player-logo/?id=175935",
                 "Player-ID": 75376039,
@@ -15466,7 +15466,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Herrera",
                 "Player-Logo": "/assets/images/player-logo/?id=113447",
                 "Player-ID": 65930705,
@@ -15496,7 +15496,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "بيكاتشو",
                 "Player-Logo": "/assets/images/player-logo/?id=39892",
                 "Player-ID": 383656,
@@ -15741,7 +15741,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T23:40:22.175Z",
+    "lastUpdated": "2025-08-19T23:41:21.484Z",
     "count": 28
   }
 }
