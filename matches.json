@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T14:00",
       "Time-End": "2025-08-19T16:00",
-      "Time-Now": 23,
+      "Time-Now": 24,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1123,6 +1123,21 @@
             },
             "Place": "right",
             "Order": 2
+          },
+          {
+            "Event-Time": "24'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ماني",
+              "IMG": "/assets/images/player-logo/?id=7914",
+              "ID": 357281,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 3
           }
         ],
         "Match-Lineup": {
@@ -6454,7 +6469,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T12:25:24.049Z",
+    "lastUpdated": "2025-08-19T12:26:24.644Z",
     "count": 27
   }
 }
