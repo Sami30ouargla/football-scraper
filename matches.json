@@ -6180,7 +6180,7 @@
       },
       "Time-Start": "2025-08-19T17:00",
       "Time-End": "2025-08-19T19:00",
-      "Time-Now": 90,
+      "Time-Now": 92,
       "Match-Status": "الشوط الثاني",
       "Group": "المجموعة د",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D9%88&id=4465624&date=2025-08-19",
@@ -6193,7 +6193,7 @@
             "Name": "نيجيريا",
             "Color": "#80FF00",
             "Logo": "/assets/images/team-logo/?id=2386",
-            "Goal": 1
+            "Goal": 2
           },
           "Team-Left": {
             "Name": "جمهورية الكونغو",
@@ -6254,21 +6254,6 @@
             "Order": 2
           },
           {
-            "Event-Time": "37'",
-            "Event-Name": "بطاقة حمراء",
-            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "Manyo",
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 77367259,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 3
-          },
-          {
             "Event-Time": "39'",
             "Event-Name": "بطاقة صفراء",
             "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
@@ -6281,7 +6266,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 4
+            "Order": 3
           },
           {
             "Event-Time": "42'",
@@ -6296,7 +6281,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 5
+            "Order": 4
           },
           {
             "Event-Time": "56'",
@@ -6317,7 +6302,7 @@
               ]
             },
             "Place": "left",
-            "Order": 6
+            "Order": 5
           },
           {
             "Event-Time": "61'",
@@ -6332,7 +6317,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 7
+            "Order": 6
           },
           {
             "Event-Time": "66'",
@@ -6353,7 +6338,7 @@
               ]
             },
             "Place": "right",
-            "Order": 8
+            "Order": 7
           },
           {
             "Event-Time": "66'",
@@ -6374,7 +6359,7 @@
               ]
             },
             "Place": "right",
-            "Order": 9
+            "Order": 8
           },
           {
             "Event-Time": "77'",
@@ -6389,7 +6374,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 10
+            "Order": 9
           },
           {
             "Event-Time": "81'",
@@ -6404,7 +6389,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 11
+            "Order": 10
           },
           {
             "Event-Time": "82'",
@@ -6425,7 +6410,7 @@
               ]
             },
             "Place": "right",
-            "Order": 12
+            "Order": 11
           },
           {
             "Event-Time": "88'",
@@ -6440,7 +6425,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 13
+            "Order": 12
           },
           {
             "Event-Time": "89'",
@@ -6461,6 +6446,21 @@
               ]
             },
             "Place": "left",
+            "Order": 13
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "بطاقة حمراء",
+            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أتيبو",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 72841211,
+              "Extra": []
+            },
+            "Place": "right",
             "Order": 14
           }
         ],
@@ -6868,7 +6868,7 @@
               {
                 "Position": "N/A",
                 "Status": "Starting",
-                "Ranking": 6.1,
+                "Ranking": 5.3,
                 "Player-Name": "أتيبو",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 72841211,
@@ -7215,6 +7215,48 @@
             },
             "Place": "right",
             "Order": 10
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الرشيد",
+              "IMG": "/assets/images/player-logo/?id=101652",
+              "ID": 52018583,
+              "Extra": [
+                {
+                  "Name": "يعقوب",
+                  "IMG": "/assets/images/player-logo/?id=105987",
+                  "ID": 64685713
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 11
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الله",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77366943,
+              "Extra": [
+                {
+                  "Name": "حسين",
+                  "IMG": "/assets/images/player-logo/?id=190060",
+                  "ID": 76798000
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 12
           }
         ],
         "Match-Lineup": {
@@ -7235,6 +7277,26 @@
               {
                 "Position": "N/A",
                 "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الله",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77366943,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الرشيد",
+                "Player-Logo": "/assets/images/player-logo/?id=101652",
+                "Player-ID": 52018583,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
                 "Ranking": 6.1,
                 "Player-Name": "أسد",
                 "Player-Logo": "/assets/images/unknown-user.png",
@@ -7249,16 +7311,6 @@
                 "Player-Name": "زايد",
                 "Player-Logo": "/assets/images/player-logo/?id=113134",
                 "Player-ID": 65367693,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "N/A",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الله",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77366943,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -7339,16 +7391,6 @@
                 "Player-Name": "عبدالله",
                 "Player-Logo": "/assets/images/player-logo/?id=90470",
                 "Player-ID": 53101862,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الرشيد",
-                "Player-Logo": "/assets/images/player-logo/?id=101652",
-                "Player-ID": 52018583,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -7730,7 +7772,7 @@
       },
       "Time-Start": "2025-08-19T17:30",
       "Time-End": "2025-08-19T19:30",
-      "Time-Now": 67,
+      "Time-Now": 68,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D8%A7-%D8%B6%D8%AF-%D9%84%D8%B1%D9%88%D9%83%D8%A7-%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88&id=4530083&date=2025-08-19",
       "matchDetails": {
@@ -7797,7 +7839,7 @@
       },
       "Time-Start": "2025-08-19T17:45",
       "Time-End": "2025-08-19T19:45",
-      "Time-Now": 51,
+      "Time-Now": 52,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D8%A5%D8%B1%D8%A8%D8%AF-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B1%D9%85%D8%AB%D8%A7&id=4506147&date=2025-08-19",
       "matchDetails": {
@@ -8295,7 +8337,7 @@
                 "FieldSide": 100
               },
               {
-                "Position": "لاعب الوسط المهاجم",
+                "Position": "المهاجم الصريح",
                 "Status": "Starting",
                 "Ranking": "N/A",
                 "Player-Name": "أوسيني",
@@ -9620,7 +9662,7 @@
       },
       "Time-Start": "2025-08-19T18:45",
       "Time-End": "2025-08-19T20:45",
-      "Time-Now": 7,
+      "Time-Now": 8,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B1%D8%A7%D9%86%D9%85%D9%8A%D8%B1-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%AA%D9%88%D9%86&id=4465596&date=2025-08-19",
       "matchDetails": {
@@ -12930,7 +12972,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T18:52:16.106Z",
+    "lastUpdated": "2025-08-19T18:53:24.287Z",
     "count": 28
   }
 }
