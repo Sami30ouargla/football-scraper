@@ -8802,6 +8802,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "إيزاك",
+              "IMG": "/assets/images/player-logo/?id=204392",
+              "ID": 77183365,
+              "Extra": [
+                {
+                  "Name": "الديب",
+                  "IMG": "/assets/images/player-logo/?id=51676",
+                  "ID": 1840806
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "عبدالغني",
               "IMG": "/assets/images/player-logo/?id=80147",
               "ID": 50572843,
@@ -8814,7 +8835,7 @@
               ]
             },
             "Place": "right",
-            "Order": 17
+            "Order": 18
           },
           {
             "Event-Time": "90'",
@@ -8831,27 +8852,6 @@
                   "Name": "إيبوكا",
                   "IMG": "/assets/images/player-logo/?id=87847",
                   "ID": 55328189
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 18
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "إيزاك",
-              "IMG": "/assets/images/player-logo/?id=204392",
-              "ID": 77183365,
-              "Extra": [
-                {
-                  "Name": "الديب",
-                  "IMG": "/assets/images/player-logo/?id=51676",
-                  "ID": 1840806
                 }
               ]
             },
@@ -14815,7 +14815,7 @@
       },
       "Time-Start": "2025-08-19T22:00",
       "Time-End": "2025-08-20T00:00",
-      "Time-Now": 16,
+      "Time-Now": 17,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D9%84%D9%8A%D8%B2-%D8%B3%D8%A7%D8%B1%D8%B3%D9%81%D9%8A%D9%84%D8%AF-%D8%B6%D8%AF-%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7&id=4443285&date=2025-08-19",
       "matchDetails": {
@@ -15477,7 +15477,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T22:16:19.507Z",
+    "lastUpdated": "2025-08-19T22:17:19.510Z",
     "count": 28
   }
 }
