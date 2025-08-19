@@ -953,6 +953,21 @@
             },
             "Place": "right",
             "Order": 2
+          },
+          {
+            "Event-Time": "45'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "Mcgarry",
+              "IMG": "/assets/images/player-logo/?id=60284",
+              "ID": 9074373,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 3
           }
         ],
         "Match-Lineup": {
@@ -1594,7 +1609,7 @@
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "محمد سيد",
+                "Player-Name": "السيد",
                 "Player-Logo": "/assets/images/player-logo/?id=55502",
                 "Player-ID": 615059,
                 "FieldLine": 0,
@@ -6111,7 +6126,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T10:29:22.949Z",
+    "lastUpdated": "2025-08-19T10:30:23.423Z",
     "count": 27
   }
 }
