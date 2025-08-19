@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T12:00",
       "Time-End": "2025-08-19T14:00",
-      "Time-Now": 75,
+      "Time-Now": 76,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1204,6 +1204,21 @@
             },
             "Place": "left",
             "Order": 7
+          },
+          {
+            "Event-Time": "72'",
+            "Event-Name": "Woodwork",
+            "Event-Logo": "/assets/images/event-logo/?id=12&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فيليكس",
+              "IMG": "/assets/images/player-logo/?id=60596",
+              "ID": 8863274,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -1384,7 +1399,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "يحيى",
                 "Player-Logo": "/assets/images/player-logo/?id=70696",
                 "Player-ID": 38873431,
@@ -1434,7 +1449,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 8,
                 "Player-Name": "بروزوفيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=68",
                 "Player-ID": 349465,
@@ -1464,7 +1479,7 @@
               {
                 "Position": "المهاجم المتأخر",
                 "Status": "Starting",
-                "Ranking": 7.9,
+                "Ranking": 7.8,
                 "Player-Name": "فيليكس",
                 "Player-Logo": "/assets/images/player-logo/?id=60596",
                 "Player-ID": 8863274,
@@ -2018,7 +2033,7 @@
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "محمد سيد",
+                "Player-Name": "السيد",
                 "Player-Logo": "/assets/images/player-logo/?id=55502",
                 "Player-ID": 615059,
                 "FieldLine": 0,
@@ -6535,7 +6550,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:41:23.587Z",
+    "lastUpdated": "2025-08-19T13:42:21.366Z",
     "count": 27
   }
 }
