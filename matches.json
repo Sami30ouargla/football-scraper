@@ -3200,7 +3200,7 @@
             "Order": 2
           },
           {
-            "Event-Time": "37'",
+            "Event-Time": "39'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -3227,14 +3227,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "زولا",
-              "IMG": "/assets/images/player-logo/?id=55490",
-              "ID": 6425046,
+              "Name": "ديلسون",
+              "IMG": "/assets/images/player-logo/?id=119933",
+              "ID": 66097931,
               "Extra": [
                 {
-                  "Name": "محارب",
-                  "IMG": "/assets/images/player-logo/?id=50180",
-                  "ID": 509172
+                  "Name": "الجابري",
+                  "IMG": "/assets/images/player-logo/?id=189072",
+                  "ID": 76770033
                 }
               ]
             },
@@ -3248,14 +3248,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ديلسون",
-              "IMG": "/assets/images/player-logo/?id=119933",
-              "ID": 66097931,
+              "Name": "زولا",
+              "IMG": "/assets/images/player-logo/?id=55490",
+              "ID": 6425046,
               "Extra": [
                 {
-                  "Name": "الجابري",
-                  "IMG": "/assets/images/player-logo/?id=189072",
-                  "ID": 76770033
+                  "Name": "محارب",
+                  "IMG": "/assets/images/player-logo/?id=50180",
+                  "ID": 509172
                 }
               ]
             },
@@ -3362,14 +3362,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بوصقو",
-              "IMG": "/assets/images/player-logo/?id=68705",
-              "ID": 15504992,
+              "Name": "مصطفى",
+              "IMG": "/assets/images/player-logo/?id=102034",
+              "ID": 62887440,
               "Extra": [
                 {
-                  "Name": "محمد سيد",
-                  "IMG": "/assets/images/player-logo/?id=55502",
-                  "ID": 615059
+                  "Name": "حسين",
+                  "IMG": "/assets/images/player-logo/?id=218724",
+                  "ID": 77379658
                 }
               ]
             },
@@ -3383,14 +3383,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "مصطفى",
-              "IMG": "/assets/images/player-logo/?id=102034",
-              "ID": 62887440,
+              "Name": "بوصقو",
+              "IMG": "/assets/images/player-logo/?id=68705",
+              "ID": 15504992,
               "Extra": [
                 {
-                  "Name": "حسين",
-                  "IMG": "/assets/images/player-logo/?id=218724",
-                  "ID": 77379658
+                  "Name": "محمد سيد",
+                  "IMG": "/assets/images/player-logo/?id=55502",
+                  "ID": 615059
                 }
               ]
             },
@@ -6987,7 +6987,7 @@
       },
       "Time-Start": "2025-08-19T17:00",
       "Time-End": "2025-08-19T19:00",
-      "Time-Now": 90,
+      "Time-Now": 91,
       "Match-Status": "الشوط الثاني",
       "Group": "المجموعة د",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84&id=4465626&date=2025-08-19",
@@ -7173,6 +7173,48 @@
             },
             "Place": "right",
             "Order": 8
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Niang",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77344003,
+              "Extra": [
+                {
+                  "Name": "Ba",
+                  "IMG": "/assets/images/unknown-user.png",
+                  "ID": 77382614
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 9
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Fonseca",
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77344028,
+              "Extra": [
+                {
+                  "Name": "Cisse",
+                  "IMG": "/assets/images/unknown-user.png",
+                  "ID": 77343998
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 10
           }
         ],
         "Match-Lineup": {
@@ -7450,6 +7492,26 @@
                 "Position": "N/A",
                 "Status": "Substitute",
                 "Ranking": -1,
+                "Player-Name": "Fonseca",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77344028,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Niang",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77344003,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Substitute",
+                "Ranking": -1,
                 "Player-Name": "Sarr",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77344033,
@@ -7500,16 +7562,6 @@
                 "Position": "N/A",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Fonseca",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77344028,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "N/A",
-                "Status": "Substitute",
-                "Ranking": "N/A",
                 "Player-Name": "Kane",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77344029,
@@ -7543,16 +7595,6 @@
                 "Player-Name": "Ndiaye",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77367245,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "N/A",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Niang",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77344003,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -7688,7 +7730,7 @@
       },
       "Time-Start": "2025-08-19T17:30",
       "Time-End": "2025-08-19T19:30",
-      "Time-Now": 66,
+      "Time-Now": 67,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D8%A7-%D8%B6%D8%AF-%D9%84%D8%B1%D9%88%D9%83%D8%A7-%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88&id=4530083&date=2025-08-19",
       "matchDetails": {
@@ -7755,7 +7797,7 @@
       },
       "Time-Start": "2025-08-19T17:45",
       "Time-End": "2025-08-19T19:45",
-      "Time-Now": 50,
+      "Time-Now": 51,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D8%A5%D8%B1%D8%A8%D8%AF-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B1%D9%85%D8%AB%D8%A7&id=4506147&date=2025-08-19",
       "matchDetails": {
@@ -9444,8 +9486,8 @@
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
-      "Time-Now": 46,
-      "Match-Status": "الشوط الأول",
+      "Time-Now": 45,
+      "Match-Status": "شوط",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%83%D9%8A%D9%86%D8%AA%D8%A7%D9%86%D8%AA%D8%A7%D8%B1-%D8%AF%D9%8A%D9%84-%D8%B1%D9%8A-%D8%B6%D8%AF-%D8%B1%D9%8A%D8%A7%D9%84-%D8%AC%D9%8A%D8%A7%D9%86&id=4528278&date=2025-08-19",
       "matchDetails": {
         "Match-Card": {
@@ -9467,7 +9509,7 @@
           "Date": "2025-08-19",
           "Time": "18:00",
           "Time-Zone": -120,
-          "Status": "الشوط الأول",
+          "Status": "شوط",
           "Round": null,
           "Group": null
         },
@@ -9511,8 +9553,8 @@
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
-      "Time-Now": 48,
-      "Match-Status": "الشوط الأول",
+      "Time-Now": 45,
+      "Match-Status": "شوط",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%A7%D8%B1%D8%B4%D8%A7%D9%85%D9%8A%D9%84%D9%88-%D8%B6%D8%AF-%D8%BA%D9%88%D8%AF%D8%A7%D9%84%D8%A7%D8%AE%D8%A7%D8%B1%D8%A7&id=4528279&date=2025-08-19",
       "matchDetails": {
         "Match-Card": {
@@ -9534,7 +9576,7 @@
           "Date": "2025-08-19",
           "Time": "18:00",
           "Time-Zone": -120,
-          "Status": "الشوط الأول",
+          "Status": "شوط",
           "Round": null,
           "Group": null
         },
@@ -9578,7 +9620,7 @@
       },
       "Time-Start": "2025-08-19T18:45",
       "Time-End": "2025-08-19T20:45",
-      "Time-Now": 6,
+      "Time-Now": 7,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B1%D8%A7%D9%86%D9%85%D9%8A%D8%B1-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%AA%D9%88%D9%86&id=4465596&date=2025-08-19",
       "matchDetails": {
@@ -12888,7 +12930,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T18:51:15.309Z",
+    "lastUpdated": "2025-08-19T18:52:16.106Z",
     "count": 28
   }
 }
