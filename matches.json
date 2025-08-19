@@ -9738,13 +9738,28 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "ثروت",
+              "IMG": "/assets/images/player-logo/?id=52009",
+              "ID": 4225351,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 19
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "سامى",
               "IMG": "/assets/images/player-logo/?id=51608",
               "ID": 1337924,
               "Extra": []
             },
             "Place": "right",
-            "Order": 19
+            "Order": 20
           }
         ],
         "Match-Lineup": {
@@ -9755,7 +9770,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "ثروت",
                 "Player-Logo": "/assets/images/player-logo/?id=52009",
                 "Player-ID": 4225351,
@@ -9895,7 +9910,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "المحمدى",
                 "Player-Logo": "/assets/images/player-logo/?id=51519",
                 "Player-ID": 3391226,
@@ -9915,7 +9930,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 6.9,
                 "Player-Name": "مخلوف",
                 "Player-Logo": "/assets/images/player-logo/?id=61913",
                 "Player-ID": 9390390,
@@ -9981,7 +9996,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "الشناوي",
                 "Player-Logo": "/assets/images/player-logo/?id=49592",
                 "Player-ID": 3487215,
@@ -10151,7 +10166,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 5.9,
+                "Ranking": 6.2,
                 "Player-Name": "الشيبي",
                 "Player-Logo": "/assets/images/player-logo/?id=87904",
                 "Player-ID": 50901470,
@@ -10171,7 +10186,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.5,
                 "Player-Name": "قطة",
                 "Player-Logo": "/assets/images/player-logo/?id=122042",
                 "Player-ID": 67115302,
@@ -10181,7 +10196,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 7.6,
                 "Player-Name": "إيفرتون",
                 "Player-Logo": "/assets/images/player-logo/?id=82856",
                 "Player-ID": 47101725,
@@ -10327,7 +10342,7 @@
             "Name": "غودالاخارا",
             "Color": "#FFCC00",
             "Logo": "/assets/images/team-logo/?id=8577",
-            "Goal": 3
+            "Goal": 4
           },
           "Date": "2025-08-19",
           "Time": "18:00",
@@ -10376,7 +10391,7 @@
       },
       "Time-Start": "2025-08-19T18:45",
       "Time-End": "2025-08-19T20:45",
-      "Time-Now": 61,
+      "Time-Now": 62,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B1%D8%A7%D9%86%D9%85%D9%8A%D8%B1-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%AA%D9%88%D9%86&id=4465596&date=2025-08-19",
       "matchDetails": {
@@ -10458,7 +10473,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -10698,7 +10713,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "Jennings",
                 "Player-Logo": "/assets/images/player-logo/?id=143491",
                 "Player-ID": 70773347,
@@ -12187,7 +12202,7 @@
           "Date": "2025-08-19",
           "Time": "19:00",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": null,
           "Group": null
         },
@@ -12220,6 +12235,27 @@
             },
             "Place": "left",
             "Order": 1
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "زاكارياسين",
+              "IMG": "/assets/images/player-logo/?id=61536",
+              "ID": 494280,
+              "Extra": [
+                {
+                  "Name": "أوتفوس",
+                  "IMG": "/assets/images/player-logo/?id=87824",
+                  "ID": 55051123
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
@@ -12234,6 +12270,16 @@
                 "Player-Name": "ديبسوز",
                 "Player-Logo": "/assets/images/player-logo/?id=9150",
                 "Player-ID": 484463,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "زاكارياسين",
+                "Player-Logo": "/assets/images/player-logo/?id=61536",
+                "Player-ID": 494280,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -12348,16 +12394,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "زاكارياسين",
-                "Player-Logo": "/assets/images/player-logo/?id=61536",
-                "Player-ID": 494280,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
@@ -12370,7 +12406,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6.8,
                 "Player-Name": "سالاي",
                 "Player-Logo": "/assets/images/player-logo/?id=133485",
                 "Player-ID": 68356307,
@@ -12460,7 +12496,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.3,
                 "Player-Name": "جوزيف",
                 "Player-Logo": "/assets/images/player-logo/?id=100500",
                 "Player-ID": 61462957,
@@ -12646,7 +12682,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "سيلفا",
                 "Player-Logo": "/assets/images/player-logo/?id=57770",
                 "Player-ID": 910018,
@@ -12676,7 +12712,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7.2,
                 "Player-Name": "زبير",
                 "Player-Logo": "/assets/images/player-logo/?id=60365",
                 "Player-ID": 889219,
@@ -13948,7 +13984,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T20:03:14.928Z",
+    "lastUpdated": "2025-08-19T20:04:14.021Z",
     "count": 28
   }
 }
