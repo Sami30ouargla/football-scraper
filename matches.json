@@ -1997,7 +1997,7 @@
       },
       "Time-Start": "2025-08-19T15:00",
       "Time-End": "2025-08-19T17:00",
-      "Time-Now": 13,
+      "Time-Now": 14,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%81%D9%8A%D8%B5%D9%84%D9%8A-%D8%B6%D8%AF-%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86&id=4506148&date=2025-08-19",
       "matchDetails": {
@@ -2617,7 +2617,7 @@
       },
       "Time-Start": "2025-08-19T15:00",
       "Time-End": "2025-08-19T17:00",
-      "Time-Now": 13,
+      "Time-Now": 14,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D8%A7%D8%B1%D9%83%D9%88-%D8%B6%D8%AF-%D8%B7%D9%84%D8%A7%D8%A6%D8%B9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4&id=4506640&date=2025-08-19",
       "matchDetails": {
@@ -3122,7 +3122,7 @@
       },
       "Time-Start": "2025-08-19T15:00",
       "Time-End": "2025-08-19T17:00",
-      "Time-Now": 13,
+      "Time-Now": 14,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A-%D8%B6%D8%AF-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A%D8%A9&id=4506641&date=2025-08-19",
       "matchDetails": {
@@ -3377,7 +3377,7 @@
           },
           "Away-Team": {
             "Team-Name": "كهرباء الاسماعيلية",
-            "Formation": "3-5-2",
+            "Formation": "4-4-2",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -3386,6 +3386,16 @@
                 "Player-Name": "الجابري",
                 "Player-Logo": "/assets/images/player-logo/?id=126100",
                 "Player-ID": 67666241,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "مامادو",
+                "Player-Logo": "/assets/images/player-logo/?id=217993",
+                "Player-ID": 77358837,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -3460,16 +3470,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "وسط دفاعي",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "مامادو",
-                "Player-Logo": "/assets/images/player-logo/?id=217993",
-                "Player-ID": 77358837,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -3497,7 +3497,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=217991",
                 "Player-ID": 77358822,
                 "FieldLine": 33,
-                "FieldSide": 25
+                "FieldSide": 0
               },
               {
                 "Position": "قلب الدفاع",
@@ -3507,7 +3507,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=125698",
                 "Player-ID": 67665342,
                 "FieldLine": 33,
-                "FieldSide": 50
+                "FieldSide": 33
               },
               {
                 "Position": "قلب الدفاع",
@@ -3517,15 +3517,25 @@
                 "Player-Logo": "/assets/images/player-logo/?id=217990",
                 "Player-ID": 77358812,
                 "FieldLine": 33,
-                "FieldSide": 75
+                "FieldSide": 66
               },
               {
-                "Position": "لاعب الوسط المحور",
+                "Position": "مهاجم أيمن",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "هاني",
-                "Player-Logo": "/assets/images/player-logo/?id=106877",
-                "Player-ID": 65005644,
+                "Player-Name": "كشري",
+                "Player-Logo": "/assets/images/player-logo/?id=218022",
+                "Player-ID": 77359007,
+                "FieldLine": 33,
+                "FieldSide": 100
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "سليمان",
+                "Player-Logo": "/assets/images/player-logo/?id=218420",
+                "Player-ID": 38354260,
                 "FieldLine": 66,
                 "FieldSide": 0
               },
@@ -3537,27 +3547,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=140630",
                 "Player-ID": 70951992,
                 "FieldLine": 66,
-                "FieldSide": 25
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "كشري",
-                "Player-Logo": "/assets/images/player-logo/?id=218022",
-                "Player-ID": 77359007,
-                "FieldLine": 66,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "مارادونا",
-                "Player-Logo": "/assets/images/player-logo/?id=218036",
-                "Player-ID": 77359206,
-                "FieldLine": 66,
-                "FieldSide": 75
+                "FieldSide": 33
               },
               {
                 "Position": "لاعب الوسط المحور",
@@ -3567,15 +3557,25 @@
                 "Player-Logo": "/assets/images/player-logo/?id=108499",
                 "Player-ID": 65102433,
                 "FieldLine": 66,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "مارادونا",
+                "Player-Logo": "/assets/images/player-logo/?id=218036",
+                "Player-ID": 77359206,
+                "FieldLine": 66,
                 "FieldSide": 100
               },
               {
-                "Position": "المهاجم الصريح",
+                "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "سليمان",
-                "Player-Logo": "/assets/images/player-logo/?id=218420",
-                "Player-ID": 38354260,
+                "Player-Name": "هاني",
+                "Player-Logo": "/assets/images/player-logo/?id=106877",
+                "Player-ID": 65005644,
                 "FieldLine": 99,
                 "FieldSide": 25
               },
@@ -3611,7 +3611,7 @@
       },
       "Time-Start": "2025-08-19T15:05",
       "Time-End": "2025-08-19T17:05",
-      "Time-Now": 4,
+      "Time-Now": 5,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%B3%D9%8A%D8%A8-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AE%D8%A7%D8%A8%D9%88%D8%B1%D8%A9&id=4506425&date=2025-08-19",
       "matchDetails": {
@@ -7295,7 +7295,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T15:13:15.437Z",
+    "lastUpdated": "2025-08-19T15:14:22.586Z",
     "count": 27
   }
 }
