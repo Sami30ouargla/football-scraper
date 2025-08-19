@@ -5448,7 +5448,7 @@
       },
       "Time-Start": "2025-08-19T16:00",
       "Time-End": "2025-08-19T18:00",
-      "Time-Now": 86,
+      "Time-Now": 87,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Chadormalu-Sc-%D8%B6%D8%AF-%D9%81%D9%88%D9%84%D8%A7%D8%AF&id=4509335&date=2025-08-19",
       "matchDetails": {
@@ -5757,7 +5757,7 @@
       },
       "Time-Start": "2025-08-19T16:15",
       "Time-End": "2025-08-19T18:15",
-      "Time-Now": 76,
+      "Time-Now": 77,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%84%D8%A7%D9%81%D8%A7%D9%86-%D8%B6%D8%AF-%D8%B3%D8%A8%D8%A7%D9%87%D8%A7%D9%86&id=4509333&date=2025-08-19",
       "matchDetails": {
@@ -6790,6 +6790,21 @@
             },
             "Place": "right",
             "Order": 1
+          },
+          {
+            "Event-Time": "26'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "سيمبو",
+              "IMG": "/assets/images/player-logo/?id=161040",
+              "ID": 77382860,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
@@ -7363,7 +7378,7 @@
       "Team-Right": {
         "Name": "ديبورتيفو مينيرا",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=17992",
-        "Goal": 1
+        "Goal": 2
       },
       "Team-Left": {
         "Name": "لروكا ديبورتيفو",
@@ -7372,7 +7387,7 @@
       },
       "Time-Start": "2025-08-19T17:30",
       "Time-End": "2025-08-19T19:30",
-      "Time-Now": 25,
+      "Time-Now": 26,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D8%A7-%D8%B6%D8%AF-%D9%84%D8%B1%D9%88%D9%83%D8%A7-%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88&id=4530083&date=2025-08-19",
       "matchDetails": {
@@ -7384,7 +7399,7 @@
             "Name": "ديبورتيفو مينيرا",
             "Color": "#7f97ab",
             "Logo": "/assets/images/team-logo/?id=17992",
-            "Goal": 1
+            "Goal": 2
           },
           "Team-Left": {
             "Name": "لروكا ديبورتيفو",
@@ -7439,7 +7454,7 @@
       },
       "Time-Start": "2025-08-19T17:45",
       "Time-End": "2025-08-19T19:45",
-      "Time-Now": 8,
+      "Time-Now": 9,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D8%A5%D8%B1%D8%A8%D8%AF-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B1%D9%85%D8%AB%D8%A7&id=4506147&date=2025-08-19",
       "matchDetails": {
@@ -9199,115 +9214,15 @@
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "ترانمير روفرز",
-            "Formation": "",
+            "Formation": "3-4-1-2",
             "Team": [
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "بلاكر",
-                "Player-Logo": "/assets/images/player-logo/?id=152787",
-                "Player-ID": 71521943,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "E. Bristow",
-                "Player-Logo": "/assets/images/player-logo/?id=80567",
-                "Player-ID": 50957016,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Dennis",
-                "Player-Logo": "/assets/images/player-logo/?id=80217",
-                "Player-ID": 50676580,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Jennings",
-                "Player-Logo": "/assets/images/player-logo/?id=143491",
-                "Player-ID": 70773347,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Lowe",
-                "Player-Logo": "/assets/images/player-logo/?id=3950",
-                "Player-ID": 534127,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
                 "Ranking": "N/A",
-                "Player-Name": "Murphy",
-                "Player-Logo": "/assets/images/player-logo/?id=6622",
-                "Player-ID": 109372,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "C. Norman",
-                "Player-Logo": "/assets/images/player-logo/?id=143571",
-                "Player-ID": 70839898,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Smallwood",
-                "Player-Logo": "/assets/images/player-logo/?id=3740",
-                "Player-ID": 495598,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Smith",
-                "Player-Logo": "/assets/images/player-logo/?id=138395",
-                "Player-ID": 61408209,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Solomon",
-                "Player-Logo": "/assets/images/player-logo/?id=177810",
-                "Player-ID": 75402103,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "Turnbull",
-                "Player-Logo": "/assets/images/player-logo/?id=50586",
-                "Player-ID": 3139713,
+                "Player-Name": "لوكا",
+                "Player-Logo": "/assets/images/player-logo/?id=27797",
+                "Player-ID": 583325,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -9355,9 +9270,9 @@
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "لوكا",
-                "Player-Logo": "/assets/images/player-logo/?id=27797",
-                "Player-ID": 583325,
+                "Player-Name": "Murphy",
+                "Player-Logo": "/assets/images/player-logo/?id=6622",
+                "Player-ID": 109372,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -9392,16 +9307,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "C. Whitaker",
-                "Player-Logo": "/assets/images/player-logo/?id=195879",
-                "Player-ID": 76950636,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
@@ -9410,6 +9315,106 @@
                 "Player-ID": 67943446,
                 "FieldLine": 0,
                 "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Turnbull",
+                "Player-Logo": "/assets/images/player-logo/?id=50586",
+                "Player-ID": 3139713,
+                "FieldLine": 25,
+                "FieldSide": 25
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Smith",
+                "Player-Logo": "/assets/images/player-logo/?id=138395",
+                "Player-ID": 61408209,
+                "FieldLine": 25,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Smallwood",
+                "Player-Logo": "/assets/images/player-logo/?id=3740",
+                "Player-ID": 495598,
+                "FieldLine": 25,
+                "FieldSide": 75
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "E. Bristow",
+                "Player-Logo": "/assets/images/player-logo/?id=80567",
+                "Player-ID": 50957016,
+                "FieldLine": 50,
+                "FieldSide": 0
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Lowe",
+                "Player-Logo": "/assets/images/player-logo/?id=3950",
+                "Player-ID": 534127,
+                "FieldLine": 50,
+                "FieldSide": 33
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "بلاكر",
+                "Player-Logo": "/assets/images/player-logo/?id=152787",
+                "Player-ID": 71521943,
+                "FieldLine": 50,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "C. Norman",
+                "Player-Logo": "/assets/images/player-logo/?id=143571",
+                "Player-ID": 70839898,
+                "FieldLine": 50,
+                "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "C. Whitaker",
+                "Player-Logo": "/assets/images/player-logo/?id=195879",
+                "Player-ID": 76950636,
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Jennings",
+                "Player-Logo": "/assets/images/player-logo/?id=143491",
+                "Player-ID": 70773347,
+                "FieldLine": 100,
+                "FieldSide": 25
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "Solomon",
+                "Player-Logo": "/assets/images/player-logo/?id=177810",
+                "Player-ID": 75402103,
+                "FieldLine": 100,
+                "FieldSide": 75
               }
             ]
           },
@@ -10080,7 +10085,7 @@
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Stamatakis",
+                "Player-Name": "ستاماتاكيس",
                 "Player-Logo": "/assets/images/player-logo/?id=219355",
                 "Player-ID": 77398272,
                 "FieldLine": 0,
@@ -10090,7 +10095,7 @@
                 "Position": "مدافع أيسر",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "R. Chasco",
+                "Player-Name": "تشاسكو",
                 "Player-Logo": "/assets/images/player-logo/?id=219356",
                 "Player-ID": 77398273,
                 "FieldLine": 0,
@@ -11546,7 +11551,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T17:53:22.024Z",
+    "lastUpdated": "2025-08-19T17:54:23.118Z",
     "count": 28
   }
 }
