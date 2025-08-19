@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T12:00",
       "Time-End": "2025-08-19T14:00",
-      "Time-Now": 88,
+      "Time-Now": 90,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1324,6 +1324,27 @@
             },
             "Place": "right",
             "Order": 13
+          },
+          {
+            "Event-Time": "89'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الغامدي",
+              "IMG": "/assets/images/player-logo/?id=91069",
+              "ID": 55234894,
+              "Extra": [
+                {
+                  "Name": "الموسى",
+                  "IMG": "/assets/images/player-logo/?id=101479",
+                  "ID": 62160053
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 14
           }
         ],
         "Match-Lineup": {
@@ -1524,7 +1545,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.8,
                 "Player-Name": "سيماكان",
                 "Player-Logo": "/assets/images/player-logo/?id=68715",
                 "Player-ID": 16075944,
@@ -1618,6 +1639,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الغامدي",
+                "Player-Logo": "/assets/images/player-logo/?id=91069",
+                "Player-ID": 55234894,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
                 "Ranking": -1,
@@ -1664,16 +1695,6 @@
                 "Player-Name": "البيشي",
                 "Player-Logo": "/assets/images/player-logo/?id=4830",
                 "Player-ID": 538444,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الغامدي",
-                "Player-Logo": "/assets/images/player-logo/?id=91069",
-                "Player-ID": 55234894,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -1770,7 +1791,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 5.8,
+                "Ranking": 5.7,
                 "Player-Name": "ميتاج",
                 "Player-Logo": "/assets/images/player-logo/?id=81405",
                 "Player-ID": 51378142,
@@ -6722,7 +6743,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:55:23.639Z",
+    "lastUpdated": "2025-08-19T13:56:24.920Z",
     "count": 28
   }
 }
