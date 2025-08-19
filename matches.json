@@ -8544,7 +8544,7 @@
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
-      "Time-Now": 92,
+      "Time-Now": 93,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A&id=4506642&date=2025-08-19",
       "matchDetails": {
@@ -8861,6 +8861,48 @@
             },
             "Place": "left",
             "Order": 16
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "عبدالمنعم",
+              "IMG": "/assets/images/player-logo/?id=49890",
+              "ID": 3517809,
+              "Extra": [
+                {
+                  "Name": "عبدالسلام",
+                  "IMG": "/assets/images/player-logo/?id=218462",
+                  "ID": 77374515
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 17
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "عبدالغني",
+              "IMG": "/assets/images/player-logo/?id=80147",
+              "ID": 50572843,
+              "Extra": [
+                {
+                  "Name": "أوبامي",
+                  "IMG": "/assets/images/player-logo/?id=139559",
+                  "ID": 70935098
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 18
           }
         ],
         "Match-Lineup": {
@@ -8871,7 +8913,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 4.9,
                 "Player-Name": "جمال",
                 "Player-Logo": "/assets/images/player-logo/?id=140299",
                 "Player-ID": 70781513,
@@ -8885,6 +8927,16 @@
                 "Player-Name": "عبدالعال",
                 "Player-Logo": "/assets/images/player-logo/?id=180259",
                 "Player-ID": 75464366,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "عبدالمنعم",
+                "Player-Logo": "/assets/images/player-logo/?id=49890",
+                "Player-ID": 3517809,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -8925,16 +8977,6 @@
                 "Player-Name": "زيدان",
                 "Player-Logo": "/assets/images/player-logo/?id=152586",
                 "Player-ID": 71502465,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "عبدالمنعم",
-                "Player-Logo": "/assets/images/player-logo/?id=49890",
-                "Player-ID": 3517809,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -9135,6 +9177,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "عبدالغني",
+                "Player-Logo": "/assets/images/player-logo/?id=80147",
+                "Player-ID": 50572843,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": 6.6,
@@ -9181,16 +9233,6 @@
                 "Player-Name": "جمعة",
                 "Player-Logo": "/assets/images/player-logo/?id=191413",
                 "Player-ID": 76811207,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "عبدالغني",
-                "Player-Logo": "/assets/images/player-logo/?id=80147",
-                "Player-ID": 50572843,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -9366,7 +9408,7 @@
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
-      "Time-Now": 93,
+      "Time-Now": 94,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D8%AF%D8%B2&id=4506643&date=2025-08-19",
       "matchDetails": {
@@ -9834,7 +9876,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 5.4,
+                "Ranking": 5.3,
                 "Player-Name": "السعدواي",
                 "Player-Logo": "/assets/images/player-logo/?id=60434",
                 "Player-ID": 9157783,
@@ -9854,7 +9896,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "المحمدى",
                 "Player-Logo": "/assets/images/player-logo/?id=51519",
                 "Player-ID": 3391226,
@@ -10199,7 +10241,7 @@
       },
       "Time-Start": "2025-08-19T18:00",
       "Time-End": "2025-08-19T20:00",
-      "Time-Now": 93,
+      "Time-Now": 94,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%A7%D8%B1%D8%B4%D8%A7%D9%85%D9%8A%D9%84%D9%88-%D8%B6%D8%AF-%D8%BA%D9%88%D8%AF%D8%A7%D9%84%D8%A7%D8%AE%D8%A7%D8%B1%D8%A7&id=4528279&date=2025-08-19",
       "matchDetails": {
@@ -10266,7 +10308,7 @@
       },
       "Time-Start": "2025-08-19T18:45",
       "Time-End": "2025-08-19T20:45",
-      "Time-Now": 51,
+      "Time-Now": 52,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B1%D8%A7%D9%86%D9%85%D9%8A%D8%B1-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%AA%D9%88%D9%86&id=4465596&date=2025-08-19",
       "matchDetails": {
@@ -10348,7 +10390,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -13817,7 +13859,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T19:53:23.031Z",
+    "lastUpdated": "2025-08-19T19:54:23.495Z",
     "count": 28
   }
 }
