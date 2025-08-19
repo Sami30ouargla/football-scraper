@@ -2246,7 +2246,7 @@
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "السيد",
+                "Player-Name": "محمد سيد",
                 "Player-Logo": "/assets/images/player-logo/?id=55502",
                 "Player-ID": 615059,
                 "FieldLine": 0,
@@ -3124,7 +3124,38 @@
           "Away-Team": {
             "Team-Name": "الإسماعيلي",
             "Formation": "N/A",
-            "Team": []
+            "Team": [
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "حمدي",
+                "Player-Logo": "/assets/images/player-logo/?id=106479",
+                "Player-ID": 64869841,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "سكر",
+                "Player-Logo": "/assets/images/player-logo/?id=79591",
+                "Player-ID": 50464458,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "النبريص",
+                "Player-Logo": "/assets/images/player-logo/?id=106476",
+                "Player-ID": 64869826,
+                "FieldLine": 0,
+                "FieldSide": 50
+              }
+            ]
           }
         }
       }
@@ -6830,7 +6861,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T14:07:20.938Z",
+    "lastUpdated": "2025-08-19T14:08:23.807Z",
     "count": 28
   }
 }
