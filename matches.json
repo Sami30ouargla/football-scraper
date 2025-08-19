@@ -14815,7 +14815,7 @@
       },
       "Time-Start": "2025-08-19T22:00",
       "Time-End": "2025-08-20T00:00",
-      "Time-Now": 75,
+      "Time-Now": 76,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D9%84%D9%8A%D8%B2-%D8%B3%D8%A7%D8%B1%D8%B3%D9%81%D9%8A%D9%84%D8%AF-%D8%B6%D8%AF-%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7&id=4443285&date=2025-08-19",
       "matchDetails": {
@@ -15108,6 +15108,48 @@
             },
             "Place": "right",
             "Order": 14
+          },
+          {
+            "Event-Time": "75'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Pizzini",
+              "IMG": "/assets/images/player-logo/?id=8412",
+              "ID": 379646,
+              "Extra": [
+                {
+                  "Name": "Carrizo",
+                  "IMG": "/assets/images/player-logo/?id=146097",
+                  "ID": 71088016
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 15
+          },
+          {
+            "Event-Time": "75'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "باريرو",
+              "IMG": "/assets/images/player-logo/?id=51856",
+              "ID": 628440,
+              "Extra": [
+                {
+                  "Name": "مانكوسو",
+                  "IMG": "/assets/images/player-logo/?id=91578",
+                  "ID": 58257557
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 16
           }
         ],
         "Match-Lineup": {
@@ -15142,6 +15184,16 @@
                 "Player-Name": "بيليجريني",
                 "Player-Logo": "/assets/images/player-logo/?id=60196",
                 "Player-ID": 3452564,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Pizzini",
+                "Player-Logo": "/assets/images/player-logo/?id=8412",
+                "Player-ID": 379646,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -15212,16 +15264,6 @@
                 "Player-Name": "مونتيرو",
                 "Player-Logo": "/assets/images/player-logo/?id=27686",
                 "Player-ID": 897707,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Pizzini",
-                "Player-Logo": "/assets/images/player-logo/?id=8412",
-                "Player-ID": 379646,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -15412,6 +15454,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "باريرو",
+                "Player-Logo": "/assets/images/player-logo/?id=51856",
+                "Player-ID": 628440,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
                 "Ranking": 6.6,
@@ -15434,7 +15486,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Substitute",
-                "Ranking": 6.8,
+                "Ranking": 7.1,
                 "Player-Name": "Allanzinho",
                 "Player-Logo": "/assets/images/player-logo/?id=88526",
                 "Player-ID": 55916383,
@@ -15444,7 +15496,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.7,
                 "Player-Name": "بيكاتشو",
                 "Player-Logo": "/assets/images/player-logo/?id=39892",
                 "Player-ID": 383656,
@@ -15468,16 +15520,6 @@
                 "Player-Name": "باربوسا",
                 "Player-Logo": "/assets/images/player-logo/?id=3580",
                 "Player-ID": 502375,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "باريرو",
-                "Player-Logo": "/assets/images/player-logo/?id=51856",
-                "Player-ID": 628440,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -15699,7 +15741,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T23:32:18.984Z",
+    "lastUpdated": "2025-08-19T23:33:22.364Z",
     "count": 28
   }
 }
