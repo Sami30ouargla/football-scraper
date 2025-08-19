@@ -17463,27 +17463,6 @@
             "Order": 4
           },
           {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "Garcia",
-              "IMG": "/assets/images/player-logo/?id=101409",
-              "ID": 61033143,
-              "Extra": [
-                {
-                  "Name": "Giménez",
-                  "IMG": "/assets/images/player-logo/?id=118679",
-                  "ID": 66719059
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 5
-          },
-          {
             "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -17498,6 +17477,27 @@
                   "Name": "Díaz",
                   "IMG": "/assets/images/player-logo/?id=110235",
                   "ID": 65397234
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 5
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Garcia",
+              "IMG": "/assets/images/player-logo/?id=101409",
+              "ID": 61033143,
+              "Extra": [
+                {
+                  "Name": "Giménez",
+                  "IMG": "/assets/images/player-logo/?id=118679",
+                  "ID": 66719059
                 }
               ]
             },
@@ -17625,14 +17625,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "براتو",
-              "IMG": "/assets/images/player-logo/?id=7614",
-              "ID": 241313,
+              "Name": "Rodriguez",
+              "IMG": "/assets/images/player-logo/?id=48278",
+              "ID": 3266416,
               "Extra": [
                 {
-                  "Name": "Morales",
-                  "IMG": "/assets/images/player-logo/?id=47156",
-                  "ID": 3219277
+                  "Name": "أردايز",
+                  "IMG": "/assets/images/player-logo/?id=47179",
+                  "ID": 2567261
                 }
               ]
             },
@@ -17646,14 +17646,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Rodriguez",
-              "IMG": "/assets/images/player-logo/?id=48278",
-              "ID": 3266416,
+              "Name": "براتو",
+              "IMG": "/assets/images/player-logo/?id=7614",
+              "ID": 241313,
               "Extra": [
                 {
-                  "Name": "أردايز",
-                  "IMG": "/assets/images/player-logo/?id=47179",
-                  "ID": 2567261
+                  "Name": "Morales",
+                  "IMG": "/assets/images/player-logo/?id=47156",
+                  "ID": 3219277
                 }
               ]
             },
@@ -18017,7 +18017,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.5,
                 "Player-Name": "Villalba",
                 "Player-Logo": "/assets/images/player-logo/?id=80684",
                 "Player-ID": 50481278,
@@ -18303,7 +18303,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "Godoy",
                 "Player-Logo": "/assets/images/player-logo/?id=156186",
                 "Player-ID": 71409226,
@@ -19044,7 +19044,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-19T00:01:28.575Z",
+    "lastUpdated": "2025-08-19T00:02:32.328Z",
     "count": 27
   }
 }
