@@ -18372,7 +18372,7 @@
       },
       "Time-Start": "2025-08-19T01:00",
       "Time-End": "2025-08-19T03:00",
-      "Time-Now": 71,
+      "Time-Now": 72,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84-%D8%B6%D8%AF-%D9%83%D8%B1%D9%88%D8%B2%D9%8A%D8%B1%D9%88&id=4380432&date=2025-08-18",
       "matchDetails": {
@@ -18587,6 +18587,27 @@
             },
             "Place": "left",
             "Order": 10
+          },
+          {
+            "Event-Time": "71'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "هينريك",
+              "IMG": "/assets/images/player-logo/?id=58100",
+              "ID": 2347116,
+              "Extra": [
+                {
+                  "Name": "والاس",
+                  "IMG": "/assets/images/player-logo/?id=3230",
+                  "ID": 483544
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 11
           }
         ],
         "Match-Lineup": {
@@ -18767,7 +18788,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 5.5,
+                "Ranking": 5.6,
                 "Player-Name": "Jemmes",
                 "Player-Logo": "/assets/images/player-logo/?id=159888",
                 "Player-ID": 72685231,
@@ -18817,7 +18838,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.6,
+                "Ranking": 7.8,
                 "Player-Name": "Danielzinho",
                 "Player-Logo": "/assets/images/player-logo/?id=42842",
                 "Player-ID": 267278,
@@ -18867,6 +18888,16 @@
                 "Player-Name": "راموس",
                 "Player-Logo": "/assets/images/player-logo/?id=2976",
                 "Player-ID": 423710,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "هينريك",
+                "Player-Logo": "/assets/images/player-logo/?id=58100",
+                "Player-ID": 2347116,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -18971,16 +19002,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "هينريك",
-                "Player-Logo": "/assets/images/player-logo/?id=58100",
-                "Player-ID": 2347116,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "وسط دفاعي",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -19073,7 +19094,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "برونو",
                 "Player-Logo": "/assets/images/player-logo/?id=42215",
                 "Player-ID": 3072682,
@@ -19083,7 +19104,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.5,
                 "Player-Name": "Jonathan",
                 "Player-Logo": "/assets/images/player-logo/?id=151764",
                 "Player-ID": 70120060,
@@ -19143,7 +19164,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.5,
+                "Ranking": 7.4,
                 "Player-Name": "خورخي",
                 "Player-Logo": "/assets/images/player-logo/?id=64557",
                 "Player-ID": 9932355,
@@ -19158,7 +19179,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-19T00:36:23.499Z",
+    "lastUpdated": "2025-08-19T00:37:23.959Z",
     "count": 27
   }
 }
