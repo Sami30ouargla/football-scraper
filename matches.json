@@ -13325,14 +13325,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ديستيفانو",
-              "IMG": "/assets/images/player-logo/?id=122800",
-              "ID": 67177893,
+              "Name": "Parlanti",
+              "IMG": "/assets/images/player-logo/?id=179798",
+              "ID": 75453806,
               "Extra": [
                 {
-                  "Name": "K. Bozhanaj",
-                  "IMG": "/assets/images/player-logo/?id=137607",
-                  "ID": 67900798
+                  "Name": "N. Schiavi",
+                  "IMG": "/assets/images/player-logo/?id=52438",
+                  "ID": 4874922
                 }
               ]
             },
@@ -13346,14 +13346,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Parlanti",
-              "IMG": "/assets/images/player-logo/?id=179798",
-              "ID": 75453806,
+              "Name": "ديستيفانو",
+              "IMG": "/assets/images/player-logo/?id=122800",
+              "ID": 67177893,
               "Extra": [
                 {
-                  "Name": "N. Schiavi",
-                  "IMG": "/assets/images/player-logo/?id=52438",
-                  "ID": 4874922
+                  "Name": "K. Bozhanaj",
+                  "IMG": "/assets/images/player-logo/?id=137607",
+                  "ID": 67900798
                 }
               ]
             },
@@ -14836,28 +14836,7 @@
             "Order": 2
           },
           {
-            "Event-Time": "65'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "ايزكييردو",
-              "IMG": "/assets/images/player-logo/?id=43464",
-              "ID": 550304,
-              "Extra": [
-                {
-                  "Name": "أغوادو",
-                  "IMG": "/assets/images/player-logo/?id=116602",
-                  "ID": 66501019
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 3
-          },
-          {
-            "Event-Time": "65'",
+            "Event-Time": "67'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -14871,6 +14850,27 @@
                   "Name": "رودريجيز",
                   "IMG": "/assets/images/player-logo/?id=117731",
                   "ID": 66632879
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 3
+          },
+          {
+            "Event-Time": "67'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ايزكييردو",
+              "IMG": "/assets/images/player-logo/?id=43464",
+              "ID": 550304,
+              "Extra": [
+                {
+                  "Name": "أغوادو",
+                  "IMG": "/assets/images/player-logo/?id=116602",
+                  "ID": 66501019
                 }
               ]
             },
@@ -15088,7 +15088,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
-                "Ranking": 6.3,
+                "Ranking": 6.4,
                 "Player-Name": "رافا مير",
                 "Player-Logo": "/assets/images/player-logo/?id=39781",
                 "Player-ID": 941403,
@@ -15176,22 +15176,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم المتأخر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "بويار",
-                "Player-Logo": "/assets/images/player-logo/?id=148185",
-                "Player-ID": 70844816,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيسر",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "سانتياجو",
                 "Player-Logo": "/assets/images/player-logo/?id=147840",
                 "Player-ID": 70900103,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم المتأخر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "بويار",
+                "Player-Logo": "/assets/images/player-logo/?id=148185",
+                "Player-ID": 70844816,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -15452,22 +15452,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Doubtful",
-                "Ranking": "N/A",
-                "Player-Name": "الزلزولي",
-                "Player-Logo": "/assets/images/player-logo/?id=102544",
-                "Player-ID": 62694855,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "وسط دفاعي",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "روكا",
                 "Player-Logo": "/assets/images/player-logo/?id=44842",
                 "Player-ID": 3143139,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Doubtful",
+                "Ranking": "N/A",
+                "Player-Name": "الزلزولي",
+                "Player-Logo": "/assets/images/player-logo/?id=102544",
+                "Player-ID": 62694855,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -17463,27 +17463,6 @@
             "Order": 4
           },
           {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "Garcia",
-              "IMG": "/assets/images/player-logo/?id=101409",
-              "ID": 61033143,
-              "Extra": [
-                {
-                  "Name": "Giménez",
-                  "IMG": "/assets/images/player-logo/?id=118679",
-                  "ID": 66719059
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 5
-          },
-          {
             "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -17498,6 +17477,27 @@
                   "Name": "Díaz",
                   "IMG": "/assets/images/player-logo/?id=110235",
                   "ID": 65397234
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 5
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Garcia",
+              "IMG": "/assets/images/player-logo/?id=101409",
+              "ID": 61033143,
+              "Extra": [
+                {
+                  "Name": "Giménez",
+                  "IMG": "/assets/images/player-logo/?id=118679",
+                  "ID": 66719059
                 }
               ]
             },
@@ -17625,14 +17625,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "براتو",
-              "IMG": "/assets/images/player-logo/?id=7614",
-              "ID": 241313,
+              "Name": "Rodriguez",
+              "IMG": "/assets/images/player-logo/?id=48278",
+              "ID": 3266416,
               "Extra": [
                 {
-                  "Name": "Morales",
-                  "IMG": "/assets/images/player-logo/?id=47156",
-                  "ID": 3219277
+                  "Name": "أردايز",
+                  "IMG": "/assets/images/player-logo/?id=47179",
+                  "ID": 2567261
                 }
               ]
             },
@@ -17646,14 +17646,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Rodriguez",
-              "IMG": "/assets/images/player-logo/?id=48278",
-              "ID": 3266416,
+              "Name": "براتو",
+              "IMG": "/assets/images/player-logo/?id=7614",
+              "ID": 241313,
               "Extra": [
                 {
-                  "Name": "أردايز",
-                  "IMG": "/assets/images/player-logo/?id=47179",
-                  "ID": 2567261
+                  "Name": "Morales",
+                  "IMG": "/assets/images/player-logo/?id=47156",
+                  "ID": 3219277
                 }
               ]
             },
@@ -18372,7 +18372,7 @@
       },
       "Time-Start": "2025-08-19T01:00",
       "Time-End": "2025-08-19T03:00",
-      "Time-Now": 83,
+      "Time-Now": 84,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84-%D8%B6%D8%AF-%D9%83%D8%B1%D9%88%D8%B2%D9%8A%D8%B1%D9%88&id=4380432&date=2025-08-18",
       "matchDetails": {
@@ -18665,6 +18665,27 @@
             },
             "Place": "left",
             "Order": 14
+          },
+          {
+            "Event-Time": "83'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Diaz",
+              "IMG": "/assets/images/player-logo/?id=71711",
+              "ID": 17127327,
+              "Extra": [
+                {
+                  "Name": "واندرسون",
+                  "IMG": "/assets/images/player-logo/?id=1198",
+                  "ID": 397435
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 15
           }
         ],
         "Match-Lineup": {
@@ -18715,7 +18736,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": 7.8,
+                "Ranking": 8,
                 "Player-Name": "Negueba",
                 "Player-Logo": "/assets/images/player-logo/?id=71309",
                 "Player-ID": 226135,
@@ -18895,7 +18916,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 7.8,
                 "Player-Name": "Danielzinho",
                 "Player-Logo": "/assets/images/player-logo/?id=42842",
                 "Player-ID": 267278,
@@ -18949,6 +18970,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Diaz",
+                "Player-Logo": "/assets/images/player-logo/?id=71711",
+                "Player-ID": 17127327,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": -1,
@@ -18975,16 +19006,6 @@
                 "Player-Name": "بولاسي",
                 "Player-Logo": "/assets/images/player-logo/?id=4281",
                 "Player-ID": 401413,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Diaz",
-                "Player-Logo": "/assets/images/player-logo/?id=71711",
-                "Player-ID": 17127327,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -19141,7 +19162,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Villalba",
                 "Player-Logo": "/assets/images/player-logo/?id=8392",
                 "Player-ID": 379632,
@@ -19171,7 +19192,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.4,
                 "Player-Name": "سيلفا",
                 "Player-Logo": "/assets/images/player-logo/?id=8046",
                 "Player-ID": 545657,
@@ -19221,7 +19242,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.5,
+                "Ranking": 7.4,
                 "Player-Name": "خورخي",
                 "Player-Logo": "/assets/images/player-logo/?id=64557",
                 "Player-ID": 9932355,
@@ -19236,7 +19257,7 @@
   ],
   "meta": {
     "date": "2025-08-18",
-    "lastUpdated": "2025-08-19T00:48:24.615Z",
+    "lastUpdated": "2025-08-19T00:49:32.338Z",
     "count": 27
   }
 }
