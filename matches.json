@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T14:00",
       "Time-End": "2025-08-19T16:00",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1168,6 +1168,21 @@
             },
             "Place": "right",
             "Order": 5
+          },
+          {
+            "Event-Time": "61'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "فيليكس",
+              "IMG": "/assets/images/player-logo/?id=60596",
+              "ID": 8863274,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 6
           }
         ],
         "Match-Lineup": {
@@ -1614,7 +1629,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6,
+                "Ranking": 5.8,
                 "Player-Name": "ميتاج",
                 "Player-Logo": "/assets/images/player-logo/?id=81405",
                 "Player-ID": 51378142,
@@ -1624,7 +1639,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.4,
                 "Player-Name": "بيريرا",
                 "Player-Logo": "/assets/images/player-logo/?id=10354",
                 "Player-ID": 316961,
@@ -1634,7 +1649,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 6,
                 "Player-Name": "الموسى",
                 "Player-Logo": "/assets/images/player-logo/?id=101479",
                 "Player-ID": 62160053,
@@ -1644,7 +1659,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.1,
                 "Player-Name": "الشنقيطي",
                 "Player-Logo": "/assets/images/player-logo/?id=72978",
                 "Player-ID": 46229312,
@@ -1654,7 +1669,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.3,
                 "Player-Name": "بيرجوين\t",
                 "Player-Logo": "/assets/images/player-logo/?id=15756",
                 "Player-ID": 535101,
@@ -1664,7 +1679,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.2,
                 "Player-Name": "فابينيو",
                 "Player-Logo": "/assets/images/player-logo/?id=2063",
                 "Player-ID": 84369,
@@ -1674,7 +1689,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "كانتي",
                 "Player-Logo": "/assets/images/player-logo/?id=1911",
                 "Player-ID": 510360,
@@ -1684,7 +1699,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.2,
                 "Player-Name": "ديابي",
                 "Player-Logo": "/assets/images/player-logo/?id=56281",
                 "Player-ID": 3177765,
@@ -1704,7 +1719,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 6.9,
                 "Player-Name": "بنزيما",
                 "Player-Logo": "/assets/images/player-logo/?id=543",
                 "Player-ID": 84773,
@@ -6499,7 +6514,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:29:22.423Z",
+    "lastUpdated": "2025-08-19T13:30:24.286Z",
     "count": 27
   }
 }
