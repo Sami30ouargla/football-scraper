@@ -1037,7 +1037,7 @@
       "Team-Right": {
         "Name": "النصر",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=7549",
-        "Goal": 0
+        "Goal": 1
       },
       "Team-Left": {
         "Name": "الاتحاد",
@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T14:00",
       "Time-End": "2025-08-19T16:00",
-      "Time-Now": 10,
+      "Time-Now": 11,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1058,7 +1058,7 @@
             "Name": "النصر",
             "Color": "#DED113",
             "Logo": "/assets/images/team-logo/?id=7549",
-            "Goal": 0
+            "Goal": 1
           },
           "Team-Left": {
             "Name": "الاتحاد",
@@ -1081,7 +1081,23 @@
           "Club-Capacity": 40000,
           "Tv": "الثمانية 1"
         },
-        "Match-Events": [],
+        "Match-Events": [
+          {
+            "Event-Time": "10'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "ماني",
+              "IMG": "/assets/images/player-logo/?id=7914",
+              "ID": 357281,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          }
+        ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "النصر",
@@ -6411,7 +6427,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T12:12:21.559Z",
+    "lastUpdated": "2025-08-19T12:13:24.138Z",
     "count": 27
   }
 }
