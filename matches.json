@@ -12393,6 +12393,21 @@
             "Order": 9
           },
           {
+            "Event-Time": "61'",
+            "Event-Name": "Woodwork",
+            "Event-Logo": "/assets/images/event-logo/?id=12&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Gassama",
+              "IMG": "/assets/images/player-logo/?id=110743",
+              "ID": 63129051,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 10
+          },
+          {
             "Event-Time": "71'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -12411,7 +12426,7 @@
               ]
             },
             "Place": "left",
-            "Order": 10
+            "Order": 11
           },
           {
             "Event-Time": "71'",
@@ -12432,7 +12447,7 @@
               ]
             },
             "Place": "left",
-            "Order": 11
+            "Order": 12
           },
           {
             "Event-Time": "73'",
@@ -12453,7 +12468,7 @@
               ]
             },
             "Place": "right",
-            "Order": 12
+            "Order": 13
           },
           {
             "Event-Time": "74'",
@@ -12474,7 +12489,7 @@
               ]
             },
             "Place": "right",
-            "Order": 13
+            "Order": 14
           },
           {
             "Event-Time": "74'",
@@ -12489,7 +12504,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 14
+            "Order": 15
           },
           {
             "Event-Time": "75'",
@@ -12504,7 +12519,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 15
+            "Order": 16
           },
           {
             "Event-Time": "80'",
@@ -12519,7 +12534,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 16
+            "Order": 17
           },
           {
             "Event-Time": "85'",
@@ -12540,7 +12555,7 @@
               ]
             },
             "Place": "right",
-            "Order": 17
+            "Order": 18
           },
           {
             "Event-Time": "86'",
@@ -12561,7 +12576,7 @@
               ]
             },
             "Place": "left",
-            "Order": 18
+            "Order": 19
           },
           {
             "Event-Time": "89'",
@@ -12582,7 +12597,7 @@
               ]
             },
             "Place": "right",
-            "Order": 19
+            "Order": 20
           },
           {
             "Event-Time": "90'",
@@ -12597,7 +12612,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 20
+            "Order": 21
           }
         ],
         "Match-Lineup": {
@@ -12618,7 +12633,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.7,
                 "Player-Name": "أسغارد",
                 "Player-Logo": "/assets/images/player-logo/?id=84058",
                 "Player-ID": 51175440,
@@ -12736,6 +12751,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مدافع أيمن",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "ستيرلينج",
+                "Player-Logo": "/assets/images/player-logo/?id=52740",
+                "Player-ID": 1759373,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
@@ -12818,7 +12843,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.2,
                 "Player-Name": "Gassama",
                 "Player-Logo": "/assets/images/player-logo/?id=110743",
                 "Player-ID": 63129051,
@@ -12894,7 +12919,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
-                "Ranking": 6.9,
+                "Ranking": 6.8,
                 "Player-Name": "تريزولدي",
                 "Player-Logo": "/assets/images/player-logo/?id=114386",
                 "Player-ID": 65280617,
@@ -12982,6 +13007,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيمن",
+                "Status": "Doubtful",
+                "Ranking": "N/A",
+                "Player-Name": "سكوراس",
+                "Player-Logo": "/assets/images/player-logo/?id=67161",
+                "Player-ID": 3180213,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
@@ -12994,7 +13029,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 7.5,
+                "Ranking": 7.6,
                 "Player-Name": "خواكين",
                 "Player-Logo": "/assets/images/player-logo/?id=155863",
                 "Player-ID": 71890592,
@@ -13004,7 +13039,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.9,
+                "Ranking": 8,
                 "Player-Name": "ميشيل",
                 "Player-Logo": "/assets/images/player-logo/?id=1165",
                 "Player-ID": 505117,
@@ -13024,7 +13059,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.1,
+                "Ranking": 6.2,
                 "Player-Name": "ساب",
                 "Player-Logo": "/assets/images/player-logo/?id=120852",
                 "Player-ID": 66693760,
@@ -13034,7 +13069,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 6.9,
                 "Player-Name": "أونيديكا",
                 "Player-Logo": "/assets/images/player-logo/?id=96994",
                 "Player-ID": 60085508,
@@ -15420,7 +15455,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T21:08:14.041Z",
+    "lastUpdated": "2025-08-19T21:09:12.803Z",
     "count": 28
   }
 }
