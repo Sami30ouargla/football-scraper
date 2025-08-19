@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T12:00",
       "Time-End": "2025-08-19T14:00",
-      "Time-Now": 82,
+      "Time-Now": 84,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -1282,6 +1282,48 @@
             },
             "Place": "right",
             "Order": 11
+          },
+          {
+            "Event-Time": "83'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الشهري",
+              "IMG": "/assets/images/player-logo/?id=4731",
+              "ID": 497693,
+              "Extra": [
+                {
+                  "Name": "عوار",
+                  "IMG": "/assets/images/player-logo/?id=45475",
+                  "ID": 3131250
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "83'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أوناي",
+              "IMG": "/assets/images/player-logo/?id=140659",
+              "ID": 70877755,
+              "Extra": [
+                {
+                  "Name": "ديابي",
+                  "IMG": "/assets/images/player-logo/?id=56281",
+                  "ID": 3177765
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
           }
         ],
         "Match-Lineup": {
@@ -1586,6 +1628,26 @@
                 "FieldSide": 50
               },
               {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الشهري",
+                "Player-Logo": "/assets/images/player-logo/?id=4731",
+                "Player-ID": 497693,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "أوناي",
+                "Player-Logo": "/assets/images/player-logo/?id=140659",
+                "Player-ID": 70877755,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -1656,16 +1718,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الشهري",
-                "Player-Logo": "/assets/images/player-logo/?id=4731",
-                "Player-ID": 497693,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -1682,16 +1734,6 @@
                 "Player-Name": "فقيهي",
                 "Player-Logo": "/assets/images/player-logo/?id=124210",
                 "Player-ID": 67466533,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "أوناي",
-                "Player-Logo": "/assets/images/player-logo/?id=140659",
-                "Player-ID": 70877755,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -1719,7 +1761,7 @@
                 "Position": "المدرب",
                 "Status": "Management",
                 "Ranking": "N/A",
-                "Player-Name": "بلان",
+                "Player-Name": "Blanc",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77399159,
                 "FieldLine": 0,
@@ -6680,7 +6722,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:49:24.452Z",
+    "lastUpdated": "2025-08-19T13:50:24.525Z",
     "count": 28
   }
 }
