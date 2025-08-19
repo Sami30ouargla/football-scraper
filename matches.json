@@ -8802,6 +8802,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "إيزاك",
+              "IMG": "/assets/images/player-logo/?id=204392",
+              "ID": 77183365,
+              "Extra": [
+                {
+                  "Name": "الديب",
+                  "IMG": "/assets/images/player-logo/?id=51676",
+                  "ID": 1840806
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "عبدالغني",
               "IMG": "/assets/images/player-logo/?id=80147",
               "ID": 50572843,
@@ -8814,7 +8835,7 @@
               ]
             },
             "Place": "right",
-            "Order": 17
+            "Order": 18
           },
           {
             "Event-Time": "90'",
@@ -8831,27 +8852,6 @@
                   "Name": "إيبوكا",
                   "IMG": "/assets/images/player-logo/?id=87847",
                   "ID": 55328189
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 18
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "إيزاك",
-              "IMG": "/assets/images/player-logo/?id=204392",
-              "ID": 77183365,
-              "Extra": [
-                {
-                  "Name": "الديب",
-                  "IMG": "/assets/images/player-logo/?id=51676",
-                  "ID": 1840806
                 }
               ]
             },
@@ -15410,7 +15410,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T21:06:14.070Z",
+    "lastUpdated": "2025-08-19T21:07:13.030Z",
     "count": 28
   }
 }
