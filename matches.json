@@ -1387,6 +1387,36 @@
             },
             "Place": "left",
             "Order": 16
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "تيكسيرا",
+              "IMG": "/assets/images/player-logo/?id=110758",
+              "ID": 65502652,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 17
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الغامدي",
+              "IMG": "/assets/images/player-logo/?id=91069",
+              "ID": 55234894,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 18
           }
         ],
         "Match-Lineup": {
@@ -1627,7 +1657,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "الخيبري",
                 "Player-Logo": "/assets/images/player-logo/?id=47607",
                 "Player-ID": 3231193,
@@ -1821,7 +1851,7 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المدرب",
+                "Position": "الإدارة",
                 "Status": "Management",
                 "Ranking": "N/A",
                 "Player-Name": "Blanc",
@@ -6785,7 +6815,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:58:21.326Z",
+    "lastUpdated": "2025-08-19T13:59:23.773Z",
     "count": 28
   }
 }
