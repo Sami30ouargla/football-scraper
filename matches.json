@@ -10412,7 +10412,7 @@
       },
       "Time-Start": "2025-08-19T18:45",
       "Time-End": "2025-08-19T20:45",
-      "Time-Now": 88,
+      "Time-Now": 89,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B1%D8%A7%D9%86%D9%85%D9%8A%D8%B1-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B1%D8%AA%D9%88%D9%86&id=4465596&date=2025-08-19",
       "matchDetails": {
@@ -10856,7 +10856,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "بلاكر",
                 "Player-Logo": "/assets/images/player-logo/?id=152787",
                 "Player-ID": 71521943,
@@ -11052,7 +11052,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Akoto",
                 "Player-Logo": "/assets/images/player-logo/?id=179950",
                 "Player-ID": 75422768,
@@ -11141,7 +11141,7 @@
       },
       "Time-Start": "2025-08-19T19:00",
       "Time-End": "2025-08-19T21:00",
-      "Time-Now": 68,
+      "Time-Now": 69,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%8A%D8%A7%D9%84-%D9%85%D8%AF%D8%B1%D9%8A%D8%AF-%D8%B6%D8%AF-%D8%A3%D9%88%D8%B3%D8%A7%D8%B3%D9%88%D9%86%D8%A7&id=4467568&date=2025-08-19",
       "matchDetails": {
@@ -11227,6 +11227,48 @@
             },
             "Place": "right",
             "Order": 3
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كارفاخال",
+              "IMG": "/assets/images/player-logo/?id=117",
+              "ID": 312745,
+              "Extra": [
+                {
+                  "Name": "ارنولد",
+                  "IMG": "/assets/images/player-logo/?id=45861",
+                  "ID": 670092
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 4
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ماستانتونو",
+              "IMG": "/assets/images/player-logo/?id=146096",
+              "ID": 71088015,
+              "Extra": [
+                {
+                  "Name": "دياز",
+                  "IMG": "/assets/images/player-logo/?id=53800",
+                  "ID": 1759210
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 5
           }
         ],
         "Match-Lineup": {
@@ -11245,22 +11287,32 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مدافع أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "كارفاخال",
+                "Player-Logo": "/assets/images/player-logo/?id=117",
+                "Player-ID": 312745,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "ماستانتونو",
+                "Player-Logo": "/assets/images/player-logo/?id=146096",
+                "Player-ID": 71088015,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "أسنسيو",
                 "Player-Logo": "/assets/images/player-logo/?id=104648",
                 "Player-ID": 64224521,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "كارفاخال",
-                "Player-Logo": "/assets/images/player-logo/?id=117",
-                "Player-ID": 312745,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -11301,16 +11353,6 @@
                 "Player-Name": "لونين",
                 "Player-Logo": "/assets/images/player-logo/?id=48804",
                 "Player-ID": 3171745,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ماستانتونو",
-                "Player-Logo": "/assets/images/player-logo/?id=146096",
-                "Player-ID": 71088015,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -11653,7 +11695,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 5.6,
+                "Ranking": 5.5,
                 "Player-Name": "كروز",
                 "Player-Logo": "/assets/images/player-logo/?id=60391",
                 "Player-ID": 385126,
@@ -11772,7 +11814,7 @@
       },
       "Time-Start": "2025-08-19T19:00",
       "Time-End": "2025-08-19T21:00",
-      "Time-Now": 70,
+      "Time-Now": 71,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%8A%D9%86%D8%AC%D8%B1%D8%B2-%D8%B6%D8%AF-%D9%83%D9%84%D9%88%D8%A8-%D8%A8%D8%B1%D9%88%D8%AC&id=4522883&date=2025-08-19",
       "matchDetails": {
@@ -12493,7 +12535,7 @@
       },
       "Time-Start": "2025-08-19T19:00",
       "Time-End": "2025-08-19T21:00",
-      "Time-Now": 72,
+      "Time-Now": 73,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D8%B1%D9%8A%D9%86%D8%AA%D8%B3%D9%81%D8%A7%D8%B1%D9%88%D8%B4%D9%8A-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B1%D8%A8%D8%A7%D8%BA-%D8%A7%D8%BA%D8%AF%D8%A7%D9%85&id=4522890&date=2025-08-19",
       "matchDetails": {
@@ -12977,7 +13019,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.5,
                 "Player-Name": "أدي",
                 "Player-Logo": "/assets/images/player-logo/?id=136565",
                 "Player-ID": 69442360,
@@ -13226,7 +13268,7 @@
       },
       "Time-Start": "2025-08-19T19:00",
       "Time-End": "2025-08-19T21:00",
-      "Time-Now": 67,
+      "Time-Now": 68,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D8%B6%D8%AF-%D8%A3%D9%8A%D9%87.%D8%A3%D9%8A.-%D8%A8%D8%A7%D9%81%D9%88%D8%B3&id=4523033&date=2025-08-19",
       "matchDetails": {
@@ -14484,7 +14526,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T20:30:14.103Z",
+    "lastUpdated": "2025-08-19T20:31:13.760Z",
     "count": 28
   }
 }
