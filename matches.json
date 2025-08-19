@@ -1046,7 +1046,7 @@
       },
       "Time-Start": "2025-08-19T12:00",
       "Time-End": "2025-08-19T14:00",
-      "Time-Now": 76,
+      "Time-Now": 77,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF&id=4454571&date=2025-08-19",
       "matchDetails": {
@@ -2845,6 +2845,73 @@
                 "FieldSide": 100
               }
             ]
+          }
+        }
+      }
+    },
+    {
+      "Cup-id": 552,
+      "Cup-Name": "الدوري المصري",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=552",
+      "Match-id": 4529809,
+      "Team-Right": {
+        "Name": "البنك الاهلي",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=50527",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "الإسماعيلي",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=8299",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-19T15:00",
+      "Time-End": "2025-08-19T17:00",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84%D9%8A&id=4529809&date=2025-08-19",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4529809,
+          "Cup-Name": "الدوري المصري",
+          "Cup-Logo": "/assets/images/cup-logo/?id=552",
+          "Team-Right": {
+            "Name": "البنك الاهلي",
+            "Color": "#FFC800",
+            "Logo": "/assets/images/team-logo/?id=50527",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "الإسماعيلي",
+            "Color": "#DED113",
+            "Logo": "/assets/images/team-logo/?id=8299",
+            "Goal": "-"
+          },
+          "Date": "2025-08-19",
+          "Time": "15:00",
+          "Time-Zone": -120,
+          "Status": "لم تبدأ",
+          "Round": 3,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "البنك الاهلي",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "الإسماعيلي",
+            "Formation": "N/A",
+            "Team": []
           }
         }
       }
@@ -6550,7 +6617,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T13:43:22.866Z",
-    "count": 27
+    "lastUpdated": "2025-08-19T13:44:23.555Z",
+    "count": 28
   }
 }
