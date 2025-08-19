@@ -23,7 +23,7 @@ const octokit = new Octokit({
 // ⚙️ إعدادات قابلة للتغيير
 const BASE = "https://www.yalla-shoot-365.com";
 const LANG = process.env.YS_LANG || "27";
-const TIME_OFFSET = encodeURIComponent(process.env.YS_TZ || "+02:00");
+const TIME_OFFSET = encodeURIComponent(process.env.YS_TZ || "+00:00");
 const POLL_MS = Number(process.env.POLL_MS || 60_000);
 const DATE = process.env.YS_DATE || new Date().toISOString().slice(0, 10);
 
