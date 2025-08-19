@@ -8802,27 +8802,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "إيزاك",
-              "IMG": "/assets/images/player-logo/?id=204392",
-              "ID": 77183365,
-              "Extra": [
-                {
-                  "Name": "الديب",
-                  "IMG": "/assets/images/player-logo/?id=51676",
-                  "ID": 1840806
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 17
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "عبدالغني",
               "IMG": "/assets/images/player-logo/?id=80147",
               "ID": 50572843,
@@ -8835,7 +8814,7 @@
               ]
             },
             "Place": "right",
-            "Order": 18
+            "Order": 17
           },
           {
             "Event-Time": "90'",
@@ -8852,6 +8831,27 @@
                   "Name": "إيبوكا",
                   "IMG": "/assets/images/player-logo/?id=87847",
                   "ID": 55328189
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 18
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "إيزاك",
+              "IMG": "/assets/images/player-logo/?id=204392",
+              "ID": 77183365,
+              "Extra": [
+                {
+                  "Name": "الديب",
+                  "IMG": "/assets/images/player-logo/?id=51676",
+                  "ID": 1840806
                 }
               ]
             },
@@ -11768,22 +11768,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
+                "Position": "مدافع أيسر",
                 "Status": "Missing",
                 "Ranking": "N/A",
-                "Player-Name": "روديجر",
-                "Player-Logo": "/assets/images/player-logo/?id=5542",
-                "Player-ID": 334865,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "إندريك",
-                "Player-Logo": "/assets/images/player-logo/?id=106075",
-                "Player-ID": 58949561,
+                "Player-Name": "ميندي",
+                "Player-Logo": "/assets/images/player-logo/?id=49410",
+                "Player-ID": 631606,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -11808,12 +11798,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيسر",
+                "Position": "المهاجم الصريح",
                 "Status": "Missing",
                 "Ranking": "N/A",
-                "Player-Name": "ميندي",
-                "Player-Logo": "/assets/images/player-logo/?id=49410",
-                "Player-ID": 631606,
+                "Player-Name": "إندريك",
+                "Player-Logo": "/assets/images/player-logo/?id=106075",
+                "Player-ID": 58949561,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "روديجر",
+                "Player-Logo": "/assets/images/player-logo/?id=5542",
+                "Player-ID": 334865,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14815,7 +14815,7 @@
       },
       "Time-Start": "2025-08-19T22:00",
       "Time-End": "2025-08-20T00:00",
-      "Time-Now": 26,
+      "Time-Now": 27,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D9%84%D9%8A%D8%B2-%D8%B3%D8%A7%D8%B1%D8%B3%D9%81%D9%8A%D9%84%D8%AF-%D8%B6%D8%AF-%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7&id=4443285&date=2025-08-19",
       "matchDetails": {
@@ -15372,7 +15372,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "Pacheco",
                 "Player-Logo": "/assets/images/player-logo/?id=42080",
                 "Player-ID": 3070487,
@@ -15462,7 +15462,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "مارينيو",
                 "Player-Logo": "/assets/images/player-logo/?id=26876",
                 "Player-ID": 888354,
@@ -15477,7 +15477,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-19T22:26:19.417Z",
+    "lastUpdated": "2025-08-19T22:27:19.680Z",
     "count": 28
   }
 }
