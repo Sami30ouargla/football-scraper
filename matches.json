@@ -3747,6 +3747,48 @@
             },
             "Place": "right",
             "Order": 10
+          },
+          {
+            "Event-Time": "73'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "نيدفيد",
+              "IMG": "/assets/images/player-logo/?id=49899",
+              "ID": 3517818,
+              "Extra": [
+                {
+                  "Name": "عيسى",
+                  "IMG": "/assets/images/player-logo/?id=51967",
+                  "ID": 4166707
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 11
+          },
+          {
+            "Event-Time": "73'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أوجولا",
+              "IMG": "/assets/images/player-logo/?id=104393",
+              "ID": 64152344,
+              "Extra": [
+                {
+                  "Name": "موكا",
+                  "IMG": "/assets/images/player-logo/?id=140655",
+                  "ID": 70952076
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 12
           }
         ],
         "Match-Lineup": {
@@ -3785,6 +3827,26 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "أوجولا",
+                "Player-Logo": "/assets/images/player-logo/?id=104393",
+                "Player-ID": 64152344,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "نيدفيد",
+                "Player-Logo": "/assets/images/player-logo/?id=49899",
+                "Player-ID": 3517818,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -3815,16 +3877,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "أوجولا",
-                "Player-Logo": "/assets/images/player-logo/?id=104393",
-                "Player-ID": 64152344,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -3841,16 +3893,6 @@
                 "Player-Name": "سمير",
                 "Player-Logo": "/assets/images/player-logo/?id=46811",
                 "Player-ID": 3209869,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "نيدفيد",
-                "Player-Logo": "/assets/images/player-logo/?id=49899",
-                "Player-ID": 3517818,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -3877,7 +3919,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.3,
                 "Player-Name": "ارثر",
                 "Player-Logo": "/assets/images/player-logo/?id=122225",
                 "Player-ID": 67142567,
@@ -4133,7 +4175,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.5,
                 "Player-Name": "اسماعيل",
                 "Player-Logo": "/assets/images/player-logo/?id=52000",
                 "Player-ID": 3391166,
@@ -4202,7 +4244,7 @@
       },
       "Time-Start": "2025-08-20T18:00",
       "Time-End": "2025-08-20T20:00",
-      "Time-Now": 21,
+      "Time-Now": 22,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%BA%D8%B1%D9%88%D8%B3%D9%8A%D8%AA%D9%88-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%8A%D8%B3%D9%8A&id=4530427&date=2025-08-20",
       "matchDetails": {
@@ -4269,7 +4311,7 @@
       },
       "Time-Start": "2025-08-20T18:30",
       "Time-End": "2025-08-20T20:30",
-      "Time-Now": 5,
+      "Time-Now": 6,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%A7-%D9%85%D9%8A%D8%B3%D8%AA%D8%A7%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%B1%D9%8A%D8%A7%D9%84-%D8%B3%D8%B1%D9%82%D8%B3%D8%B7%D8%A9-%D8%A8&id=4528276&date=2025-08-20",
       "matchDetails": {
@@ -4719,6 +4761,40 @@
             "Team": []
           }
         }
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529762,
+      "Team-Right": {
+        "Name": "أتليتكو أستورجا",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=13445",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "بولفورين",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=53731",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T19:30",
+      "Time-End": "2025-08-20T21:30",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83%D9%88-%D8%A3%D8%B3%D8%AA%D9%88%D8%B1%D8%AC%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D9%84%D9%81%D9%88%D8%B1%D9%8A%D9%86&id=4529762&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": [],
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": []
       }
     },
     {
@@ -6618,7 +6694,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T16:37:40.938Z",
-    "count": 27
+    "lastUpdated": "2025-08-20T16:38:32.207Z",
+    "count": 28
   }
 }
