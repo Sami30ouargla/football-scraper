@@ -3526,7 +3526,7 @@
       },
       "Time-Start": "2025-08-20T17:00",
       "Time-End": "2025-08-20T19:00",
-      "Time-Now": 82,
+      "Time-Now": 83,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%D8%A7-%D9%83%D9%84%D9%8A%D9%88%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7-%D8%B6%D8%AF-%D8%A5%D9%86%D8%A8%D9%8A&id=4506644&date=2025-08-20",
       "matchDetails": {
@@ -3789,6 +3789,27 @@
             },
             "Place": "left",
             "Order": 12
+          },
+          {
+            "Event-Time": "82'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "زايد",
+              "IMG": "/assets/images/player-logo/?id=122471",
+              "ID": 67157668,
+              "Extra": [
+                {
+                  "Name": "ناصر",
+                  "IMG": "/assets/images/player-logo/?id=104286",
+                  "ID": 64112082
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
           }
         ],
         "Match-Lineup": {
@@ -3959,7 +3980,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.5,
+                "Ranking": 7.6,
                 "Player-Name": "أوتاكا",
                 "Player-Logo": "/assets/images/player-logo/?id=113369",
                 "Player-ID": 65937861,
@@ -4053,6 +4074,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "زايد",
+                "Player-Logo": "/assets/images/player-logo/?id=122471",
+                "Player-ID": 67157668,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -4099,16 +4130,6 @@
                 "Player-Name": "زكي",
                 "Player-Logo": "/assets/images/player-logo/?id=196516",
                 "Player-ID": 76982601,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "زايد",
-                "Player-Logo": "/assets/images/player-logo/?id=122471",
-                "Player-ID": 67157668,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4244,7 +4265,7 @@
       },
       "Time-Start": "2025-08-20T18:00",
       "Time-End": "2025-08-20T20:00",
-      "Time-Now": 30,
+      "Time-Now": 31,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%BA%D8%B1%D9%88%D8%B3%D9%8A%D8%AA%D9%88-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%8A%D8%B3%D9%8A&id=4530427&date=2025-08-20",
       "matchDetails": {
@@ -6928,7 +6949,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T16:46:42.734Z",
+    "lastUpdated": "2025-08-20T16:47:34.190Z",
     "count": 31
   }
 }
