@@ -11510,7 +11510,7 @@
       },
       "Time-Start": "2025-08-21T00:00",
       "Time-End": "2025-08-21T02:00",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%88%D9%81%D9%8A%D9%86%D8%AA%D9%88%D8%AF-%D8%B6%D8%AF-%D9%81%D8%A7%D8%B3%D9%83%D9%88-%D8%AF%D9%8A-%D8%BA%D8%A7%D9%85%D8%A7&id=4380488&date=2025-08-20",
       "matchDetails": {
@@ -11710,6 +11710,27 @@
             },
             "Place": "left",
             "Order": 9
+          },
+          {
+            "Event-Time": "63'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "لويس",
+              "IMG": "/assets/images/player-logo/?id=3276",
+              "ID": 514312,
+              "Extra": [
+                {
+                  "Name": "Freitas",
+                  "IMG": "/assets/images/player-logo/?id=87625",
+                  "ID": 54867438
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 10
           }
         ],
         "Match-Lineup": {
@@ -12064,6 +12085,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "لويس",
+                "Player-Logo": "/assets/images/player-logo/?id=3276",
+                "Player-ID": 514312,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مهاجم أيسر",
                 "Status": "Substitute",
                 "Ranking": -1,
@@ -12100,16 +12131,6 @@
                 "Player-Name": "فوزاتو",
                 "Player-Logo": "/assets/images/player-logo/?id=60210",
                 "Player-ID": 7112879,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "لويس",
-                "Player-Logo": "/assets/images/player-logo/?id=3276",
-                "Player-ID": 514312,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -12236,7 +12257,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 5.8,
+                "Ranking": 5.9,
                 "Player-Name": "بيتون",
                 "Player-Logo": "/assets/images/player-logo/?id=66853",
                 "Player-ID": 16767092,
@@ -12355,7 +12376,7 @@
       },
       "Time-Start": "2025-08-21T00:00",
       "Time-End": "2025-08-21T02:00",
-      "Time-Now": 66,
+      "Time-Now": 67,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D8%B3%D8%AA%D9%88%D8%AF%D9%8A%D8%A7%D9%86%D8%AA%D9%8A%D8%B3-%D8%B6%D8%AF-%D8%B3%D9%8A%D8%B1%D9%88-%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%86%D9%8A%D9%88&id=4443295&date=2025-08-20",
       "matchDetails": {
@@ -12998,7 +13019,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T23:23:35.213Z",
+    "lastUpdated": "2025-08-20T23:24:55.424Z",
     "count": 43
   }
 }
