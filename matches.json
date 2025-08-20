@@ -2516,7 +2516,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 79,
+      "Time-Now": 80,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2832,7 +2832,7 @@
             "Order": 15
           },
           {
-            "Event-Time": "67'",
+            "Event-Time": "68'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -2851,6 +2851,48 @@
             },
             "Place": "left",
             "Order": 16
+          },
+          {
+            "Event-Time": "78'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أبوالشامات",
+              "IMG": "/assets/images/player-logo/?id=151617",
+              "ID": 71386640,
+              "Extra": [
+                {
+                  "Name": "جالينو",
+                  "IMG": "/assets/images/player-logo/?id=52776",
+                  "ID": 3139801
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
+            "Event-Time": "79'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "السالم",
+              "IMG": "/assets/images/player-logo/?id=4738",
+              "ID": 538390,
+              "Extra": [
+                {
+                  "Name": "ريتيجي",
+                  "IMG": "/assets/images/player-logo/?id=64506",
+                  "ID": 5992770
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 18
           }
         ],
         "Match-Lineup": {
@@ -2885,6 +2927,16 @@
                 "Player-Name": "الجوير",
                 "Player-Logo": "/assets/images/player-logo/?id=100810",
                 "Player-ID": 61681368,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "السالم",
+                "Player-Logo": "/assets/images/player-logo/?id=4738",
+                "Player-ID": 538390,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -2925,16 +2977,6 @@
                 "Player-Name": "القحطاني",
                 "Player-Logo": "/assets/images/player-logo/?id=50812",
                 "Player-ID": 3730876,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "السالم",
-                "Player-Logo": "/assets/images/player-logo/?id=4738",
-                "Player-ID": 538390,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -3115,6 +3157,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "أبوالشامات",
+                "Player-Logo": "/assets/images/player-logo/?id=151617",
+                "Player-ID": 71386640,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": -1,
@@ -3151,16 +3203,6 @@
                 "Player-Name": "عبده",
                 "Player-Logo": "/assets/images/player-logo/?id=134925",
                 "Player-ID": 70782475,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "أبوالشامات",
-                "Player-Logo": "/assets/images/player-logo/?id=151617",
-                "Player-ID": 71386640,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -6117,7 +6159,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T13:52:38.757Z",
+    "lastUpdated": "2025-08-20T13:53:35.061Z",
     "count": 24
   }
 }
