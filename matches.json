@@ -2111,7 +2111,7 @@
           "Date": "2025-08-20",
           "Time": "07:30",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": null,
           "Group": null
         },
@@ -3650,16 +3650,6 @@
             "Formation": "N/A",
             "Team": [
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "Kayombo",
-                "Player-Logo": "/assets/images/player-logo/?id=135933",
-                "Player-ID": 70808676,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -3676,6 +3666,16 @@
                 "Player-Name": "خودياكوف",
                 "Player-Logo": "/assets/images/player-logo/?id=91672",
                 "Player-ID": 58141282,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "Kayombo",
+                "Player-Logo": "/assets/images/player-logo/?id=135933",
+                "Player-ID": 70808676,
                 "FieldLine": 0,
                 "FieldSide": 50
               }
@@ -4771,16 +4771,6 @@
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Gómez",
-                "Player-Logo": "/assets/images/player-logo/?id=154605",
-                "Player-ID": 71675298,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
                 "Player-Name": "Núñez",
                 "Player-Logo": "/assets/images/player-logo/?id=110801",
                 "Player-ID": 64351833,
@@ -4814,6 +4804,16 @@
                 "Player-Name": "Benedetti",
                 "Player-Logo": "/assets/images/player-logo/?id=85673",
                 "Player-ID": 53856876,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Piovi",
+                "Player-Logo": "/assets/images/player-logo/?id=60549",
+                "Player-ID": 2545026,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4868,12 +4868,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Missing",
+                "Position": "N/A",
+                "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "أسكاسيبار",
-                "Player-Logo": "/assets/images/player-logo/?id=41108",
-                "Player-ID": 1898695,
+                "Player-Name": "Pierani",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77387546,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4940,20 +4940,20 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "Meza",
-                "Player-Logo": "/assets/images/player-logo/?id=83278",
-                "Player-ID": 52797715,
+                "Ranking": -1,
+                "Player-Name": "Gómez",
+                "Player-Logo": "/assets/images/player-logo/?id=154605",
+                "Player-ID": 71675298,
                 "FieldLine": 25,
                 "FieldSide": 100
               },
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7,
-                "Player-Name": "Piovi",
-                "Player-Logo": "/assets/images/player-logo/?id=60549",
-                "Player-ID": 2545026,
+                "Ranking": 7.2,
+                "Player-Name": "أسكاسيبار",
+                "Player-Logo": "/assets/images/player-logo/?id=41108",
+                "Player-ID": 1898695,
                 "FieldLine": 50,
                 "FieldSide": 20
               },
@@ -5261,7 +5261,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T08:31:32.385Z",
+    "lastUpdated": "2025-08-20T08:32:33.722Z",
     "count": 18
   }
 }
