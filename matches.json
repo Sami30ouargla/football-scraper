@@ -2516,7 +2516,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 45,
+      "Time-Now": 46,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2638,6 +2638,21 @@
             },
             "Place": "right",
             "Order": 5
+          },
+          {
+            "Event-Time": "41'",
+            "Event-Name": "بطاقة حمراء",
+            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بونسو",
+              "IMG": "/assets/images/player-logo/?id=130462",
+              "ID": 67817457,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 6
           }
         ],
         "Match-Lineup": {
@@ -2788,7 +2803,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.3,
                 "Player-Name": "ألفاريز",
                 "Player-Logo": "/assets/images/player-logo/?id=66878",
                 "Player-ID": 3484451,
@@ -2808,7 +2823,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 5.6,
+                "Ranking": 5.5,
                 "Player-Name": "ذكري",
                 "Player-Logo": "/assets/images/player-logo/?id=157195",
                 "Player-ID": 68011629,
@@ -2858,7 +2873,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.1,
+                "Ranking": 6,
                 "Player-Name": "الثاني",
                 "Player-Logo": "/assets/images/player-logo/?id=65693",
                 "Player-ID": 9844805,
@@ -3044,7 +3059,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "إيبانيز",
                 "Player-Logo": "/assets/images/player-logo/?id=50393",
                 "Player-ID": 3560780,
@@ -5904,7 +5919,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T12:50:37.333Z",
+    "lastUpdated": "2025-08-20T12:51:37.042Z",
     "count": 24
   }
 }
