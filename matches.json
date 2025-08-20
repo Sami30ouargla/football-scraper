@@ -2870,13 +2870,28 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "ألفاريز",
+              "IMG": "/assets/images/player-logo/?id=66878",
+              "ID": 3484451,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 21
+          },
+          {
+            "Event-Time": "89'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "الزبيدي",
               "IMG": "/assets/images/player-logo/?id=134931",
               "ID": 70782481,
               "Extra": []
             },
             "Place": "right",
-            "Order": 21
+            "Order": 22
           }
         ],
         "Match-Lineup": {
@@ -3027,7 +3042,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "ألفاريز",
                 "Player-Logo": "/assets/images/player-logo/?id=66878",
                 "Player-ID": 3484451,
@@ -3283,7 +3298,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.1,
                 "Player-Name": "إيبانيز",
                 "Player-Logo": "/assets/images/player-logo/?id=50393",
                 "Player-ID": 3560780,
@@ -6210,7 +6225,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T14:08:38.198Z",
+    "lastUpdated": "2025-08-20T14:09:36.203Z",
     "count": 24
   }
 }
