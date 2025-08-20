@@ -2653,6 +2653,27 @@
             },
             "Place": "left",
             "Order": 6
+          },
+          {
+            "Event-Time": "45'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "كيسي",
+              "IMG": "/assets/images/player-logo/?id=41440",
+              "ID": 564633,
+              "Extra": [
+                {
+                  "Name": "محرز",
+                  "IMG": "/assets/images/player-logo/?id=764",
+                  "ID": 331904
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 7
           }
         ],
         "Match-Lineup": {
@@ -2663,7 +2684,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 5.8,
+                "Ranking": 5.4,
                 "Player-Name": "كاستيلس",
                 "Player-Logo": "/assets/images/player-logo/?id=827",
                 "Player-ID": 335046,
@@ -2873,7 +2894,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 5.8,
+                "Ranking": 5.9,
                 "Player-Name": "الثاني",
                 "Player-Logo": "/assets/images/player-logo/?id=65693",
                 "Player-ID": 9844805,
@@ -3099,7 +3120,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 8.4,
                 "Player-Name": "كيسي",
                 "Player-Logo": "/assets/images/player-logo/?id=41440",
                 "Player-ID": 564633,
@@ -3129,7 +3150,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 8.6,
                 "Player-Name": "محرز",
                 "Player-Logo": "/assets/images/player-logo/?id=764",
                 "Player-ID": 331904,
@@ -5919,7 +5940,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T12:53:37.462Z",
+    "lastUpdated": "2025-08-20T12:54:38.623Z",
     "count": 24
   }
 }
