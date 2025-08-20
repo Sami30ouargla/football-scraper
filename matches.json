@@ -2433,73 +2433,6 @@
       }
     },
     {
-      "Cup-id": 321,
-      "Cup-Name": "المباريات الوديّة الدوليّة",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
-      "Match-id": 4530430,
-      "Team-Right": {
-        "Name": "ميريلبيك",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=25939",
-        "Goal": 0
-      },
-      "Team-Left": {
-        "Name": "توبيز",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1188",
-        "Goal": 0
-      },
-      "Time-Start": "2025-08-20T19:00",
-      "Time-End": "2025-08-20T21:00",
-      "Time-Now": -1,
-      "Match-Status": "الغيت",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D9%8A%D9%84%D8%A8%D9%8A%D9%83-%D8%B6%D8%AF-%D8%AA%D9%88%D8%A8%D9%8A%D8%B2&id=4530430&date=2025-08-20",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4530430,
-          "Cup-Name": "المباريات الوديّة الدوليّة",
-          "Cup-Logo": "/assets/images/cup-logo/?id=321",
-          "Team-Right": {
-            "Name": "ميريلبيك",
-            "Color": "#7f97ab",
-            "Logo": "/assets/images/team-logo/?id=25939",
-            "Goal": "-"
-          },
-          "Team-Left": {
-            "Name": "توبيز",
-            "Color": "#CC0000",
-            "Logo": "/assets/images/team-logo/?id=1188",
-            "Goal": "-"
-          },
-          "Date": "2025-08-20",
-          "Time": "17:00",
-          "Time-Zone": -120,
-          "Status": "الغيت",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "N/A",
-          "Club-Balance": "N/A",
-          "Club-Capacity": "N/A",
-          "Tv": "N/A"
-        },
-        "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "ميريلبيك",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "توبيز",
-            "Formation": "N/A",
-            "Team": []
-          }
-        }
-      }
-    },
-    {
       "Cup-id": 6164,
       "Cup-Name": "كأس السوبر السعودي - نصف النهائي",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=6164",
@@ -2516,8 +2449,8 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 91,
-      "Match-Status": "الشوط الثاني",
+      "Time-Now": 90,
+      "Match-Status": "انتهت للتو",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
         "Match-Card": {
@@ -3438,6 +3371,73 @@
                 "FieldSide": 50
               }
             ]
+          }
+        }
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4530430,
+      "Team-Right": {
+        "Name": "ميريلبيك",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=25939",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "توبيز",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1188",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T19:00",
+      "Time-End": "2025-08-20T21:00",
+      "Time-Now": -1,
+      "Match-Status": "الغيت",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D9%8A%D8%B1%D9%8A%D9%84%D8%A8%D9%8A%D9%83-%D8%B6%D8%AF-%D8%AA%D9%88%D8%A8%D9%8A%D8%B2&id=4530430&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4530430,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "ميريلبيك",
+            "Color": "#7f97ab",
+            "Logo": "/assets/images/team-logo/?id=25939",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "توبيز",
+            "Color": "#CC0000",
+            "Logo": "/assets/images/team-logo/?id=1188",
+            "Goal": "-"
+          },
+          "Date": "2025-08-20",
+          "Time": "17:00",
+          "Time-Zone": -120,
+          "Status": "الغيت",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "ميريلبيك",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "توبيز",
+            "Formation": "N/A",
+            "Team": []
           }
         }
       }
@@ -6210,7 +6210,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T14:04:35.835Z",
+    "lastUpdated": "2025-08-20T14:05:29.940Z",
     "count": 24
   }
 }
