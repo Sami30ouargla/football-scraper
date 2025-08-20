@@ -7804,7 +7804,7 @@
           "Date": "2025-08-20",
           "Time": "18:30",
           "Time-Zone": -120,
-          "Status": "انتهت للتو",
+          "Status": "انتهت",
           "Round": null,
           "Group": null
         },
@@ -7879,7 +7879,7 @@
       },
       "Time-Start": "2025-08-20T21:00",
       "Time-End": "2025-08-20T23:00",
-      "Time-Now": 88,
+      "Time-Now": 89,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D8%AF%D9%88-%D8%AC%D9%84%D9%8A%D9%85%D8%AA-%D8%B6%D8%AF-%D8%B4%D8%AA%D9%88%D8%B1%D9%85-%D8%BA%D8%B1%D8%A7%D8%AA%D8%B3&id=4516159&date=2025-08-20",
       "matchDetails": {
@@ -8548,7 +8548,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.4,
                 "Player-Name": "Beganovic",
                 "Player-Logo": "/assets/images/player-logo/?id=114655",
                 "Player-ID": 66229671,
@@ -8718,7 +8718,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6,
+                "Ranking": 6.2,
                 "Player-Name": "لافاالي",
                 "Player-Logo": "/assets/images/player-logo/?id=45891",
                 "Player-ID": 3170309,
@@ -8827,7 +8827,7 @@
       },
       "Time-Start": "2025-08-20T21:00",
       "Time-End": "2025-08-20T23:00",
-      "Time-Now": 87,
+      "Time-Now": 88,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D8%A7%D8%B2%D9%84-%D8%B6%D8%AF-%D9%83%D9%88%D8%A8%D9%86%D9%87%D8%A7%D8%AC%D9%86&id=4522874&date=2025-08-20",
       "matchDetails": {
@@ -8845,7 +8845,7 @@
             "Name": "كوبنهاجن",
             "Color": "#D9D9D9",
             "Logo": "/assets/images/team-logo/?id=1824",
-            "Goal": 2
+            "Goal": 1
           },
           "Date": "2025-08-20",
           "Time": "19:00",
@@ -9131,22 +9131,16 @@
             "Order": 15
           },
           {
-            "Event-Time": "87'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
+            "Event-Time": "88'",
+            "Event-Name": "هدف ملغي",
+            "Event-Logo": "/assets/images/event-logo/?id=11&subType=25",
+            "Event-SubType-Id": 25,
+            "Event-SubType-Name": "Var",
             "Event-Player": {
               "Name": "كورنلويس",
               "IMG": "/assets/images/player-logo/?id=9145",
               "ID": 288281,
-              "Extra": [
-                {
-                  "Name": "لوبيز",
-                  "IMG": "/assets/images/player-logo/?id=47139",
-                  "ID": 894735
-                }
-              ]
+              "Extra": []
             },
             "Place": "right",
             "Order": 16
@@ -9160,7 +9154,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 5.3,
+                "Ranking": 5.7,
                 "Player-Name": "هيتز",
                 "Player-Logo": "/assets/images/player-logo/?id=1810",
                 "Player-ID": 335043,
@@ -9310,7 +9304,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.6,
                 "Player-Name": "Schmid",
                 "Player-Logo": "/assets/images/player-logo/?id=49941",
                 "Player-ID": 3093966,
@@ -9320,7 +9314,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 5.1,
+                "Ranking": 5.3,
                 "Player-Name": "أدجيتي",
                 "Player-Logo": "/assets/images/player-logo/?id=136768",
                 "Player-ID": 70861556,
@@ -9330,7 +9324,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.8,
                 "Player-Name": "باريشيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=97079",
                 "Player-ID": 58255524,
@@ -9340,7 +9334,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.7,
                 "Player-Name": "تسونيموتو",
                 "Player-Logo": "/assets/images/player-logo/?id=83236",
                 "Player-ID": 52190854,
@@ -9576,7 +9570,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 8.4,
+                "Ranking": 7.8,
                 "Player-Name": "لوبيز",
                 "Player-Logo": "/assets/images/player-logo/?id=47139",
                 "Player-ID": 894735,
@@ -9666,7 +9660,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.8,
+                "Ranking": 6.9,
                 "Player-Name": "كورنلويس",
                 "Player-Logo": "/assets/images/player-logo/?id=9145",
                 "Player-ID": 288281,
@@ -9695,7 +9689,7 @@
       },
       "Time-Start": "2025-08-20T21:00",
       "Time-End": "2025-08-20T23:00",
-      "Time-Now": 89,
+      "Time-Now": 90,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D9%84%D8%AA%D9%8A%D9%83-%D8%B6%D8%AF-%D9%82%D8%A7%D9%8A%D8%B1%D8%A7%D8%AA-%D8%A3%D9%84%D9%85%D8%A7%D8%AA%D9%87&id=4522921&date=2025-08-20",
       "matchDetails": {
@@ -9813,7 +9807,7 @@
             "Order": 5
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -10228,7 +10222,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.5,
                 "Player-Name": "أناربيكوف",
                 "Player-Logo": "/assets/images/player-logo/?id=99419",
                 "Player-ID": 60283973,
@@ -10358,7 +10352,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "سوروكين",
                 "Player-Logo": "/assets/images/player-logo/?id=206627",
                 "Player-ID": 76685004,
@@ -10467,7 +10461,7 @@
       },
       "Time-Start": "2025-08-20T21:00",
       "Time-End": "2025-08-20T23:00",
-      "Time-Now": 89,
+      "Time-Now": 90,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%86%D8%B1%D8%A8%D8%AE%D8%B4%D8%A9-%D8%B6%D8%AF-%D8%A8%D9%86%D9%81%D9%8A%D9%83%D8%A7&id=4522923&date=2025-08-20",
       "matchDetails": {
@@ -10988,7 +10982,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "النصيري",
                 "Player-Logo": "/assets/images/player-logo/?id=44866",
                 "Player-ID": 3143125,
@@ -11214,7 +11208,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 7,
                 "Player-Name": "سيلفا",
                 "Player-Logo": "/assets/images/player-logo/?id=110890",
                 "Player-ID": 63094712,
@@ -11313,7 +11307,7 @@
       },
       "Time-Start": "2025-08-20T21:00",
       "Time-End": "2025-08-20T23:00",
-      "Time-Now": 88,
+      "Time-Now": 89,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D8%AA%D9%8A%D8%B1%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D8%B2%D9%88%D8%A8%D9%84%D8%A7%D9%86%D9%83%D9%88&id=4531312&date=2025-08-20",
       "matchDetails": {
@@ -12665,7 +12659,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T20:47:50.276Z",
+    "lastUpdated": "2025-08-20T20:48:37.010Z",
     "count": 43
   }
 }
