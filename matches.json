@@ -2546,7 +2546,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 8,
+      "Time-Now": 9,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2581,7 +2581,23 @@
           "Club-Capacity": 40000,
           "Tv": "الثمانية 1"
         },
-        "Match-Events": [],
+        "Match-Events": [
+          {
+            "Event-Time": "8'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "ألفاريز",
+              "IMG": "/assets/images/player-logo/?id=66878",
+              "ID": 3484451,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          }
+        ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "القادسية",
@@ -2704,6 +2720,16 @@
                 "Player-Name": "سنيور",
                 "Player-Logo": "/assets/images/player-logo/?id=94842",
                 "Player-ID": 59129603,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "جابريل",
+                "Player-Logo": "/assets/images/player-logo/?id=157911",
+                "Player-ID": 72056444,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -5846,7 +5872,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T12:13:38.786Z",
+    "lastUpdated": "2025-08-20T12:14:36.681Z",
     "count": 24
   }
 }
