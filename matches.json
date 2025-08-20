@@ -2516,7 +2516,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 90,
+      "Time-Now": 91,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2539,7 +2539,7 @@
           "Date": "2025-08-20",
           "Time": "12:00",
           "Time-Zone": -120,
-          "Status": "الشوط الثاني",
+          "Status": "انتهت للتو",
           "Round": null,
           "Group": null
         },
@@ -2929,6 +2929,21 @@
             },
             "Place": "left",
             "Order": 20
+          },
+          {
+            "Event-Time": "89'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الزبيدي",
+              "IMG": "/assets/images/player-logo/?id=134931",
+              "ID": 70782481,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 21
           }
         ],
         "Match-Lineup": {
@@ -3335,7 +3350,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7,
                 "Player-Name": "إيبانيز",
                 "Player-Logo": "/assets/images/player-logo/?id=50393",
                 "Player-ID": 3560780,
@@ -6195,7 +6210,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T14:03:36.536Z",
+    "lastUpdated": "2025-08-20T14:04:35.835Z",
     "count": 24
   }
 }
