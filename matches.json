@@ -3526,7 +3526,7 @@
       },
       "Time-Start": "2025-08-20T17:00",
       "Time-End": "2025-08-20T19:00",
-      "Time-Now": 59,
+      "Time-Now": 61,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%D8%A7-%D9%83%D9%84%D9%8A%D9%88%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7-%D8%B6%D8%AF-%D8%A5%D9%86%D8%A8%D9%8A&id=4506644&date=2025-08-20",
       "matchDetails": {
@@ -3648,6 +3648,27 @@
             },
             "Place": "left",
             "Order": 5
+          },
+          {
+            "Event-Time": "60'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "إبراهيم",
+              "IMG": "/assets/images/player-logo/?id=152588",
+              "ID": 71502467,
+              "Extra": [
+                {
+                  "Name": "لاكاي",
+                  "IMG": "/assets/images/player-logo/?id=97455",
+                  "ID": 50572581
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 6
           }
         ],
         "Match-Lineup": {
@@ -3672,6 +3693,16 @@
                 "Player-Name": "الجزار",
                 "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77385745,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "إبراهيم",
+                "Player-Logo": "/assets/images/player-logo/?id=152588",
+                "Player-ID": 71502467,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -3702,16 +3733,6 @@
                 "Player-Name": "صادق",
                 "Player-Logo": "/assets/images/player-logo/?id=52949",
                 "Player-ID": 4914638,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "إبراهيم",
-                "Player-Logo": "/assets/images/player-logo/?id=152588",
-                "Player-ID": 71502467,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -3778,7 +3799,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.4,
                 "Player-Name": "ارثر",
                 "Player-Logo": "/assets/images/player-logo/?id=122225",
                 "Player-ID": 67142567,
@@ -4103,7 +4124,7 @@
       },
       "Time-Start": "2025-08-20T18:00",
       "Time-End": "2025-08-20T20:00",
-      "Time-Now": 8,
+      "Time-Now": 9,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%BA%D8%B1%D9%88%D8%B3%D9%8A%D8%AA%D9%88-%D8%B6%D8%AF-%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%8A%D8%B3%D9%8A&id=4530427&date=2025-08-20",
       "matchDetails": {
@@ -6519,7 +6540,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T16:24:41.528Z",
+    "lastUpdated": "2025-08-20T16:25:30.363Z",
     "count": 27
   }
 }
