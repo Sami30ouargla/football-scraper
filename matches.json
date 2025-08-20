@@ -2516,8 +2516,8 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 45,
-      "Match-Status": "شوط",
+      "Time-Now": 46,
+      "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
         "Match-Card": {
@@ -2539,7 +2539,7 @@
           "Date": "2025-08-20",
           "Time": "12:00",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": null,
           "Group": null
         },
@@ -2674,6 +2674,27 @@
             },
             "Place": "right",
             "Order": 7
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الشهراني",
+              "IMG": "/assets/images/player-logo/?id=4632",
+              "ID": 370309,
+              "Extra": [
+                {
+                  "Name": "ذكري",
+                  "IMG": "/assets/images/player-logo/?id=157195",
+                  "ID": 68011629
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -2688,6 +2709,16 @@
                 "Player-Name": "كاستيلس",
                 "Player-Logo": "/assets/images/player-logo/?id=827",
                 "Player-ID": 335046,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الشهراني",
+                "Player-Logo": "/assets/images/player-logo/?id=4632",
+                "Player-ID": 370309,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -2738,16 +2769,6 @@
                 "Player-Name": "السالم",
                 "Player-Logo": "/assets/images/player-logo/?id=4738",
                 "Player-ID": 538390,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الشهراني",
-                "Player-Logo": "/assets/images/player-logo/?id=4632",
-                "Player-ID": 370309,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -5940,7 +5961,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T13:18:38.990Z",
+    "lastUpdated": "2025-08-20T13:19:38.097Z",
     "count": 24
   }
 }
