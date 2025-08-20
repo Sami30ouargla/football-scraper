@@ -14945,27 +14945,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Herrera",
-              "IMG": "/assets/images/player-logo/?id=113447",
-              "ID": 65930705,
-              "Extra": [
-                {
-                  "Name": "لوبيز",
-                  "IMG": "/assets/images/player-logo/?id=42177",
-                  "ID": 154142
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 6
-          },
-          {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "Lucero",
               "IMG": "/assets/images/player-logo/?id=8407",
               "ID": 478479,
@@ -14978,7 +14957,7 @@
               ]
             },
             "Place": "right",
-            "Order": 7
+            "Order": 6
           },
           {
             "Event-Time": "46'",
@@ -14995,6 +14974,27 @@
                   "Name": "مارينيو",
                   "IMG": "/assets/images/player-logo/?id=26876",
                   "ID": 888354
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 7
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Herrera",
+              "IMG": "/assets/images/player-logo/?id=113447",
+              "ID": 65930705,
+              "Extra": [
+                {
+                  "Name": "لوبيز",
+                  "IMG": "/assets/images/player-logo/?id=42177",
+                  "ID": 154142
                 }
               ]
             },
@@ -15813,7 +15813,7 @@
   ],
   "meta": {
     "date": "2025-08-19",
-    "lastUpdated": "2025-08-20T01:49:13.717Z",
+    "lastUpdated": "2025-08-20T01:50:13.647Z",
     "count": 28
   }
 }
