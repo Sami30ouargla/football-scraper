@@ -2516,7 +2516,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 56,
+      "Time-Now": 57,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2737,6 +2737,21 @@
             },
             "Place": "left",
             "Order": 10
+          },
+          {
+            "Event-Time": "56'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "توني",
+              "IMG": "/assets/images/player-logo/?id=38192",
+              "ID": 399769,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 11
           }
         ],
         "Match-Lineup": {
@@ -2747,7 +2762,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 5.4,
+                "Ranking": 5.6,
                 "Player-Name": "كاستيلس",
                 "Player-Logo": "/assets/images/player-logo/?id=827",
                 "Player-ID": 335046,
@@ -2927,7 +2942,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.2,
                 "Player-Name": "بويرتاس",
                 "Player-Logo": "/assets/images/player-logo/?id=80960",
                 "Player-ID": 49633044,
@@ -3173,7 +3188,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 7.7,
+                "Ranking": 8,
                 "Player-Name": "ميلوت",
                 "Player-Logo": "/assets/images/player-logo/?id=72121",
                 "Player-ID": 15399181,
@@ -3223,7 +3238,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6.5,
                 "Player-Name": "توني",
                 "Player-Logo": "/assets/images/player-logo/?id=38192",
                 "Player-ID": 399769,
@@ -6003,7 +6018,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T13:29:37.380Z",
+    "lastUpdated": "2025-08-20T13:30:38.931Z",
     "count": 24
   }
 }
