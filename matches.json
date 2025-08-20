@@ -1277,14 +1277,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Colombo",
-              "IMG": "/assets/images/player-logo/?id=68571",
-              "ID": 29976059,
+              "Name": "Vergara",
+              "IMG": "/assets/images/player-logo/?id=39652",
+              "ID": 937844,
               "Extra": [
                 {
-                  "Name": "روخو",
-                  "IMG": "/assets/images/player-logo/?id=853",
-                  "ID": 87017
+                  "Name": "ألميندرا",
+                  "IMG": "/assets/images/player-logo/?id=57647",
+                  "ID": 6331841
                 }
               ]
             },
@@ -1298,14 +1298,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Vergara",
-              "IMG": "/assets/images/player-logo/?id=39652",
-              "ID": 937844,
+              "Name": "Colombo",
+              "IMG": "/assets/images/player-logo/?id=68571",
+              "ID": 29976059,
               "Extra": [
                 {
-                  "Name": "ألميندرا",
-                  "IMG": "/assets/images/player-logo/?id=57647",
-                  "ID": 6331841
+                  "Name": "روخو",
+                  "IMG": "/assets/images/player-logo/?id=853",
+                  "ID": 87017
                 }
               ]
             },
@@ -1442,6 +1442,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "ليو",
+              "IMG": "/assets/images/player-logo/?id=56829",
+              "ID": 472653,
+              "Extra": [
+                {
+                  "Name": "Cabrera",
+                  "IMG": "/assets/images/player-logo/?id=45028",
+                  "ID": 3144434
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 20
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "Hernandez",
               "IMG": "/assets/images/player-logo/?id=47630",
               "ID": 3233170,
@@ -1454,7 +1475,7 @@
               ]
             },
             "Place": "right",
-            "Order": 20
+            "Order": 21
           },
           {
             "Event-Time": "90'",
@@ -1471,27 +1492,6 @@
                   "Name": "رمدي",
                   "IMG": "/assets/images/player-logo/?id=8291",
                   "ID": 546027
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 21
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "ليو",
-              "IMG": "/assets/images/player-logo/?id=56829",
-              "ID": 472653,
-              "Extra": [
-                {
-                  "Name": "Cabrera",
-                  "IMG": "/assets/images/player-logo/?id=45028",
-                  "ID": 3144434
                 }
               ]
             },
@@ -5282,73 +5282,6 @@
       "Cup-id": 321,
       "Cup-Name": "المباريات الوديّة الدوليّة",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
-      "Match-id": 4531324,
-      "Team-Right": {
-        "Name": "زاموديو",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=18120",
-        "Goal": 2
-      },
-      "Team-Left": {
-        "Name": "لاريذو",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=18146",
-        "Goal": 1
-      },
-      "Time-Start": "2025-08-20T19:30",
-      "Time-End": "2025-08-20T21:30",
-      "Time-Now": -1,
-      "Match-Status": "انتهت",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B2%D8%A7%D9%85%D9%88%D8%AF%D9%8A%D9%88-%D8%B6%D8%AF-%D9%84%D8%A7%D8%B1%D9%8A%D8%B0%D9%88&id=4531324&date=2025-08-20",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4531324,
-          "Cup-Name": "المباريات الوديّة الدوليّة",
-          "Cup-Logo": "/assets/images/cup-logo/?id=321",
-          "Team-Right": {
-            "Name": "زاموديو",
-            "Color": "#FF6600",
-            "Logo": "/assets/images/team-logo/?id=18120",
-            "Goal": 2
-          },
-          "Team-Left": {
-            "Name": "لاريذو",
-            "Color": "#c7d0d8",
-            "Logo": "/assets/images/team-logo/?id=18146",
-            "Goal": 1
-          },
-          "Date": "2025-08-20",
-          "Time": "17:30",
-          "Time-Zone": -120,
-          "Status": "انتهت",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "N/A",
-          "Club-Balance": "N/A",
-          "Club-Capacity": "N/A",
-          "Tv": "N/A"
-        },
-        "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "زاموديو",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "لاريذو",
-            "Formation": "N/A",
-            "Team": []
-          }
-        }
-      }
-    },
-    {
-      "Cup-id": 321,
-      "Cup-Name": "المباريات الوديّة الدوليّة",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
       "Match-id": 4531323,
       "Team-Right": {
         "Name": "ثيربونيرو",
@@ -5406,6 +5339,73 @@
           },
           "Away-Team": {
             "Team-Name": "أرنيدو",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4531324,
+      "Team-Right": {
+        "Name": "زاموديو",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=18120",
+        "Goal": 2
+      },
+      "Team-Left": {
+        "Name": "لاريذو",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=18146",
+        "Goal": 1
+      },
+      "Time-Start": "2025-08-20T19:30",
+      "Time-End": "2025-08-20T21:30",
+      "Time-Now": -1,
+      "Match-Status": "انتهت",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B2%D8%A7%D9%85%D9%88%D8%AF%D9%8A%D9%88-%D8%B6%D8%AF-%D9%84%D8%A7%D8%B1%D9%8A%D8%B0%D9%88&id=4531324&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4531324,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "زاموديو",
+            "Color": "#FF6600",
+            "Logo": "/assets/images/team-logo/?id=18120",
+            "Goal": 2
+          },
+          "Team-Left": {
+            "Name": "لاريذو",
+            "Color": "#c7d0d8",
+            "Logo": "/assets/images/team-logo/?id=18146",
+            "Goal": 1
+          },
+          "Date": "2025-08-20",
+          "Time": "17:30",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "زاموديو",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "لاريذو",
             "Formation": "N/A",
             "Team": []
           }
@@ -12744,7 +12744,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T21:32:37.583Z",
+    "lastUpdated": "2025-08-20T21:33:49.557Z",
     "count": 43
   }
 }
