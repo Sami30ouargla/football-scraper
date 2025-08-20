@@ -3650,16 +3650,6 @@
             "Formation": "N/A",
             "Team": [
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "Kayombo",
-                "Player-Logo": "/assets/images/player-logo/?id=135933",
-                "Player-ID": 70808676,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -3676,6 +3666,16 @@
                 "Player-Name": "خودياكوف",
                 "Player-Logo": "/assets/images/player-logo/?id=91672",
                 "Player-ID": 58141282,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "Kayombo",
+                "Player-Logo": "/assets/images/player-logo/?id=135933",
+                "Player-ID": 70808676,
                 "FieldLine": 0,
                 "FieldSide": 50
               }
@@ -4099,22 +4099,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Babi",
-                "Player-Logo": "/assets/images/player-logo/?id=79323",
-                "Player-ID": 50363800,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "Carneiro",
                 "Player-Logo": "/assets/images/player-logo/?id=40106",
                 "Player-ID": 1858275,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Batalla",
+                "Player-Logo": "/assets/images/player-logo/?id=81306",
+                "Player-ID": 51417110,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4369,22 +4369,22 @@
                 "FieldSide": 80
               },
               {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "Batalla",
-                "Player-Logo": "/assets/images/player-logo/?id=81306",
-                "Player-ID": 51417110,
-                "FieldLine": 99,
-                "FieldSide": 0
-              },
-              {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
                 "Ranking": 6.9,
                 "Player-Name": "G. Taliari",
                 "Player-Logo": "/assets/images/player-logo/?id=58126",
                 "Player-ID": 165639,
+                "FieldLine": 99,
+                "FieldSide": 0
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 6.7,
+                "Player-Name": "Babi",
+                "Player-Logo": "/assets/images/player-logo/?id=79323",
+                "Player-ID": 50363800,
                 "FieldLine": 99,
                 "FieldSide": 50
               },
@@ -5261,7 +5261,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T08:22:32.306Z",
+    "lastUpdated": "2025-08-20T08:23:33.772Z",
     "count": 18
   }
 }
