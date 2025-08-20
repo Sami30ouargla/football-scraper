@@ -2937,7 +2937,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "جابريل",
                 "Player-Logo": "/assets/images/player-logo/?id=157911",
                 "Player-ID": 72056444,
@@ -3526,8 +3526,8 @@
       },
       "Time-Start": "2025-08-20T17:00",
       "Time-End": "2025-08-20T19:00",
-      "Time-Now": -1,
-      "Match-Status": "لم تبدأ",
+      "Time-Now": 1,
+      "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%D8%A7-%D9%83%D9%84%D9%8A%D9%88%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7-%D8%B6%D8%AF-%D8%A5%D9%86%D8%A8%D9%8A&id=4506644&date=2025-08-20",
       "matchDetails": {
         "Match-Card": {
@@ -4270,6 +4270,40 @@
       "Cup-id": 321,
       "Cup-Name": "المباريات الوديّة الدوليّة",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529764,
+      "Team-Right": {
+        "Name": "الوداد البيضاوي",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=8326",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "المغرب الفاسي",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=8321",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T19:00",
+      "Time-End": "2025-08-20T21:00",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D9%8A&id=4529764&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": [],
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": []
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
       "Match-id": 4529765,
       "Team-Right": {
         "Name": "لييدا إيسبورتيو",
@@ -4461,6 +4495,73 @@
           },
           "Away-Team": {
             "Team-Name": "رايو ماخاذاوندا",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529762,
+      "Team-Right": {
+        "Name": "أتليتكو أستورجا",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=13445",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "بولفورين",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=53731",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T19:30",
+      "Time-End": "2025-08-20T21:30",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83%D9%88-%D8%A3%D8%B3%D8%AA%D9%88%D8%B1%D8%AC%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D9%84%D9%81%D9%88%D8%B1%D9%8A%D9%86&id=4529762&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4529762,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "أتليتكو أستورجا",
+            "Color": "#7f97ab",
+            "Logo": "/assets/images/team-logo/?id=13445",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "بولفورين",
+            "Color": "#c7d0d8",
+            "Logo": "/assets/images/team-logo/?id=53731",
+            "Goal": "-"
+          },
+          "Date": "2025-08-20",
+          "Time": "17:30",
+          "Time-Zone": -120,
+          "Status": "لم تبدأ",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "أتليتكو أستورجا",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "بولفورين",
             "Formation": "N/A",
             "Team": []
           }
@@ -6364,7 +6465,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T15:00:39.615Z",
-    "count": 26
+    "lastUpdated": "2025-08-20T15:01:41.330Z",
+    "count": 28
   }
 }
