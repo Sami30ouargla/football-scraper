@@ -2316,11 +2316,11 @@
       "Team-Left": {
         "Name": "باراكالدو",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=188",
-        "Goal": 0
+        "Goal": 1
       },
       "Time-Start": "2025-08-20T11:30",
       "Time-End": "2025-08-20T13:30",
-      "Time-Now": 27,
+      "Time-Now": 28,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%84%D9%88%D8%BA%D8%B1%D9%88%D9%86%D9%8A%D8%B3-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83%D8%A7%D9%84%D8%AF%D9%88&id=4530426&date=2025-08-20",
       "matchDetails": {
@@ -2338,7 +2338,7 @@
             "Name": "باراكالدو",
             "Color": "#F2F200",
             "Logo": "/assets/images/team-logo/?id=188",
-            "Goal": 0
+            "Goal": 1
           },
           "Date": "2025-08-20",
           "Time": "09:30",
@@ -3670,6 +3670,40 @@
       }
     },
     {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529762,
+      "Team-Right": {
+        "Name": "أتليتكو أستورجا",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=13445",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "بولفورين",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=53731",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T19:30",
+      "Time-End": "2025-08-20T21:30",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83%D9%88-%D8%A3%D8%B3%D8%AA%D9%88%D8%B1%D8%AC%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D9%84%D9%81%D9%88%D8%B1%D9%8A%D9%86&id=4529762&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": [],
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": []
+      }
+    },
+    {
       "Cup-id": 552,
       "Cup-Name": "الدوري المصري",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=552",
@@ -3801,6 +3835,40 @@
             "Team": []
           }
         }
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529761,
+      "Team-Right": {
+        "Name": "إيبرو",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=17925",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "كاسبي",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=21963",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T20:00",
+      "Time-End": "2025-08-20T22:00",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D9%8A%D8%A8%D8%B1%D9%88-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B3%D8%A8%D9%8A&id=4529761&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": [],
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": []
       }
     },
     {
@@ -5509,7 +5577,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T10:02:35.859Z",
-    "count": 21
+    "lastUpdated": "2025-08-20T10:03:37.616Z",
+    "count": 23
   }
 }
