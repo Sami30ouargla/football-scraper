@@ -4086,17 +4086,50 @@
       "Match-Status": "لم تبدأ",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%86%D9%8A%D8%A7-%D8%B3%D9%84%D8%A7%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%8A%D9%83&id=4521783&date=2025-08-20",
       "matchDetails": {
-        "Match-Card": [],
+        "Match-Card": {
+          "Match-id": 4521783,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "نيا سلامانيا",
+            "Color": "#FF0000",
+            "Logo": "/assets/images/team-logo/?id=7284",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "بايك",
+            "Color": "#F2F200",
+            "Logo": "/assets/images/team-logo/?id=6292",
+            "Goal": "-"
+          },
+          "Date": "2025-08-20",
+          "Time": "16:00",
+          "Time-Zone": -120,
+          "Status": "لم تبدأ",
+          "Round": null,
+          "Group": null
+        },
         "Match-Info": {
           "Match-Referee": "N/A",
           "Match-Video": "N/A",
-          "Club-Name": "N/A",
+          "Club-Name": "Ammochostos Stadium",
           "Club-Balance": "N/A",
           "Club-Capacity": "N/A",
           "Tv": "N/A"
         },
         "Match-Events": [],
-        "Match-Lineup": []
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "نيا سلامانيا",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "بايك",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
       }
     },
     {
@@ -4254,29 +4287,7 @@
       "Match-Status": "لم تبدأ",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D9%81%D8%A7%D8%B3%D9%8A&id=4529764&date=2025-08-20",
       "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4529764,
-          "Cup-Name": "المباريات الوديّة الدوليّة",
-          "Cup-Logo": "/assets/images/cup-logo/?id=321",
-          "Team-Right": {
-            "Name": "الوداد البيضاوي",
-            "Color": "#CC0000",
-            "Logo": "/assets/images/team-logo/?id=8326",
-            "Goal": "-"
-          },
-          "Team-Left": {
-            "Name": "المغرب الفاسي",
-            "Color": "#FFF700",
-            "Logo": "/assets/images/team-logo/?id=8321",
-            "Goal": "-"
-          },
-          "Date": "2025-08-20",
-          "Time": "17:00",
-          "Time-Zone": -120,
-          "Status": "لم تبدأ",
-          "Round": null,
-          "Group": null
-        },
+        "Match-Card": [],
         "Match-Info": {
           "Match-Referee": "N/A",
           "Match-Video": "N/A",
@@ -4286,18 +4297,7 @@
           "Tv": "N/A"
         },
         "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "الوداد البيضاوي",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "المغرب الفاسي",
-            "Formation": "N/A",
-            "Team": []
-          }
-        }
+        "Match-Lineup": []
       }
     },
     {
@@ -6398,7 +6398,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T14:55:40.735Z",
+    "lastUpdated": "2025-08-20T14:56:38.936Z",
     "count": 27
   }
 }
