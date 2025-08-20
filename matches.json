@@ -2546,7 +2546,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 22,
+      "Time-Now": 23,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2632,6 +2632,21 @@
             },
             "Place": "left",
             "Order": 3
+          },
+          {
+            "Event-Time": "22'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ميلوت",
+              "IMG": "/assets/images/player-logo/?id=72121",
+              "ID": 15399181,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 4
           }
         ],
         "Match-Lineup": {
@@ -2642,7 +2657,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.5,
                 "Player-Name": "كاستيلس",
                 "Player-Logo": "/assets/images/player-logo/?id=827",
                 "Player-ID": 335046,
@@ -2782,7 +2797,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.5,
+                "Ranking": 7.6,
                 "Player-Name": "ألفاريز",
                 "Player-Logo": "/assets/images/player-logo/?id=66878",
                 "Player-ID": 3484451,
@@ -2802,7 +2817,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.1,
+                "Ranking": 6.2,
                 "Player-Name": "ذكري",
                 "Player-Logo": "/assets/images/player-logo/?id=157195",
                 "Player-ID": 68011629,
@@ -3038,7 +3053,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.5,
                 "Player-Name": "إيبانيز",
                 "Player-Logo": "/assets/images/player-logo/?id=50393",
                 "Player-ID": 3560780,
@@ -3068,7 +3083,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.2,
                 "Player-Name": "ميلوت",
                 "Player-Logo": "/assets/images/player-logo/?id=72121",
                 "Player-ID": 15399181,
@@ -5908,7 +5923,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T12:27:38.393Z",
+    "lastUpdated": "2025-08-20T12:28:39.006Z",
     "count": 24
   }
 }
