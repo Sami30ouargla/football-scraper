@@ -2516,7 +2516,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 66,
+      "Time-Now": 67,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -2767,6 +2767,69 @@
             },
             "Place": "right",
             "Order": 12
+          },
+          {
+            "Event-Time": "66'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الرشيدي",
+              "IMG": "/assets/images/player-logo/?id=55512",
+              "ID": 3359862,
+              "Extra": [
+                {
+                  "Name": "البريكان",
+                  "IMG": "/assets/images/player-logo/?id=56802",
+                  "ID": 6888928
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
+          },
+          {
+            "Event-Time": "66'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "مجرشي",
+              "IMG": "/assets/images/player-logo/?id=54237",
+              "ID": 6163797,
+              "Extra": [
+                {
+                  "Name": "عبدالرحمن",
+                  "IMG": "/assets/images/player-logo/?id=99385",
+                  "ID": 61116710
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 14
+          },
+          {
+            "Event-Time": "66'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "المولد",
+              "IMG": "/assets/images/player-logo/?id=136800",
+              "ID": 70850891,
+              "Extra": [
+                {
+                  "Name": "ميلوت",
+                  "IMG": "/assets/images/player-logo/?id=72121",
+                  "ID": 15399181
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 15
           }
         ],
         "Match-Lineup": {
@@ -2917,7 +2980,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6.8,
                 "Player-Name": "ألفاريز",
                 "Player-Logo": "/assets/images/player-logo/?id=66878",
                 "Player-ID": 3484451,
@@ -3031,6 +3094,36 @@
                 "FieldSide": 50
               },
               {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "المولد",
+                "Player-Logo": "/assets/images/player-logo/?id=136800",
+                "Player-ID": 70850891,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "الرشيدي",
+                "Player-Logo": "/assets/images/player-logo/?id=55512",
+                "Player-ID": 3359862,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "مجرشي",
+                "Player-Logo": "/assets/images/player-logo/?id=54237",
+                "Player-ID": 6163797,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -3057,26 +3150,6 @@
                 "Player-Name": "الخيبري",
                 "Player-Logo": "/assets/images/player-logo/?id=136829",
                 "Player-ID": 70863216,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "المولد",
-                "Player-Logo": "/assets/images/player-logo/?id=136800",
-                "Player-ID": 70850891,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الرشيدي",
-                "Player-Logo": "/assets/images/player-logo/?id=55512",
-                "Player-ID": 3359862,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -3137,16 +3210,6 @@
                 "Player-Name": "حامد",
                 "Player-Logo": "/assets/images/player-logo/?id=99914",
                 "Player-ID": 61186325,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "مجرشي",
-                "Player-Logo": "/assets/images/player-logo/?id=54237",
-                "Player-ID": 6163797,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -6033,7 +6096,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T13:39:29.504Z",
+    "lastUpdated": "2025-08-20T13:40:36.921Z",
     "count": 24
   }
 }
