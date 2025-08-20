@@ -2602,6 +2602,21 @@
             },
             "Place": "left",
             "Order": 1
+          },
+          {
+            "Event-Time": "12'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "كيسي",
+              "IMG": "/assets/images/player-logo/?id=41440",
+              "ID": 564633,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
@@ -5878,7 +5893,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T12:17:38.943Z",
+    "lastUpdated": "2025-08-20T12:18:37.853Z",
     "count": 24
   }
 }
