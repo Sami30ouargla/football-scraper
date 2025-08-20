@@ -3593,7 +3593,7 @@
       },
       "Time-Start": "2025-08-20T17:00",
       "Time-End": "2025-08-20T19:00",
-      "Time-Now": 50,
+      "Time-Now": 51,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83%D8%A7-%D9%83%D9%84%D9%8A%D9%88%D8%A8%D8%A7%D8%AA%D8%B1%D8%A7-%D8%B6%D8%AF-%D8%A5%D9%86%D8%A8%D9%8A&id=4506644&date=2025-08-20",
       "matchDetails": {
@@ -3850,7 +3850,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "هاني",
                 "Player-Logo": "/assets/images/player-logo/?id=51522",
                 "Player-ID": 3391231,
@@ -3890,7 +3890,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "السولية",
                 "Player-Logo": "/assets/images/player-logo/?id=49901",
                 "Player-ID": 3517820,
@@ -3936,7 +3936,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Substitute",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "كالوشا",
                 "Player-Logo": "/assets/images/player-logo/?id=56676",
                 "Player-ID": 6761714,
@@ -4605,6 +4605,40 @@
             "Team": []
           }
         }
+      }
+    },
+    {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529762,
+      "Team-Right": {
+        "Name": "أتليتكو أستورجا",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=13445",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "بولفورين",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=53731",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T19:30",
+      "Time-End": "2025-08-20T21:30",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83%D9%88-%D8%A3%D8%B3%D8%AA%D9%88%D8%B1%D8%AC%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D9%84%D9%81%D9%88%D8%B1%D9%8A%D9%86&id=4529762&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": [],
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": []
       }
     },
     {
@@ -6504,7 +6538,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T16:14:30.639Z",
-    "count": 27
+    "lastUpdated": "2025-08-20T16:15:32.719Z",
+    "count": 28
   }
 }
