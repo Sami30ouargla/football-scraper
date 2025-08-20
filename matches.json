@@ -3607,29 +3607,7 @@
       "Match-Status": "لم تبدأ",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%83%D9%88-%D8%A3%D8%B3%D8%AA%D9%88%D8%B1%D8%AC%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D9%84%D9%81%D9%88%D8%B1%D9%8A%D9%86&id=4529762&date=2025-08-20",
       "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4529762,
-          "Cup-Name": "المباريات الوديّة الدوليّة",
-          "Cup-Logo": "/assets/images/cup-logo/?id=321",
-          "Team-Right": {
-            "Name": "أتليتكو أستورجا",
-            "Color": "#7f97ab",
-            "Logo": "/assets/images/team-logo/?id=13445",
-            "Goal": "-"
-          },
-          "Team-Left": {
-            "Name": "بولفورين",
-            "Color": "#c7d0d8",
-            "Logo": "/assets/images/team-logo/?id=53731",
-            "Goal": "-"
-          },
-          "Date": "2025-08-20",
-          "Time": "17:30",
-          "Time-Zone": -120,
-          "Status": "لم تبدأ",
-          "Round": null,
-          "Group": null
-        },
+        "Match-Card": [],
         "Match-Info": {
           "Match-Referee": "N/A",
           "Match-Video": "N/A",
@@ -3639,18 +3617,7 @@
           "Tv": "N/A"
         },
         "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "أتليتكو أستورجا",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "بولفورين",
-            "Formation": "N/A",
-            "Team": []
-          }
-        }
+        "Match-Lineup": []
       }
     },
     {
@@ -3788,6 +3755,40 @@
       }
     },
     {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4529761,
+      "Team-Right": {
+        "Name": "إيبرو",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=17925",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "كاسبي",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=21963",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-20T20:00",
+      "Time-End": "2025-08-20T22:00",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D9%8A%D8%A8%D8%B1%D9%88-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B3%D8%A8%D9%8A&id=4529761&date=2025-08-20",
+      "matchDetails": {
+        "Match-Card": [],
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": []
+      }
+    },
+    {
       "Cup-id": 332,
       "Cup-Name": "تصفيات ابطال اوروبا - بلاي اوف",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=332",
@@ -3882,6 +3883,16 @@
             "Formation": "N/A",
             "Team": [
               {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "Kayombo",
+                "Player-Logo": "/assets/images/player-logo/?id=135933",
+                "Player-ID": 70808676,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -3898,16 +3909,6 @@
                 "Player-Name": "خودياكوف",
                 "Player-Logo": "/assets/images/player-logo/?id=91672",
                 "Player-ID": 58141282,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "Kayombo",
-                "Player-Logo": "/assets/images/player-logo/?id=135933",
-                "Player-ID": 70808676,
                 "FieldLine": 0,
                 "FieldSide": 50
               }
@@ -5493,7 +5494,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T09:42:34.636Z",
-    "count": 21
+    "lastUpdated": "2025-08-20T09:43:36.621Z",
+    "count": 22
   }
 }
