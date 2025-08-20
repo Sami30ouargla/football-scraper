@@ -317,36 +317,6 @@
             "Order": 15
           },
           {
-            "Event-Time": "94'",
-            "Event-Name": "Woodwork",
-            "Event-Logo": "/assets/images/event-logo/?id=12&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "انتونيو",
-              "IMG": "/assets/images/player-logo/?id=70297",
-              "ID": 38074751,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 16
-          },
-          {
-            "Event-Time": "99'",
-            "Event-Name": "Woodwork",
-            "Event-Logo": "/assets/images/event-logo/?id=12&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "هينيستروزا",
-              "IMG": "/assets/images/player-logo/?id=84014",
-              "ID": 53087561,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 17
-          },
-          {
             "Event-Time": 1,
             "Event-Name": "إضاعة ركلة ترجيح",
             "Event-Logo": "/assets/images/event-logo/?id=6&subType=-1",
@@ -359,7 +329,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 18
+            "Order": 16
           },
           {
             "Event-Time": 1,
@@ -374,7 +344,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 19
+            "Order": 17
           },
           {
             "Event-Time": 2,
@@ -389,7 +359,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 20
+            "Order": 18
           },
           {
             "Event-Time": 2,
@@ -404,7 +374,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 21
+            "Order": 19
           },
           {
             "Event-Time": 3,
@@ -419,7 +389,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 22
+            "Order": 20
           },
           {
             "Event-Time": 3,
@@ -434,7 +404,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 23
+            "Order": 21
           },
           {
             "Event-Time": 4,
@@ -449,7 +419,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 24
+            "Order": 22
           },
           {
             "Event-Time": 4,
@@ -464,7 +434,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 25
+            "Order": 23
           },
           {
             "Event-Time": 5,
@@ -479,7 +449,7 @@
               "Extra": []
             },
             "Place": "right",
-            "Order": 26
+            "Order": 24
           },
           {
             "Event-Time": 5,
@@ -494,7 +464,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 27
+            "Order": 25
           }
         ],
         "Match-Lineup": {
@@ -1307,14 +1277,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Colombo",
-              "IMG": "/assets/images/player-logo/?id=68571",
-              "ID": 29976059,
+              "Name": "Vergara",
+              "IMG": "/assets/images/player-logo/?id=39652",
+              "ID": 937844,
               "Extra": [
                 {
-                  "Name": "روخو",
-                  "IMG": "/assets/images/player-logo/?id=853",
-                  "ID": 87017
+                  "Name": "ألميندرا",
+                  "IMG": "/assets/images/player-logo/?id=57647",
+                  "ID": 6331841
                 }
               ]
             },
@@ -1328,14 +1298,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Vergara",
-              "IMG": "/assets/images/player-logo/?id=39652",
-              "ID": 937844,
+              "Name": "Colombo",
+              "IMG": "/assets/images/player-logo/?id=68571",
+              "ID": 29976059,
               "Extra": [
                 {
-                  "Name": "ألميندرا",
-                  "IMG": "/assets/images/player-logo/?id=57647",
-                  "ID": 6331841
+                  "Name": "روخو",
+                  "IMG": "/assets/images/player-logo/?id=853",
+                  "ID": 87017
                 }
               ]
             },
@@ -1472,6 +1442,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "ليو",
+              "IMG": "/assets/images/player-logo/?id=56829",
+              "ID": 472653,
+              "Extra": [
+                {
+                  "Name": "Cabrera",
+                  "IMG": "/assets/images/player-logo/?id=45028",
+                  "ID": 3144434
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 20
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "Hernandez",
               "IMG": "/assets/images/player-logo/?id=47630",
               "ID": 3233170,
@@ -1484,7 +1475,7 @@
               ]
             },
             "Place": "right",
-            "Order": 20
+            "Order": 21
           },
           {
             "Event-Time": "90'",
@@ -1501,27 +1492,6 @@
                   "Name": "رمدي",
                   "IMG": "/assets/images/player-logo/?id=8291",
                   "ID": 546027
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 21
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "ليو",
-              "IMG": "/assets/images/player-logo/?id=56829",
-              "ID": 472653,
-              "Extra": [
-                {
-                  "Name": "Cabrera",
-                  "IMG": "/assets/images/player-logo/?id=45028",
-                  "ID": 3144434
                 }
               ]
             },
@@ -1900,7 +1870,7 @@
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Couture",
+                "Player-Name": "L. Couture",
                 "Player-Logo": "/assets/images/player-logo/?id=218057",
                 "Player-ID": 77359650,
                 "FieldLine": 0,
@@ -2546,7 +2516,7 @@
       },
       "Time-Start": "2025-08-20T14:00",
       "Time-End": "2025-08-20T16:00",
-      "Time-Now": 26,
+      "Time-Now": 27,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A&id=4498544&date=2025-08-20",
       "matchDetails": {
@@ -5923,7 +5893,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T12:30:37.883Z",
+    "lastUpdated": "2025-08-20T12:31:45.806Z",
     "count": 24
   }
 }
