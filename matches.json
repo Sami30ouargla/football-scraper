@@ -2832,7 +2832,7 @@
             "Order": 15
           },
           {
-            "Event-Time": "68'",
+            "Event-Time": "67'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -2853,6 +2853,27 @@
             "Order": 16
           },
           {
+            "Event-Time": "79'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "الزبيدي",
+              "IMG": "/assets/images/player-logo/?id=134931",
+              "ID": 70782481,
+              "Extra": [
+                {
+                  "Name": "محرز",
+                  "IMG": "/assets/images/player-logo/?id=764",
+                  "ID": 331904
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
             "Event-Time": "78'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -2871,7 +2892,7 @@
               ]
             },
             "Place": "right",
-            "Order": 17
+            "Order": 18
           },
           {
             "Event-Time": "79'",
@@ -2892,7 +2913,7 @@
               ]
             },
             "Place": "left",
-            "Order": 18
+            "Order": 19
           }
         ],
         "Match-Lineup": {
@@ -3169,7 +3190,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.5,
                 "Player-Name": "المولد",
                 "Player-Logo": "/assets/images/player-logo/?id=136800",
                 "Player-ID": 70850891,
@@ -3179,7 +3200,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.5,
                 "Player-Name": "الرشيدي",
                 "Player-Logo": "/assets/images/player-logo/?id=55512",
                 "Player-ID": 3359862,
@@ -3187,9 +3208,19 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيمن",
+                "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": -1,
+                "Player-Name": "الزبيدي",
+                "Player-Logo": "/assets/images/player-logo/?id=134931",
+                "Player-ID": 70782481,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Substitute",
+                "Ranking": 6.5,
                 "Player-Name": "مجرشي",
                 "Player-Logo": "/assets/images/player-logo/?id=54237",
                 "Player-ID": 6163797,
@@ -3223,16 +3254,6 @@
                 "Player-Name": "الصانبي",
                 "Player-Logo": "/assets/images/player-logo/?id=99915",
                 "Player-ID": 61186326,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "الزبيدي",
-                "Player-Logo": "/assets/images/player-logo/?id=134931",
-                "Player-ID": 70782481,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -6159,7 +6180,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T13:53:35.061Z",
+    "lastUpdated": "2025-08-20T13:54:38.510Z",
     "count": 24
   }
 }
