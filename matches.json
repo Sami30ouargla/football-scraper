@@ -2830,6 +2830,27 @@
             },
             "Place": "right",
             "Order": 15
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "جابريل",
+              "IMG": "/assets/images/player-logo/?id=157911",
+              "ID": 72056444,
+              "Extra": [
+                {
+                  "Name": "كينيونيس",
+                  "IMG": "/assets/images/player-logo/?id=44031",
+                  "ID": 251296
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 16
           }
         ],
         "Match-Lineup": {
@@ -2878,6 +2899,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "جابريل",
+                "Player-Logo": "/assets/images/player-logo/?id=157911",
+                "Player-ID": 72056444,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مدافع أيمن",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -2904,16 +2935,6 @@
                 "Player-Name": "السالم",
                 "Player-Logo": "/assets/images/player-logo/?id=4738",
                 "Player-ID": 538390,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "جابريل",
-                "Player-Logo": "/assets/images/player-logo/?id=157911",
-                "Player-ID": 72056444,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -6096,7 +6117,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T13:42:36.997Z",
+    "lastUpdated": "2025-08-20T13:43:35.154Z",
     "count": 24
   }
 }
