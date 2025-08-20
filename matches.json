@@ -11510,7 +11510,7 @@
       },
       "Time-Start": "2025-08-21T00:00",
       "Time-End": "2025-08-21T02:00",
-      "Time-Now": 86,
+      "Time-Now": 87,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%88%D9%81%D9%8A%D9%86%D8%AA%D9%88%D8%AF-%D8%B6%D8%AF-%D9%81%D8%A7%D8%B3%D9%83%D9%88-%D8%AF%D9%8A-%D8%BA%D8%A7%D9%85%D8%A7&id=4380488&date=2025-08-20",
       "matchDetails": {
@@ -11809,6 +11809,27 @@
             },
             "Place": "left",
             "Order": 14
+          },
+          {
+            "Event-Time": "86'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Jacó",
+              "IMG": "/assets/images/player-logo/?id=150617",
+              "ID": 71351826,
+              "Extra": [
+                {
+                  "Name": "N. Moreira",
+                  "IMG": "/assets/images/player-logo/?id=100296",
+                  "ID": 3188977
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 15
           }
         ],
         "Match-Lineup": {
@@ -12185,6 +12206,16 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Jacó",
+                "Player-Logo": "/assets/images/player-logo/?id=150617",
+                "Player-ID": 71351826,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
                 "Ranking": 6.6,
                 "Player-Name": "GB",
                 "Player-Logo": "/assets/images/player-logo/?id=174874",
@@ -12229,16 +12260,6 @@
                 "Player-Name": "Garré",
                 "Player-Logo": "/assets/images/player-logo/?id=62117",
                 "Player-ID": 4583280,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Jacó",
-                "Player-Logo": "/assets/images/player-logo/?id=150617",
-                "Player-ID": 71351826,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -12454,7 +12475,7 @@
       },
       "Time-Start": "2025-08-21T00:00",
       "Time-End": "2025-08-21T02:00",
-      "Time-Now": 89,
+      "Time-Now": 90,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D8%B3%D8%AA%D9%88%D8%AF%D9%8A%D8%A7%D9%86%D8%AA%D9%8A%D8%B3-%D8%B6%D8%AF-%D8%B3%D9%8A%D8%B1%D9%88-%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%86%D9%8A%D9%88&id=4443295&date=2025-08-20",
       "matchDetails": {
@@ -12700,7 +12721,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "موسليرا",
                 "Player-Logo": "/assets/images/player-logo/?id=418",
                 "Player-ID": 347908,
@@ -12890,7 +12911,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "Gómez",
                 "Player-Logo": "/assets/images/player-logo/?id=154605",
                 "Player-ID": 71675298,
@@ -12986,7 +13007,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "أراوخو",
                 "Player-Logo": "/assets/images/player-logo/?id=27079",
                 "Player-ID": 117375,
@@ -13211,7 +13232,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-20T23:46:47.597Z",
+    "lastUpdated": "2025-08-20T23:47:48.501Z",
     "count": 43
   }
 }
