@@ -5005,7 +5005,68 @@
       "Time-Now": 90,
       "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B1%D9%8A%D8%A7%D9%84-%D8%A3%D9%81%D9%8A%D9%84%D8%A7-%D8%B6%D8%AF-%D8%B1%D8%A7%D9%8A%D9%88-%D9%85%D8%A7%D8%AE%D8%A7%D8%B0%D8%A7%D9%88%D9%86%D8%AF%D8%A7&id=4528274&date=2025-08-20",
-      "matchDetails": null
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4528274,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "ريال أفيلا",
+            "Color": "#7f97ab",
+            "Logo": "/assets/images/team-logo/?id=18056",
+            "Goal": 1
+          },
+          "Team-Left": {
+            "Name": "رايو ماخاذاوندا",
+            "Color": "#D9D9D9",
+            "Logo": "/assets/images/team-logo/?id=18068",
+            "Goal": 0
+          },
+          "Date": "2025-08-20",
+          "Time": "17:30",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [
+          {
+            "Event-Time": "10'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": null,
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77400962,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          }
+        ],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "ريال أفيلا",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "رايو ماخاذاوندا",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
     },
     {
       "Cup-id": 321,
@@ -13275,7 +13336,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-21T22:45:28.001Z",
+    "lastUpdated": "2025-08-21T22:46:31.142Z",
     "count": 44
   }
 }
