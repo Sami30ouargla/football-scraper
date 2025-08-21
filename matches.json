@@ -1277,14 +1277,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Vergara",
-              "IMG": "/assets/images/player-logo/?id=39652",
-              "ID": 937844,
+              "Name": "Colombo",
+              "IMG": "/assets/images/player-logo/?id=68571",
+              "ID": 29976059,
               "Extra": [
                 {
-                  "Name": "ألميندرا",
-                  "IMG": "/assets/images/player-logo/?id=57647",
-                  "ID": 6331841
+                  "Name": "روخو",
+                  "IMG": "/assets/images/player-logo/?id=853",
+                  "ID": 87017
                 }
               ]
             },
@@ -1298,14 +1298,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Colombo",
-              "IMG": "/assets/images/player-logo/?id=68571",
-              "ID": 29976059,
+              "Name": "Vergara",
+              "IMG": "/assets/images/player-logo/?id=39652",
+              "ID": 937844,
               "Extra": [
                 {
-                  "Name": "روخو",
-                  "IMG": "/assets/images/player-logo/?id=853",
-                  "ID": 87017
+                  "Name": "ألميندرا",
+                  "IMG": "/assets/images/player-logo/?id=57647",
+                  "ID": 6331841
                 }
               ]
             },
@@ -1442,27 +1442,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ليو",
-              "IMG": "/assets/images/player-logo/?id=56829",
-              "ID": 472653,
-              "Extra": [
-                {
-                  "Name": "Cabrera",
-                  "IMG": "/assets/images/player-logo/?id=45028",
-                  "ID": 3144434
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 20
-          },
-          {
-            "Event-Time": "90'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "Hernandez",
               "IMG": "/assets/images/player-logo/?id=47630",
               "ID": 3233170,
@@ -1475,7 +1454,7 @@
               ]
             },
             "Place": "right",
-            "Order": 21
+            "Order": 20
           },
           {
             "Event-Time": "90'",
@@ -1492,6 +1471,27 @@
                   "Name": "رمدي",
                   "IMG": "/assets/images/player-logo/?id=8291",
                   "ID": 546027
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 21
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ليو",
+              "IMG": "/assets/images/player-logo/?id=56829",
+              "ID": 472653,
+              "Extra": [
+                {
+                  "Name": "Cabrera",
+                  "IMG": "/assets/images/player-logo/?id=45028",
+                  "ID": 3144434
                 }
               ]
             },
@@ -13356,7 +13356,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-21T12:32:49.675Z",
+    "lastUpdated": "2025-08-21T12:33:49.312Z",
     "count": 44
   }
 }
