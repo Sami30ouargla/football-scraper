@@ -2339,7 +2339,98 @@
       "Time-Now": 90,
       "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%84%D9%88%D8%BA%D8%B1%D9%88%D9%86%D9%8A%D8%B3-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A7%D9%83%D8%A7%D9%84%D8%AF%D9%88&id=4530426&date=2025-08-20",
-      "matchDetails": null
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4530426,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "لوغرونيس",
+            "Color": "#000099",
+            "Logo": "/assets/images/team-logo/?id=7813",
+            "Goal": 2
+          },
+          "Team-Left": {
+            "Name": "باراكالدو",
+            "Color": "#F2F200",
+            "Logo": "/assets/images/team-logo/?id=188",
+            "Goal": 1
+          },
+          "Date": "2025-08-20",
+          "Time": "09:30",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [
+          {
+            "Event-Time": "2'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": null,
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77400328,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "21'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": null,
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77400329,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          },
+          {
+            "Event-Time": "28'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": null,
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77400330,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 3
+          }
+        ],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "لوغرونيس",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "باراكالدو",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
     },
     {
       "Cup-id": 6164,
@@ -13245,7 +13336,7 @@
   ],
   "meta": {
     "date": "2025-08-20",
-    "lastUpdated": "2025-08-22T22:46:52.251Z",
+    "lastUpdated": "2025-08-22T22:47:52.921Z",
     "count": 44
   }
 }
