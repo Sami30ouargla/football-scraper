@@ -15294,7 +15294,7 @@
       },
       "Time-Start": "2025-08-24T12:00",
       "Time-End": "2025-08-24T14:00",
-      "Time-Now": 82,
+      "Time-Now": 83,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D8%B1%D9%8A%D9%88%D8%B3-%D8%A3%D9%88%D8%A8%D8%B3%D8%A7%D9%84%D8%A7-%D8%B6%D8%AF-%D9%87%D8%A7%D9%85%D8%A7%D8%B1%D8%A8%D9%8A&id=4316956&date=2025-08-24",
       "matchDetails": {
@@ -16003,7 +16003,7 @@
       },
       "Time-Start": "2025-08-24T12:00",
       "Time-End": "2025-08-24T14:00",
-      "Time-Now": 97,
+      "Time-Now": 98,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%8A%D9%88%D8%B1%D8%BA%D9%88%D8%B1%D8%AF%D9%8A%D9%86%D8%B3-%D8%B6%D8%AF-%D8%A8%D8%B1%D9%88%D9%85%D8%A7-%D8%A8%D9%88%D9%8A%D9%83%D8%A7%D8%B1%D9%86%D8%A7&id=4316961&date=2025-08-24",
       "matchDetails": {
@@ -16821,7 +16821,7 @@
       },
       "Time-Start": "2025-08-24T12:30",
       "Time-End": "2025-08-24T14:30",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%86%D9%8A%D9%85%D9%8A%D8%AE%D9%8A%D9%86-%D8%B6%D8%AF-%D8%A3%D9%86-%D8%A2%D9%8A-%D8%B3%D9%8A-%D8%A8%D8%B1%D9%8A%D8%AF%D8%A7&id=4453616&date=2025-08-24",
       "matchDetails": {
@@ -17563,7 +17563,7 @@
       },
       "Time-Start": "2025-08-24T12:30",
       "Time-End": "2025-08-24T14:30",
-      "Time-Now": 66,
+      "Time-Now": 67,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D8%AA%D8%B1%D9%8A%D8%AE%D8%AA-%D8%B6%D8%AF-%D8%A3%D9%83%D8%B3%D9%8A%D9%84%D8%B3%D9%8A%D9%88%D8%B1&id=4454367&date=2025-08-24",
       "matchDetails": {
@@ -20189,7 +20189,7 @@
       },
       "Time-Start": "2025-08-24T13:30",
       "Time-End": "2025-08-24T15:30",
-      "Time-Now": 26,
+      "Time-Now": 27,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%A7%D9%8A%D9%86%D8%B2-05-%D8%B6%D8%AF-%D9%83%D9%88%D9%84%D9%86&id=4464914&date=2025-08-24",
       "matchDetails": {
@@ -20224,7 +20224,44 @@
           "Club-Capacity": 34034,
           "Tv": "شاهد - Shahid VIP"
         },
-        "Match-Events": [],
+        "Match-Events": [
+          {
+            "Event-Time": "15'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فيبر",
+              "IMG": "/assets/images/player-logo/?id=120759",
+              "ID": 65739892,
+              "Extra": [
+                {
+                  "Name": "هوليرباخ",
+                  "IMG": "/assets/images/player-logo/?id=86657",
+                  "ID": 51211541
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "27'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "لوند",
+              "IMG": "/assets/images/player-logo/?id=88754",
+              "ID": 55536038,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 2
+          }
+        ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "ماينز 05",
@@ -38076,6 +38113,73 @@
       }
     },
     {
+      "Cup-id": 321,
+      "Cup-Name": "المباريات الوديّة الدوليّة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
+      "Match-id": 4532224,
+      "Team-Right": {
+        "Name": "ديبورتيفو خيريث",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=171",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "جوفنتود تورريمولينوس",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=49342",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-24T19:00",
+      "Time-End": "2025-08-24T21:00",
+      "Time-Now": -1,
+      "Match-Status": "لم تبدأ",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%81%D9%88-%D8%AE%D9%8A%D8%B1%D9%8A%D8%AB-%D8%B6%D8%AF-%D8%AC%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%AF-%D8%AA%D9%88%D8%B1%D8%B1%D9%8A%D9%85%D9%88%D9%84%D9%8A%D9%86%D9%88%D8%B3&id=4532224&date=2025-08-24",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4532224,
+          "Cup-Name": "المباريات الوديّة الدوليّة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=321",
+          "Team-Right": {
+            "Name": "ديبورتيفو خيريث",
+            "Color": "#2B509D",
+            "Logo": "/assets/images/team-logo/?id=171",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "جوفنتود تورريمولينوس",
+            "Color": "#c7d0d8",
+            "Logo": "/assets/images/team-logo/?id=49342",
+            "Goal": "-"
+          },
+          "Date": "2025-08-24",
+          "Time": "19:00",
+          "Time-Zone": -120,
+          "Status": "لم تبدأ",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "ديبورتيفو خيريث",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "جوفنتود تورريمولينوس",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
+    },
+    {
       "Cup-id": 72,
       "Cup-Name": "الدوري الأرجنتيني الممتاز - Clausura",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=72",
@@ -44058,7 +44162,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T13:56:57.550Z",
-    "count": 81
+    "lastUpdated": "2025-08-24T13:57:48.789Z",
+    "count": 82
   }
 }
