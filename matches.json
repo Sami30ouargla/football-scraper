@@ -52831,7 +52831,7 @@
       },
       "Time-Start": "2025-08-24T20:00",
       "Time-End": "2025-08-24T22:00",
-      "Time-Now": 64,
+      "Time-Now": 65,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%B6%D8%AF-%D8%AA%D9%88%D8%B1%D9%88%D9%86%D8%AA%D9%88&id=4318777&date=2025-08-24",
       "matchDetails": {
@@ -52866,7 +52866,128 @@
           "Club-Capacity": 73019,
           "Tv": "N/A"
         },
-        "Match-Events": [],
+        "Match-Events": [
+          {
+            "Event-Time": "61'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "لينون",
+              "IMG": "/assets/images/player-logo/?id=47892",
+              "ID": 3243549,
+              "Extra": [
+                {
+                  "Name": "أمادور",
+                  "IMG": "/assets/images/player-logo/?id=74581",
+                  "ID": 7659816
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "61'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ألزاتي",
+              "IMG": "/assets/images/player-logo/?id=70573",
+              "ID": 38172278,
+              "Extra": [
+                {
+                  "Name": "ميومبا",
+                  "IMG": "/assets/images/player-logo/?id=48480",
+                  "ID": 3335983
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 2
+          },
+          {
+            "Event-Time": "61'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ثياري",
+              "IMG": "/assets/images/player-logo/?id=1388",
+              "ID": 360336,
+              "Extra": [
+                {
+                  "Name": "لوبزهانيدزي",
+                  "IMG": "/assets/images/player-logo/?id=50703",
+                  "ID": 3385575
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 3
+          },
+          {
+            "Event-Time": "63'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كير",
+              "IMG": "/assets/images/player-logo/?id=108790",
+              "ID": 65132151,
+              "Extra": [
+                {
+                  "Name": "برينهيلدسن",
+                  "IMG": "/assets/images/player-logo/?id=66847",
+                  "ID": 15630056
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 4
+          },
+          {
+            "Event-Time": "63'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بيترتا",
+              "IMG": "/assets/images/player-logo/?id=47514",
+              "ID": 3226331,
+              "Extra": [
+                {
+                  "Name": "لونغ",
+                  "IMG": "/assets/images/player-logo/?id=4262",
+                  "ID": 117802
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 5
+          },
+          {
+            "Event-Time": "65'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ألزاتي",
+              "IMG": "/assets/images/player-logo/?id=70573",
+              "ID": 38172278,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 6
+          }
+        ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "أتلانتا يونايتد",
@@ -53045,7 +53166,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.5,
                 "Player-Name": "هرنانديز",
                 "Player-Logo": "/assets/images/player-logo/?id=73837",
                 "Player-ID": 47391017,
@@ -53271,7 +53392,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "روستيد",
                 "Player-Logo": "/assets/images/player-logo/?id=51271",
                 "Player-ID": 947304,
@@ -53321,7 +53442,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "دومينغيز",
                 "Player-Logo": "/assets/images/player-logo/?id=37871",
                 "Player-ID": 458644,
@@ -53331,7 +53452,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "كوربيانو",
                 "Player-Logo": "/assets/images/player-logo/?id=86626",
                 "Player-ID": 51442517,
@@ -53380,7 +53501,7 @@
       },
       "Time-Start": "2025-08-24T21:15",
       "Time-End": "2025-08-24T23:15",
-      "Time-Now": 16,
+      "Time-Now": 17,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%83%D8%A7-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF&id=4326169&date=2025-08-24",
       "matchDetails": {
@@ -53634,7 +53755,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "بلانكو",
                 "Player-Logo": "/assets/images/player-logo/?id=83335",
                 "Player-ID": 52837099,
@@ -53684,7 +53805,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "باريديس",
                 "Player-Logo": "/assets/images/player-logo/?id=6145",
                 "Player-ID": 529331,
@@ -54039,7 +54160,7 @@
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 1,
+      "Time-Now": 2,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%88%D9%81%D9%8A%D9%86%D8%AA%D9%88%D8%AF-%D8%B6%D8%AF-%D8%A8%D9%88%D8%AA%D8%A7%D9%81%D9%88%D8%BA%D9%88&id=4380417&date=2025-08-24",
       "matchDetails": {
@@ -54698,7 +54819,7 @@
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 1,
+      "Time-Now": 2,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7-%D8%B6%D8%AF-%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84&id=4380418&date=2025-08-24",
       "matchDetails": {
@@ -57080,7 +57201,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T21:32:53.588Z",
+    "lastUpdated": "2025-08-24T21:33:51.634Z",
     "count": 85
   }
 }
