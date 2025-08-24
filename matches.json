@@ -53651,7 +53651,7 @@
       },
       "Time-Start": "2025-08-24T21:15",
       "Time-End": "2025-08-24T23:15",
-      "Time-Now": 60,
+      "Time-Now": 61,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%83%D8%A7-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF&id=4326169&date=2025-08-24",
       "matchDetails": {
@@ -54400,7 +54400,7 @@
           "Date": "2025-08-24",
           "Time": "21:30",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": 21,
           "Group": null
         },
@@ -54463,6 +54463,48 @@
             },
             "Place": "right",
             "Order": 3
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Hermes",
+              "IMG": "/assets/images/player-logo/?id=14592",
+              "ID": 597542,
+              "Extra": [
+                {
+                  "Name": "Ruschel",
+                  "IMG": "/assets/images/player-logo/?id=2968",
+                  "ID": 506155
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 4
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فيرون",
+              "IMG": "/assets/images/player-logo/?id=72072",
+              "ID": 40742156,
+              "Extra": [
+                {
+                  "Name": "Nenê",
+                  "IMG": "/assets/images/player-logo/?id=14578",
+                  "ID": 400112
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 5
           }
         ],
         "Match-Lineup": {
@@ -54477,6 +54519,26 @@
                 "Player-Name": "جانديري",
                 "Player-Logo": "/assets/images/player-logo/?id=47720",
                 "Player-ID": 3237622,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "فيرون",
+                "Player-Logo": "/assets/images/player-logo/?id=72072",
+                "Player-ID": 40742156,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Hermes",
+                "Player-Logo": "/assets/images/player-logo/?id=14592",
+                "Player-ID": 597542,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -54511,16 +54573,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "فيرون",
-                "Player-Logo": "/assets/images/player-logo/?id=72072",
-                "Player-ID": 40742156,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -54537,16 +54589,6 @@
                 "Player-Name": "Guruceaga",
                 "Player-Logo": "/assets/images/player-logo/?id=41041",
                 "Player-ID": 607977,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Hermes",
-                "Player-Logo": "/assets/images/player-logo/?id=14592",
-                "Player-ID": 597542,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -54693,7 +54735,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "Luan",
                 "Player-Logo": "/assets/images/player-logo/?id=79631",
                 "Player-ID": 50556934,
@@ -54753,7 +54795,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.6,
                 "Player-Name": "Nenê",
                 "Player-Logo": "/assets/images/player-logo/?id=14578",
                 "Player-ID": 400112,
@@ -57571,7 +57613,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T22:35:54.804Z",
+    "lastUpdated": "2025-08-24T22:36:55.324Z",
     "count": 85
   }
 }
