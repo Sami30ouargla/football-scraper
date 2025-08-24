@@ -19813,6 +19813,26 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "مينا",
+                "Player-Logo": "/assets/images/player-logo/?id=57522",
+                "Player-ID": 7354235,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "باكاردا",
+                "Player-Logo": "/assets/images/player-logo/?id=43233",
+                "Player-ID": 532310,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "وسط دفاعي",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -19829,26 +19849,6 @@
                 "Player-Name": "رونديك",
                 "Player-Logo": "/assets/images/player-logo/?id=76070",
                 "Player-ID": 47898983,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "باكاردا",
-                "Player-Logo": "/assets/images/player-logo/?id=43233",
-                "Player-ID": 532310,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "مينا",
-                "Player-Logo": "/assets/images/player-logo/?id=57522",
-                "Player-ID": 7354235,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -22314,7 +22314,7 @@
       },
       "Time-Start": "2025-08-24T14:00",
       "Time-End": "2025-08-24T16:00",
-      "Time-Now": 87,
+      "Time-Now": 88,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%A6%D8%AD-%D8%B6%D8%AF-%D8%AE%D9%88%D8%B1%D9%81%D9%83%D8%A7%D9%86&id=4490877&date=2025-08-24",
       "matchDetails": {
@@ -22534,27 +22534,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جمعة",
-              "IMG": "/assets/images/player-logo/?id=54251",
-              "ID": 3345775,
-              "Extra": [
-                {
-                  "Name": "هيكل",
-                  "IMG": "/assets/images/player-logo/?id=54539",
-                  "ID": 6205455
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 10
-          },
-          {
-            "Event-Time": "78'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "بيسا",
               "IMG": "/assets/images/player-logo/?id=44063",
               "ID": 329321,
@@ -22567,28 +22546,28 @@
               ]
             },
             "Place": "left",
-            "Order": 11
+            "Order": 10
           },
           {
-            "Event-Time": "78'",
+            "Event-Time": "77'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "كامارا",
-              "IMG": "/assets/images/player-logo/?id=129219",
-              "ID": 67863565,
+              "Name": "جمعة",
+              "IMG": "/assets/images/player-logo/?id=54251",
+              "ID": 3345775,
               "Extra": [
                 {
-                  "Name": "النقاش",
-                  "IMG": "/assets/images/player-logo/?id=133945",
-                  "ID": 69466405
+                  "Name": "هيكل",
+                  "IMG": "/assets/images/player-logo/?id=54539",
+                  "ID": 6205455
                 }
               ]
             },
-            "Place": "right",
-            "Order": 12
+            "Place": "left",
+            "Order": 11
           },
           {
             "Event-Time": "78'",
@@ -22605,6 +22584,27 @@
                   "Name": "النقبي",
                   "IMG": "/assets/images/player-logo/?id=54941",
                   "ID": 6235738
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "78'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كامارا",
+              "IMG": "/assets/images/player-logo/?id=129219",
+              "ID": 67863565,
+              "Extra": [
+                {
+                  "Name": "النقاش",
+                  "IMG": "/assets/images/player-logo/?id=133945",
+                  "ID": 69466405
                 }
               ]
             },
@@ -22742,7 +22742,7 @@
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "سعيد",
+                "Player-Name": "حارث",
                 "Player-Logo": "/assets/images/player-logo/?id=219130",
                 "Player-ID": 77389637,
                 "FieldLine": 0,
@@ -23126,7 +23126,7 @@
       },
       "Time-Start": "2025-08-24T14:30",
       "Time-End": "2025-08-24T16:30",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%8A%D8%B1%D9%86%D8%A7%D9%85%D9%88-%D8%B6%D8%AF-%D8%A8%D9%8A.%D9%83%D9%8A.-%D9%87%D8%A7%D9%83%D9%8A%D9%86&id=4316954&date=2025-08-24",
       "matchDetails": {
@@ -23518,7 +23518,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 6.3,
                 "Player-Name": "ليماتا",
                 "Player-Logo": "/assets/images/player-logo/?id=130260",
                 "Player-ID": 67911722,
@@ -23734,7 +23734,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.3,
                 "Player-Name": "Hilvenius",
                 "Player-Logo": "/assets/images/player-logo/?id=203737",
                 "Player-ID": 70972438,
@@ -23744,7 +23744,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "J. Lindberg",
                 "Player-Logo": "/assets/images/player-logo/?id=156910",
                 "Player-ID": 67887541,
@@ -23764,7 +23764,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7,
                 "Player-Name": "S. Leach",
                 "Player-Logo": "/assets/images/player-logo/?id=130375",
                 "Player-ID": 65502229,
@@ -23833,7 +23833,7 @@
       },
       "Time-Start": "2025-08-24T14:30",
       "Time-End": "2025-08-24T16:30",
-      "Time-Now": 62,
+      "Time-Now": 63,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D8%BA%D8%B1%D9%81%D9%88%D8%B1%D8%B3-%D8%B6%D8%AF-%D8%A2%D9%8A%D9%83&id=4316955&date=2025-08-24",
       "matchDetails": {
@@ -24177,7 +24177,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.4,
                 "Player-Name": "Ohlsson",
                 "Player-Logo": "/assets/images/player-logo/?id=70477",
                 "Player-ID": 38805564,
@@ -24363,7 +24363,7 @@
               {
                 "Position": "لاعب الوسط الجناح",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "E. Edh",
                 "Player-Logo": "/assets/images/player-logo/?id=94779",
                 "Player-ID": 59035530,
@@ -24433,7 +24433,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.3,
                 "Player-Name": "سيلينا",
                 "Player-Logo": "/assets/images/player-logo/?id=13257",
                 "Player-ID": 604583,
@@ -24482,7 +24482,7 @@
       },
       "Time-Start": "2025-08-24T14:30",
       "Time-End": "2025-08-24T16:30",
-      "Time-Now": 58,
+      "Time-Now": 59,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%A7%D9%84%D9%85%D9%88-%D8%B6%D8%AF-%D8%BA%D9%88%D8%AA%D9%86%D8%A8%D9%88%D8%B1%D8%BA&id=4316957&date=2025-08-24",
       "matchDetails": {
@@ -24771,7 +24771,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.2,
                 "Player-Name": "بوسانيلو",
                 "Player-Logo": "/assets/images/player-logo/?id=80906",
                 "Player-ID": 50751584,
@@ -24791,7 +24791,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "جانسون",
                 "Player-Logo": "/assets/images/player-logo/?id=6298",
                 "Player-ID": 497031,
@@ -24801,7 +24801,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.3,
                 "Player-Name": "لارسن",
                 "Player-Logo": "/assets/images/player-logo/?id=45089",
                 "Player-ID": 72215,
@@ -24967,7 +24967,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "Tolf",
                 "Player-Logo": "/assets/images/player-logo/?id=158447",
                 "Player-ID": 71370479,
@@ -24987,7 +24987,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.1,
                 "Player-Name": "Bager",
                 "Player-Logo": "/assets/images/player-logo/?id=49747",
                 "Player-ID": 3517552,
@@ -24997,7 +24997,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.4,
                 "Player-Name": "Santos",
                 "Player-Logo": "/assets/images/player-logo/?id=97049",
                 "Player-ID": 60062107,
@@ -25017,7 +25017,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "kruse",
                 "Player-Logo": "/assets/images/player-logo/?id=81036",
                 "Player-ID": 51424115,
@@ -25086,7 +25086,7 @@
       },
       "Time-Start": "2025-08-24T14:30",
       "Time-End": "2025-08-24T16:30",
-      "Time-Now": 58,
+      "Time-Now": 59,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D9%84%D9%81%D8%B3%D8%A8%D9%88%D8%B1%D8%BA-%D8%B6%D8%AF-%D9%87%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%A7%D8%AF%D8%B3&id=4316960&date=2025-08-24",
       "matchDetails": {
@@ -25195,14 +25195,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "إيلر",
-              "IMG": "/assets/images/player-logo/?id=179979",
-              "ID": 50097212,
+              "Name": "هولت",
+              "IMG": "/assets/images/player-logo/?id=2861",
+              "ID": 87558,
               "Extra": [
                 {
-                  "Name": "سيغوربالشون",
-                  "IMG": "/assets/images/player-logo/?id=159667",
-                  "ID": 71939246
+                  "Name": "أرونسين",
+                  "IMG": "/assets/images/player-logo/?id=179543",
+                  "ID": 75444521
                 }
               ]
             },
@@ -25237,14 +25237,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "A. Hellemaa",
-              "IMG": "/assets/images/player-logo/?id=201702",
-              "ID": 77101107,
+              "Name": "إيلر",
+              "IMG": "/assets/images/player-logo/?id=179979",
+              "ID": 50097212,
               "Extra": [
                 {
-                  "Name": "Granli",
-                  "IMG": "/assets/images/player-logo/?id=77623",
-                  "ID": 373316
+                  "Name": "سيغوربالشون",
+                  "IMG": "/assets/images/player-logo/?id=159667",
+                  "ID": 71939246
                 }
               ]
             },
@@ -25258,14 +25258,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "هولت",
-              "IMG": "/assets/images/player-logo/?id=2861",
-              "ID": 87558,
+              "Name": "A. Hellemaa",
+              "IMG": "/assets/images/player-logo/?id=201702",
+              "ID": 77101107,
               "Extra": [
                 {
-                  "Name": "أرونسين",
-                  "IMG": "/assets/images/player-logo/?id=179543",
-                  "ID": 75444521
+                  "Name": "Granli",
+                  "IMG": "/assets/images/player-logo/?id=77623",
+                  "ID": 373316
                 }
               ]
             },
@@ -25317,7 +25317,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 5.3,
+                "Ranking": 5.4,
                 "Player-Name": "S. Eriksson",
                 "Player-Logo": "/assets/images/player-logo/?id=202312",
                 "Player-ID": 77116586,
@@ -25553,7 +25553,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "T. Erlandsson",
                 "Player-Logo": "/assets/images/player-logo/?id=157036",
                 "Player-ID": 71370483,
@@ -25663,7 +25663,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "Kurtulus",
                 "Player-Logo": "/assets/images/player-logo/?id=157035",
                 "Player-ID": 71888442,
@@ -25723,7 +25723,7 @@
               {
                 "Position": "لاعب الوسط الجناح",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.9,
                 "Player-Name": "V. Granath",
                 "Player-Logo": "/assets/images/player-logo/?id=130019",
                 "Player-ID": 66489376,
@@ -25782,7 +25782,7 @@
       },
       "Time-Start": "2025-08-24T14:30",
       "Time-End": "2025-08-24T16:30",
-      "Time-Now": 62,
+      "Time-Now": 63,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D8%A7%D9%85%D8%A7%D9%84%D9%8A%D9%83%D8%A7%D9%88-%D8%B6%D8%AF-%D8%AC%D9%8A%D9%84-%D9%81%D9%8A%D8%B3%D9%86%D8%AA%D9%8A-%D8%A8%D8%A7%D8%B1%D8%B3%D9%8A%D9%84%D9%88%D8%B4&id=4475184&date=2025-08-24",
       "matchDetails": {
@@ -26383,7 +26383,7 @@
           "Date": "2025-08-24",
           "Time": "14:45",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": 3,
           "Group": null
         },
@@ -27000,7 +27000,7 @@
       },
       "Time-Start": "2025-08-24T15:00",
       "Time-End": "2025-08-24T17:00",
-      "Time-Now": 49,
+      "Time-Now": 50,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D8%B3%D8%A7%D8%B3%D9%88%D9%86%D8%A7-%D8%B6%D8%AF-%D9%81%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D8%A7&id=4467561&date=2025-08-24",
       "matchDetails": {
@@ -27642,8 +27642,8 @@
       },
       "Time-Start": "2025-08-24T15:00",
       "Time-End": "2025-08-24T17:00",
-      "Time-Now": 48,
-      "Match-Status": "الشوط الأول",
+      "Time-Now": 45,
+      "Match-Status": "شوط",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A&id=4506650&date=2025-08-24",
       "matchDetails": {
         "Match-Card": {
@@ -27665,7 +27665,7 @@
           "Date": "2025-08-24",
           "Time": "15:00",
           "Time-Zone": -120,
-          "Status": "الشوط الأول",
+          "Status": "شوط",
           "Round": 4,
           "Group": null
         },
@@ -28151,7 +28151,7 @@
       },
       "Time-Start": "2025-08-24T15:00",
       "Time-End": "2025-08-24T17:00",
-      "Time-Now": 43,
+      "Time-Now": 45,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%83%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%AA%D8%A7-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B1%D8%B0%D9%8A%D8%AA%D8%B3%D8%A7%D8%B3&id=4531560&date=2025-08-24",
       "matchDetails": {
@@ -28218,7 +28218,7 @@
       },
       "Time-Start": "2025-08-24T15:15",
       "Time-End": "2025-08-24T17:15",
-      "Time-Now": 36,
+      "Time-Now": 38,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%AA%D8%B1%D8%A7%D8%B3%D8%A8%D9%88%D8%B1%D8%AC-%D8%B6%D8%AF-%D9%86%D8%A7%D9%86%D8%AA&id=4464071&date=2025-08-24",
       "matchDetails": {
@@ -28428,7 +28428,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.4,
                 "Player-Name": "أوتارا",
                 "Player-Logo": "/assets/images/player-logo/?id=150708",
                 "Player-ID": 71354644,
@@ -28654,7 +28654,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.6,
                 "Player-Name": "أوازيم",
                 "Player-Logo": "/assets/images/player-logo/?id=40927",
                 "Player-ID": 1132730,
@@ -28674,7 +28674,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "أميان",
                 "Player-Logo": "/assets/images/player-logo/?id=44537",
                 "Player-ID": 946578,
@@ -28684,7 +28684,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "غيراسي",
                 "Player-Logo": "/assets/images/player-logo/?id=144738",
                 "Player-ID": 70993776,
@@ -28694,7 +28694,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "ليبينانت",
                 "Player-Logo": "/assets/images/player-logo/?id=80210",
                 "Player-ID": 50798339,
@@ -28753,7 +28753,7 @@
       },
       "Time-Start": "2025-08-24T15:15",
       "Time-End": "2025-08-24T17:15",
-      "Time-Now": 36,
+      "Time-Now": 37,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D9%88%D9%84%D9%88%D8%B2-%D8%B6%D8%AF-%D8%A8%D8%B1%D9%8A%D8%B3%D8%AA&id=4464073&date=2025-08-24",
       "matchDetails": {
@@ -29272,7 +29272,7 @@
       },
       "Time-Start": "2025-08-24T15:15",
       "Time-End": "2025-08-24T17:15",
-      "Time-Now": 36,
+      "Time-Now": 37,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%84%D9%88-%D8%A2%D9%81%D8%B1-%D8%B6%D8%AF-%D9%84%D8%A7%D9%86%D8%B3&id=4464076&date=2025-08-24",
       "matchDetails": {
@@ -29847,7 +29847,7 @@
       },
       "Time-Start": "2025-08-24T15:30",
       "Time-End": "2025-08-24T17:30",
-      "Time-Now": 21,
+      "Time-Now": 22,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%88%D9%84%D9%87%D8%A7%D9%85-%D8%B6%D8%AF-%D9%85%D8%A7%D9%86%D8%B4%D8%B3%D8%AA%D8%B1-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF&id=4452821&date=2025-08-24",
       "matchDetails": {
@@ -30037,7 +30037,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "أندرسن",
                 "Player-Logo": "/assets/images/player-logo/?id=7311",
                 "Player-ID": 431503,
@@ -30253,7 +30253,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "شاو",
                 "Player-Logo": "/assets/images/player-logo/?id=403",
                 "Player-ID": 332253,
@@ -30343,7 +30343,7 @@
               {
                 "Position": "المهاجم المتأخر",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.1,
                 "Player-Name": "كونيا",
                 "Player-Logo": "/assets/images/player-logo/?id=50077",
                 "Player-ID": 3558647,
@@ -30372,7 +30372,7 @@
       },
       "Time-Start": "2025-08-24T15:30",
       "Time-End": "2025-08-24T17:30",
-      "Time-Now": 21,
+      "Time-Now": 22,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%85%D9%88%D9%86%D8%B4%D9%86%D8%AC%D9%84%D8%A7%D8%AF%D8%A8%D8%A7%D8%AE-%D8%B6%D8%AF-%D9%87%D8%A7%D9%85%D8%A8%D9%88%D8%B1%D8%AC&id=4464913&date=2025-08-24",
       "matchDetails": {
@@ -30760,22 +30760,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "جاتا",
-                "Player-Logo": "/assets/images/player-logo/?id=45894",
-                "Player-ID": 3177398,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مدافع أيمن",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "هيفتي",
                 "Player-Logo": "/assets/images/player-logo/?id=39298",
                 "Player-ID": 939241,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "جاتا",
+                "Player-Logo": "/assets/images/player-logo/?id=45894",
+                "Player-ID": 3177398,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -30931,7 +30931,7 @@
       },
       "Time-Start": "2025-08-24T15:30",
       "Time-End": "2025-08-24T17:30",
-      "Time-Now": 10,
+      "Time-Now": 12,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%82%D8%B7%D8%B1-%D8%B6%D8%AF-%D9%84%D8%A8%D9%86%D8%A7%D9%86&id=4523067&date=2025-08-24",
       "matchDetails": {
@@ -46745,7 +46745,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T15:52:12.730Z",
+    "lastUpdated": "2025-08-24T15:52:57.033Z",
     "count": 82
   }
 }
