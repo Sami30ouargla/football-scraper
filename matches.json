@@ -46327,14 +46327,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "كووبميينيرز",
-              "IMG": "/assets/images/player-logo/?id=50647",
-              "ID": 3725457,
+              "Name": "ماريو",
+              "IMG": "/assets/images/player-logo/?id=77967",
+              "ID": 49531772,
               "Extra": [
                 {
-                  "Name": "لوكاتيلي",
-                  "IMG": "/assets/images/player-logo/?id=38364",
-                  "ID": 634064
+                  "Name": "جاتي",
+                  "IMG": "/assets/images/player-logo/?id=101097",
+                  "ID": 61206789
                 }
               ]
             },
@@ -46348,14 +46348,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ماريو",
-              "IMG": "/assets/images/player-logo/?id=77967",
-              "ID": 49531772,
+              "Name": "كووبميينيرز",
+              "IMG": "/assets/images/player-logo/?id=50647",
+              "ID": 3725457,
               "Extra": [
                 {
-                  "Name": "جاتي",
-                  "IMG": "/assets/images/player-logo/?id=101097",
-                  "ID": 61206789
+                  "Name": "لوكاتيلي",
+                  "IMG": "/assets/images/player-logo/?id=38364",
+                  "ID": 634064
                 }
               ]
             },
@@ -46426,14 +46426,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جونزاليس",
-              "IMG": "/assets/images/player-logo/?id=45027",
-              "ID": 3144433,
+              "Name": "فلاهوفيتش",
+              "IMG": "/assets/images/player-logo/?id=56096",
+              "ID": 6744238,
               "Extra": [
                 {
-                  "Name": "كونسيساو",
-                  "IMG": "/assets/images/player-logo/?id=87408",
-                  "ID": 51220665
+                  "Name": "جوناثان",
+                  "IMG": "/assets/images/player-logo/?id=59838",
+                  "ID": 3337446
                 }
               ]
             },
@@ -46447,14 +46447,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "فلاهوفيتش",
-              "IMG": "/assets/images/player-logo/?id=56096",
-              "ID": 6744238,
+              "Name": "جونزاليس",
+              "IMG": "/assets/images/player-logo/?id=45027",
+              "ID": 3144433,
               "Extra": [
                 {
-                  "Name": "جوناثان",
-                  "IMG": "/assets/images/player-logo/?id=59838",
-                  "ID": 3337446
+                  "Name": "كونسيساو",
+                  "IMG": "/assets/images/player-logo/?id=87408",
+                  "ID": 51220665
                 }
               ]
             },
@@ -56595,7 +56595,7 @@
       "Team-Right": {
         "Name": "شارلوت",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=69188",
-        "Goal": 0
+        "Goal": 1
       },
       "Team-Left": {
         "Name": "نيويورك ريد بولز",
@@ -56604,7 +56604,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 30,
+      "Time-Now": 31,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B4%D8%A7%D8%B1%D9%84%D9%88%D8%AA-%D8%B6%D8%AF-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B1%D9%8A%D8%AF-%D8%A8%D9%88%D9%84%D8%B2&id=4318776&date=2025-08-24",
       "matchDetails": {
@@ -56665,7 +56665,13 @@
               "Name": "فارغاس",
               "IMG": "/assets/images/player-logo/?id=113722",
               "ID": 56207483,
-              "Extra": []
+              "Extra": [
+                {
+                  "Name": "طوكلوماطي",
+                  "IMG": "/assets/images/player-logo/?id=113404",
+                  "ID": 65335843
+                }
+              ]
             },
             "Place": "left",
             "Order": 2
@@ -56909,7 +56915,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 7.5,
                 "Player-Name": "فارغاس",
                 "Player-Logo": "/assets/images/player-logo/?id=113722",
                 "Player-ID": 56207483,
@@ -56919,7 +56925,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 7.2,
                 "Player-Name": "طوكلوماطي",
                 "Player-Logo": "/assets/images/player-logo/?id=113404",
                 "Player-ID": 65335843,
@@ -56935,7 +56941,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6,
                 "Player-Name": "كارلوس",
                 "Player-Logo": "/assets/images/player-logo/?id=51374",
                 "Player-ID": 4251591,
@@ -57155,7 +57161,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "سوفو",
                 "Player-Logo": "/assets/images/player-logo/?id=153815",
                 "Player-ID": 71543642,
@@ -57194,7 +57200,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 41,
+      "Time-Now": 42,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%85%D8%A7%D8%B3-%D9%8A%D9%88%D9%86%D8%A7%D9%85-%D8%B6%D8%AF-%D8%A8%D9%88%D9%8A%D8%A8%D9%84%D8%A7&id=4444628&date=2025-08-24",
       "matchDetails": {
@@ -57459,7 +57465,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "Ruvalcaba",
                 "Player-Logo": "/assets/images/player-logo/?id=106173",
                 "Player-ID": 64721422,
@@ -57489,7 +57495,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "مارتينيز",
                 "Player-Logo": "/assets/images/player-logo/?id=14680",
                 "Player-ID": 625475,
@@ -57764,7 +57770,7 @@
       },
       "Time-Start": "2025-08-24T23:30",
       "Time-End": "2025-08-25T01:30",
-      "Time-Now": 11,
+      "Time-Now": 12,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A7%D9%88-%D8%A8%D8%A7%D9%88%D9%84%D9%88-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D9%88&id=4380423&date=2025-08-24",
       "matchDetails": {
@@ -58439,7 +58445,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T23:42:52.221Z",
+    "lastUpdated": "2025-08-24T23:43:52.198Z",
     "count": 85
   }
 }
