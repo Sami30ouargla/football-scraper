@@ -53651,7 +53651,7 @@
       },
       "Time-Start": "2025-08-24T21:15",
       "Time-End": "2025-08-24T23:15",
-      "Time-Now": 76,
+      "Time-Now": 77,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%83%D8%A7-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF&id=4326169&date=2025-08-24",
       "matchDetails": {
@@ -53815,6 +53815,27 @@
             },
             "Place": "left",
             "Order": 7
+          },
+          {
+            "Event-Time": "76'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "زيبالوس",
+              "IMG": "/assets/images/player-logo/?id=82630",
+              "ID": 52482257,
+              "Extra": [
+                {
+                  "Name": "أغيري",
+                  "IMG": "/assets/images/player-logo/?id=91507",
+                  "ID": 58151711
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -53839,6 +53860,16 @@
                 "Player-Name": "ألاركون",
                 "Player-Logo": "/assets/images/player-logo/?id=58140",
                 "Player-ID": 6738115,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "زيبالوس",
+                "Player-Logo": "/assets/images/player-logo/?id=82630",
+                "Player-ID": 52482257,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -53939,16 +53970,6 @@
                 "Player-Name": "فيلاسكو",
                 "Player-Logo": "/assets/images/player-logo/?id=67396",
                 "Player-ID": 17857257,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "زيبالوس",
-                "Player-Logo": "/assets/images/player-logo/?id=82630",
-                "Player-ID": 52482257,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -54440,7 +54461,7 @@
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 60,
+      "Time-Now": 61,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%88%D9%81%D9%8A%D9%86%D8%AA%D9%88%D8%AF-%D8%B6%D8%AF-%D8%A8%D9%88%D8%AA%D8%A7%D9%81%D9%88%D8%BA%D9%88&id=4380417&date=2025-08-24",
       "matchDetails": {
@@ -54666,7 +54687,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.8,
                 "Player-Name": "فيرون",
                 "Player-Logo": "/assets/images/player-logo/?id=72072",
                 "Player-ID": 40742156,
@@ -54676,7 +54697,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.5,
                 "Player-Name": "Hermes",
                 "Player-Logo": "/assets/images/player-logo/?id=14592",
                 "Player-ID": 597542,
@@ -55271,7 +55292,7 @@
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 55,
+      "Time-Now": 57,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7-%D8%B6%D8%AF-%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84&id=4380418&date=2025-08-24",
       "matchDetails": {
@@ -55923,7 +55944,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "Victor",
                 "Player-Logo": "/assets/images/player-logo/?id=64097",
                 "Player-ID": 12677899,
@@ -55963,7 +55984,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "Danielzinho",
                 "Player-Logo": "/assets/images/player-logo/?id=42842",
                 "Player-ID": 267278,
@@ -55983,7 +56004,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.7,
                 "Player-Name": "F. Costa",
                 "Player-Logo": "/assets/images/player-logo/?id=58759",
                 "Player-ID": 285686,
@@ -57795,7 +57816,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T22:51:55.139Z",
+    "lastUpdated": "2025-08-24T22:52:51.779Z",
     "count": 85
   }
 }
