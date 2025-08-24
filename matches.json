@@ -41911,9 +41911,9 @@
               "ID": 399311,
               "Extra": [
                 {
-                  "Name": "كمارا",
-                  "IMG": "/assets/images/player-logo/?id=105463",
-                  "ID": 64034030
+                  "Name": "رينكون",
+                  "IMG": "/assets/images/player-logo/?id=135880",
+                  "ID": 65561822
                 }
               ]
             },
@@ -54352,11 +54352,11 @@
       "Team-Left": {
         "Name": "بوتافوغو",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1211",
-        "Goal": 0
+        "Goal": 1
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 38,
+      "Time-Now": 39,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%88%D9%81%D9%8A%D9%86%D8%AA%D9%88%D8%AF-%D8%B6%D8%AF-%D8%A8%D9%88%D8%AA%D8%A7%D9%81%D9%88%D8%BA%D9%88&id=4380417&date=2025-08-24",
       "matchDetails": {
@@ -54427,17 +54427,32 @@
             },
             "Place": "left",
             "Order": 2
+          },
+          {
+            "Event-Time": "39'",
+            "Event-Name": "هدف من ركلة جزاء",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=3",
+            "Event-SubType-Id": 3,
+            "Event-SubType-Name": "ركلة جزاء",
+            "Event-Player": {
+              "Name": "تيليس",
+              "IMG": "/assets/images/player-logo/?id=7792",
+              "ID": 350036,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 3
           }
         ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "جوفينتود",
-            "Formation": "4-4-2",
+            "Formation": "4-4-1-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.3,
                 "Player-Name": "جانديري",
                 "Player-Logo": "/assets/images/player-logo/?id=47720",
                 "Player-ID": 3237622,
@@ -54637,92 +54652,82 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.3,
                 "Player-Name": "Ruschel",
                 "Player-Logo": "/assets/images/player-logo/?id=2968",
                 "Player-ID": 506155,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 0
               },
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 6,
                 "Player-Name": "إينجيل",
                 "Player-Logo": "/assets/images/player-logo/?id=12731",
                 "Player-ID": 601951,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 33
               },
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "Luan",
                 "Player-Logo": "/assets/images/player-logo/?id=79631",
                 "Player-ID": 50556934,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 66
               },
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "Reginaldo",
                 "Player-Logo": "/assets/images/player-logo/?id=40937",
                 "Player-ID": 2544984,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 100
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.9,
-                "Player-Name": "Mandaca",
-                "Player-Logo": "/assets/images/player-logo/?id=92127",
-                "Player-ID": 58810739,
-                "FieldLine": 66,
-                "FieldSide": 0
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.3,
-                "Player-Name": "Caique",
-                "Player-Logo": "/assets/images/player-logo/?id=113139",
-                "Player-ID": 65768674,
-                "FieldLine": 66,
-                "FieldSide": 33
               },
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
                 "Ranking": 6.7,
+                "Player-Name": "Mandaca",
+                "Player-Logo": "/assets/images/player-logo/?id=92127",
+                "Player-ID": 58810739,
+                "FieldLine": 50,
+                "FieldSide": 0
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": 6.2,
+                "Player-Name": "Caique",
+                "Player-Logo": "/assets/images/player-logo/?id=113139",
+                "Player-ID": 65768674,
+                "FieldLine": 50,
+                "FieldSide": 33
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.5,
                 "Player-Name": "Jadson",
                 "Player-Logo": "/assets/images/player-logo/?id=6254",
                 "Player-ID": 516073,
-                "FieldLine": 66,
+                "FieldLine": 50,
                 "FieldSide": 66
               },
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 7.6,
+                "Ranking": 7.5,
                 "Player-Name": "Batalla",
                 "Player-Logo": "/assets/images/player-logo/?id=81306",
                 "Player-ID": 51417110,
-                "FieldLine": 66,
+                "FieldLine": 50,
                 "FieldSide": 100
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 6.4,
-                "Player-Name": "G. Taliari",
-                "Player-Logo": "/assets/images/player-logo/?id=58126",
-                "Player-ID": 165639,
-                "FieldLine": 99,
-                "FieldSide": 25
               },
               {
                 "Position": "لاعب الوسط المهاجم",
@@ -54731,8 +54736,18 @@
                 "Player-Name": "Nenê",
                 "Player-Logo": "/assets/images/player-logo/?id=14578",
                 "Player-ID": 400112,
-                "FieldLine": 99,
-                "FieldSide": 75
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 6.4,
+                "Player-Name": "G. Taliari",
+                "Player-Logo": "/assets/images/player-logo/?id=58126",
+                "Player-ID": 165639,
+                "FieldLine": 100,
+                "FieldSide": 50
               }
             ]
           },
@@ -54933,7 +54948,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 7.2,
                 "Player-Name": "تيليس",
                 "Player-Logo": "/assets/images/player-logo/?id=7792",
                 "Player-ID": 350036,
@@ -55427,7 +55442,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.1,
                 "Player-Name": "أفيلا",
                 "Player-Logo": "/assets/images/player-logo/?id=74361",
                 "Player-ID": 47465030,
@@ -57535,7 +57550,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T22:09:52.389Z",
+    "lastUpdated": "2025-08-24T22:10:52.397Z",
     "count": 85
   }
 }
