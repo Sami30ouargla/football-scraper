@@ -31895,7 +31895,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.1,
                 "Player-Name": "أندرسن",
                 "Player-Logo": "/assets/images/player-logo/?id=7311",
                 "Player-ID": 431503,
@@ -31925,7 +31925,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.2,
                 "Player-Name": "لوكيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=11124",
                 "Player-ID": 560440,
@@ -33029,6 +33029,73 @@
       }
     },
     {
+      "Cup-id": 570,
+      "Cup-Name": "مباريات ودية دولية",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=570",
+      "Match-id": 4523067,
+      "Team-Right": {
+        "Name": "قطر",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5079",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "لبنان",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5088",
+        "Goal": 1
+      },
+      "Time-Start": "2025-08-24T15:30",
+      "Time-End": "2025-08-24T17:30",
+      "Time-Now": 90,
+      "Match-Status": "انتهت للتو",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%82%D8%B7%D8%B1-%D8%B6%D8%AF-%D9%84%D8%A8%D9%86%D8%A7%D9%86&id=4523067&date=2025-08-24",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4523067,
+          "Cup-Name": "مباريات ودية دولية",
+          "Cup-Logo": "/assets/images/cup-logo/?id=570",
+          "Team-Right": {
+            "Name": "قطر",
+            "Color": "#7f97ab",
+            "Logo": "/assets/images/team-logo/?id=5079",
+            "Goal": 0
+          },
+          "Team-Left": {
+            "Name": "لبنان",
+            "Color": "#F42A2A",
+            "Logo": "/assets/images/team-logo/?id=5088",
+            "Goal": 0
+          },
+          "Date": "2025-08-24",
+          "Time": "15:30",
+          "Time-Zone": -120,
+          "Status": "انتهت للتو",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "استاد خليفة الدولي",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 45857,
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "قطر",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "لبنان",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
+    },
+    {
       "Cup-id": 72,
       "Cup-Name": "الدوري الأرجنتيني الممتاز - Clausura",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=72",
@@ -33648,73 +33715,6 @@
       }
     },
     {
-      "Cup-id": 570,
-      "Cup-Name": "مباريات ودية دولية",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=570",
-      "Match-id": 4523067,
-      "Team-Right": {
-        "Name": "قطر",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5079",
-        "Goal": 0
-      },
-      "Team-Left": {
-        "Name": "لبنان",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5088",
-        "Goal": 0
-      },
-      "Time-Start": "2025-08-24T15:30",
-      "Time-End": "2025-08-24T17:30",
-      "Time-Now": 45,
-      "Match-Status": "الشوط الأول",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%82%D8%B7%D8%B1-%D8%B6%D8%AF-%D9%84%D8%A8%D9%86%D8%A7%D9%86&id=4523067&date=2025-08-24",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4523067,
-          "Cup-Name": "مباريات ودية دولية",
-          "Cup-Logo": "/assets/images/cup-logo/?id=570",
-          "Team-Right": {
-            "Name": "قطر",
-            "Color": "#7f97ab",
-            "Logo": "/assets/images/team-logo/?id=5079",
-            "Goal": 0
-          },
-          "Team-Left": {
-            "Name": "لبنان",
-            "Color": "#F42A2A",
-            "Logo": "/assets/images/team-logo/?id=5088",
-            "Goal": 0
-          },
-          "Date": "2025-08-24",
-          "Time": "15:30",
-          "Time-Zone": -120,
-          "Status": "انتهت للتو",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "استاد خليفة الدولي",
-          "Club-Balance": "N/A",
-          "Club-Capacity": 45857,
-          "Tv": "N/A"
-        },
-        "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "قطر",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "لبنان",
-            "Formation": "N/A",
-            "Team": []
-          }
-        }
-      }
-    },
-    {
       "Cup-id": 78,
       "Cup-Name": "الدوري التركي",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=78",
@@ -33731,7 +33731,7 @@
       },
       "Time-Start": "2025-08-24T16:00",
       "Time-End": "2025-08-24T18:00",
-      "Time-Now": 60,
+      "Time-Now": 61,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B7%D8%B1%D8%A7%D8%A8%D8%B2%D9%88%D9%86-%D8%B3%D8%A8%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A3%D9%86%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%B3%D8%A8%D9%88%D8%B1&id=4475707&date=2025-08-24",
       "matchDetails": {
@@ -33895,6 +33895,27 @@
             },
             "Place": "right",
             "Order": 7
+          },
+          {
+            "Event-Time": "60'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "جيانيتي",
+              "IMG": "/assets/images/player-logo/?id=7596",
+              "ID": 354746,
+              "Extra": [
+                {
+                  "Name": "Sarı",
+                  "IMG": "/assets/images/player-logo/?id=7794",
+                  "ID": 222838
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -34179,6 +34200,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "جيانيتي",
+                "Player-Logo": "/assets/images/player-logo/?id=7596",
+                "Player-ID": 354746,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "وسط دفاعي",
                 "Status": "Substitute",
                 "Ranking": 6.8,
@@ -34215,16 +34246,6 @@
                 "Player-Name": "Demirbilek",
                 "Player-Logo": "/assets/images/player-logo/?id=204538",
                 "Player-ID": 77186409,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "جيانيتي",
-                "Player-Logo": "/assets/images/player-logo/?id=7596",
-                "Player-ID": 354746,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -37355,7 +37376,7 @@
       },
       "Time-Start": "2025-08-24T17:00",
       "Time-End": "2025-08-24T19:00",
-      "Time-Now": 27,
+      "Time-Now": 28,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?Union-Santa-Fe-%D8%B6%D8%AF-%D8%A3%D9%88%D8%B1%D8%A7%D9%83%D8%A7%D9%86&id=4326166&date=2025-08-24",
       "matchDetails": {
@@ -37944,7 +37965,7 @@
       },
       "Time-Start": "2025-08-24T17:00",
       "Time-End": "2025-08-24T19:00",
-      "Time-Now": 26,
+      "Time-Now": 27,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D8%B1%D8%AA%D9%88-%D8%B6%D8%AF-%D9%83%D8%A7%D8%B2%D8%A7-%D8%A8%D9%8A%D8%A7&id=4475182&date=2025-08-24",
       "matchDetails": {
@@ -38011,7 +38032,13 @@
               "Name": "غوميز",
               "IMG": "/assets/images/player-logo/?id=146320",
               "ID": 71096902,
-              "Extra": []
+              "Extra": [
+                {
+                  "Name": "كوستا",
+                  "IMG": "/assets/images/player-logo/?id=151457",
+                  "ID": 71328020
+                }
+              ]
             },
             "Place": "left",
             "Order": 2
@@ -38185,7 +38212,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 7.3,
                 "Player-Name": "كوستا",
                 "Player-Logo": "/assets/images/player-logo/?id=151457",
                 "Player-ID": 71328020,
@@ -38245,7 +38272,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 7.3,
                 "Player-Name": "غوميز",
                 "Player-Logo": "/assets/images/player-logo/?id=146320",
                 "Player-ID": 71096902,
@@ -38261,7 +38288,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6,
                 "Player-Name": "سيكويرا",
                 "Player-Logo": "/assets/images/player-logo/?id=90217",
                 "Player-ID": 56749969,
@@ -38411,7 +38438,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.2,
                 "Player-Name": "فونتي",
                 "Player-Logo": "/assets/images/player-logo/?id=1576",
                 "Player-ID": 446789,
@@ -38587,7 +38614,7 @@
       },
       "Time-Start": "2025-08-24T17:15",
       "Time-End": "2025-08-24T19:15",
-      "Time-Now": 12,
+      "Time-Now": 13,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D9%86%D8%AF%D9%8A%D8%B1-%D8%B6%D8%AF-%D8%A2%D9%88%D8%AF-%D9%87%D9%8A%D9%81%D8%B1%D9%84%D9%8A-%D9%84%D9%8A%D9%81%D9%86&id=4455014&date=2025-08-24",
       "matchDetails": {
@@ -42569,26 +42596,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "حارس مرمى",
-                "Status": "Doubtful",
-                "Ranking": "N/A",
-                "Player-Name": "بيرين",
-                "Player-Logo": "/assets/images/player-logo/?id=337",
-                "Player-ID": 294192,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "كابال",
-                "Player-Logo": "/assets/images/player-logo/?id=68353",
-                "Player-ID": 28607589,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -42605,6 +42612,26 @@
                 "Player-Name": "سافونا",
                 "Player-Logo": "/assets/images/player-logo/?id=177606",
                 "Player-ID": 75387514,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Doubtful",
+                "Ranking": "N/A",
+                "Player-Name": "بيرين",
+                "Player-Logo": "/assets/images/player-logo/?id=337",
+                "Player-ID": 294192,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "كابال",
+                "Player-Logo": "/assets/images/player-logo/?id=68353",
+                "Player-ID": 28607589,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -50816,7 +50843,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T17:27:53.980Z",
+    "lastUpdated": "2025-08-24T17:28:51.285Z",
     "count": 83
   }
 }
