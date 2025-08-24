@@ -53651,7 +53651,7 @@
       },
       "Time-Start": "2025-08-24T21:15",
       "Time-End": "2025-08-24T23:15",
-      "Time-Now": 93,
+      "Time-Now": 94,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%83%D8%A7-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF&id=4326169&date=2025-08-24",
       "matchDetails": {
@@ -54317,7 +54317,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.5,
                 "Player-Name": "Alaniz",
                 "Player-Logo": "/assets/images/player-logo/?id=125918",
                 "Player-ID": 67673781,
@@ -54337,7 +54337,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.6,
                 "Player-Name": "Lopez",
                 "Player-Logo": "/assets/images/player-logo/?id=64983",
                 "Player-ID": 13328116,
@@ -54596,7 +54596,7 @@
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 77,
+      "Time-Now": 78,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%88%D9%81%D9%8A%D9%86%D8%AA%D9%88%D8%AF-%D8%B6%D8%AF-%D8%A8%D9%88%D8%AA%D8%A7%D9%81%D9%88%D8%BA%D9%88&id=4380417&date=2025-08-24",
       "matchDetails": {
@@ -54684,7 +54684,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -54705,7 +54705,7 @@
             "Order": 4
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -55416,7 +55416,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "فيتينيو",
                 "Player-Logo": "/assets/images/player-logo/?id=61478",
                 "Player-ID": 7153495,
@@ -55426,7 +55426,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7,
                 "Player-Name": "فريتاس",
                 "Player-Logo": "/assets/images/player-logo/?id=42217",
                 "Player-ID": 659801,
@@ -55505,7 +55505,7 @@
       },
       "Time-Start": "2025-08-24T21:30",
       "Time-End": "2025-08-24T23:30",
-      "Time-Now": 73,
+      "Time-Now": 74,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%88%D8%B1%D8%AA%D8%A7%D9%84%D9%8A%D8%B2%D8%A7-%D8%B6%D8%AF-%D9%85%D9%8A%D8%B1%D8%A7%D8%B3%D9%88%D9%84&id=4380418&date=2025-08-24",
       "matchDetails": {
@@ -55699,6 +55699,48 @@
             },
             "Place": "right",
             "Order": 9
+          },
+          {
+            "Event-Time": "73'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Weverson",
+              "IMG": "/assets/images/player-logo/?id=79059",
+              "ID": 50333194,
+              "Extra": [
+                {
+                  "Name": "Pacheco",
+                  "IMG": "/assets/images/player-logo/?id=42080",
+                  "ID": 3070487
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 10
+          },
+          {
+            "Event-Time": "74'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Lucero",
+              "IMG": "/assets/images/player-logo/?id=8407",
+              "ID": 478479,
+              "Extra": [
+                {
+                  "Name": "باريرو",
+                  "IMG": "/assets/images/player-logo/?id=51856",
+                  "ID": 628440
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 11
           }
         ],
         "Match-Lineup": {
@@ -55709,10 +55751,30 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.6,
                 "Player-Name": "لييتي",
                 "Player-Logo": "/assets/images/player-logo/?id=3166",
                 "Player-ID": 398959,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Lucero",
+                "Player-Logo": "/assets/images/player-logo/?id=8407",
+                "Player-ID": 478479,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Weverson",
+                "Player-Logo": "/assets/images/player-logo/?id=79059",
+                "Player-ID": 50333194,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -55743,26 +55805,6 @@
                 "Player-Name": "باربوسا",
                 "Player-Logo": "/assets/images/player-logo/?id=3580",
                 "Player-ID": 502375,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Lucero",
-                "Player-Logo": "/assets/images/player-logo/?id=8407",
-                "Player-ID": 478479,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Weverson",
-                "Player-Logo": "/assets/images/player-logo/?id=79059",
-                "Player-ID": 50333194,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -56893,7 +56935,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 7,
+      "Time-Now": 8,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%85%D8%A7%D8%B3-%D9%8A%D9%88%D9%86%D8%A7%D9%85-%D8%B6%D8%AF-%D8%A8%D9%88%D9%8A%D8%A8%D9%84%D8%A7&id=4444628&date=2025-08-24",
       "matchDetails": {
@@ -58107,7 +58149,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T23:08:52.480Z",
+    "lastUpdated": "2025-08-24T23:09:53.931Z",
     "count": 85
   }
 }
