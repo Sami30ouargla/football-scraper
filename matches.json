@@ -51116,14 +51116,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "فينيسيوس",
-              "IMG": "/assets/images/player-logo/?id=48298",
-              "ID": 3235657,
+              "Name": "دياز",
+              "IMG": "/assets/images/player-logo/?id=53800",
+              "ID": 1759210,
               "Extra": [
                 {
-                  "Name": "رودريجو",
-                  "IMG": "/assets/images/player-logo/?id=53912",
-                  "ID": 5485503
+                  "Name": "ماستانتونو",
+                  "IMG": "/assets/images/player-logo/?id=146096",
+                  "ID": 71088015
                 }
               ]
             },
@@ -51137,14 +51137,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "دياز",
-              "IMG": "/assets/images/player-logo/?id=53800",
-              "ID": 1759210,
+              "Name": "فينيسيوس",
+              "IMG": "/assets/images/player-logo/?id=48298",
+              "ID": 3235657,
               "Extra": [
                 {
-                  "Name": "ماستانتونو",
-                  "IMG": "/assets/images/player-logo/?id=146096",
-                  "ID": 71088015
+                  "Name": "رودريجو",
+                  "IMG": "/assets/images/player-logo/?id=53912",
+                  "ID": 5485503
                 }
               ]
             },
@@ -51323,14 +51323,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ارنولد",
-              "IMG": "/assets/images/player-logo/?id=45861",
-              "ID": 670092,
+              "Name": "سيبايوس",
+              "IMG": "/assets/images/player-logo/?id=27099",
+              "ID": 584859,
               "Extra": [
                 {
-                  "Name": "كارفاخال",
-                  "IMG": "/assets/images/player-logo/?id=117",
-                  "ID": 312745
+                  "Name": "مبابي",
+                  "IMG": "/assets/images/player-logo/?id=39820",
+                  "ID": 1589889
                 }
               ]
             },
@@ -51344,14 +51344,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "سيبايوس",
-              "IMG": "/assets/images/player-logo/?id=27099",
-              "ID": 584859,
+              "Name": "ارنولد",
+              "IMG": "/assets/images/player-logo/?id=45861",
+              "ID": 670092,
               "Extra": [
                 {
-                  "Name": "مبابي",
-                  "IMG": "/assets/images/player-logo/?id=39820",
-                  "ID": 1589889
+                  "Name": "كارفاخال",
+                  "IMG": "/assets/images/player-logo/?id=117",
+                  "ID": 312745
                 }
               ]
             },
@@ -51673,7 +51673,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 7,
                 "Player-Name": "جارسيا",
                 "Player-Logo": "/assets/images/player-logo/?id=138469",
                 "Player-ID": 68056120,
@@ -51944,7 +51944,7 @@
             "Name": "سبورتينج براغا",
             "Color": "#C1261E",
             "Logo": "/assets/images/team-logo/?id=895",
-            "Goal": 1
+            "Goal": 2
           },
           "Team-Left": {
             "Name": "فيلا فرانكنسي",
@@ -52231,6 +52231,21 @@
             },
             "Place": "right",
             "Order": 14
+          },
+          {
+            "Event-Time": "87'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "نافارو",
+              "IMG": "/assets/images/player-logo/?id=100634",
+              "ID": 61003328,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 15
           }
         ],
         "Match-Lineup": {
@@ -52467,7 +52482,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6.5,
                 "Player-Name": "سيماو",
                 "Player-Logo": "/assets/images/player-logo/?id=66699",
                 "Player-ID": 916102,
@@ -52477,7 +52492,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Substitute",
-                "Ranking": -1,
+                "Ranking": 6.4,
                 "Player-Name": "جاليتو",
                 "Player-Logo": "/assets/images/player-logo/?id=80976",
                 "Player-ID": 50974198,
@@ -52577,7 +52592,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 5.5,
+                "Ranking": 5.3,
                 "Player-Name": "ريفاس",
                 "Player-Logo": "/assets/images/player-logo/?id=68344",
                 "Player-ID": 28574143,
@@ -52587,7 +52602,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.2,
                 "Player-Name": "كاسترو",
                 "Player-Logo": "/assets/images/player-logo/?id=91064",
                 "Player-ID": 57865982,
@@ -52597,7 +52612,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.4,
                 "Player-Name": "سانتوس",
                 "Player-Logo": "/assets/images/player-logo/?id=10476",
                 "Player-ID": 351835,
@@ -52607,7 +52622,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.5,
                 "Player-Name": "مولينا",
                 "Player-Logo": "/assets/images/player-logo/?id=74231",
                 "Player-ID": 48065587,
@@ -52617,7 +52632,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "غراو",
                 "Player-Logo": "/assets/images/player-logo/?id=69073",
                 "Player-ID": 15922158,
@@ -52627,7 +52642,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.1,
                 "Player-Name": "الغوبيا",
                 "Player-Logo": "/assets/images/player-logo/?id=105461",
                 "Player-ID": 64385155,
@@ -52667,7 +52682,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.2,
                 "Player-Name": "دوارتي",
                 "Player-Logo": "/assets/images/player-logo/?id=79007",
                 "Player-ID": 50305255,
@@ -52696,7 +52711,7 @@
       },
       "Time-Start": "2025-08-24T20:00",
       "Time-End": "2025-08-24T22:00",
-      "Time-Now": 50,
+      "Time-Now": 51,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D8%A7-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%B6%D8%AF-%D8%AA%D9%88%D8%B1%D9%88%D9%86%D8%AA%D9%88&id=4318777&date=2025-08-24",
       "matchDetails": {
@@ -53245,7 +53260,7 @@
       },
       "Time-Start": "2025-08-24T21:15",
       "Time-End": "2025-08-24T23:15",
-      "Time-Now": 2,
+      "Time-Now": 3,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%83%D8%A7-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%86%D9%81%D9%8A%D9%84%D8%AF&id=4326169&date=2025-08-24",
       "matchDetails": {
@@ -56945,7 +56960,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T21:18:54.801Z",
+    "lastUpdated": "2025-08-24T21:19:51.494Z",
     "count": 85
   }
 }
