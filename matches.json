@@ -20035,6 +20035,73 @@
       }
     },
     {
+      "Cup-id": 98,
+      "Cup-Name": "الدوري البلجيكي الدرجة الأولى",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=98",
+      "Match-id": 4457769,
+      "Team-Right": {
+        "Name": "جينك",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1177",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "تشارلروا",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1178",
+        "Goal": 0
+      },
+      "Time-Start": "2025-08-24T14:00",
+      "Time-End": "2025-08-24T16:00",
+      "Time-Now": -1,
+      "Match-Status": "تأجلت",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%8A%D9%86%D9%83-%D8%B6%D8%AF-%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B1%D9%88%D8%A7&id=4457769&date=2025-08-24",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4457769,
+          "Cup-Name": "الدوري البلجيكي الدرجة الأولى",
+          "Cup-Logo": "/assets/images/cup-logo/?id=98",
+          "Team-Right": {
+            "Name": "جينك",
+            "Color": "#0066FF",
+            "Logo": "/assets/images/team-logo/?id=1177",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "تشارلروا",
+            "Color": "#FFF700",
+            "Logo": "/assets/images/team-logo/?id=1178",
+            "Goal": "-"
+          },
+          "Date": "2025-08-24",
+          "Time": "14:00",
+          "Time-Zone": -120,
+          "Status": "تأجلت",
+          "Round": 5,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "سيجيكا أرينا",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 24956,
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "جينك",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "تشارلروا",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
+    },
+    {
       "Cup-id": 78,
       "Cup-Name": "الدوري التركي",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=78",
@@ -22419,73 +22486,6 @@
                 "FieldSide": 50
               }
             ]
-          }
-        }
-      }
-    },
-    {
-      "Cup-id": 98,
-      "Cup-Name": "الدوري البلجيكي الدرجة الأولى",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=98",
-      "Match-id": 4457769,
-      "Team-Right": {
-        "Name": "جينك",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1177",
-        "Goal": 0
-      },
-      "Team-Left": {
-        "Name": "تشارلروا",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1178",
-        "Goal": 0
-      },
-      "Time-Start": "2025-08-24T14:00",
-      "Time-End": "2025-08-24T16:00",
-      "Time-Now": -1,
-      "Match-Status": "تأجلت",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D9%8A%D9%86%D9%83-%D8%B6%D8%AF-%D8%AA%D8%B4%D8%A7%D8%B1%D9%84%D8%B1%D9%88%D8%A7&id=4457769&date=2025-08-24",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4457769,
-          "Cup-Name": "الدوري البلجيكي الدرجة الأولى",
-          "Cup-Logo": "/assets/images/cup-logo/?id=98",
-          "Team-Right": {
-            "Name": "جينك",
-            "Color": "#0066FF",
-            "Logo": "/assets/images/team-logo/?id=1177",
-            "Goal": "-"
-          },
-          "Team-Left": {
-            "Name": "تشارلروا",
-            "Color": "#FFF700",
-            "Logo": "/assets/images/team-logo/?id=1178",
-            "Goal": "-"
-          },
-          "Date": "2025-08-24",
-          "Time": "14:00",
-          "Time-Zone": -120,
-          "Status": "تأجلت",
-          "Round": 5,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "سيجيكا أرينا",
-          "Club-Balance": "N/A",
-          "Club-Capacity": 24956,
-          "Tv": "N/A"
-        },
-        "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "جينك",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "تشارلروا",
-            "Formation": "N/A",
-            "Team": []
           }
         }
       }
@@ -48116,14 +48116,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Nestor",
-              "IMG": "/assets/images/player-logo/?id=74626",
-              "ID": 44078581,
+              "Name": "Rezende",
+              "IMG": "/assets/images/player-logo/?id=96942",
+              "ID": 59484175,
               "Extra": [
                 {
-                  "Name": "ريبيرو",
-                  "IMG": "/assets/images/player-logo/?id=2997",
-                  "ID": 278320
+                  "Name": "Acevedo",
+                  "IMG": "/assets/images/player-logo/?id=62120",
+                  "ID": 481741
                 }
               ]
             },
@@ -48137,14 +48137,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Rezende",
-              "IMG": "/assets/images/player-logo/?id=96942",
-              "ID": 59484175,
+              "Name": "Nestor",
+              "IMG": "/assets/images/player-logo/?id=74626",
+              "ID": 44078581,
               "Extra": [
                 {
-                  "Name": "Acevedo",
-                  "IMG": "/assets/images/player-logo/?id=62120",
-                  "ID": 481741
+                  "Name": "ريبيرو",
+                  "IMG": "/assets/images/player-logo/?id=2997",
+                  "ID": 278320
                 }
               ]
             },
@@ -48309,7 +48309,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Substitute",
-                "Ranking": 6.2,
+                "Ranking": 6.3,
                 "Player-Name": "Rezende",
                 "Player-Logo": "/assets/images/player-logo/?id=96942",
                 "Player-ID": 59484175,
@@ -48529,7 +48529,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 8.3,
+                "Ranking": 8.4,
                 "Player-Name": "ريبيرو",
                 "Player-Logo": "/assets/images/player-logo/?id=2997",
                 "Player-ID": 278320,
@@ -50067,7 +50067,7 @@
       },
       "Time-Start": "2025-08-24T19:15",
       "Time-End": "2025-08-24T21:15",
-      "Time-Now": 93,
+      "Time-Now": 94,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86%D9%88%D8%B3-%D8%AC%D9%88%D9%86%D9%8A%D9%88%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%B1%D8%A7%D8%B3%D9%8A%D9%86%D8%BA-%D9%83%D9%84%D9%88%D8%A8&id=4326167&date=2025-08-24",
       "matchDetails": {
@@ -50090,7 +50090,7 @@
           "Date": "2025-08-24",
           "Time": "19:15",
           "Time-Zone": -120,
-          "Status": "الشوط الثاني",
+          "Status": "انتهت للتو",
           "Round": 6,
           "Group": null
         },
@@ -50332,7 +50332,7 @@
             "Order": 12
           },
           {
-            "Event-Time": "75'",
+            "Event-Time": "76'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -50353,7 +50353,7 @@
             "Order": 13
           },
           {
-            "Event-Time": "75'",
+            "Event-Time": "76'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -50486,7 +50486,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "Gómez",
                 "Player-Logo": "/assets/images/player-logo/?id=151468",
                 "Player-ID": 71022736,
@@ -50772,7 +50772,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "Fernandez",
                 "Player-Logo": "/assets/images/player-logo/?id=90420",
                 "Player-ID": 57070731,
@@ -50912,7 +50912,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "غارسيا",
                 "Player-Logo": "/assets/images/player-logo/?id=61084",
                 "Player-ID": 79058,
@@ -51729,7 +51729,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "كارفاخال",
                 "Player-Logo": "/assets/images/player-logo/?id=117",
                 "Player-ID": 312745,
@@ -51749,7 +51749,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 8.1,
+                "Ranking": 8,
                 "Player-Name": "فالفيردي",
                 "Player-Logo": "/assets/images/player-logo/?id=41053",
                 "Player-ID": 480721,
@@ -51818,7 +51818,7 @@
       },
       "Time-Start": "2025-08-24T19:30",
       "Time-End": "2025-08-24T21:30",
-      "Time-Now": 73,
+      "Time-Now": 74,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%86%D8%AC-%D8%A8%D8%B1%D8%A7%D8%BA%D8%A7-%D8%B6%D8%AF-%D9%81%D9%8A%D9%84%D8%A7-%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%86%D8%B3%D9%8A&id=4475183&date=2025-08-24",
       "matchDetails": {
@@ -56749,7 +56749,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-24T21:05:52.906Z",
+    "lastUpdated": "2025-08-24T21:06:52.920Z",
     "count": 85
   }
 }
