@@ -57226,7 +57226,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 54,
+      "Time-Now": 55,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%85%D8%A7%D8%B3-%D9%8A%D9%88%D9%86%D8%A7%D9%85-%D8%B6%D8%AF-%D8%A8%D9%88%D9%8A%D8%A8%D9%84%D8%A7&id=4444628&date=2025-08-24",
       "matchDetails": {
@@ -57321,6 +57321,27 @@
             },
             "Place": "right",
             "Order": 4
+          },
+          {
+            "Event-Time": "55'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Castillo",
+              "IMG": "/assets/images/player-logo/?id=87485",
+              "ID": 54831496,
+              "Extra": [
+                {
+                  "Name": "Ramirez",
+                  "IMG": "/assets/images/player-logo/?id=129648",
+                  "ID": 67886640
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 5
           }
         ],
         "Match-Lineup": {
@@ -57471,7 +57492,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 6.3,
                 "Player-Name": "سانشيز",
                 "Player-Logo": "/assets/images/player-logo/?id=13071",
                 "Player-ID": 460794,
@@ -57577,10 +57598,10 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Baltazar",
-                "Player-Logo": "/assets/images/player-logo/?id=61999",
-                "Player-ID": 5296259,
+                "Ranking": -1,
+                "Player-Name": "Castillo",
+                "Player-Logo": "/assets/images/player-logo/?id=87485",
+                "Player-ID": 54831496,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -57588,9 +57609,9 @@
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Castillo",
-                "Player-Logo": "/assets/images/player-logo/?id=87485",
-                "Player-ID": 54831496,
+                "Player-Name": "Baltazar",
+                "Player-Logo": "/assets/images/player-logo/?id=61999",
+                "Player-ID": 5296259,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -57787,7 +57808,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.4,
                 "Player-Name": "Lozano",
                 "Player-Logo": "/assets/images/player-logo/?id=79325",
                 "Player-ID": 50425038,
@@ -57826,7 +57847,7 @@
       },
       "Time-Start": "2025-08-24T23:30",
       "Time-End": "2025-08-25T01:30",
-      "Time-Now": 44,
+      "Time-Now": 45,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A7%D9%88-%D8%A8%D8%A7%D9%88%D9%84%D9%88-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D9%88&id=4380423&date=2025-08-24",
       "matchDetails": {
@@ -58188,7 +58209,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.3,
                 "Player-Name": "مايا",
                 "Player-Logo": "/assets/images/player-logo/?id=108303",
                 "Player-ID": 64306562,
@@ -58569,7 +58590,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T00:15:51.988Z",
+    "lastUpdated": "2025-08-25T00:16:52.332Z",
     "count": 85
   }
 }
