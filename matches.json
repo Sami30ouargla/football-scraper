@@ -15681,14 +15681,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيرج",
-              "IMG": "/assets/images/player-logo/?id=79646",
-              "ID": 50568868,
+              "Name": "هيلير",
+              "IMG": "/assets/images/player-logo/?id=13125",
+              "ID": 489291,
               "Extra": [
                 {
-                  "Name": "زيشيال",
-                  "IMG": "/assets/images/player-logo/?id=135983",
-                  "ID": 70767759
+                  "Name": "مين",
+                  "IMG": "/assets/images/player-logo/?id=81085",
+                  "ID": 50483034
                 }
               ]
             },
@@ -15702,19 +15702,40 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "هيلير",
-              "IMG": "/assets/images/player-logo/?id=13125",
-              "ID": 489291,
+              "Name": "بيرج",
+              "IMG": "/assets/images/player-logo/?id=79646",
+              "ID": 50568868,
               "Extra": [
                 {
-                  "Name": "مين",
-                  "IMG": "/assets/images/player-logo/?id=81085",
-                  "ID": 50483034
+                  "Name": "زيشيال",
+                  "IMG": "/assets/images/player-logo/?id=135983",
+                  "ID": 70767759
                 }
               ]
             },
             "Place": "left",
             "Order": 10
+          },
+          {
+            "Event-Time": "71'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "مايسن",
+              "IMG": "/assets/images/player-logo/?id=127261",
+              "ID": 66481073,
+              "Extra": [
+                {
+                  "Name": "ناوجوكس",
+                  "IMG": "/assets/images/player-logo/?id=105375",
+                  "ID": 64458701
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 11
           },
           {
             "Event-Time": "71'",
@@ -15731,27 +15752,6 @@
                   "Name": "ييغويان",
                   "IMG": "/assets/images/player-logo/?id=127830",
                   "ID": 67432404
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 11
-          },
-          {
-            "Event-Time": "72'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "مايسن",
-              "IMG": "/assets/images/player-logo/?id=127261",
-              "ID": 66481073,
-              "Extra": [
-                {
-                  "Name": "ناوجوكس",
-                  "IMG": "/assets/images/player-logo/?id=105375",
-                  "ID": 64458701
                 }
               ]
             },
@@ -59127,7 +59127,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T03:32:48.069Z",
+    "lastUpdated": "2025-08-25T03:33:47.855Z",
     "count": 85
   }
 }
