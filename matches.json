@@ -54680,27 +54680,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ماركل",
-              "IMG": "/assets/images/player-logo/?id=10702",
-              "ID": 221624,
-              "Extra": [
-                {
-                  "Name": "تيليس",
-                  "IMG": "/assets/images/player-logo/?id=7792",
-                  "ID": 350036
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 7
-          },
-          {
-            "Event-Time": "56'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "دانيلو",
               "IMG": "/assets/images/player-logo/?id=80551",
               "ID": 50905347,
@@ -54713,7 +54692,7 @@
               ]
             },
             "Place": "right",
-            "Order": 8
+            "Order": 7
           },
           {
             "Event-Time": "56'",
@@ -54730,6 +54709,27 @@
                   "Name": "جيفينو",
                   "IMG": "/assets/images/player-logo/?id=113351",
                   "ID": 65930130
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 8
+          },
+          {
+            "Event-Time": "56'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ماركل",
+              "IMG": "/assets/images/player-logo/?id=10702",
+              "ID": 221624,
+              "Extra": [
+                {
+                  "Name": "تيليس",
+                  "IMG": "/assets/images/player-logo/?id=7792",
+                  "ID": 350036
                 }
               ]
             },
@@ -59127,7 +59127,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T01:45:51.327Z",
+    "lastUpdated": "2025-08-25T01:46:51.923Z",
     "count": 85
   }
 }
