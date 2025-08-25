@@ -34020,7 +34020,7 @@
             "Order": 2
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -34041,7 +34041,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -35934,28 +35934,7 @@
             "Order": 4
           },
           {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "بوفال",
-              "IMG": "/assets/images/player-logo/?id=13094",
-              "ID": 499698,
-              "Extra": [
-                {
-                  "Name": "الحاج",
-                  "IMG": "/assets/images/player-logo/?id=68928",
-                  "ID": 28068114
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 5
-          },
-          {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -35969,6 +35948,27 @@
                   "Name": "كاسترو-مونتيس",
                   "IMG": "/assets/images/player-logo/?id=45846",
                   "ID": 3071867
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 5
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بوفال",
+              "IMG": "/assets/images/player-logo/?id=13094",
+              "ID": 499698,
+              "Extra": [
+                {
+                  "Name": "الحاج",
+                  "IMG": "/assets/images/player-logo/?id=68928",
+                  "ID": 28068114
                 }
               ]
             },
@@ -59117,7 +59117,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T04:34:43.578Z",
+    "lastUpdated": "2025-08-25T04:35:44.286Z",
     "count": 85
   }
 }
