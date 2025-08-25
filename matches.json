@@ -3813,7 +3813,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -3840,14 +3840,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Badaloni",
-              "IMG": "/assets/images/player-logo/?id=56342",
-              "ID": 6842355,
+              "Name": "P. Pérez",
+              "IMG": "/assets/images/player-logo/?id=81119",
+              "ID": 50876330,
               "Extra": [
                 {
-                  "Name": "Monreal",
-                  "IMG": "/assets/images/player-logo/?id=58115",
-                  "ID": 3565093
+                  "Name": "Andrade",
+                  "IMG": "/assets/images/player-logo/?id=82811",
+                  "ID": 50580166
                 }
               ]
             },
@@ -3861,14 +3861,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "P. Pérez",
-              "IMG": "/assets/images/player-logo/?id=81119",
-              "ID": 50876330,
+              "Name": "Badaloni",
+              "IMG": "/assets/images/player-logo/?id=56342",
+              "ID": 6842355,
               "Extra": [
                 {
-                  "Name": "Andrade",
-                  "IMG": "/assets/images/player-logo/?id=82811",
-                  "ID": 50580166
+                  "Name": "Monreal",
+                  "IMG": "/assets/images/player-logo/?id=58115",
+                  "ID": 3565093
                 }
               ]
             },
@@ -4439,22 +4439,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيسر",
-                "Status": "Doubtful",
-                "Ranking": "N/A",
-                "Player-Name": "Calderón",
-                "Player-Logo": "/assets/images/player-logo/?id=45336",
-                "Player-ID": 505391,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "Lara",
                 "Player-Logo": "/assets/images/player-logo/?id=74326",
                 "Player-ID": 46875464,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Doubtful",
+                "Ranking": "N/A",
+                "Player-Name": "Calderón",
+                "Player-Logo": "/assets/images/player-logo/?id=45336",
+                "Player-ID": 505391,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4735,7 +4735,7 @@
             "Order": 6
           },
           {
-            "Event-Time": "36'",
+            "Event-Time": "38'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4801,7 +4801,7 @@
             "Order": 10
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4822,7 +4822,7 @@
             "Order": 11
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4921,28 +4921,7 @@
             "Order": 16
           },
           {
-            "Event-Time": "67'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "أنتونا",
-              "IMG": "/assets/images/player-logo/?id=44838",
-              "ID": 3142517,
-              "Extra": [
-                {
-                  "Name": "أكينو",
-                  "IMG": "/assets/images/player-logo/?id=1031",
-                  "ID": 226281
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 17
-          },
-          {
-            "Event-Time": "67'",
+            "Event-Time": "71'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4956,6 +4935,27 @@
                   "Name": "Parra",
                   "IMG": "/assets/images/player-logo/?id=131654",
                   "ID": 67975581
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أنتونا",
+              "IMG": "/assets/images/player-logo/?id=44838",
+              "ID": 3142517,
+              "Extra": [
+                {
+                  "Name": "أكينو",
+                  "IMG": "/assets/images/player-logo/?id=1031",
+                  "ID": 226281
                 }
               ]
             },
@@ -59117,7 +59117,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T07:06:49.125Z",
+    "lastUpdated": "2025-08-25T07:07:51.440Z",
     "count": 85
   }
 }
