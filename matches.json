@@ -54617,7 +54617,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -54638,7 +54638,7 @@
             "Order": 4
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -54680,6 +54680,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "ماركل",
+              "IMG": "/assets/images/player-logo/?id=10702",
+              "ID": 221624,
+              "Extra": [
+                {
+                  "Name": "تيليس",
+                  "IMG": "/assets/images/player-logo/?id=7792",
+                  "ID": 350036
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 7
+          },
+          {
+            "Event-Time": "56'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "دانيلو",
               "IMG": "/assets/images/player-logo/?id=80551",
               "ID": 50905347,
@@ -54692,7 +54713,7 @@
               ]
             },
             "Place": "right",
-            "Order": 7
+            "Order": 8
           },
           {
             "Event-Time": "56'",
@@ -54709,27 +54730,6 @@
                   "Name": "جيفينو",
                   "IMG": "/assets/images/player-logo/?id=113351",
                   "ID": 65930130
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 8
-          },
-          {
-            "Event-Time": "56'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "ماركل",
-              "IMG": "/assets/images/player-logo/?id=10702",
-              "ID": 221624,
-              "Extra": [
-                {
-                  "Name": "تيليس",
-                  "IMG": "/assets/images/player-logo/?id=7792",
-                  "ID": 350036
                 }
               ]
             },
@@ -55630,9 +55630,9 @@
               "ID": 1380510,
               "Extra": [
                 {
-                  "Name": "بابلو",
-                  "IMG": "/assets/images/player-logo/?id=57732",
-                  "ID": 245130
+                  "Name": "سيلفا",
+                  "IMG": "/assets/images/player-logo/?id=9701",
+                  "ID": 550370
                 }
               ]
             },
@@ -55682,14 +55682,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "إدواردو",
-              "IMG": "/assets/images/player-logo/?id=14577",
-              "ID": 101675,
+              "Name": "Chico",
+              "IMG": "/assets/images/player-logo/?id=40043",
+              "ID": 1838723,
               "Extra": [
                 {
-                  "Name": "F. Costa",
-                  "IMG": "/assets/images/player-logo/?id=58759",
-                  "ID": 285686
+                  "Name": "Aldo",
+                  "IMG": "/assets/images/player-logo/?id=69762",
+                  "ID": 28767586
                 }
               ]
             },
@@ -55703,14 +55703,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Chico",
-              "IMG": "/assets/images/player-logo/?id=40043",
-              "ID": 1838723,
+              "Name": "إدواردو",
+              "IMG": "/assets/images/player-logo/?id=14577",
+              "ID": 101675,
               "Extra": [
                 {
-                  "Name": "Aldo",
-                  "IMG": "/assets/images/player-logo/?id=69762",
-                  "ID": 28767586
+                  "Name": "F. Costa",
+                  "IMG": "/assets/images/player-logo/?id=58759",
+                  "ID": 285686
                 }
               ]
             },
@@ -58171,7 +58171,7 @@
       },
       "Time-Start": "2025-08-24T23:30",
       "Time-End": "2025-08-25T01:30",
-      "Time-Now": 94,
+      "Time-Now": 95,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A7%D9%88-%D8%A8%D8%A7%D9%88%D9%84%D9%88-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D9%88&id=4380423&date=2025-08-24",
       "matchDetails": {
@@ -58797,7 +58797,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.8,
                 "Player-Name": "سكاربا",
                 "Player-Logo": "/assets/images/player-logo/?id=26587",
                 "Player-ID": 827596,
@@ -59112,7 +59112,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T01:25:51.650Z",
+    "lastUpdated": "2025-08-25T01:26:52.246Z",
     "count": 85
   }
 }
