@@ -2210,7 +2210,7 @@
             "Order": 11
           },
           {
-            "Event-Time": "66'",
+            "Event-Time": "65'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -2488,16 +2488,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "حارس مرمى",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "تاربيل",
-                "Player-Logo": "/assets/images/player-logo/?id=43891",
-                "Player-ID": 3095608,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -2514,6 +2504,16 @@
                 "Player-Name": "سيجال",
                 "Player-Logo": "/assets/images/player-logo/?id=127330",
                 "Player-ID": 67686288,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "تاربيل",
+                "Player-Logo": "/assets/images/player-logo/?id=43891",
+                "Player-ID": 3095608,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -59107,7 +59107,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T18:41:37.470Z",
+    "lastUpdated": "2025-08-25T18:43:20.320Z",
     "count": 85
   }
 }
