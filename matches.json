@@ -3813,7 +3813,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -3840,14 +3840,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Badaloni",
-              "IMG": "/assets/images/player-logo/?id=56342",
-              "ID": 6842355,
+              "Name": "P. Pérez",
+              "IMG": "/assets/images/player-logo/?id=81119",
+              "ID": 50876330,
               "Extra": [
                 {
-                  "Name": "Monreal",
-                  "IMG": "/assets/images/player-logo/?id=58115",
-                  "ID": 3565093
+                  "Name": "Andrade",
+                  "IMG": "/assets/images/player-logo/?id=82811",
+                  "ID": 50580166
                 }
               ]
             },
@@ -3861,14 +3861,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "P. Pérez",
-              "IMG": "/assets/images/player-logo/?id=81119",
-              "ID": 50876330,
+              "Name": "Badaloni",
+              "IMG": "/assets/images/player-logo/?id=56342",
+              "ID": 6842355,
               "Extra": [
                 {
-                  "Name": "Andrade",
-                  "IMG": "/assets/images/player-logo/?id=82811",
-                  "ID": 50580166
+                  "Name": "Monreal",
+                  "IMG": "/assets/images/player-logo/?id=58115",
+                  "ID": 3565093
                 }
               ]
             },
@@ -4439,22 +4439,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "مدافع أيسر",
-                "Status": "Doubtful",
-                "Ranking": "N/A",
-                "Player-Name": "Calderón",
-                "Player-Logo": "/assets/images/player-logo/?id=45336",
-                "Player-ID": 505391,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "Lara",
                 "Player-Logo": "/assets/images/player-logo/?id=74326",
                 "Player-ID": 46875464,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Doubtful",
+                "Ranking": "N/A",
+                "Player-Name": "Calderón",
+                "Player-Logo": "/assets/images/player-logo/?id=45336",
+                "Player-ID": 505391,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -4735,7 +4735,7 @@
             "Order": 6
           },
           {
-            "Event-Time": "38'",
+            "Event-Time": "36'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4801,7 +4801,7 @@
             "Order": 10
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4822,7 +4822,7 @@
             "Order": 11
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4921,28 +4921,7 @@
             "Order": 16
           },
           {
-            "Event-Time": "71'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "Córdova",
-              "IMG": "/assets/images/player-logo/?id=55141",
-              "ID": 6320557,
-              "Extra": [
-                {
-                  "Name": "Parra",
-                  "IMG": "/assets/images/player-logo/?id=131654",
-                  "ID": 67975581
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 17
-          },
-          {
-            "Event-Time": "68'",
+            "Event-Time": "67'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4956,6 +4935,27 @@
                   "Name": "أكينو",
                   "IMG": "/assets/images/player-logo/?id=1031",
                   "ID": 226281
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
+            "Event-Time": "67'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Córdova",
+              "IMG": "/assets/images/player-logo/?id=55141",
+              "ID": 6320557,
+              "Extra": [
+                {
+                  "Name": "Parra",
+                  "IMG": "/assets/images/player-logo/?id=131654",
+                  "ID": 67975581
                 }
               ]
             },
@@ -57351,7 +57351,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 93,
+      "Time-Now": 94,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B4%D8%A7%D8%B1%D9%84%D9%88%D8%AA-%D8%B6%D8%AF-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B1%D9%8A%D8%AF-%D8%A8%D9%88%D9%84%D8%B2&id=4318776&date=2025-08-24",
       "matchDetails": {
@@ -57374,7 +57374,7 @@
           "Date": "2025-08-24",
           "Time": "23:00",
           "Time-Zone": -120,
-          "Status": "الشوط الثاني",
+          "Status": "انتهت للتو",
           "Round": null,
           "Group": null
         },
@@ -57816,7 +57816,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.2,
+                "Ranking": 7.3,
                 "Player-Name": "ريم",
                 "Player-Logo": "/assets/images/player-logo/?id=4221",
                 "Player-ID": 248788,
@@ -58171,7 +58171,7 @@
       },
       "Time-Start": "2025-08-24T23:30",
       "Time-End": "2025-08-25T01:30",
-      "Time-Now": 75,
+      "Time-Now": 76,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A7%D9%88-%D8%A8%D8%A7%D9%88%D9%84%D9%88-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D9%88&id=4380423&date=2025-08-24",
       "matchDetails": {
@@ -58377,6 +58377,27 @@
             },
             "Place": "right",
             "Order": 9
+          },
+          {
+            "Event-Time": "76'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Natanael",
+              "IMG": "/assets/images/player-logo/?id=73667",
+              "ID": 46933489,
+              "Extra": [
+                {
+                  "Name": "غوميز",
+                  "IMG": "/assets/images/player-logo/?id=62111",
+                  "ID": 3374658
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 10
           }
         ],
         "Match-Lineup": {
@@ -58657,7 +58678,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.2,
                 "Player-Name": "بوباديلا",
                 "Player-Logo": "/assets/images/player-logo/?id=87925",
                 "Player-ID": 55416459,
@@ -58703,7 +58724,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.1,
+                "Ranking": 6.2,
                 "Player-Name": "إيفرسون",
                 "Player-Logo": "/assets/images/player-logo/?id=40369",
                 "Player-ID": 1858512,
@@ -58727,6 +58748,16 @@
                 "Player-Name": "ألكسندر",
                 "Player-Logo": "/assets/images/player-logo/?id=122493",
                 "Player-ID": 56015041,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Natanael",
+                "Player-Logo": "/assets/images/player-logo/?id=73667",
+                "Player-ID": 46933489,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -58787,16 +58818,6 @@
                 "Player-Name": "Iseppe",
                 "Player-Logo": "/assets/images/player-logo/?id=219887",
                 "Player-ID": 77409714,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Natanael",
-                "Player-Logo": "/assets/images/player-logo/?id=73667",
-                "Player-ID": 46933489,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -59028,7 +59049,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T01:06:51.748Z",
+    "lastUpdated": "2025-08-25T01:07:52.787Z",
     "count": 85
   }
 }
