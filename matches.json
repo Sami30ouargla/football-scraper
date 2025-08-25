@@ -20171,7 +20171,7 @@
             "Order": 5
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -20261,14 +20261,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جمعة",
-              "IMG": "/assets/images/player-logo/?id=54251",
-              "ID": 3345775,
+              "Name": "بيسا",
+              "IMG": "/assets/images/player-logo/?id=44063",
+              "ID": 329321,
               "Extra": [
                 {
-                  "Name": "هيكل",
-                  "IMG": "/assets/images/player-logo/?id=54539",
-                  "ID": 6205455
+                  "Name": "كيتا",
+                  "IMG": "/assets/images/player-logo/?id=137394",
+                  "ID": 70876597
                 }
               ]
             },
@@ -20282,40 +20282,19 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيسا",
-              "IMG": "/assets/images/player-logo/?id=44063",
-              "ID": 329321,
+              "Name": "جمعة",
+              "IMG": "/assets/images/player-logo/?id=54251",
+              "ID": 3345775,
               "Extra": [
                 {
-                  "Name": "كيتا",
-                  "IMG": "/assets/images/player-logo/?id=137394",
-                  "ID": 70876597
+                  "Name": "هيكل",
+                  "IMG": "/assets/images/player-logo/?id=54539",
+                  "ID": 6205455
                 }
               ]
             },
             "Place": "left",
             "Order": 11
-          },
-          {
-            "Event-Time": "78'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "كامارا",
-              "IMG": "/assets/images/player-logo/?id=129219",
-              "ID": 67863565,
-              "Extra": [
-                {
-                  "Name": "النقاش",
-                  "IMG": "/assets/images/player-logo/?id=133945",
-                  "ID": 69466405
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 12
           },
           {
             "Event-Time": "78'",
@@ -20332,6 +20311,27 @@
                   "Name": "النقبي",
                   "IMG": "/assets/images/player-logo/?id=54941",
                   "ID": 6235738
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "78'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كامارا",
+              "IMG": "/assets/images/player-logo/?id=129219",
+              "ID": 67863565,
+              "Extra": [
+                {
+                  "Name": "النقاش",
+                  "IMG": "/assets/images/player-logo/?id=133945",
+                  "ID": 69466405
                 }
               ]
             },
@@ -59117,7 +59117,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T08:02:57.611Z",
+    "lastUpdated": "2025-08-25T08:03:56.326Z",
     "count": 85
   }
 }
