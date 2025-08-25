@@ -56604,7 +56604,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 81,
+      "Time-Now": 82,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B4%D8%A7%D8%B1%D9%84%D9%88%D8%AA-%D8%B6%D8%AF-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D8%B1%D9%8A%D8%AF-%D8%A8%D9%88%D9%84%D8%B2&id=4318776&date=2025-08-24",
       "matchDetails": {
@@ -57388,7 +57388,7 @@
       },
       "Time-Start": "2025-08-24T23:00",
       "Time-End": "2025-08-25T01:00",
-      "Time-Now": 93,
+      "Time-Now": 94,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%85%D8%A7%D8%B3-%D9%8A%D9%88%D9%86%D8%A7%D9%85-%D8%B6%D8%AF-%D8%A8%D9%88%D9%8A%D8%A8%D9%84%D8%A7&id=4444628&date=2025-08-24",
       "matchDetails": {
@@ -58135,7 +58135,7 @@
       },
       "Time-Start": "2025-08-24T23:30",
       "Time-End": "2025-08-25T01:30",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A7%D9%88-%D8%A8%D8%A7%D9%88%D9%84%D9%88-%D8%B6%D8%AF-%D8%A3%D8%AA%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D9%85%D9%8A%D9%86%D9%8A%D8%B1%D9%88&id=4380423&date=2025-08-24",
       "matchDetails": {
@@ -58278,6 +58278,27 @@
             },
             "Place": "right",
             "Order": 6
+          },
+          {
+            "Event-Time": "64'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "لوسيانو",
+              "IMG": "/assets/images/player-logo/?id=3024",
+              "ID": 302560,
+              "Extra": [
+                {
+                  "Name": "Ferreira",
+                  "IMG": "/assets/images/player-logo/?id=70762",
+                  "ID": 39229341
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 7
           }
         ],
         "Match-Lineup": {
@@ -58288,7 +58309,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "رافائيل",
                 "Player-Logo": "/assets/images/player-logo/?id=6873",
                 "Player-ID": 543187,
@@ -58302,6 +58323,16 @@
                 "Player-Name": "Rodriguinho",
                 "Player-Logo": "/assets/images/player-logo/?id=113985",
                 "Player-ID": 66126545,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم المتأخر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "لوسيانو",
+                "Player-Logo": "/assets/images/player-logo/?id=3024",
+                "Player-ID": 302560,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -58392,16 +58423,6 @@
                 "Player-Name": "تابيا",
                 "Player-Logo": "/assets/images/player-logo/?id=80833",
                 "Player-ID": 50973907,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم المتأخر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "لوسيانو",
-                "Player-Logo": "/assets/images/player-logo/?id=3024",
-                "Player-ID": 302560,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -58834,7 +58855,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "هوجو",
                 "Player-Logo": "/assets/images/player-logo/?id=13319",
                 "Player-ID": 348822,
@@ -58904,7 +58925,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.5,
                 "Player-Name": "سانتوس",
                 "Player-Logo": "/assets/images/player-logo/?id=57585",
                 "Player-ID": 473602,
@@ -58929,7 +58950,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T00:54:52.476Z",
+    "lastUpdated": "2025-08-25T00:55:52.116Z",
     "count": 85
   }
 }
