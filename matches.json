@@ -52807,6 +52807,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "ثياري",
+              "IMG": "/assets/images/player-logo/?id=1388",
+              "ID": 360336,
+              "Extra": [
+                {
+                  "Name": "لوبزهانيدزي",
+                  "IMG": "/assets/images/player-logo/?id=50703",
+                  "ID": 3385575
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "61'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "لينون",
               "IMG": "/assets/images/player-logo/?id=47892",
               "ID": 3243549,
@@ -52819,7 +52840,7 @@
               ]
             },
             "Place": "left",
-            "Order": 1
+            "Order": 2
           },
           {
             "Event-Time": "61'",
@@ -52836,27 +52857,6 @@
                   "Name": "ميومبا",
                   "IMG": "/assets/images/player-logo/?id=48480",
                   "ID": 3335983
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 2
-          },
-          {
-            "Event-Time": "61'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "ثياري",
-              "IMG": "/assets/images/player-logo/?id=1388",
-              "ID": 360336,
-              "Extra": [
-                {
-                  "Name": "لوبزهانيدزي",
-                  "IMG": "/assets/images/player-logo/?id=50703",
-                  "ID": 3385575
                 }
               ]
             },
@@ -52885,7 +52885,7 @@
             "Order": 4
           },
           {
-            "Event-Time": "63'",
+            "Event-Time": "64'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -52993,14 +52993,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "توغاشي",
-              "IMG": "/assets/images/player-logo/?id=131704",
-              "ID": 67747937,
+              "Name": "بيروكال",
+              "IMG": "/assets/images/player-logo/?id=51001",
+              "ID": 3827305,
               "Extra": [
                 {
-                  "Name": "ألميرون",
-                  "IMG": "/assets/images/player-logo/?id=39546",
-                  "ID": 1105235
+                  "Name": "هرنانديز",
+                  "IMG": "/assets/images/player-logo/?id=73837",
+                  "ID": 47391017
                 }
               ]
             },
@@ -53014,14 +53014,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيروكال",
-              "IMG": "/assets/images/player-logo/?id=51001",
-              "ID": 3827305,
+              "Name": "توغاشي",
+              "IMG": "/assets/images/player-logo/?id=131704",
+              "ID": 67747937,
               "Extra": [
                 {
-                  "Name": "هرنانديز",
-                  "IMG": "/assets/images/player-logo/?id=73837",
-                  "ID": 47391017
+                  "Name": "ألميرون",
+                  "IMG": "/assets/images/player-logo/?id=39546",
+                  "ID": 1105235
                 }
               ]
             },
@@ -59127,7 +59127,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T01:38:51.777Z",
+    "lastUpdated": "2025-08-25T01:39:52.256Z",
     "count": 85
   }
 }
