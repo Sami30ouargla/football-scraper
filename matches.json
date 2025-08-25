@@ -34984,14 +34984,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ماروسيتش",
-              "IMG": "/assets/images/player-logo/?id=1343",
-              "ID": 407961,
+              "Name": "بيدرو",
+              "IMG": "/assets/images/player-logo/?id=134",
+              "ID": 27487,
               "Extra": [
                 {
-                  "Name": "لاتزاري",
-                  "IMG": "/assets/images/player-logo/?id=49525",
-                  "ID": 3076408
+                  "Name": "كانسيليري",
+                  "IMG": "/assets/images/player-logo/?id=82772",
+                  "ID": 52597498
                 }
               ]
             },
@@ -35005,14 +35005,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيدرو",
-              "IMG": "/assets/images/player-logo/?id=134",
-              "ID": 27487,
+              "Name": "ماروسيتش",
+              "IMG": "/assets/images/player-logo/?id=1343",
+              "ID": 407961,
               "Extra": [
                 {
-                  "Name": "كانسيليري",
-                  "IMG": "/assets/images/player-logo/?id=82772",
-                  "ID": 52597498
+                  "Name": "لاتزاري",
+                  "IMG": "/assets/images/player-logo/?id=49525",
+                  "ID": 3076408
                 }
               ]
             },
@@ -35041,14 +35041,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "روفيا",
-              "IMG": "/assets/images/player-logo/?id=74302",
-              "ID": 43845039,
+              "Name": "بيلجريني",
+              "IMG": "/assets/images/player-logo/?id=47233",
+              "ID": 3221374,
               "Extra": [
                 {
-                  "Name": "كاتالدي\t",
-                  "IMG": "/assets/images/player-logo/?id=6228",
-                  "ID": 362170
+                  "Name": "تافاريس",
+                  "IMG": "/assets/images/player-logo/?id=68779",
+                  "ID": 29999056
                 }
               ]
             },
@@ -35062,14 +35062,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيلجريني",
-              "IMG": "/assets/images/player-logo/?id=47233",
-              "ID": 3221374,
+              "Name": "روفيا",
+              "IMG": "/assets/images/player-logo/?id=74302",
+              "ID": 43845039,
               "Extra": [
                 {
-                  "Name": "تافاريس",
-                  "IMG": "/assets/images/player-logo/?id=68779",
-                  "ID": 29999056
+                  "Name": "كاتالدي\t",
+                  "IMG": "/assets/images/player-logo/?id=6228",
+                  "ID": 362170
                 }
               ]
             },
@@ -35185,7 +35185,7 @@
             "Order": 15
           },
           {
-            "Event-Time": "79'",
+            "Event-Time": "78'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -35651,11 +35651,11 @@
               },
               {
                 "Position": "قلب الدفاع",
-                "Status": "Doubtful",
+                "Status": "Missing",
                 "Ranking": "N/A",
-                "Player-Name": "جيغو",
-                "Player-Logo": "/assets/images/player-logo/?id=27506",
-                "Player-ID": 405165,
+                "Player-Name": "رومانيولي",
+                "Player-Logo": "/assets/images/player-logo/?id=6135",
+                "Player-ID": 329832,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -35670,12 +35670,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
+                "Position": "قلب الدفاع",
                 "Status": "Doubtful",
                 "Ranking": "N/A",
-                "Player-Name": "فيتشينو",
-                "Player-Logo": "/assets/images/player-logo/?id=6189",
-                "Player-ID": 542053,
+                "Player-Name": "جيغو",
+                "Player-Logo": "/assets/images/player-logo/?id=27506",
+                "Player-ID": 405165,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -35690,12 +35690,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "قلب الدفاع",
-                "Status": "Missing",
+                "Position": "لاعب الوسط المحور",
+                "Status": "Doubtful",
                 "Ranking": "N/A",
-                "Player-Name": "رومانيولي",
-                "Player-Logo": "/assets/images/player-logo/?id=6135",
-                "Player-ID": 329832,
+                "Player-Name": "فيتشينو",
+                "Player-Logo": "/assets/images/player-logo/?id=6189",
+                "Player-ID": 542053,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -59117,7 +59117,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T04:29:53.848Z",
+    "lastUpdated": "2025-08-25T04:30:52.975Z",
     "count": 85
   }
 }
