@@ -3113,7 +3113,7 @@
             "Order": 11
           },
           {
-            "Event-Time": "79'",
+            "Event-Time": "80'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -3140,27 +3140,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بورتيوس",
-              "IMG": "/assets/images/player-logo/?id=50381",
-              "ID": 3130350,
-              "Extra": [
-                {
-                  "Name": "ديلغادو",
-                  "IMG": "/assets/images/player-logo/?id=16286",
-                  "ID": 676941
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 13
-          },
-          {
-            "Event-Time": "79'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "سمولياكوف",
               "IMG": "/assets/images/player-logo/?id=105209",
               "ID": 64371530,
@@ -3169,6 +3148,27 @@
                   "Name": "هولينغشييد",
                   "IMG": "/assets/images/player-logo/?id=15854",
                   "ID": 505428
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
+          },
+          {
+            "Event-Time": "80'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بورتيوس",
+              "IMG": "/assets/images/player-logo/?id=50381",
+              "ID": 3130350,
+              "Extra": [
+                {
+                  "Name": "ديلغادو",
+                  "IMG": "/assets/images/player-logo/?id=16286",
+                  "ID": 676941
                 }
               ]
             },
@@ -59117,7 +59117,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-25T06:42:49.503Z",
+    "lastUpdated": "2025-08-25T06:43:49.201Z",
     "count": 85
   }
 }
