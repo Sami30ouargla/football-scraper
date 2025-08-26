@@ -90,27 +90,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Wagner",
-              "IMG": "/assets/images/player-logo/?id=67142",
-              "ID": 14224996,
-              "Extra": [
-                {
-                  "Name": "بالبوينا",
-                  "IMG": "/assets/images/player-logo/?id=15139",
-                  "ID": 481004
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 3
-          },
-          {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "Riquelme",
               "IMG": "/assets/images/player-logo/?id=152545",
               "ID": 71501727,
@@ -119,6 +98,27 @@
                   "Name": "سانتوس",
                   "IMG": "/assets/images/player-logo/?id=6327",
                   "ID": 401709
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 3
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Wagner",
+              "IMG": "/assets/images/player-logo/?id=67142",
+              "ID": 14224996,
+              "Extra": [
+                {
+                  "Name": "بالبوينا",
+                  "IMG": "/assets/images/player-logo/?id=15139",
+                  "ID": 481004
                 }
               ]
             },
@@ -59107,7 +59107,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-26T03:07:01.221Z",
+    "lastUpdated": "2025-08-26T03:07:56.142Z",
     "count": 85
   }
 }
