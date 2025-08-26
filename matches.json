@@ -40982,27 +40982,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "تيراتس",
-              "IMG": "/assets/images/player-logo/?id=83475",
-              "ID": 52892490,
-              "Extra": [
-                {
-                  "Name": "ميلا",
-                  "IMG": "/assets/images/player-logo/?id=13300",
-                  "ID": 346981
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 8
-          },
-          {
-            "Event-Time": "70'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "كيكي",
               "IMG": "/assets/images/player-logo/?id=3742",
               "ID": 329325,
@@ -41015,10 +40994,10 @@
               ]
             },
             "Place": "right",
-            "Order": 9
+            "Order": 8
           },
           {
-            "Event-Time": "71'",
+            "Event-Time": "70'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -41036,10 +41015,31 @@
               ]
             },
             "Place": "right",
+            "Order": 9
+          },
+          {
+            "Event-Time": "70'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "تيراتس",
+              "IMG": "/assets/images/player-logo/?id=83475",
+              "ID": 52892490,
+              "Extra": [
+                {
+                  "Name": "ميلا",
+                  "IMG": "/assets/images/player-logo/?id=13300",
+                  "ID": 346981
+                }
+              ]
+            },
+            "Place": "right",
             "Order": 10
           },
           {
-            "Event-Time": "72'",
+            "Event-Time": "71'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -59107,7 +59107,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-26T17:38:35.098Z",
+    "lastUpdated": "2025-08-26T17:39:33.501Z",
     "count": 85
   }
 }
