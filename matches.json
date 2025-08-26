@@ -4735,7 +4735,7 @@
             "Order": 6
           },
           {
-            "Event-Time": "36'",
+            "Event-Time": "38'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4801,7 +4801,7 @@
             "Order": 10
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4822,7 +4822,7 @@
             "Order": 11
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4921,28 +4921,7 @@
             "Order": 16
           },
           {
-            "Event-Time": "67'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "أنتونا",
-              "IMG": "/assets/images/player-logo/?id=44838",
-              "ID": 3142517,
-              "Extra": [
-                {
-                  "Name": "أكينو",
-                  "IMG": "/assets/images/player-logo/?id=1031",
-                  "ID": 226281
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 17
-          },
-          {
-            "Event-Time": "67'",
+            "Event-Time": "71'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -4956,6 +4935,27 @@
                   "Name": "Parra",
                   "IMG": "/assets/images/player-logo/?id=131654",
                   "ID": 67975581
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 17
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أنتونا",
+              "IMG": "/assets/images/player-logo/?id=44838",
+              "ID": 3142517,
+              "Extra": [
+                {
+                  "Name": "أكينو",
+                  "IMG": "/assets/images/player-logo/?id=1031",
+                  "ID": 226281
                 }
               ]
             },
@@ -18313,7 +18313,7 @@
             "Order": 8
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -59107,7 +59107,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-26T07:07:54.420Z",
+    "lastUpdated": "2025-08-26T07:08:54.091Z",
     "count": 85
   }
 }
