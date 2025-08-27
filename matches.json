@@ -29032,7 +29032,7 @@
             "Order": 2
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -29335,7 +29335,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Substitute",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "لويس",
                 "Player-Logo": "/assets/images/player-logo/?id=157490",
                 "Player-ID": 70862966,
@@ -29345,7 +29345,7 @@
               {
                 "Position": "لاعب الوسط الجناح",
                 "Status": "Substitute",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "مورييرا",
                 "Player-Logo": "/assets/images/player-logo/?id=110895",
                 "Player-ID": 63094718,
@@ -29415,7 +29415,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.9,
                 "Player-Name": "إ. دوكوري",
                 "Player-Logo": "/assets/images/player-logo/?id=80023",
                 "Player-ID": 50683661,
@@ -30750,14 +30750,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "النملي",
-              "IMG": "/assets/images/player-logo/?id=13124",
-              "ID": 404025,
+              "Name": "توريه",
+              "IMG": "/assets/images/player-logo/?id=2852",
+              "ID": 368643,
               "Extra": [
                 {
-                  "Name": "دوكوري",
-                  "IMG": "/assets/images/player-logo/?id=83681",
-                  "ID": 50851759
+                  "Name": "ندياي",
+                  "IMG": "/assets/images/player-logo/?id=80136",
+                  "ID": 50454089
                 }
               ]
             },
@@ -30771,14 +30771,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "توريه",
-              "IMG": "/assets/images/player-logo/?id=2852",
-              "ID": 368643,
+              "Name": "النملي",
+              "IMG": "/assets/images/player-logo/?id=13124",
+              "ID": 404025,
               "Extra": [
                 {
-                  "Name": "ندياي",
-                  "IMG": "/assets/images/player-logo/?id=80136",
-                  "ID": 50454089
+                  "Name": "دوكوري",
+                  "IMG": "/assets/images/player-logo/?id=83681",
+                  "ID": 50851759
                 }
               ]
             },
@@ -30813,14 +30813,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "غيلافوغي",
-              "IMG": "/assets/images/player-logo/?id=81448",
-              "ID": 51151146,
+              "Name": "سوطوكا",
+              "IMG": "/assets/images/player-logo/?id=14910",
+              "ID": 490031,
               "Extra": [
                 {
-                  "Name": "فوفانا",
-                  "IMG": "/assets/images/player-logo/?id=199285",
-                  "ID": 77038841
+                  "Name": "توفين",
+                  "IMG": "/assets/images/player-logo/?id=2205",
+                  "ID": 277482
                 }
               ]
             },
@@ -30834,40 +30834,19 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "سوطوكا",
-              "IMG": "/assets/images/player-logo/?id=14910",
-              "ID": 490031,
+              "Name": "غيلافوغي",
+              "IMG": "/assets/images/player-logo/?id=81448",
+              "ID": 51151146,
               "Extra": [
                 {
-                  "Name": "توفين",
-                  "IMG": "/assets/images/player-logo/?id=2205",
-                  "ID": 277482
+                  "Name": "فوفانا",
+                  "IMG": "/assets/images/player-logo/?id=199285",
+                  "ID": 77038841
                 }
               ]
             },
             "Place": "right",
             "Order": 14
-          },
-          {
-            "Event-Time": "84'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "إيبونوج",
-              "IMG": "/assets/images/player-logo/?id=131588",
-              "ID": 67967137,
-              "Extra": [
-                {
-                  "Name": "سانجانتي",
-                  "IMG": "/assets/images/player-logo/?id=100434",
-                  "ID": 57682756
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 15
           },
           {
             "Event-Time": "84'",
@@ -30884,6 +30863,27 @@
                   "Name": "كشطة",
                   "IMG": "/assets/images/player-logo/?id=115536",
                   "ID": 66363163
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 15
+          },
+          {
+            "Event-Time": "84'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "إيبونوج",
+              "IMG": "/assets/images/player-logo/?id=131588",
+              "ID": 67967137,
+              "Extra": [
+                {
+                  "Name": "سانجانتي",
+                  "IMG": "/assets/images/player-logo/?id=100434",
+                  "ID": 57682756
                 }
               ]
             },
@@ -59087,7 +59087,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-27T00:25:33.271Z",
+    "lastUpdated": "2025-08-27T00:26:32.702Z",
     "count": 85
   }
 }
