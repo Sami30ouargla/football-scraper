@@ -29946,27 +29946,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "شوتارد",
-              "IMG": "/assets/images/player-logo/?id=68963",
-              "ID": 33778155,
-              "Extra": [
-                {
-                  "Name": "ماجنيتي",
-                  "IMG": "/assets/images/player-logo/?id=46984",
-                  "ID": 3187609
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 8
-          },
-          {
-            "Event-Time": "72'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "دياز",
               "IMG": "/assets/images/player-logo/?id=117653",
               "ID": 66662859,
@@ -29979,7 +29958,7 @@
               ]
             },
             "Place": "right",
-            "Order": 9
+            "Order": 8
           },
           {
             "Event-Time": "72'",
@@ -29996,6 +29975,27 @@
                   "Name": "كاستيو",
                   "IMG": "/assets/images/player-logo/?id=39770",
                   "ID": 1404166
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 9
+          },
+          {
+            "Event-Time": "72'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "شوتارد",
+              "IMG": "/assets/images/player-logo/?id=68963",
+              "ID": 33778155,
+              "Extra": [
+                {
+                  "Name": "ماجنيتي",
+                  "IMG": "/assets/images/player-logo/?id=46984",
+                  "ID": 3187609
                 }
               ]
             },
@@ -59097,7 +59097,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-27T15:26:34.390Z",
+    "lastUpdated": "2025-08-27T15:27:32.956Z",
     "count": 85
   }
 }
