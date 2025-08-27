@@ -20255,27 +20255,6 @@
             "Order": 9
           },
           {
-            "Event-Time": "77'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "جمعة",
-              "IMG": "/assets/images/player-logo/?id=54251",
-              "ID": 3345775,
-              "Extra": [
-                {
-                  "Name": "هيكل",
-                  "IMG": "/assets/images/player-logo/?id=54539",
-                  "ID": 6205455
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 10
-          },
-          {
             "Event-Time": "78'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -20294,7 +20273,7 @@
               ]
             },
             "Place": "left",
-            "Order": 11
+            "Order": 10
           },
           {
             "Event-Time": "78'",
@@ -20303,19 +20282,19 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "كامارا",
-              "IMG": "/assets/images/player-logo/?id=129219",
-              "ID": 67863565,
+              "Name": "جمعة",
+              "IMG": "/assets/images/player-logo/?id=54251",
+              "ID": 3345775,
               "Extra": [
                 {
-                  "Name": "النقاش",
-                  "IMG": "/assets/images/player-logo/?id=133945",
-                  "ID": 69466405
+                  "Name": "هيكل",
+                  "IMG": "/assets/images/player-logo/?id=54539",
+                  "ID": 6205455
                 }
               ]
             },
-            "Place": "right",
-            "Order": 12
+            "Place": "left",
+            "Order": 11
           },
           {
             "Event-Time": "78'",
@@ -20332,6 +20311,27 @@
                   "Name": "النقبي",
                   "IMG": "/assets/images/player-logo/?id=54941",
                   "ID": 6235738
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "78'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كامارا",
+              "IMG": "/assets/images/player-logo/?id=129219",
+              "ID": 67863565,
+              "Extra": [
+                {
+                  "Name": "النقاش",
+                  "IMG": "/assets/images/player-logo/?id=133945",
+                  "ID": 69466405
                 }
               ]
             },
@@ -59087,7 +59087,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-27T08:09:53.243Z",
+    "lastUpdated": "2025-08-27T08:10:55.204Z",
     "count": 85
   }
 }
