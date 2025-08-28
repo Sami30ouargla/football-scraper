@@ -7006,7 +7006,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -7069,14 +7069,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "الخيبري",
-              "IMG": "/assets/images/player-logo/?id=202064",
-              "ID": 77109212,
+              "Name": "كايكي",
+              "IMG": "/assets/images/player-logo/?id=128912",
+              "ID": 67647561,
               "Extra": [
                 {
-                  "Name": "هوساوي",
-                  "IMG": "/assets/images/player-logo/?id=82366",
-                  "ID": 52363029
+                  "Name": "السميري",
+                  "IMG": "/assets/images/player-logo/?id=45817",
+                  "ID": 3169983
                 }
               ]
             },
@@ -7090,14 +7090,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "كايكي",
-              "IMG": "/assets/images/player-logo/?id=128912",
-              "ID": 67647561,
+              "Name": "الخيبري",
+              "IMG": "/assets/images/player-logo/?id=202064",
+              "ID": 77109212,
               "Extra": [
                 {
-                  "Name": "السميري",
-                  "IMG": "/assets/images/player-logo/?id=45817",
-                  "ID": 3169983
+                  "Name": "هوساوي",
+                  "IMG": "/assets/images/player-logo/?id=82366",
+                  "ID": 52363029
                 }
               ]
             },
@@ -7375,7 +7375,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": 6.6,
+                "Ranking": 6.4,
                 "Player-Name": "كايكي",
                 "Player-Logo": "/assets/images/player-logo/?id=128912",
                 "Player-ID": 67647561,
@@ -9776,14 +9776,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "A. Ajdini",
-              "IMG": "/assets/images/player-logo/?id=78998",
-              "ID": 50256103,
+              "Name": "Abdallah",
+              "IMG": "/assets/images/player-logo/?id=174713",
+              "ID": 75253045,
               "Extra": [
                 {
-                  "Name": "لكويري",
-                  "IMG": "/assets/images/player-logo/?id=105879",
-                  "ID": 64650483
+                  "Name": "سوبي",
+                  "IMG": "/assets/images/player-logo/?id=72108",
+                  "ID": 15399183
                 }
               ]
             },
@@ -9797,14 +9797,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Abdallah",
-              "IMG": "/assets/images/player-logo/?id=174713",
-              "ID": 75253045,
+              "Name": "A. Ajdini",
+              "IMG": "/assets/images/player-logo/?id=78998",
+              "ID": 50256103,
               "Extra": [
                 {
-                  "Name": "سوبي",
-                  "IMG": "/assets/images/player-logo/?id=72108",
-                  "ID": 15399183
+                  "Name": "لكويري",
+                  "IMG": "/assets/images/player-logo/?id=105879",
+                  "ID": 64650483
                 }
               ]
             },
@@ -14311,7 +14311,7 @@
             "Order": 13
           },
           {
-            "Event-Time": "80'",
+            "Event-Time": "79'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -18140,22 +18140,22 @@
                 "FieldSide": 50
               },
               {
-                "Position": "المهاجم الصريح",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "ديمبيلي",
-                "Player-Logo": "/assets/images/player-logo/?id=37820",
-                "Player-ID": 903432,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيمن",
                 "Status": "Missing",
                 "Ranking": "N/A",
                 "Player-Name": "كوستا",
                 "Player-Logo": "/assets/images/player-logo/?id=142324",
                 "Player-ID": 70987247,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "ديمبيلي",
+                "Player-Logo": "/assets/images/player-logo/?id=37820",
+                "Player-ID": 903432,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -37519,7 +37519,7 @@
   ],
   "meta": {
     "date": "2025-08-28",
-    "lastUpdated": "2025-08-28T21:52:21.230Z",
+    "lastUpdated": "2025-08-28T21:53:15.800Z",
     "count": 50
   }
 }
