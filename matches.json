@@ -7862,7 +7862,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -7883,7 +7883,7 @@
             "Order": 4
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -16624,6 +16624,26 @@
                 "Player-Name": "توروتش",
                 "Player-Logo": "/assets/images/player-logo/?id=7248",
                 "Player-ID": 345654,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "دوارتي",
+                "Player-Logo": "/assets/images/player-logo/?id=42000",
+                "Player-ID": 3066799,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "شاهينير",
+                "Player-Logo": "/assets/images/player-logo/?id=10246",
+                "Player-ID": 365273,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -25503,7 +25523,7 @@
             "Order": 3
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -29062,7 +29082,7 @@
       "Time-Start": "2025-08-28T18:30",
       "Time-End": "2025-08-28T20:30",
       "Time-Now": 90,
-      "Match-Status": "انتهت للتو",
+      "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%AA%D9%8A%D8%A7%D9%88%D8%A7-%D8%A8%D9%88%D8%AE%D8%A7%D8%B1%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A3%D8%A8%D8%B1%D8%AF%D9%8A%D9%86&id=4524468&date=2025-08-28",
       "matchDetails": {
         "Match-Card": {
@@ -29084,7 +29104,7 @@
           "Date": "2025-08-28",
           "Time": "18:30",
           "Time-Zone": -120,
-          "Status": "انتهت للتو",
+          "Status": "انتهت",
           "Round": null,
           "Group": null
         },
@@ -29962,73 +29982,6 @@
                 "FieldSide": 50
               }
             ]
-          }
-        }
-      }
-    },
-    {
-      "Cup-id": 321,
-      "Cup-Name": "المباريات الوديّة الدوليّة",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
-      "Match-id": 4536520,
-      "Team-Right": {
-        "Name": "سولانا",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=53758",
-        "Goal": 1
-      },
-      "Team-Left": {
-        "Name": "فوينلابرادا",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=10158",
-        "Goal": 3
-      },
-      "Time-Start": "2025-08-28T18:30",
-      "Time-End": "2025-08-28T20:30",
-      "Time-Now": 90,
-      "Match-Status": "انتهت",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%88%D9%84%D8%A7%D9%86%D8%A7-%D8%B6%D8%AF-%D9%81%D9%88%D9%8A%D9%86%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%AF%D8%A7&id=4536520&date=2025-08-28",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4536520,
-          "Cup-Name": "المباريات الوديّة الدوليّة",
-          "Cup-Logo": "/assets/images/cup-logo/?id=321",
-          "Team-Right": {
-            "Name": "سولانا",
-            "Color": "#7f97ab",
-            "Logo": "/assets/images/team-logo/?id=53758",
-            "Goal": 1
-          },
-          "Team-Left": {
-            "Name": "فوينلابرادا",
-            "Color": "#0000FF",
-            "Logo": "/assets/images/team-logo/?id=10158",
-            "Goal": 3
-          },
-          "Date": "2025-08-28",
-          "Time": "18:30",
-          "Time-Zone": -120,
-          "Status": "انتهت",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "N/A",
-          "Club-Balance": "N/A",
-          "Club-Capacity": "N/A",
-          "Tv": "N/A"
-        },
-        "Match-Events": [],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "سولانا",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "فوينلابرادا",
-            "Formation": "N/A",
-            "Team": []
           }
         }
       }
@@ -31772,7 +31725,7 @@
       },
       "Time-Start": "2025-08-28T19:00",
       "Time-End": "2025-08-28T21:00",
-      "Time-Now": 83,
+      "Time-Now": 84,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%A7%D9%8A%D9%86%D8%B2-05-%D8%B6%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D9%86%D8%A8%D9%88%D8%B1%D8%BA&id=4524480&date=2025-08-28",
       "matchDetails": {
@@ -32604,7 +32557,7 @@
       },
       "Time-Start": "2025-08-28T19:00",
       "Time-End": "2025-08-28T21:00",
-      "Time-Now": 78,
+      "Time-Now": 79,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%A8%D9%88%D8%B1%D8%AA%D9%8A%D9%86%D8%AC-%D8%A8%D8%B1%D8%A7%D8%BA%D8%A7-%D8%B6%D8%AF-%D9%84%D9%8A%D9%86%D9%83%D9%88%D9%84%D9%86-%D8%B1%D9%8A%D8%AF-%D8%A7%D9%85%D8%A8%D8%B3&id=4524497&date=2025-08-28",
       "matchDetails": {
@@ -33455,7 +33408,7 @@
       },
       "Time-Start": "2025-08-28T19:00",
       "Time-End": "2025-08-28T21:00",
-      "Time-Now": 83,
+      "Time-Now": 84,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D8%B3-%D9%81%D9%8A%D8%B1%D8%AA%D9%88%D8%B3-%D8%B6%D8%AF-%D8%A8%D8%B1%D9%8A%D8%AF%D8%A7%D8%A8%D9%84%D9%8A%D9%83&id=4524514&date=2025-08-28",
       "matchDetails": {
@@ -34347,7 +34300,7 @@
       },
       "Time-Start": "2025-08-28T19:00",
       "Time-End": "2025-08-28T21:00",
-      "Time-Now": 82,
+      "Time-Now": 83,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%8A%D8%B1%D9%81%D9%8A%D8%AA-%D8%AC%D9%86%D9%8A%D9%81-%D8%B6%D8%AF-%D8%B4%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-%D8%AF%D9%88%D9%86%D9%8A%D8%AA%D8%B3%D9%83&id=4524519&date=2025-08-28",
       "matchDetails": {
@@ -34604,6 +34557,27 @@
             },
             "Place": "left",
             "Order": 12
+          },
+          {
+            "Event-Time": "83'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "واتارا",
+              "IMG": "/assets/images/player-logo/?id=135563",
+              "ID": 70486635,
+              "Extra": [
+                {
+                  "Name": "أنتونيس",
+                  "IMG": "/assets/images/player-logo/?id=68769",
+                  "ID": 3643224
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 13
           }
         ],
         "Match-Lineup": {
@@ -34628,6 +34602,16 @@
                 "Player-Name": "أوندوا",
                 "Player-Logo": "/assets/images/player-logo/?id=68389",
                 "Player-ID": 29370540,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "واتارا",
+                "Player-Logo": "/assets/images/player-logo/?id=135563",
+                "Player-ID": 70486635,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -34698,16 +34682,6 @@
                 "Player-Name": "موراندي",
                 "Player-Logo": "/assets/images/player-logo/?id=110069",
                 "Player-ID": 65168790,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "واتارا",
-                "Player-Logo": "/assets/images/player-logo/?id=135563",
-                "Player-ID": 70486635,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -35139,7 +35113,7 @@
       },
       "Time-Start": "2025-08-28T19:00",
       "Time-End": "2025-08-28T21:00",
-      "Time-Now": 84,
+      "Time-Now": 85,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B4%D8%A7%D9%85%D8%B1%D9%88%D9%83-%D8%B1%D9%88%D9%81%D8%B1%D8%B2-%D8%B6%D8%AF-%D8%B3%D8%A7%D9%86%D8%AA%D8%A7-%D9%83%D9%84%D8%A7%D8%B1%D8%A7&id=4524528&date=2025-08-28",
       "matchDetails": {
@@ -35912,7 +35886,7 @@
       },
       "Time-Start": "2025-08-28T19:00",
       "Time-End": "2025-08-28T21:00",
-      "Time-Now": 82,
+      "Time-Now": 83,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%84%D9%8A%D8%BA%D9%8A%D8%A7-%D9%88%D8%A7%D8%B1%D8%B3%D9%88-%D8%B6%D8%AF-%D9%87%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A7%D9%86&id=4524533&date=2025-08-28",
       "matchDetails": {
@@ -36357,7 +36331,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "سزيمانسكي",
                 "Player-Logo": "/assets/images/player-logo/?id=61142",
                 "Player-ID": 3140423,
@@ -36818,7 +36792,7 @@
   ],
   "meta": {
     "date": "2025-08-28",
-    "lastUpdated": "2025-08-28T20:41:18.051Z",
-    "count": 50
+    "lastUpdated": "2025-08-28T20:42:07.511Z",
+    "count": 49
   }
 }
