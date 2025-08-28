@@ -90,27 +90,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Riquelme",
-              "IMG": "/assets/images/player-logo/?id=152545",
-              "ID": 71501727,
-              "Extra": [
-                {
-                  "Name": "سانتوس",
-                  "IMG": "/assets/images/player-logo/?id=6327",
-                  "ID": 401709
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 3
-          },
-          {
-            "Event-Time": "45+1'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "Wagner",
               "IMG": "/assets/images/player-logo/?id=67142",
               "ID": 14224996,
@@ -119,6 +98,27 @@
                   "Name": "بالبوينا",
                   "IMG": "/assets/images/player-logo/?id=15139",
                   "ID": 481004
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 3
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Riquelme",
+              "IMG": "/assets/images/player-logo/?id=152545",
+              "ID": 71501727,
+              "Extra": [
+                {
+                  "Name": "سانتوس",
+                  "IMG": "/assets/images/player-logo/?id=6327",
+                  "ID": 401709
                 }
               ]
             },
@@ -501,6 +501,16 @@
                 "Player-Name": "ماتياس",
                 "Player-Logo": "/assets/images/player-logo/?id=47141",
                 "Player-ID": 497328,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "Monsalve",
+                "Player-Logo": "/assets/images/player-logo/?id=82215",
+                "Player-ID": 51390510,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -59067,7 +59077,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-28T00:09:48.846Z",
+    "lastUpdated": "2025-08-28T00:10:48.382Z",
     "count": 85
   }
 }
