@@ -24200,27 +24200,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Murilo",
-              "IMG": "/assets/images/player-logo/?id=41944",
-              "ID": 3064929,
-              "Extra": [
-                {
-                  "Name": "بينيتيز",
-                  "IMG": "/assets/images/player-logo/?id=85112",
-                  "ID": 51968507
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 7
-          },
-          {
-            "Event-Time": "74'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "كارلوس",
               "IMG": "/assets/images/player-logo/?id=118061",
               "ID": 66670495,
@@ -24233,7 +24212,7 @@
               ]
             },
             "Place": "right",
-            "Order": 8
+            "Order": 7
           },
           {
             "Event-Time": "74'",
@@ -24250,6 +24229,27 @@
                   "Name": "بابلو",
                   "IMG": "/assets/images/player-logo/?id=101012",
                   "ID": 61258369
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 8
+          },
+          {
+            "Event-Time": "74'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Murilo",
+              "IMG": "/assets/images/player-logo/?id=41944",
+              "ID": 3064929,
+              "Extra": [
+                {
+                  "Name": "بينيتيز",
+                  "IMG": "/assets/images/player-logo/?id=85112",
+                  "ID": 51968507
                 }
               ]
             },
@@ -59087,7 +59087,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-28T02:45:57.155Z",
+    "lastUpdated": "2025-08-28T02:46:56.253Z",
     "count": 85
   }
 }
