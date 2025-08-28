@@ -505,16 +505,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "Monsalve",
-                "Player-Logo": "/assets/images/player-logo/?id=82215",
-                "Player-ID": 51390510,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "قلب الدفاع",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -58057,7 +58047,52 @@
       "Time-Now": -1,
       "Match-Status": "تأجلت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A5%D9%86%D8%AF%D9%8A%D8%A8%D9%8A%D9%86%D8%AF%D9%86%D8%AA%D9%8A-%D8%B6%D8%AF-Platense&id=4326160&date=2025-08-24",
-      "matchDetails": null
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4326160,
+          "Cup-Name": "الدوري الأرجنتيني الممتاز",
+          "Cup-Logo": "/assets/images/cup-logo/?id=72",
+          "Team-Right": {
+            "Name": "إنديبيندنتي",
+            "Color": "#ED1C24",
+            "Logo": "/assets/images/team-logo/?id=874",
+            "Goal": "-"
+          },
+          "Team-Left": {
+            "Name": "Platense",
+            "Color": "#5C3919",
+            "Logo": "/assets/images/team-logo/?id=7207",
+            "Goal": "-"
+          },
+          "Date": "2025-08-24",
+          "Time": "23:30",
+          "Time-Zone": -120,
+          "Status": "تأجلت",
+          "Round": 6,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "فاكوندو تيلو",
+          "Match-Video": "N/A",
+          "Club-Name": "استاد ليبرتادوريس دي أمريكا",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 52360,
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "إنديبيندنتي",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "Platense",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
     },
     {
       "Cup-id": 113,
@@ -59032,7 +59067,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-28T06:09:49.157Z",
+    "lastUpdated": "2025-08-28T06:10:58.386Z",
     "count": 85
   }
 }
