@@ -11863,6 +11863,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "ديسيرس",
+                "Player-Logo": "/assets/images/player-logo/?id=6820",
+                "Player-ID": 469309,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مدافع أيمن",
                 "Status": "Missing",
                 "Ranking": "N/A",
@@ -20171,7 +20181,7 @@
             "Order": 5
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -20261,14 +20271,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيسا",
-              "IMG": "/assets/images/player-logo/?id=44063",
-              "ID": 329321,
+              "Name": "جمعة",
+              "IMG": "/assets/images/player-logo/?id=54251",
+              "ID": 3345775,
               "Extra": [
                 {
-                  "Name": "كيتا",
-                  "IMG": "/assets/images/player-logo/?id=137394",
-                  "ID": 70876597
+                  "Name": "هيكل",
+                  "IMG": "/assets/images/player-logo/?id=54539",
+                  "ID": 6205455
                 }
               ]
             },
@@ -20282,40 +20292,19 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جمعة",
-              "IMG": "/assets/images/player-logo/?id=54251",
-              "ID": 3345775,
+              "Name": "بيسا",
+              "IMG": "/assets/images/player-logo/?id=44063",
+              "ID": 329321,
               "Extra": [
                 {
-                  "Name": "هيكل",
-                  "IMG": "/assets/images/player-logo/?id=54539",
-                  "ID": 6205455
+                  "Name": "كيتا",
+                  "IMG": "/assets/images/player-logo/?id=137394",
+                  "ID": 70876597
                 }
               ]
             },
             "Place": "left",
             "Order": 11
-          },
-          {
-            "Event-Time": "78'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "شاكر",
-              "IMG": "/assets/images/player-logo/?id=54519",
-              "ID": 6205395,
-              "Extra": [
-                {
-                  "Name": "النقبي",
-                  "IMG": "/assets/images/player-logo/?id=54941",
-                  "ID": 6235738
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 12
           },
           {
             "Event-Time": "78'",
@@ -20332,6 +20321,27 @@
                   "Name": "النقاش",
                   "IMG": "/assets/images/player-logo/?id=133945",
                   "ID": 69466405
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "78'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "شاكر",
+              "IMG": "/assets/images/player-logo/?id=54519",
+              "ID": 6205395,
+              "Extra": [
+                {
+                  "Name": "النقبي",
+                  "IMG": "/assets/images/player-logo/?id=54941",
+                  "ID": 6235738
                 }
               ]
             },
@@ -59067,7 +59077,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-28T11:11:57.145Z",
+    "lastUpdated": "2025-08-28T11:12:57.955Z",
     "count": 85
   }
 }
