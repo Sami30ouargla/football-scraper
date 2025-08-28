@@ -9507,6 +9507,829 @@
       }
     },
     {
+      "Cup-id": 7685,
+      "Cup-Name": "دوري المؤتمر الأوروبي - تصفيات الجولة الفاصلة",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=7685",
+      "Match-id": 4524500,
+      "Team-Right": {
+        "Name": "بشكتاش",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=947",
+        "Goal": 0
+      },
+      "Team-Left": {
+        "Name": "لوزان سبورت",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1160",
+        "Goal": 1
+      },
+      "Time-Start": "2025-08-28T17:00",
+      "Time-End": "2025-08-28T19:00",
+      "Time-Now": 90,
+      "Match-Status": "انتهت للتو",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D8%B4%D9%83%D8%AA%D8%A7%D8%B4-%D8%B6%D8%AF-%D9%84%D9%88%D8%B2%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&id=4524500&date=2025-08-28",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4524500,
+          "Cup-Name": "دوري المؤتمر الأوروبي",
+          "Cup-Logo": "/assets/images/cup-logo/?id=7685",
+          "Team-Right": {
+            "Name": "بشكتاش",
+            "Color": "#FF0000",
+            "Logo": "/assets/images/team-logo/?id=947",
+            "Goal": 0
+          },
+          "Team-Left": {
+            "Name": "لوزان سبورت",
+            "Color": "#D9D9D9",
+            "Logo": "/assets/images/team-logo/?id=1160",
+            "Goal": 1
+          },
+          "Date": "2025-08-28",
+          "Time": "17:00",
+          "Time-Zone": -120,
+          "Status": "انتهت للتو",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "جاكوب كهيلت",
+          "Match-Video": "N/A",
+          "Club-Name": "فودافون أرينا",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 41903,
+          "Tv": "N/A"
+        },
+        "Match-Events": [
+          {
+            "Event-Time": "16'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "سيلفا",
+              "IMG": "/assets/images/player-logo/?id=811",
+              "ID": 340562,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "30'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "نديدي",
+              "IMG": "/assets/images/player-logo/?id=27527",
+              "ID": 698994,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          },
+          {
+            "Event-Time": "45'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "أوييديجي",
+              "IMG": "/assets/images/player-logo/?id=124417",
+              "ID": 58655743,
+              "Extra": [
+                {
+                  "Name": "K. Sow",
+                  "IMG": "/assets/images/player-logo/?id=101295",
+                  "ID": 61431731
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 3
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "موتشي",
+              "IMG": "/assets/images/player-logo/?id=88655",
+              "ID": 55971503,
+              "Extra": [
+                {
+                  "Name": "باوليستا",
+                  "IMG": "/assets/images/player-logo/?id=5802",
+                  "ID": 444796
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 4
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "بطاقة حمراء",
+            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "أودوخاي",
+              "IMG": "/assets/images/player-logo/?id=44513",
+              "ID": 3094152,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 5
+          },
+          {
+            "Event-Time": "54'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "لكويري",
+              "IMG": "/assets/images/player-logo/?id=105879",
+              "ID": 64650483,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 6
+          },
+          {
+            "Event-Time": "60'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "يوراسيك",
+              "IMG": "/assets/images/player-logo/?id=102116",
+              "ID": 60137813,
+              "Extra": [
+                {
+                  "Name": "سفينسون",
+                  "IMG": "/assets/images/player-logo/?id=39015",
+                  "ID": 292330
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 7
+          },
+          {
+            "Event-Time": "61'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "توبتشو",
+              "IMG": "/assets/images/player-logo/?id=60122",
+              "ID": 906343,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 8
+          },
+          {
+            "Event-Time": "62'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "K. Sow",
+              "IMG": "/assets/images/player-logo/?id=101295",
+              "ID": 61431731,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 9
+          },
+          {
+            "Event-Time": "67'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "سيغوا",
+              "IMG": "/assets/images/player-logo/?id=129680",
+              "ID": 67891178,
+              "Extra": [
+                {
+                  "Name": "أوييديجي",
+                  "IMG": "/assets/images/player-logo/?id=124417",
+                  "ID": 58655743
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 10
+          },
+          {
+            "Event-Time": "73'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "تيكناز",
+              "IMG": "/assets/images/player-logo/?id=140329",
+              "ID": 70853356,
+              "Extra": [
+                {
+                  "Name": "ماريو",
+                  "IMG": "/assets/images/player-logo/?id=814",
+                  "ID": 405178
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 11
+          },
+          {
+            "Event-Time": "77'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كوكو",
+              "IMG": "/assets/images/player-logo/?id=57671",
+              "ID": 7382663,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 12
+          },
+          {
+            "Event-Time": "79'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "A. Ajdini",
+              "IMG": "/assets/images/player-logo/?id=78998",
+              "ID": 50256103,
+              "Extra": [
+                {
+                  "Name": "لكويري",
+                  "IMG": "/assets/images/player-logo/?id=105879",
+                  "ID": 64650483
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
+          },
+          {
+            "Event-Time": "79'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Abdallah",
+              "IMG": "/assets/images/player-logo/?id=174713",
+              "ID": 75253045,
+              "Extra": [
+                {
+                  "Name": "سوبي",
+                  "IMG": "/assets/images/player-logo/?id=72108",
+                  "ID": 15399183
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 14
+          },
+          {
+            "Event-Time": "86'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Yılmaz",
+              "IMG": "/assets/images/player-logo/?id=71919",
+              "ID": 29682066,
+              "Extra": [
+                {
+                  "Name": "Bulut",
+                  "IMG": "/assets/images/player-logo/?id=159965",
+                  "ID": 72688056
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 15
+          }
+        ],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "بشكتاش",
+            "Formation": "4-2-3-1",
+            "Team": [
+              {
+                "Position": "حارس مرمى",
+                "Status": "Starting",
+                "Ranking": 7,
+                "Player-Name": "جونوك",
+                "Player-Logo": "/assets/images/player-logo/?id=9707",
+                "Player-ID": 279025,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": 6.7,
+                "Player-Name": "يوراسيك",
+                "Player-Logo": "/assets/images/player-logo/?id=102116",
+                "Player-ID": 60137813,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": 6.5,
+                "Player-Name": "موتشي",
+                "Player-Logo": "/assets/images/player-logo/?id=88655",
+                "Player-ID": 55971503,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": 6.5,
+                "Player-Name": "تيكناز",
+                "Player-Logo": "/assets/images/player-logo/?id=140329",
+                "Player-ID": 70853356,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Yılmaz",
+                "Player-Logo": "/assets/images/player-logo/?id=71919",
+                "Player-ID": 29682066,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "E. Bilgin",
+                "Player-Logo": "/assets/images/player-logo/?id=81115",
+                "Player-ID": 50888742,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "ديستانوجلو",
+                "Player-Logo": "/assets/images/player-logo/?id=53966",
+                "Player-ID": 5881576,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "سانوتش",
+                "Player-Logo": "/assets/images/player-logo/?id=46970",
+                "Player-ID": 3217385,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "اوسال\t",
+                "Player-Logo": "/assets/images/player-logo/?id=7935",
+                "Player-ID": 94116,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "أوكان",
+                "Player-Logo": "/assets/images/player-logo/?id=6144",
+                "Player-ID": 333313,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "تشامبرلين",
+                "Player-Logo": "/assets/images/player-logo/?id=412",
+                "Player-ID": 191906,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "حكيموغلو",
+                "Player-Logo": "/assets/images/player-logo/?id=145147",
+                "Player-ID": 71056547,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المدرب",
+                "Status": "Management",
+                "Ranking": "N/A",
+                "Player-Name": "سولشاير",
+                "Player-Logo": "/assets/images/player-logo/?id=62135",
+                "Player-ID": 339955,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 6.5,
+                "Player-Name": "توبتشو",
+                "Player-Logo": "/assets/images/player-logo/?id=60122",
+                "Player-ID": 906343,
+                "FieldLine": 25,
+                "FieldSide": 0
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 5.5,
+                "Player-Name": "أودوخاي",
+                "Player-Logo": "/assets/images/player-logo/?id=44513",
+                "Player-ID": 3094152,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 6.4,
+                "Player-Name": "باوليستا",
+                "Player-Logo": "/assets/images/player-logo/?id=5802",
+                "Player-ID": 444796,
+                "FieldLine": 25,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": 6.4,
+                "Player-Name": "سفينسون",
+                "Player-Logo": "/assets/images/player-logo/?id=39015",
+                "Player-ID": 292330,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.7,
+                "Player-Name": "نديدي",
+                "Player-Logo": "/assets/images/player-logo/?id=27527",
+                "Player-ID": 698994,
+                "FieldLine": 50,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 7.2,
+                "Player-Name": "كوكو",
+                "Player-Logo": "/assets/images/player-logo/?id=57671",
+                "Player-ID": 7382663,
+                "FieldLine": 50,
+                "FieldSide": 80
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": 6.4,
+                "Player-Name": "ماريو",
+                "Player-Logo": "/assets/images/player-logo/?id=814",
+                "Player-ID": 405178,
+                "FieldLine": 75,
+                "FieldSide": 0
+              },
+              {
+                "Position": "المهاجم المتأخر",
+                "Status": "Starting",
+                "Ranking": 7.4,
+                "Player-Name": "سيلفا",
+                "Player-Logo": "/assets/images/player-logo/?id=811",
+                "Player-ID": 340562,
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "Bulut",
+                "Player-Logo": "/assets/images/player-logo/?id=159965",
+                "Player-ID": 72688056,
+                "FieldLine": 75,
+                "FieldSide": 100
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "أبراهام",
+                "Player-Logo": "/assets/images/player-logo/?id=42237",
+                "Player-ID": 941534,
+                "FieldLine": 100,
+                "FieldSide": 50
+              }
+            ]
+          },
+          "Away-Team": {
+            "Team-Name": "لوزان سبورت",
+            "Formation": "4-3-1-2",
+            "Team": [
+              {
+                "Position": "حارس مرمى",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "لتيكا",
+                "Player-Logo": "/assets/images/player-logo/?id=57160",
+                "Player-ID": 3092349,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Substitute",
+                "Ranking": 6.7,
+                "Player-Name": "Abdallah",
+                "Player-Logo": "/assets/images/player-logo/?id=174713",
+                "Player-ID": 75253045,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": 6.8,
+                "Player-Name": "A. Ajdini",
+                "Player-Logo": "/assets/images/player-logo/?id=78998",
+                "Player-ID": 50256103,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": 6.5,
+                "Player-Name": "سيغوا",
+                "Player-Logo": "/assets/images/player-logo/?id=129680",
+                "Player-ID": 67891178,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "آل سعد",
+                "Player-Logo": "/assets/images/player-logo/?id=140207",
+                "Player-ID": 70941283,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Castella",
+                "Player-Logo": "/assets/images/player-logo/?id=42625",
+                "Player-ID": 3083038,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "S. Fofana",
+                "Player-Logo": "/assets/images/player-logo/?id=178394",
+                "Player-ID": 75430570,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Hottiger",
+                "Player-Logo": "/assets/images/player-logo/?id=174712",
+                "Player-ID": 75252924,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Lippo",
+                "Player-Logo": "/assets/images/player-logo/?id=219561",
+                "Player-ID": 77385447,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "N'Diaye",
+                "Player-Logo": "/assets/images/player-logo/?id=175876",
+                "Player-ID": 75359990,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Renovales",
+                "Player-Logo": "/assets/images/player-logo/?id=220021",
+                "Player-ID": 77417348,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Traore",
+                "Player-Logo": "/assets/images/player-logo/?id=151429",
+                "Player-ID": 71355395,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "Sanches",
+                "Player-Logo": "/assets/images/player-logo/?id=98833",
+                "Player-ID": 58989969,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "Kana-Biyik",
+                "Player-Logo": "/assets/images/player-logo/?id=194599",
+                "Player-ID": 76874805,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المدرب",
+                "Status": "Management",
+                "Ranking": "N/A",
+                "Player-Name": "زيدلر",
+                "Player-Logo": "/assets/images/player-logo/?id=46303",
+                "Player-ID": 3194515,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "بوتي",
+                "Player-Logo": "/assets/images/player-logo/?id=97533",
+                "Player-ID": 60726509,
+                "FieldLine": 25,
+                "FieldSide": 0
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 7.1,
+                "Player-Name": "أوكوح",
+                "Player-Logo": "/assets/images/player-logo/?id=101047",
+                "Player-ID": 60122971,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 7.7,
+                "Player-Name": "K. Sow",
+                "Player-Logo": "/assets/images/player-logo/?id=101295",
+                "Player-ID": 61431731,
+                "FieldLine": 25,
+                "FieldSide": 66
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "موانغا",
+                "Player-Logo": "/assets/images/player-logo/?id=68816",
+                "Player-ID": 10583386,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "Custodio",
+                "Player-Logo": "/assets/images/player-logo/?id=42660",
+                "Player-ID": 3083069,
+                "FieldLine": 50,
+                "FieldSide": 0
+              },
+              {
+                "Position": "وسط دفاعي",
+                "Status": "Starting",
+                "Ranking": 7.2,
+                "Player-Name": "Roche",
+                "Player-Logo": "/assets/images/player-logo/?id=77835",
+                "Player-ID": 48448196,
+                "FieldLine": 50,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط الجناح",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "سوبي",
+                "Player-Logo": "/assets/images/player-logo/?id=72108",
+                "Player-ID": 15399183,
+                "FieldLine": 50,
+                "FieldSide": 100
+              },
+              {
+                "Position": "المهاجم المتأخر",
+                "Status": "Starting",
+                "Ranking": 6.9,
+                "Player-Name": "لكويري",
+                "Player-Logo": "/assets/images/player-logo/?id=105879",
+                "Player-ID": 64650483,
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 7.4,
+                "Player-Name": "دياكيتي",
+                "Player-Logo": "/assets/images/player-logo/?id=173740",
+                "Player-ID": 75241962,
+                "FieldLine": 100,
+                "FieldSide": 25
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": 7.2,
+                "Player-Name": "أوييديجي",
+                "Player-Logo": "/assets/images/player-logo/?id=124417",
+                "Player-ID": 58655743,
+                "FieldLine": 100,
+                "FieldSide": 75
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
       "Cup-id": 596,
       "Cup-Name": "تصفيات الدوري الاوروبي  - بلاي اوف",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=596",
@@ -11209,829 +12032,6 @@
       }
     },
     {
-      "Cup-id": 7685,
-      "Cup-Name": "دوري المؤتمر الأوروبي - تصفيات الجولة الفاصلة",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=7685",
-      "Match-id": 4524500,
-      "Team-Right": {
-        "Name": "بشكتاش",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=947",
-        "Goal": 0
-      },
-      "Team-Left": {
-        "Name": "لوزان سبورت",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=1160",
-        "Goal": 1
-      },
-      "Time-Start": "2025-08-28T17:00",
-      "Time-End": "2025-08-28T19:00",
-      "Time-Now": 94,
-      "Match-Status": "الشوط الثاني",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D8%B4%D9%83%D8%AA%D8%A7%D8%B4-%D8%B6%D8%AF-%D9%84%D9%88%D8%B2%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA&id=4524500&date=2025-08-28",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4524500,
-          "Cup-Name": "دوري المؤتمر الأوروبي",
-          "Cup-Logo": "/assets/images/cup-logo/?id=7685",
-          "Team-Right": {
-            "Name": "بشكتاش",
-            "Color": "#FF0000",
-            "Logo": "/assets/images/team-logo/?id=947",
-            "Goal": 0
-          },
-          "Team-Left": {
-            "Name": "لوزان سبورت",
-            "Color": "#D9D9D9",
-            "Logo": "/assets/images/team-logo/?id=1160",
-            "Goal": 1
-          },
-          "Date": "2025-08-28",
-          "Time": "17:00",
-          "Time-Zone": -120,
-          "Status": "الشوط الثاني",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "جاكوب كهيلت",
-          "Match-Video": "N/A",
-          "Club-Name": "Tüpraş Stadyumu",
-          "Club-Balance": "N/A",
-          "Club-Capacity": 43500,
-          "Tv": "N/A"
-        },
-        "Match-Events": [
-          {
-            "Event-Time": "16'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "سيلفا",
-              "IMG": "/assets/images/player-logo/?id=811",
-              "ID": 340562,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 1
-          },
-          {
-            "Event-Time": "30'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "نديدي",
-              "IMG": "/assets/images/player-logo/?id=27527",
-              "ID": 698994,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 2
-          },
-          {
-            "Event-Time": "45'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "أوييديجي",
-              "IMG": "/assets/images/player-logo/?id=124417",
-              "ID": 58655743,
-              "Extra": [
-                {
-                  "Name": "K. Sow",
-                  "IMG": "/assets/images/player-logo/?id=101295",
-                  "ID": 61431731
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 3
-          },
-          {
-            "Event-Time": "45+1'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "موتشي",
-              "IMG": "/assets/images/player-logo/?id=88655",
-              "ID": 55971503,
-              "Extra": [
-                {
-                  "Name": "باوليستا",
-                  "IMG": "/assets/images/player-logo/?id=5802",
-                  "ID": 444796
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 4
-          },
-          {
-            "Event-Time": "46'",
-            "Event-Name": "بطاقة حمراء",
-            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "أودوخاي",
-              "IMG": "/assets/images/player-logo/?id=44513",
-              "ID": 3094152,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 5
-          },
-          {
-            "Event-Time": "54'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "لكويري",
-              "IMG": "/assets/images/player-logo/?id=105879",
-              "ID": 64650483,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 6
-          },
-          {
-            "Event-Time": "60'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "يوراسيك",
-              "IMG": "/assets/images/player-logo/?id=102116",
-              "ID": 60137813,
-              "Extra": [
-                {
-                  "Name": "سفينسون",
-                  "IMG": "/assets/images/player-logo/?id=39015",
-                  "ID": 292330
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 7
-          },
-          {
-            "Event-Time": "61'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "توبتشو",
-              "IMG": "/assets/images/player-logo/?id=60122",
-              "ID": 906343,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 8
-          },
-          {
-            "Event-Time": "62'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "K. Sow",
-              "IMG": "/assets/images/player-logo/?id=101295",
-              "ID": 61431731,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 9
-          },
-          {
-            "Event-Time": "67'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "سيغوا",
-              "IMG": "/assets/images/player-logo/?id=129680",
-              "ID": 67891178,
-              "Extra": [
-                {
-                  "Name": "أوييديجي",
-                  "IMG": "/assets/images/player-logo/?id=124417",
-                  "ID": 58655743
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 10
-          },
-          {
-            "Event-Time": "73'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "تيكناز",
-              "IMG": "/assets/images/player-logo/?id=140329",
-              "ID": 70853356,
-              "Extra": [
-                {
-                  "Name": "ماريو",
-                  "IMG": "/assets/images/player-logo/?id=814",
-                  "ID": 405178
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 11
-          },
-          {
-            "Event-Time": "77'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "كوكو",
-              "IMG": "/assets/images/player-logo/?id=57671",
-              "ID": 7382663,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 12
-          },
-          {
-            "Event-Time": "79'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "Abdallah",
-              "IMG": "/assets/images/player-logo/?id=174713",
-              "ID": 75253045,
-              "Extra": [
-                {
-                  "Name": "سوبي",
-                  "IMG": "/assets/images/player-logo/?id=72108",
-                  "ID": 15399183
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 13
-          },
-          {
-            "Event-Time": "79'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "A. Ajdini",
-              "IMG": "/assets/images/player-logo/?id=78998",
-              "ID": 50256103,
-              "Extra": [
-                {
-                  "Name": "لكويري",
-                  "IMG": "/assets/images/player-logo/?id=105879",
-                  "ID": 64650483
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 14
-          },
-          {
-            "Event-Time": "86'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "Yılmaz",
-              "IMG": "/assets/images/player-logo/?id=71919",
-              "ID": 29682066,
-              "Extra": [
-                {
-                  "Name": "Bulut",
-                  "IMG": "/assets/images/player-logo/?id=159965",
-                  "ID": 72688056
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 15
-          }
-        ],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "بشكتاش",
-            "Formation": "4-2-3-1",
-            "Team": [
-              {
-                "Position": "حارس مرمى",
-                "Status": "Starting",
-                "Ranking": 7,
-                "Player-Name": "جونوك",
-                "Player-Logo": "/assets/images/player-logo/?id=9707",
-                "Player-ID": 279025,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": 6.7,
-                "Player-Name": "يوراسيك",
-                "Player-Logo": "/assets/images/player-logo/?id=102116",
-                "Player-ID": 60137813,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": 6.5,
-                "Player-Name": "موتشي",
-                "Player-Logo": "/assets/images/player-logo/?id=88655",
-                "Player-ID": 55971503,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": 6.4,
-                "Player-Name": "تيكناز",
-                "Player-Logo": "/assets/images/player-logo/?id=140329",
-                "Player-ID": 70853356,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Substitute",
-                "Ranking": -1,
-                "Player-Name": "Yılmaz",
-                "Player-Logo": "/assets/images/player-logo/?id=71919",
-                "Player-ID": 29682066,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "E. Bilgin",
-                "Player-Logo": "/assets/images/player-logo/?id=81115",
-                "Player-ID": 50888742,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ديستانوجلو",
-                "Player-Logo": "/assets/images/player-logo/?id=53966",
-                "Player-ID": 5881576,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "سانوتش",
-                "Player-Logo": "/assets/images/player-logo/?id=46970",
-                "Player-ID": 3217385,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "اوسال\t",
-                "Player-Logo": "/assets/images/player-logo/?id=7935",
-                "Player-ID": 94116,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "أوكان",
-                "Player-Logo": "/assets/images/player-logo/?id=6144",
-                "Player-ID": 333313,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "تشامبرلين",
-                "Player-Logo": "/assets/images/player-logo/?id=412",
-                "Player-ID": 191906,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "حكيموغلو",
-                "Player-Logo": "/assets/images/player-logo/?id=145147",
-                "Player-ID": 71056547,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المدرب",
-                "Status": "Management",
-                "Ranking": "N/A",
-                "Player-Name": "سولشاير",
-                "Player-Logo": "/assets/images/player-logo/?id=62135",
-                "Player-ID": 339955,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "توبتشو",
-                "Player-Logo": "/assets/images/player-logo/?id=60122",
-                "Player-ID": 906343,
-                "FieldLine": 25,
-                "FieldSide": 0
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 5.5,
-                "Player-Name": "أودوخاي",
-                "Player-Logo": "/assets/images/player-logo/?id=44513",
-                "Player-ID": 3094152,
-                "FieldLine": 25,
-                "FieldSide": 33
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 6.4,
-                "Player-Name": "باوليستا",
-                "Player-Logo": "/assets/images/player-logo/?id=5802",
-                "Player-ID": 444796,
-                "FieldLine": 25,
-                "FieldSide": 66
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": 6.4,
-                "Player-Name": "سفينسون",
-                "Player-Logo": "/assets/images/player-logo/?id=39015",
-                "Player-ID": 292330,
-                "FieldLine": 25,
-                "FieldSide": 100
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.7,
-                "Player-Name": "نديدي",
-                "Player-Logo": "/assets/images/player-logo/?id=27527",
-                "Player-ID": 698994,
-                "FieldLine": 50,
-                "FieldSide": 20
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 7.2,
-                "Player-Name": "كوكو",
-                "Player-Logo": "/assets/images/player-logo/?id=57671",
-                "Player-ID": 7382663,
-                "FieldLine": 50,
-                "FieldSide": 80
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": 6.4,
-                "Player-Name": "ماريو",
-                "Player-Logo": "/assets/images/player-logo/?id=814",
-                "Player-ID": 405178,
-                "FieldLine": 75,
-                "FieldSide": 0
-              },
-              {
-                "Position": "المهاجم المتأخر",
-                "Status": "Starting",
-                "Ranking": 7.3,
-                "Player-Name": "سيلفا",
-                "Player-Logo": "/assets/images/player-logo/?id=811",
-                "Player-ID": 340562,
-                "FieldLine": 75,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": 6.6,
-                "Player-Name": "Bulut",
-                "Player-Logo": "/assets/images/player-logo/?id=159965",
-                "Player-ID": 72688056,
-                "FieldLine": 75,
-                "FieldSide": 100
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "أبراهام",
-                "Player-Logo": "/assets/images/player-logo/?id=42237",
-                "Player-ID": 941534,
-                "FieldLine": 100,
-                "FieldSide": 50
-              }
-            ]
-          },
-          "Away-Team": {
-            "Team-Name": "لوزان سبورت",
-            "Formation": "4-3-1-2",
-            "Team": [
-              {
-                "Position": "حارس مرمى",
-                "Status": "Starting",
-                "Ranking": 6.6,
-                "Player-Name": "لتيكا",
-                "Player-Logo": "/assets/images/player-logo/?id=57160",
-                "Player-ID": 3092349,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Substitute",
-                "Ranking": 6.5,
-                "Player-Name": "Abdallah",
-                "Player-Logo": "/assets/images/player-logo/?id=174713",
-                "Player-ID": 75253045,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": 6.8,
-                "Player-Name": "A. Ajdini",
-                "Player-Logo": "/assets/images/player-logo/?id=78998",
-                "Player-ID": 50256103,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": 6.5,
-                "Player-Name": "سيغوا",
-                "Player-Logo": "/assets/images/player-logo/?id=129680",
-                "Player-ID": 67891178,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "آل سعد",
-                "Player-Logo": "/assets/images/player-logo/?id=140207",
-                "Player-ID": 70941283,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Castella",
-                "Player-Logo": "/assets/images/player-logo/?id=42625",
-                "Player-ID": 3083038,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "S. Fofana",
-                "Player-Logo": "/assets/images/player-logo/?id=178394",
-                "Player-ID": 75430570,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Hottiger",
-                "Player-Logo": "/assets/images/player-logo/?id=174712",
-                "Player-ID": 75252924,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Lippo",
-                "Player-Logo": "/assets/images/player-logo/?id=219561",
-                "Player-ID": 77385447,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "N'Diaye",
-                "Player-Logo": "/assets/images/player-logo/?id=175876",
-                "Player-ID": 75359990,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Renovales",
-                "Player-Logo": "/assets/images/player-logo/?id=220021",
-                "Player-ID": 77417348,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Traore",
-                "Player-Logo": "/assets/images/player-logo/?id=151429",
-                "Player-ID": 71355395,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "Sanches",
-                "Player-Logo": "/assets/images/player-logo/?id=98833",
-                "Player-ID": 58989969,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "Kana-Biyik",
-                "Player-Logo": "/assets/images/player-logo/?id=194599",
-                "Player-ID": 76874805,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المدرب",
-                "Status": "Management",
-                "Ranking": "N/A",
-                "Player-Name": "زيدلر",
-                "Player-Logo": "/assets/images/player-logo/?id=46303",
-                "Player-ID": 3194515,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "بوتي",
-                "Player-Logo": "/assets/images/player-logo/?id=97533",
-                "Player-ID": 60726509,
-                "FieldLine": 25,
-                "FieldSide": 0
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 7.1,
-                "Player-Name": "أوكوح",
-                "Player-Logo": "/assets/images/player-logo/?id=101047",
-                "Player-ID": 60122971,
-                "FieldLine": 25,
-                "FieldSide": 33
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 7.7,
-                "Player-Name": "K. Sow",
-                "Player-Logo": "/assets/images/player-logo/?id=101295",
-                "Player-ID": 61431731,
-                "FieldLine": 25,
-                "FieldSide": 66
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "موانغا",
-                "Player-Logo": "/assets/images/player-logo/?id=68816",
-                "Player-ID": 10583386,
-                "FieldLine": 25,
-                "FieldSide": 100
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "Custodio",
-                "Player-Logo": "/assets/images/player-logo/?id=42660",
-                "Player-ID": 3083069,
-                "FieldLine": 50,
-                "FieldSide": 0
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 7.2,
-                "Player-Name": "Roche",
-                "Player-Logo": "/assets/images/player-logo/?id=77835",
-                "Player-ID": 48448196,
-                "FieldLine": 50,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط الجناح",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "سوبي",
-                "Player-Logo": "/assets/images/player-logo/?id=72108",
-                "Player-ID": 15399183,
-                "FieldLine": 50,
-                "FieldSide": 100
-              },
-              {
-                "Position": "المهاجم المتأخر",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "لكويري",
-                "Player-Logo": "/assets/images/player-logo/?id=105879",
-                "Player-ID": 64650483,
-                "FieldLine": 75,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 7.4,
-                "Player-Name": "دياكيتي",
-                "Player-Logo": "/assets/images/player-logo/?id=173740",
-                "Player-ID": 75241962,
-                "FieldLine": 100,
-                "FieldSide": 25
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 7.1,
-                "Player-Name": "أوييديجي",
-                "Player-Logo": "/assets/images/player-logo/?id=124417",
-                "Player-ID": 58655743,
-                "FieldLine": 100,
-                "FieldSide": 75
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
       "Cup-id": 321,
       "Cup-Name": "المباريات الوديّة الدوليّة",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=321",
@@ -12048,7 +12048,7 @@
       },
       "Time-Start": "2025-08-28T17:00",
       "Time-End": "2025-08-28T19:00",
-      "Time-Now": 101,
+      "Time-Now": 102,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D8%AA%D9%88%D8%A8%D9%8A-%D8%B6%D8%AF-SD-Huesca-B&id=4534863&date=2025-08-28",
       "matchDetails": {
@@ -12131,7 +12131,7 @@
       },
       "Time-Start": "2025-08-28T17:30",
       "Time-End": "2025-08-28T19:30",
-      "Time-Now": 67,
+      "Time-Now": 68,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%B3%D8%AF-%D8%B6%D8%AF-%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D9%81%D8%A9&id=4458903&date=2025-08-28",
       "matchDetails": {
@@ -12415,7 +12415,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 7,
                 "Player-Name": "خوخي",
                 "Player-Logo": "/assets/images/player-logo/?id=12832",
                 "Player-ID": 218677,
@@ -12425,7 +12425,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "بيدرو",
                 "Player-Logo": "/assets/images/player-logo/?id=54227",
                 "Player-ID": 3227437,
@@ -12495,7 +12495,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "جيوفاني",
                 "Player-Logo": "/assets/images/player-logo/?id=91486",
                 "Player-ID": 56162394,
@@ -12770,7 +12770,7 @@
       },
       "Time-Start": "2025-08-28T17:30",
       "Time-End": "2025-08-28T19:30",
-      "Time-Now": 68,
+      "Time-Now": 69,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%84%D9%88%D8%AF%D9%88%D8%AC%D9%88%D8%B1%D9%8A%D8%AA%D8%B3-%D8%B6%D8%AF-%D8%AA%D9%8A%D8%AA%D9%88%D9%81%D9%88&id=4523041&date=2025-08-28",
       "matchDetails": {
@@ -12928,6 +12928,27 @@
             },
             "Place": "right",
             "Order": 7
+          },
+          {
+            "Event-Time": "68'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ستانيتش",
+              "IMG": "/assets/images/player-logo/?id=102268",
+              "ID": 60324399,
+              "Extra": [
+                {
+                  "Name": "دوارتي",
+                  "IMG": "/assets/images/player-logo/?id=45598",
+                  "ID": 3163919
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 8
           }
         ],
         "Match-Lineup": {
@@ -12942,6 +12963,16 @@
                 "Player-Name": "بات",
                 "Player-Logo": "/assets/images/player-logo/?id=7357",
                 "Player-ID": 371040,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "ستانيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=102268",
+                "Player-ID": 60324399,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -13036,16 +13067,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ستانيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=102268",
-                "Player-ID": 60324399,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -13108,7 +13129,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.2,
                 "Player-Name": "غوميز",
                 "Player-Logo": "/assets/images/player-logo/?id=47224",
                 "Player-ID": 447304,
@@ -13168,7 +13189,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.1,
                 "Player-Name": "ماتشادو",
                 "Player-Logo": "/assets/images/player-logo/?id=196790",
                 "Player-ID": 76819340,
@@ -13443,7 +13464,7 @@
       },
       "Time-Start": "2025-08-28T17:30",
       "Time-End": "2025-08-28T19:30",
-      "Time-Now": 69,
+      "Time-Now": 70,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D8%A7%D9%88%D9%83-%D8%B3%D8%A7%D9%84%D9%88%D9%86%D9%8A%D9%83%D8%A7-%D8%B6%D8%AF-%D8%B1%D9%8A%D9%8A%D9%83%D8%A7&id=4524474&date=2025-08-28",
       "matchDetails": {
@@ -13665,7 +13686,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 7,
                 "Player-Name": "بافلنكا",
                 "Player-Logo": "/assets/images/player-logo/?id=11857",
                 "Player-ID": 354167,
@@ -13693,66 +13714,6 @@
                 "FieldSide": 50
               },
               {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "جوجيشاشفيلي",
-                "Player-Logo": "/assets/images/player-logo/?id=104875",
-                "Player-ID": 64277436,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "تسيفتسيس",
-                "Player-Logo": "/assets/images/player-logo/?id=78621",
-                "Player-ID": 49905755,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ساستري",
-                "Player-Logo": "/assets/images/player-logo/?id=60515",
-                "Player-ID": 937817,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "لوفرين",
-                "Player-Logo": "/assets/images/player-logo/?id=52",
-                "Player-ID": 87156,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "تايلور",
-                "Player-Logo": "/assets/images/player-logo/?id=49297",
-                "Player-ID": 535571,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "D. Tsopouroglou",
-                "Player-Logo": "/assets/images/player-logo/?id=217141",
-                "Player-ID": 77331379,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -13773,12 +13734,12 @@
                 "FieldSide": 50
               },
               {
-                "Position": "لاعب الوسط المهاجم",
+                "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "بيلكاس",
-                "Player-Logo": "/assets/images/player-logo/?id=10823",
-                "Player-ID": 333673,
+                "Player-Name": "جوجيشاشفيلي",
+                "Player-Logo": "/assets/images/player-logo/?id=104875",
+                "Player-ID": 64277436,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -13789,6 +13750,66 @@
                 "Player-Name": "إيفانوشتس",
                 "Player-Logo": "/assets/images/player-logo/?id=70302",
                 "Player-ID": 38249920,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "لوفرين",
+                "Player-Logo": "/assets/images/player-logo/?id=52",
+                "Player-ID": 87156,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "بيلكاس",
+                "Player-Logo": "/assets/images/player-logo/?id=10823",
+                "Player-ID": 333673,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "ساستري",
+                "Player-Logo": "/assets/images/player-logo/?id=60515",
+                "Player-ID": 937817,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "تايلور",
+                "Player-Logo": "/assets/images/player-logo/?id=49297",
+                "Player-ID": 535571,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "تسيفتسيس",
+                "Player-Logo": "/assets/images/player-logo/?id=78621",
+                "Player-ID": 49905755,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "D. Tsopouroglou",
+                "Player-Logo": "/assets/images/player-logo/?id=217141",
+                "Player-ID": 77331379,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -13805,7 +13826,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 7.2,
                 "Player-Name": "بابا",
                 "Player-Logo": "/assets/images/player-logo/?id=5672",
                 "Player-ID": 524734,
@@ -13825,7 +13846,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.7,
                 "Player-Name": "كيدزيورا",
                 "Player-Logo": "/assets/images/player-logo/?id=26539",
                 "Player-ID": 348016,
@@ -13835,7 +13856,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.7,
                 "Player-Name": "",
                 "Player-Logo": "/assets/images/player-logo/?id=42288",
                 "Player-ID": 2081380,
@@ -13845,7 +13866,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.8,
                 "Player-Name": "أوزدوييف",
                 "Player-Logo": "/assets/images/player-logo/?id=2625",
                 "Player-ID": 498212,
@@ -13855,7 +13876,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 7.6,
+                "Ranking": 8.3,
                 "Player-Name": "ميتي",
                 "Player-Logo": "/assets/images/player-logo/?id=2005",
                 "Player-ID": 332189,
@@ -13865,12 +13886,12 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 7.7,
                 "Player-Name": "زيفكوفيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=11101",
                 "Player-ID": 425719,
                 "FieldLine": 75,
-                "FieldSide": 20
+                "FieldSide": 0
               },
               {
                 "Position": "لاعب الوسط المهاجم",
@@ -13885,17 +13906,17 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.9,
                 "Player-Name": "ديسبودوف",
                 "Player-Logo": "/assets/images/player-logo/?id=48128",
                 "Player-ID": 479255,
                 "FieldLine": 75,
-                "FieldSide": 80
+                "FieldSide": 100
               },
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.4,
+                "Ranking": 7.7,
                 "Player-Name": "شالوف",
                 "Player-Logo": "/assets/images/player-logo/?id=44030",
                 "Player-ID": 972909,
@@ -13906,15 +13927,25 @@
           },
           "Away-Team": {
             "Team-Name": "رييكا",
-            "Formation": "3-4-2-1",
+            "Formation": "4-2-3-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.2,
+                "Ranking": 5.9,
                 "Player-Name": "زلوميسليتش",
                 "Player-Logo": "/assets/images/player-logo/?id=97449",
                 "Player-ID": 60732751,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "بوتيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=160286",
+                "Player-ID": 71917779,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -13931,40 +13962,10 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Substitute",
-                "Ranking": -1,
-                "Player-Name": "بوتيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=160286",
-                "Player-ID": 71917779,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Kovac",
-                "Player-Logo": "/assets/images/player-logo/?id=191550",
-                "Player-ID": 76813547,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Kitin",
-                "Player-Logo": "/assets/images/player-logo/?id=151433",
-                "Player-ID": 71382854,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "روكافينا",
-                "Player-Logo": "/assets/images/player-logo/?id=114597",
-                "Player-ID": 66207320,
+                "Player-Name": "بوغوجيفيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=84005",
+                "Player-ID": 40990412,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -13979,32 +13980,22 @@
                 "FieldSide": 50
               },
               {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "هوسيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=98930",
+                "Player-ID": 59145503,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "إيلينكوفيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=134122",
                 "Player-ID": 67771828,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Thaqi",
-                "Player-Logo": "/assets/images/player-logo/?id=194661",
-                "Player-ID": 76876674,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "بوغوجيفيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=84005",
-                "Player-ID": 40990412,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14019,22 +14010,52 @@
                 "FieldSide": 50
               },
               {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Kitin",
+                "Player-Logo": "/assets/images/player-logo/?id=151433",
+                "Player-ID": 71382854,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "حارس مرمى",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Kovac",
+                "Player-Logo": "/assets/images/player-logo/?id=191550",
+                "Player-ID": 76813547,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "روكافينا",
+                "Player-Logo": "/assets/images/player-logo/?id=114597",
+                "Player-ID": 66207320,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Thaqi",
+                "Player-Logo": "/assets/images/player-logo/?id=194661",
+                "Player-ID": 76876674,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "حارس مرمى",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "تودوروفيتش",
                 "Player-Logo": "/assets/images/player-logo/?id=137908",
                 "Player-ID": 70887712,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "هوسيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=98930",
-                "Player-ID": 59145503,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -14051,22 +14072,22 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 5.9,
+                "Ranking": 5.8,
                 "Player-Name": "ديفيتاك",
                 "Player-Logo": "/assets/images/player-logo/?id=116694",
                 "Player-ID": 13865400,
                 "FieldLine": 25,
-                "FieldSide": 25
+                "FieldSide": 0
               },
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 5.9,
+                "Ranking": 5,
                 "Player-Name": "رادولييتش",
                 "Player-Logo": "/assets/images/player-logo/?id=101052",
                 "Player-ID": 55872997,
                 "FieldLine": 25,
-                "FieldSide": 50
+                "FieldSide": 33
               },
               {
                 "Position": "قلب الدفاع",
@@ -14076,72 +14097,72 @@
                 "Player-Logo": "/assets/images/player-logo/?id=91898",
                 "Player-ID": 29854865,
                 "FieldLine": 25,
-                "FieldSide": 75
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": 5.9,
-                "Player-Name": "أوريتش",
-                "Player-Logo": "/assets/images/player-logo/?id=97073",
-                "Player-ID": 55805483,
-                "FieldLine": 50,
-                "FieldSide": 0
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6,
-                "Player-Name": "دانتاس",
-                "Player-Logo": "/assets/images/player-logo/?id=86863",
-                "Player-ID": 54583830,
-                "FieldLine": 50,
-                "FieldSide": 33
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6,
-                "Player-Name": "بيتروفيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=74108",
-                "Player-ID": 47971605,
-                "FieldLine": 50,
                 "FieldSide": 66
               },
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6,
+                "Ranking": 6.5,
+                "Player-Name": "أوريتش",
+                "Player-Logo": "/assets/images/player-logo/?id=97073",
+                "Player-ID": 55805483,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "دانتاس",
+                "Player-Logo": "/assets/images/player-logo/?id=86863",
+                "Player-ID": 54583830,
+                "FieldLine": 50,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.5,
+                "Player-Name": "بيتروفيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=74108",
+                "Player-ID": 47971605,
+                "FieldLine": 50,
+                "FieldSide": 80
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "مينالو",
+                "Player-Logo": "/assets/images/player-logo/?id=59679",
+                "Player-ID": 3087453,
+                "FieldLine": 75,
+                "FieldSide": 0
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Starting",
+                "Ranking": 7,
+                "Player-Name": "يانكوفيتش",
+                "Player-Logo": "/assets/images/player-logo/?id=96781",
+                "Player-ID": 59934903,
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": 6.9,
                 "Player-Name": "لاسيكاس",
                 "Player-Logo": "/assets/images/player-logo/?id=61192",
                 "Player-ID": 676504,
-                "FieldLine": 50,
+                "FieldLine": 75,
                 "FieldSide": 100
               },
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6,
-                "Player-Name": "يانكوفيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=96781",
-                "Player-ID": 59934903,
-                "FieldLine": 75,
-                "FieldSide": 20
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": 6.4,
-                "Player-Name": "مينالو",
-                "Player-Logo": "/assets/images/player-logo/?id=59679",
-                "Player-ID": 3087453,
-                "FieldLine": 75,
-                "FieldSide": 80
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Starting",
-                "Ranking": 6,
+                "Ranking": 6.8,
                 "Player-Name": "فروك",
                 "Player-Logo": "/assets/images/player-logo/?id=97126",
                 "Player-ID": 52716403,
@@ -14170,7 +14191,7 @@
       },
       "Time-Start": "2025-08-28T17:30",
       "Time-End": "2025-08-28T19:30",
-      "Time-Now": 67,
+      "Time-Now": 68,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%84%D9%83%D9%85%D8%A7%D8%B1-%D8%B6%D8%AF-%D9%84%D9%8A%D9%81%D8%B3%D9%83%D9%8A-%D8%B5%D9%88%D9%81%D9%8A%D8%A7&id=4524491&date=2025-08-28",
       "matchDetails": {
@@ -14433,6 +14454,21 @@
             },
             "Place": "right",
             "Order": 12
+          },
+          {
+            "Event-Time": "69'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "sangaré",
+              "IMG": "/assets/images/player-logo/?id=86979",
+              "ID": 54362826,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 13
           }
         ],
         "Match-Lineup": {
@@ -14593,7 +14629,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 7.2,
                 "Player-Name": "دي ويت",
                 "Player-Logo": "/assets/images/player-logo/?id=100849",
                 "Player-ID": 60305265,
@@ -14603,7 +14639,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 7.1,
                 "Player-Name": "بنتيرا",
                 "Player-Logo": "/assets/images/player-logo/?id=100903",
                 "Player-ID": 61476136,
@@ -14958,724 +14994,10 @@
       },
       "Time-Start": "2025-08-28T17:30",
       "Time-End": "2025-08-28T19:30",
-      "Time-Now": 67,
+      "Time-Now": 68,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A3%D9%88%D9%86%D9%8A%D9%81%D8%B1%D8%B3%D9%8A%D8%AA%D8%A7%D8%AA%D9%8A%D8%A7-%D9%83%D8%B1%D8%A7%D9%8A%D9%88%D9%81%D8%A7-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%B4%D8%A7%D9%83-%D8%B4%D9%87%D9%8A%D8%B1&id=4524522&date=2025-08-28",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4524522,
-          "Cup-Name": "دوري المؤتمر الأوروبي",
-          "Cup-Logo": "/assets/images/cup-logo/?id=7685",
-          "Team-Right": {
-            "Name": "أونيفرسيتاتيا كرايوفا",
-            "Color": "#D9D9D9",
-            "Logo": "/assets/images/team-logo/?id=2048",
-            "Goal": 2
-          },
-          "Team-Left": {
-            "Name": "باشاك شهير",
-            "Color": "#FC5A00",
-            "Logo": "/assets/images/team-logo/?id=958",
-            "Goal": 1
-          },
-          "Date": "2025-08-28",
-          "Time": "17:30",
-          "Time-Zone": -120,
-          "Status": "الشوط الثاني",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "دانيال شلاجر",
-          "Match-Video": "N/A",
-          "Club-Name": "مجمع سبورتيف كرايوفا",
-          "Club-Balance": "N/A",
-          "Club-Capacity": 30983,
-          "Tv": "N/A"
-        },
-        "Match-Events": [
-          {
-            "Event-Time": "7'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "سيلك",
-              "IMG": "/assets/images/player-logo/?id=5661",
-              "ID": 430569,
-              "Extra": [
-                {
-                  "Name": "أوبيري",
-                  "IMG": "/assets/images/player-logo/?id=84580",
-                  "ID": 50685815
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 1
-          },
-          {
-            "Event-Time": "9'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "تشيكالداو",
-              "IMG": "/assets/images/player-logo/?id=57340",
-              "ID": 1206582,
-              "Extra": [
-                {
-                  "Name": "بانكو",
-                  "IMG": "/assets/images/player-logo/?id=52094",
-                  "ID": 889634
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 2
-          },
-          {
-            "Event-Time": "20'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "بالوتا",
-              "IMG": "/assets/images/player-logo/?id=61186",
-              "ID": 3070083,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 3
-          },
-          {
-            "Event-Time": "27'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "بايارم",
-              "IMG": "/assets/images/player-logo/?id=117154",
-              "ID": 49634941,
-              "Extra": [
-                {
-                  "Name": "بانكو",
-                  "IMG": "/assets/images/player-logo/?id=52094",
-                  "ID": 889634
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 4
-          },
-          {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "كيمين",
-              "IMG": "/assets/images/player-logo/?id=15357",
-              "ID": 636825,
-              "Extra": [
-                {
-                  "Name": "كرسبو",
-                  "IMG": "/assets/images/player-logo/?id=100316",
-                  "ID": 51110485
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 5
-          },
-          {
-            "Event-Time": "48'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "توروتش",
-              "IMG": "/assets/images/player-logo/?id=7248",
-              "ID": 345654,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 6
-          },
-          {
-            "Event-Time": "54'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": null,
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 77417811,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 7
-          },
-          {
-            "Event-Time": "54'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "سيلك",
-              "IMG": "/assets/images/player-logo/?id=5661",
-              "ID": 430569,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 8
-          },
-          {
-            "Event-Time": "54'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": null,
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 71341694,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 9
-          },
-          {
-            "Event-Time": "63'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "U. Gunes",
-              "IMG": "/assets/images/player-logo/?id=71960",
-              "ID": 38804461,
-              "Extra": [
-                {
-                  "Name": "أوزديمير",
-                  "IMG": "/assets/images/player-logo/?id=69224",
-                  "ID": 9109841
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 10
-          },
-          {
-            "Event-Time": "63'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "فايزولاييف",
-              "IMG": "/assets/images/player-logo/?id=113393",
-              "ID": 65823374,
-              "Extra": [
-                {
-                  "Name": "إرغون",
-                  "IMG": "/assets/images/player-logo/?id=100822",
-                  "ID": 61683487
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 11
-          },
-          {
-            "Event-Time": "63'",
-            "Event-Name": "بطاقة صفراء",
-            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "بانكو",
-              "IMG": "/assets/images/player-logo/?id=52094",
-              "ID": 889634,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 12
-          }
-        ],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "أونيفرسيتاتيا كرايوفا",
-            "Formation": "3-5-2",
-            "Team": [
-              {
-                "Position": "حارس مرمى",
-                "Status": "Starting",
-                "Ranking": 6.2,
-                "Player-Name": "Isenko",
-                "Player-Logo": "/assets/images/player-logo/?id=78727",
-                "Player-ID": 49720915,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "D. Barbu",
-                "Player-Logo": "/assets/images/player-logo/?id=159212",
-                "Player-ID": 72554039,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "L. Basceanu",
-                "Player-Logo": "/assets/images/player-logo/?id=174708",
-                "Player-ID": 71064029,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "كريتو",
-                "Player-Logo": "/assets/images/player-logo/?id=80347",
-                "Player-ID": 50928833,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "حوري",
-                "Player-Logo": "/assets/images/player-logo/?id=13964",
-                "Player-ID": 444542,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "لونج",
-                "Player-Logo": "/assets/images/player-logo/?id=9221",
-                "Player-ID": 545733,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Matei",
-                "Player-Logo": "/assets/images/player-logo/?id=205540",
-                "Player-ID": 77277417,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ميكفابيشفيلي",
-                "Player-Logo": "/assets/images/player-logo/?id=98720",
-                "Player-ID": 50159158,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "موجوس",
-                "Player-Logo": "/assets/images/player-logo/?id=52284",
-                "Player-ID": 4872160,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "S. Nsimba",
-                "Player-Logo": "/assets/images/player-logo/?id=116485",
-                "Player-ID": 66484961,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "M. Radulescu",
-                "Player-Logo": "/assets/images/player-logo/?id=128295",
-                "Player-ID": 67620745,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "N. Stevanović",
-                "Player-Logo": "/assets/images/player-logo/?id=106902",
-                "Player-ID": 64925558,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Stefan",
-                "Player-Logo": "/assets/images/player-logo/?id=68209",
-                "Player-ID": 22310851,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المدرب",
-                "Status": "Management",
-                "Ranking": "N/A",
-                "Player-Name": "رادوي",
-                "Player-Logo": "/assets/images/player-logo/?id=80349",
-                "Player-ID": 50928836,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "Badelj",
-                "Player-Logo": "/assets/images/player-logo/?id=128288",
-                "Player-ID": 67710693,
-                "FieldLine": 33,
-                "FieldSide": 25
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.6,
-                "Player-Name": "سكريسيو",
-                "Player-Logo": "/assets/images/player-logo/?id=117155",
-                "Player-ID": 60366309,
-                "FieldLine": 33,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 7,
-                "Player-Name": "Romanchuk O.",
-                "Player-Logo": "/assets/images/player-logo/?id=81894",
-                "Player-ID": 51140469,
-                "FieldLine": 33,
-                "FieldSide": 75
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 8,
-                "Player-Name": "بانكو",
-                "Player-Logo": "/assets/images/player-logo/?id=52094",
-                "Player-ID": 889634,
-                "FieldLine": 66,
-                "FieldSide": 0
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Starting",
-                "Ranking": 7.6,
-                "Player-Name": "تشيكالداو",
-                "Player-Logo": "/assets/images/player-logo/?id=57340",
-                "Player-ID": 1206582,
-                "FieldLine": 66,
-                "FieldSide": 25
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.3,
-                "Player-Name": "بالوتا",
-                "Player-Logo": "/assets/images/player-logo/?id=61186",
-                "Player-ID": 3070083,
-                "FieldLine": 66,
-                "FieldSide": 50
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "Teles",
-                "Player-Logo": "/assets/images/player-logo/?id=135091",
-                "Player-ID": 70778350,
-                "FieldLine": 66,
-                "FieldSide": 75
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": 7,
-                "Player-Name": "مورا",
-                "Player-Logo": "/assets/images/player-logo/?id=77970",
-                "Player-ID": 566656,
-                "FieldLine": 66,
-                "FieldSide": 100
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": 7.4,
-                "Player-Name": "بايارم",
-                "Player-Logo": "/assets/images/player-logo/?id=117154",
-                "Player-ID": 49634941,
-                "FieldLine": 99,
-                "FieldSide": 25
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 6.1,
-                "Player-Name": "الحملاوي",
-                "Player-Logo": "/assets/images/player-logo/?id=77659",
-                "Player-ID": 10207848,
-                "FieldLine": 99,
-                "FieldSide": 75
-              }
-            ]
-          },
-          "Away-Team": {
-            "Team-Name": "باشاك شهير",
-            "Formation": "4-2-3-1",
-            "Team": [
-              {
-                "Position": "حارس مرمى",
-                "Status": "Starting",
-                "Ranking": 6,
-                "Player-Name": "باباجان",
-                "Player-Logo": "/assets/images/player-logo/?id=9191",
-                "Player-ID": 482592,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": -1,
-                "Player-Name": "فايزولاييف",
-                "Player-Logo": "/assets/images/player-logo/?id=113393",
-                "Player-ID": 65823374,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": -1,
-                "Player-Name": "U. Gunes",
-                "Player-Logo": "/assets/images/player-logo/?id=71960",
-                "Player-ID": 38804461,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": 6.5,
-                "Player-Name": "كيمين",
-                "Player-Logo": "/assets/images/player-logo/?id=15357",
-                "Player-ID": 636825,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "بياز",
-                "Player-Logo": "/assets/images/player-logo/?id=74790",
-                "Player-ID": 49241423,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "حارس مرمى",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ديلمن",
-                "Player-Logo": "/assets/images/player-logo/?id=106290",
-                "Player-ID": 64696892,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "جورلر",
-                "Player-Logo": "/assets/images/player-logo/?id=151122",
-                "Player-ID": 71362259,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ساري",
-                "Player-Logo": "/assets/images/player-logo/?id=51352",
-                "Player-ID": 3979158,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "توروتش",
-                "Player-Logo": "/assets/images/player-logo/?id=7248",
-                "Player-ID": 345654,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "كوستا",
-                "Player-Logo": "/assets/images/player-logo/?id=50386",
-                "Player-ID": 3107863,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المدرب",
-                "Status": "Management",
-                "Ranking": "N/A",
-                "Player-Name": "أتان",
-                "Player-Logo": "/assets/images/player-logo/?id=81145",
-                "Player-ID": 50786625,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "أوبيري",
-                "Player-Logo": "/assets/images/player-logo/?id=84580",
-                "Player-ID": 50685815,
-                "FieldLine": 25,
-                "FieldSide": 0
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "أوبوكو",
-                "Player-Logo": "/assets/images/player-logo/?id=84827",
-                "Player-ID": 51755121,
-                "FieldLine": 25,
-                "FieldSide": 33
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": 6.9,
-                "Player-Name": "با",
-                "Player-Logo": "/assets/images/player-logo/?id=70303",
-                "Player-ID": 24970609,
-                "FieldLine": 25,
-                "FieldSide": 66
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": 6.1,
-                "Player-Name": "إيبوسيلي",
-                "Player-Logo": "/assets/images/player-logo/?id=91984",
-                "Player-ID": 54701317,
-                "FieldLine": 25,
-                "FieldSide": 100
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "أوزديمير",
-                "Player-Logo": "/assets/images/player-logo/?id=69224",
-                "Player-ID": 9109841,
-                "FieldLine": 50,
-                "FieldSide": 20
-              },
-              {
-                "Position": "وسط دفاعي",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "إرغون",
-                "Player-Logo": "/assets/images/player-logo/?id=100822",
-                "Player-ID": 61683487,
-                "FieldLine": 50,
-                "FieldSide": 80
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": 7.1,
-                "Player-Name": "برنيتش",
-                "Player-Logo": "/assets/images/player-logo/?id=114215",
-                "Player-ID": 66111736,
-                "FieldLine": 75,
-                "FieldSide": 0
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.7,
-                "Player-Name": "كرسبو",
-                "Player-Logo": "/assets/images/player-logo/?id=100316",
-                "Player-ID": 51110485,
-                "FieldLine": 75,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "شومورودوف",
-                "Player-Logo": "/assets/images/player-logo/?id=50529",
-                "Player-ID": 518643,
-                "FieldLine": 75,
-                "FieldSide": 100
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": 7.2,
-                "Player-Name": "سيلك",
-                "Player-Logo": "/assets/images/player-logo/?id=5661",
-                "Player-ID": 430569,
-                "FieldLine": 100,
-                "FieldSide": 50
-              }
-            ]
-          }
-        }
-      }
+      "matchDetails": null
     },
     {
       "Cup-id": 7685,
@@ -15694,7 +15016,7 @@
       },
       "Time-Start": "2025-08-28T17:30",
       "Time-End": "2025-08-28T19:30",
-      "Time-Now": 68,
+      "Time-Now": 71,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?1907-%D9%83%D9%84%D9%88%D8%AC-%D8%B6%D8%AF-%D8%A8%D9%8A.%D9%83%D9%8A.-%D9%87%D8%A7%D9%83%D9%8A%D9%86&id=4524530&date=2025-08-28",
       "matchDetails": {
@@ -22018,7 +21340,7 @@
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "Todev",
+                "Player-Name": "B. Todev",
                 "Player-Logo": "/assets/images/player-logo/?id=197126",
                 "Player-ID": 77000608,
                 "FieldLine": 0,
@@ -24336,7 +23658,7 @@
       },
       "Time-Start": "2025-08-28T18:30",
       "Time-End": "2025-08-28T20:30",
-      "Time-Now": 26,
+      "Time-Now": 27,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D8%AA%D9%8A%D8%A7%D9%88%D8%A7-%D8%A8%D9%88%D8%AE%D8%A7%D8%B1%D8%B3%D8%AA-%D8%B6%D8%AF-%D8%A3%D8%A8%D8%B1%D8%AF%D9%8A%D9%86&id=4524468&date=2025-08-28",
       "matchDetails": {
@@ -24916,7 +24238,7 @@
       },
       "Time-Start": "2025-08-28T18:30",
       "Time-End": "2025-08-28T20:30",
-      "Time-Now": 24,
+      "Time-Now": 27,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%88%D9%84%D8%A7%D9%86%D8%A7-%D8%B6%D8%AF-%D9%81%D9%88%D9%8A%D9%86%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%AF%D8%A7&id=4536520&date=2025-08-28",
       "matchDetails": {
@@ -24983,7 +24305,7 @@
       },
       "Time-Start": "2025-08-28T18:45",
       "Time-End": "2025-08-28T20:45",
-      "Time-Now": 9,
+      "Time-Now": 12,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%84%D9%8A%D9%86%D9%81%D9%8A%D9%84%D8%AF-%D8%B6%D8%AF-%D8%B4%D9%8A%D9%84%D8%A8%D9%88%D8%B1%D9%86&id=4524508&date=2025-08-28",
       "matchDetails": {
@@ -25502,7 +24824,7 @@
       },
       "Time-Start": "2025-08-28T18:45",
       "Time-End": "2025-08-28T20:45",
-      "Time-Now": 12,
+      "Time-Now": 13,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%88-%D8%AA%D9%8A%D8%B1%D8%A7%D9%86%D8%A7-%D8%B6%D8%AF-%D9%8A%D8%A7%D8%BA%D9%8A%D9%8A%D9%84%D9%88%D9%86%D9%8A%D8%A7-%D8%A8%D9%8A%D8%A7%D9%88%D9%8A%D8%B3%D8%AA%D9%88%D9%83&id=4524518&date=2025-08-28",
       "matchDetails": {
@@ -29331,7 +28653,7 @@
   ],
   "meta": {
     "date": "2025-08-28",
-    "lastUpdated": "2025-08-28T18:57:50.016Z",
+    "lastUpdated": "2025-08-28T18:58:38.387Z",
     "count": 50
   }
 }
