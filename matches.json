@@ -30750,14 +30750,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "توريه",
-              "IMG": "/assets/images/player-logo/?id=2852",
-              "ID": 368643,
+              "Name": "النملي",
+              "IMG": "/assets/images/player-logo/?id=13124",
+              "ID": 404025,
               "Extra": [
                 {
-                  "Name": "ندياي",
-                  "IMG": "/assets/images/player-logo/?id=80136",
-                  "ID": 50454089
+                  "Name": "دوكوري",
+                  "IMG": "/assets/images/player-logo/?id=83681",
+                  "ID": 50851759
                 }
               ]
             },
@@ -30771,14 +30771,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "النملي",
-              "IMG": "/assets/images/player-logo/?id=13124",
-              "ID": 404025,
+              "Name": "توريه",
+              "IMG": "/assets/images/player-logo/?id=2852",
+              "ID": 368643,
               "Extra": [
                 {
-                  "Name": "دوكوري",
-                  "IMG": "/assets/images/player-logo/?id=83681",
-                  "ID": 50851759
+                  "Name": "ندياي",
+                  "IMG": "/assets/images/player-logo/?id=80136",
+                  "ID": 50454089
                 }
               ]
             },
@@ -30813,14 +30813,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "سوطوكا",
-              "IMG": "/assets/images/player-logo/?id=14910",
-              "ID": 490031,
+              "Name": "غيلافوغي",
+              "IMG": "/assets/images/player-logo/?id=81448",
+              "ID": 51151146,
               "Extra": [
                 {
-                  "Name": "توفين",
-                  "IMG": "/assets/images/player-logo/?id=2205",
-                  "ID": 277482
+                  "Name": "فوفانا",
+                  "IMG": "/assets/images/player-logo/?id=199285",
+                  "ID": 77038841
                 }
               ]
             },
@@ -30834,40 +30834,19 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "غيلافوغي",
-              "IMG": "/assets/images/player-logo/?id=81448",
-              "ID": 51151146,
+              "Name": "سوطوكا",
+              "IMG": "/assets/images/player-logo/?id=14910",
+              "ID": 490031,
               "Extra": [
                 {
-                  "Name": "فوفانا",
-                  "IMG": "/assets/images/player-logo/?id=199285",
-                  "ID": 77038841
+                  "Name": "توفين",
+                  "IMG": "/assets/images/player-logo/?id=2205",
+                  "ID": 277482
                 }
               ]
             },
             "Place": "right",
             "Order": 14
-          },
-          {
-            "Event-Time": "84'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "كيريميه",
-              "IMG": "/assets/images/player-logo/?id=84534",
-              "ID": 51752355,
-              "Extra": [
-                {
-                  "Name": "كشطة",
-                  "IMG": "/assets/images/player-logo/?id=115536",
-                  "ID": 66363163
-                }
-              ]
-            },
-            "Place": "left",
-            "Order": 15
           },
           {
             "Event-Time": "84'",
@@ -30884,6 +30863,27 @@
                   "Name": "سانجانتي",
                   "IMG": "/assets/images/player-logo/?id=100434",
                   "ID": 57682756
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 15
+          },
+          {
+            "Event-Time": "84'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كيريميه",
+              "IMG": "/assets/images/player-logo/?id=84534",
+              "ID": 51752355,
+              "Extra": [
+                {
+                  "Name": "كشطة",
+                  "IMG": "/assets/images/player-logo/?id=115536",
+                  "ID": 66363163
                 }
               ]
             },
@@ -59087,7 +59087,7 @@
   ],
   "meta": {
     "date": "2025-08-24",
-    "lastUpdated": "2025-08-28T03:30:55.970Z",
+    "lastUpdated": "2025-08-28T03:31:56.324Z",
     "count": 85
   }
 }
