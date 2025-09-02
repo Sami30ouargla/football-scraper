@@ -1961,98 +1961,7 @@
       "Time-Now": 90,
       "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%86%D9%88%D9%85%D8%A7%D9%86%D8%B3%D9%8A%D8%A7-%D8%B6%D8%AF-%D9%83%D9%88%D9%86%D9%83%D9%8A%D9%86%D8%B3&id=4532395&date=2025-08-28",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4532395,
-          "Cup-Name": "المباريات الوديّة الدوليّة",
-          "Cup-Logo": "/assets/images/cup-logo/?id=321",
-          "Team-Right": {
-            "Name": "نومانسيا",
-            "Color": "#FF0000",
-            "Logo": "/assets/images/team-logo/?id=151",
-            "Goal": 1
-          },
-          "Team-Left": {
-            "Name": "كونكينس",
-            "Color": "#3333FF",
-            "Logo": "/assets/images/team-logo/?id=199",
-            "Goal": 2
-          },
-          "Date": "2025-08-28",
-          "Time": "10:30",
-          "Time-Zone": -120,
-          "Status": "انتهت",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "Ciudad Deportiva Francisco Rubio",
-          "Club-Balance": "N/A",
-          "Club-Capacity": "N/A",
-          "Tv": "N/A"
-        },
-        "Match-Events": [
-          {
-            "Event-Time": "22'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": null,
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 77416769,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 1
-          },
-          {
-            "Event-Time": "24'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": null,
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 77416770,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 2
-          },
-          {
-            "Event-Time": "54'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": null,
-              "IMG": "/assets/images/unknown-user.png",
-              "ID": 77416783,
-              "Extra": []
-            },
-            "Place": "right",
-            "Order": 3
-          }
-        ],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "نومانسيا",
-            "Formation": "N/A",
-            "Team": []
-          },
-          "Away-Team": {
-            "Team-Name": "كونكينس",
-            "Formation": "N/A",
-            "Team": []
-          }
-        }
-      }
+      "matchDetails": null
     },
     {
       "Cup-id": 8814,
@@ -37747,7 +37656,7 @@
   ],
   "meta": {
     "date": "2025-08-28",
-    "lastUpdated": "2025-09-02T03:36:22.291Z",
+    "lastUpdated": "2025-09-02T03:37:22.126Z",
     "count": 52
   }
 }
