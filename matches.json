@@ -3875,7 +3875,98 @@
       "Time-Now": 90,
       "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84%D9%8A-%D8%B6%D8%AF-%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84-%D9%82%D8%A7%D8%A8%D8%B3&id=4494741&date=2025-08-28",
-      "matchDetails": null
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4494741,
+          "Cup-Name": "الرابطة التونسية المحترفة الأولى",
+          "Cup-Logo": "/assets/images/cup-logo/?id=554",
+          "Team-Right": {
+            "Name": "النجم الساحلي",
+            "Color": "#FF0000",
+            "Logo": "/assets/images/team-logo/?id=8241",
+            "Goal": 3
+          },
+          "Team-Left": {
+            "Name": "مستقبل قابس",
+            "Color": "#000000",
+            "Logo": "/assets/images/team-logo/?id=8234",
+            "Goal": 0
+          },
+          "Date": "2025-08-28",
+          "Time": "15:30",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": 4,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "الملعب الأولمبي بسوسة",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 28000,
+          "Tv": "الوطنية 2"
+        },
+        "Match-Events": [
+          {
+            "Event-Time": "23'",
+            "Event-Name": "هدف من ركلة جزاء",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=3",
+            "Event-SubType-Id": 3,
+            "Event-SubType-Name": "ركلة جزاء",
+            "Event-Player": {
+              "Name": null,
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77417309,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "66'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "العواني",
+              "IMG": "/assets/images/player-logo/?id=132445",
+              "ID": 68018256,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          },
+          {
+            "Event-Time": "71'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": null,
+              "IMG": "/assets/images/unknown-user.png",
+              "ID": 77152439,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 3
+          }
+        ],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "النجم الساحلي",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "مستقبل قابس",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
     },
     {
       "Cup-id": 554,
@@ -37656,7 +37747,7 @@
   ],
   "meta": {
     "date": "2025-08-28",
-    "lastUpdated": "2025-09-02T23:53:20.474Z",
+    "lastUpdated": "2025-09-02T23:54:21.209Z",
     "count": 52
   }
 }
