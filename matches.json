@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 16,
+      "Time-Now": 17,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -28389,12 +28389,27 @@
             },
             "Place": "right",
             "Order": 1
+          },
+          {
+            "Event-Time": "16'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كايسيدو",
+              "IMG": "/assets/images/player-logo/?id=71650",
+              "ID": 39270918,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "الإكوادور",
-            "Formation": "4-3-3",
+            "Formation": "4-4-1-1",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -28543,7 +28558,7 @@
                 "Player-Name": "هينكابي",
                 "Player-Logo": "/assets/images/player-logo/?id=79406",
                 "Player-ID": 50457607,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 0
               },
               {
@@ -28553,7 +28568,7 @@
                 "Player-Name": "باشو",
                 "Player-Logo": "/assets/images/player-logo/?id=71848",
                 "Player-ID": 40745412,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 33
               },
               {
@@ -28563,13 +28578,43 @@
                 "Player-Name": "أوردونيز",
                 "Player-Logo": "/assets/images/player-logo/?id=110018",
                 "Player-ID": 65144537,
-                "FieldLine": 33,
+                "FieldLine": 25,
                 "FieldSide": 66
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.5,
+                "Player-Name": "فرانكو",
+                "Player-Logo": "/assets/images/player-logo/?id=57335",
+                "Player-ID": 518460,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "أنجولو",
+                "Player-Logo": "/assets/images/player-logo/?id=100177",
+                "Player-ID": 59993290,
+                "FieldLine": 50,
+                "FieldSide": 0
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.5,
+                "Player-Name": "فيتي",
+                "Player-Logo": "/assets/images/player-logo/?id=88776",
+                "Player-ID": 55977965,
+                "FieldLine": 50,
+                "FieldSide": 33
               },
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.3,
                 "Player-Name": "كايسيدو",
                 "Player-Logo": "/assets/images/player-logo/?id=71650",
                 "Player-ID": 39270918,
@@ -28587,26 +28632,6 @@
                 "FieldSide": 100
               },
               {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "فيتي",
-                "Player-Logo": "/assets/images/player-logo/?id=88776",
-                "Player-ID": 55977965,
-                "FieldLine": 66,
-                "FieldSide": 20
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.5,
-                "Player-Name": "فرانكو",
-                "Player-Logo": "/assets/images/player-logo/?id=57335",
-                "Player-ID": 518460,
-                "FieldLine": 66,
-                "FieldSide": 80
-              },
-              {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
                 "Ranking": 6.5,
@@ -28615,16 +28640,6 @@
                 "Player-ID": 6738011,
                 "FieldLine": 75,
                 "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "أنجولو",
-                "Player-Logo": "/assets/images/player-logo/?id=100177",
-                "Player-ID": 59993290,
-                "FieldLine": 99,
-                "FieldSide": 0
               },
               {
                 "Position": "المهاجم الصريح",
@@ -31785,7 +31800,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-09T23:16:33.095Z",
+    "lastUpdated": "2025-09-09T23:17:32.987Z",
     "count": 63
   }
 }
