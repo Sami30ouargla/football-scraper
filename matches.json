@@ -10555,7 +10555,7 @@
             "Order": 9
           },
           {
-            "Event-Time": "77'",
+            "Event-Time": "84'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -26593,7 +26593,7 @@
       },
       "Time-Start": "2025-09-09T19:00",
       "Time-End": "2025-09-09T21:00",
-      "Time-Now": 92,
+      "Time-Now": 93,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D8%A7%D9%85%D8%A8%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D8%B1%D9%86%D8%AF%D9%8A&id=4034345&date=2025-09-09",
       "matchDetails": {
@@ -26913,6 +26913,42 @@
             },
             "Place": "left",
             "Order": 15
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Dushime",
+              "IMG": "/assets/images/player-logo/?id=220480",
+              "ID": 77442716,
+              "Extra": [
+                {
+                  "Name": "ويمانز",
+                  "IMG": "/assets/images/player-logo/?id=78113",
+                  "ID": 49569327
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 16
+          },
+          {
+            "Event-Time": "90'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ندوارجيرا",
+              "IMG": "/assets/images/player-logo/?id=67812",
+              "ID": 15313197,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 17
           }
         ],
         "Match-Lineup": {
@@ -27207,6 +27243,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "قلب الدفاع",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "Dushime",
+                "Player-Logo": "/assets/images/player-logo/?id=220480",
+                "Player-ID": 77442716,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
                 "Ranking": "N/A",
@@ -27223,16 +27269,6 @@
                 "Player-Name": "Bukuru",
                 "Player-Logo": "/assets/images/player-logo/?id=161585",
                 "Player-ID": 72768874,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Dushime",
-                "Player-Logo": "/assets/images/player-logo/?id=220480",
-                "Player-ID": 77442716,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -27438,7 +27474,7 @@
       },
       "Time-Start": "2025-09-09T19:00",
       "Time-End": "2025-09-09T21:00",
-      "Time-Now": 39,
+      "Time-Now": 40,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%86%D9%8A%D9%86-%D8%B6%D8%AF-%D9%84%D9%8A%D8%B3%D9%88%D8%AA%D9%88&id=4034367&date=2025-09-09",
       "matchDetails": {
@@ -30889,7 +30925,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-09T21:25:34.612Z",
+    "lastUpdated": "2025-09-09T21:26:33.902Z",
     "count": 63
   }
 }
