@@ -13942,7 +13942,7 @@
             "Order": 8
           },
           {
-            "Event-Time": "67'",
+            "Event-Time": "66'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -22982,14 +22982,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "كومان",
-              "IMG": "/assets/images/player-logo/?id=2226",
-              "ID": 513714,
+              "Name": "جوستو",
+              "IMG": "/assets/images/player-logo/?id=82339",
+              "ID": 52332926,
               "Extra": [
                 {
-                  "Name": "باركولا",
-                  "IMG": "/assets/images/player-logo/?id=102289",
-                  "ID": 60909490
+                  "Name": "كوندي",
+                  "IMG": "/assets/images/player-logo/?id=55138",
+                  "ID": 1759529
                 }
               ]
             },
@@ -23003,14 +23003,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "جوستو",
-              "IMG": "/assets/images/player-logo/?id=82339",
-              "ID": 52332926,
+              "Name": "كومان",
+              "IMG": "/assets/images/player-logo/?id=2226",
+              "ID": 513714,
               "Extra": [
                 {
-                  "Name": "كوندي",
-                  "IMG": "/assets/images/player-logo/?id=55138",
-                  "ID": 1759529
+                  "Name": "باركولا",
+                  "IMG": "/assets/images/player-logo/?id=102289",
+                  "ID": 60909490
                 }
               ]
             },
@@ -24656,8 +24656,8 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "زيني",
-              "IMG": "/assets/images/player-logo/?id=131944",
+              "Name": "Zine",
+              "IMG": "/assets/images/unknown-user.png",
               "ID": 77453241,
               "Extra": [
                 {
@@ -24703,8 +24703,8 @@
               "ID": 27841,
               "Extra": [
                 {
-                  "Name": "زيني",
-                  "IMG": "/assets/images/player-logo/?id=131944",
+                  "Name": "Zine",
+                  "IMG": "/assets/images/unknown-user.png",
                   "ID": 77453241
                 }
               ]
@@ -24761,8 +24761,8 @@
             "Event-SubType-Id": 1,
             "Event-SubType-Name": "هدف ميداني",
             "Event-Player": {
-              "Name": "زيني",
-              "IMG": "/assets/images/player-logo/?id=131944",
+              "Name": "Zine",
+              "IMG": "/assets/images/unknown-user.png",
               "ID": 77453241,
               "Extra": [
                 {
@@ -24925,8 +24925,8 @@
                 "Position": "N/A",
                 "Status": "Substitute",
                 "Ranking": "N/A",
-                "Player-Name": "زيني",
-                "Player-Logo": "/assets/images/player-logo/?id=131944",
+                "Player-Name": "Zine",
+                "Player-Logo": "/assets/images/unknown-user.png",
                 "Player-ID": 77453241,
                 "FieldLine": 0,
                 "FieldSide": 50
@@ -27438,7 +27438,7 @@
       },
       "Time-Start": "2025-09-09T19:00",
       "Time-End": "2025-09-09T21:00",
-      "Time-Now": 33,
+      "Time-Now": 34,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%86%D9%8A%D9%86-%D8%B6%D8%AF-%D9%84%D9%8A%D8%B3%D9%88%D8%AA%D9%88&id=4034367&date=2025-09-09",
       "matchDetails": {
@@ -27524,6 +27524,21 @@
             },
             "Place": "right",
             "Order": 3
+          },
+          {
+            "Event-Time": "33'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "إيموران",
+              "IMG": "/assets/images/player-logo/?id=138777",
+              "ID": 67872161,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 4
           }
         ],
         "Match-Lineup": {
@@ -30868,7 +30883,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-09T21:19:34.902Z",
+    "lastUpdated": "2025-09-09T21:20:34.080Z",
     "count": 63
   }
 }
