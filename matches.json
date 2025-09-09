@@ -26593,7 +26593,7 @@
       },
       "Time-Start": "2025-09-09T19:00",
       "Time-End": "2025-09-09T21:00",
-      "Time-Now": 84,
+      "Time-Now": 85,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AC%D8%A7%D9%85%D8%A8%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D8%B1%D9%86%D8%AF%D9%8A&id=4034345&date=2025-09-09",
       "matchDetails": {
@@ -26852,6 +26852,27 @@
             "Order": 12
           },
           {
+            "Event-Time": "82'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ناهيمانا",
+              "IMG": "/assets/images/player-logo/?id=67816",
+              "ID": 15313205,
+              "Extra": [
+                {
+                  "Name": "Bizoza",
+                  "IMG": "/assets/images/player-logo/?id=76965",
+                  "ID": 31409305
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
+          },
+          {
             "Event-Time": "81'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -26870,7 +26891,7 @@
               ]
             },
             "Place": "left",
-            "Order": 13
+            "Order": 14
           },
           {
             "Event-Time": "81'",
@@ -26891,27 +26912,6 @@
               ]
             },
             "Place": "left",
-            "Order": 14
-          },
-          {
-            "Event-Time": "82'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "ناهيمانا",
-              "IMG": "/assets/images/player-logo/?id=67816",
-              "ID": 15313205,
-              "Extra": [
-                {
-                  "Name": "Bizoza",
-                  "IMG": "/assets/images/player-logo/?id=76965",
-                  "ID": 31409305
-                }
-              ]
-            },
-            "Place": "right",
             "Order": 15
           }
         ],
@@ -27438,7 +27438,7 @@
       },
       "Time-Start": "2025-09-09T19:00",
       "Time-End": "2025-09-09T21:00",
-      "Time-Now": 31,
+      "Time-Now": 32,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%86%D9%8A%D9%86-%D8%B6%D8%AF-%D9%84%D9%8A%D8%B3%D9%88%D8%AA%D9%88&id=4034367&date=2025-09-09",
       "matchDetails": {
@@ -27450,7 +27450,7 @@
             "Name": "بنين",
             "Color": "#F0FF24",
             "Logo": "/assets/images/team-logo/?id=5098",
-            "Goal": 2
+            "Goal": 3
           },
           "Team-Left": {
             "Name": "ليسوتو",
@@ -30868,7 +30868,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-09T21:17:34.575Z",
+    "lastUpdated": "2025-09-09T21:18:33.095Z",
     "count": 63
   }
 }
