@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 30,
+      "Time-Now": 31,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -28419,6 +28419,21 @@
             },
             "Place": "left",
             "Order": 3
+          },
+          {
+            "Event-Time": "31'",
+            "Event-Name": "بطاقة حمراء",
+            "Event-Logo": "/assets/images/event-logo/?id=3&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "اوتامندي",
+              "IMG": "/assets/images/player-logo/?id=860",
+              "ID": 87159,
+              "Extra": []
+            },
+            "Place": "right",
+            "Order": 4
           }
         ],
         "Match-Lineup": {
@@ -30102,8 +30117,8 @@
       },
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
-      "Time-Now": -1,
-      "Match-Status": "لم تبدأ",
+      "Time-Now": 1,
+      "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%8A%D8%B1%D9%88-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A7%D8%BA%D9%88%D8%A7%D9%8A&id=4035465&date=2025-09-09",
       "matchDetails": {
         "Match-Card": {
@@ -30114,18 +30129,18 @@
             "Name": "بيرو",
             "Color": "#C8102E",
             "Logo": "/assets/images/team-logo/?id=5076",
-            "Goal": "-"
+            "Goal": 0
           },
           "Team-Left": {
             "Name": "باراغواي",
             "Color": "#E62E2C",
             "Logo": "/assets/images/team-logo/?id=5070",
-            "Goal": "-"
+            "Goal": 0
           },
           "Date": "2025-09-09",
           "Time": "23:30",
           "Time-Zone": -120,
-          "Status": "لم تبدأ",
+          "Status": "الشوط الأول",
           "Round": 18,
           "Group": null
         },
@@ -30146,7 +30161,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": "N/A",
                 "Player-Name": "جاليس",
                 "Player-Logo": "/assets/images/player-logo/?id=15056",
                 "Player-ID": 486170,
@@ -30286,7 +30301,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": "N/A",
                 "Player-Name": "لوبيز",
                 "Player-Logo": "/assets/images/player-logo/?id=47139",
                 "Player-ID": 894735,
@@ -30296,7 +30311,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": "N/A",
                 "Player-Name": "زامبرانو",
                 "Player-Logo": "/assets/images/player-logo/?id=2693",
                 "Player-ID": 533478,
@@ -30306,7 +30321,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": "N/A",
                 "Player-Name": "غارسيس",
                 "Player-Logo": "/assets/images/player-logo/?id=46730",
                 "Player-ID": 482699,
@@ -30316,7 +30331,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": "N/A",
                 "Player-Name": "أدفينكولا",
                 "Player-Logo": "/assets/images/player-logo/?id=10812",
                 "Player-ID": 485232,
@@ -30326,7 +30341,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": "N/A",
                 "Player-Name": "جريمالدو",
                 "Player-Logo": "/assets/images/player-logo/?id=74048",
                 "Player-ID": 47407661,
@@ -30336,7 +30351,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": "N/A",
                 "Player-Name": "يوتون",
                 "Player-Logo": "/assets/images/player-logo/?id=16254",
                 "Player-ID": 485269,
@@ -30346,7 +30361,7 @@
               {
                 "Position": "وسط دفاعي",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": "N/A",
                 "Player-Name": "تابيا",
                 "Player-Logo": "/assets/images/player-logo/?id=7302",
                 "Player-ID": 417429,
@@ -30356,7 +30371,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": "N/A",
                 "Player-Name": "بينيا",
                 "Player-Logo": "/assets/images/player-logo/?id=44907",
                 "Player-ID": 472644,
@@ -30366,7 +30381,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 5.9,
+                "Ranking": "N/A",
                 "Player-Name": "Cabrera",
                 "Player-Logo": "/assets/images/player-logo/?id=108186",
                 "Player-ID": 64748482,
@@ -30376,7 +30391,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": "N/A",
                 "Player-Name": "Ramos",
                 "Player-Logo": "/assets/images/player-logo/?id=67413",
                 "Player-ID": 17228929,
@@ -30392,7 +30407,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": -1,
+                "Ranking": "N/A",
                 "Player-Name": "جيل",
                 "Player-Logo": "/assets/images/player-logo/?id=64017",
                 "Player-ID": 12722929,
@@ -30532,7 +30547,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": "N/A",
                 "Player-Name": "سانديز",
                 "Player-Logo": "/assets/images/player-logo/?id=91574",
                 "Player-ID": 54466365,
@@ -30542,7 +30557,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": "N/A",
                 "Player-Name": "الديريتي",
                 "Player-Logo": "/assets/images/player-logo/?id=45901",
                 "Player-ID": 3069284,
@@ -30552,7 +30567,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": "N/A",
                 "Player-Name": "غوميز",
                 "Player-Logo": "/assets/images/player-logo/?id=8233",
                 "Player-ID": 334367,
@@ -30562,7 +30577,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": "N/A",
                 "Player-Name": "فيلازكيز",
                 "Player-Logo": "/assets/images/player-logo/?id=41123",
                 "Player-ID": 543557,
@@ -30572,7 +30587,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": "N/A",
                 "Player-Name": "روميرو",
                 "Player-Logo": "/assets/images/player-logo/?id=3026",
                 "Player-ID": 348984,
@@ -30582,7 +30597,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": "N/A",
                 "Player-Name": "بوباديلا",
                 "Player-Logo": "/assets/images/player-logo/?id=87925",
                 "Player-ID": 55416459,
@@ -30592,7 +30607,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": "N/A",
                 "Player-Name": "غوميس",
                 "Player-Logo": "/assets/images/player-logo/?id=110342",
                 "Player-ID": 65296564,
@@ -30602,7 +30617,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": "N/A",
                 "Player-Name": "سوسا",
                 "Player-Logo": "/assets/images/player-logo/?id=73590",
                 "Player-ID": 46803506,
@@ -30612,7 +30627,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.1,
+                "Ranking": "N/A",
                 "Player-Name": "Martínez",
                 "Player-Logo": "/assets/images/player-logo/?id=47552",
                 "Player-ID": 3229497,
@@ -30622,7 +30637,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": "N/A",
                 "Player-Name": "سانابريا",
                 "Player-Logo": "/assets/images/player-logo/?id=6150",
                 "Player-ID": 404684,
@@ -30690,7 +30705,7 @@
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "تشيلي",
-            "Formation": "3-4-3",
+            "Formation": "4-3-3",
             "Team": [
               {
                 "Position": "حارس مرمى",
@@ -30863,6 +30878,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مدافع أيسر",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "سوازو",
+                "Player-Logo": "/assets/images/player-logo/?id=39185",
+                "Player-ID": 893355,
+                "FieldLine": 33,
+                "FieldSide": 0
+              },
+              {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
                 "Ranking": 6.7,
@@ -30870,7 +30895,7 @@
                 "Player-Logo": "/assets/images/player-logo/?id=13705",
                 "Player-ID": 612803,
                 "FieldLine": 33,
-                "FieldSide": 25
+                "FieldSide": 33
               },
               {
                 "Position": "قلب الدفاع",
@@ -30880,46 +30905,6 @@
                 "Player-Logo": "/assets/images/player-logo/?id=13352",
                 "Player-ID": 378592,
                 "FieldLine": 33,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.6,
-                "Player-Name": "إيشيفيريا",
-                "Player-Logo": "/assets/images/player-logo/?id=14401",
-                "Player-ID": 543072,
-                "FieldLine": 33,
-                "FieldSide": 75
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "سوازو",
-                "Player-Logo": "/assets/images/player-logo/?id=39185",
-                "Player-ID": 893355,
-                "FieldLine": 66,
-                "FieldSide": 0
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.8,
-                "Player-Name": "ألتاميرانو",
-                "Player-Logo": "/assets/images/player-logo/?id=53926",
-                "Player-ID": 3356569,
-                "FieldLine": 66,
-                "FieldSide": 33
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": 6.3,
-                "Player-Name": "لويولا",
-                "Player-Logo": "/assets/images/player-logo/?id=100641",
-                "Player-ID": 59992834,
-                "FieldLine": 66,
                 "FieldSide": 66
               },
               {
@@ -30929,8 +30914,38 @@
                 "Player-Name": "هورمازبال",
                 "Player-Logo": "/assets/images/player-logo/?id=14357",
                 "Player-ID": 538748,
-                "FieldLine": 66,
+                "FieldLine": 33,
                 "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.3,
+                "Player-Name": "لويولا",
+                "Player-Logo": "/assets/images/player-logo/?id=100641",
+                "Player-ID": 59992834,
+                "FieldLine": 66,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.8,
+                "Player-Name": "ألتاميرانو",
+                "Player-Logo": "/assets/images/player-logo/?id=53926",
+                "Player-ID": 3356569,
+                "FieldLine": 66,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": 6.6,
+                "Player-Name": "إيشيفيريا",
+                "Player-Logo": "/assets/images/player-logo/?id=14401",
+                "Player-ID": 543072,
+                "FieldLine": 66,
+                "FieldSide": 80
               },
               {
                 "Position": "المهاجم الصريح",
@@ -31815,7 +31830,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-09T23:30:33.373Z",
+    "lastUpdated": "2025-09-09T23:31:33.793Z",
     "count": 63
   }
 }
