@@ -31834,7 +31834,7 @@
             "Order": 1
           },
           {
-            "Event-Time": "46'",
+            "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -32724,6 +32724,27 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
+              "Name": "مينامينو",
+              "IMG": "/assets/images/player-logo/?id=14573",
+              "ID": 356467,
+              "Extra": [
+                {
+                  "Name": "سوزوكي",
+                  "IMG": "/assets/images/player-logo/?id=83481",
+                  "ID": 49988887
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 6
+          },
+          {
+            "Event-Time": "62'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
               "Name": "كامادا",
               "IMG": "/assets/images/player-logo/?id=49029",
               "ID": 834589,
@@ -32736,7 +32757,7 @@
               ]
             },
             "Place": "right",
-            "Order": 6
+            "Order": 7
           },
           {
             "Event-Time": "62'",
@@ -32753,27 +32774,6 @@
                   "Name": "ماييدا",
                   "IMG": "/assets/images/player-logo/?id=67427",
                   "ID": 14151805
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 7
-          },
-          {
-            "Event-Time": "62'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "مينامينو",
-              "IMG": "/assets/images/player-logo/?id=14573",
-              "ID": 356467,
-              "Extra": [
-                {
-                  "Name": "سوزوكي",
-                  "IMG": "/assets/images/player-logo/?id=83481",
-                  "ID": 49988887
                 }
               ]
             },
@@ -32802,7 +32802,7 @@
             "Order": 9
           },
           {
-            "Event-Time": "66'",
+            "Event-Time": "65'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -32907,14 +32907,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ماتشينو",
-              "IMG": "/assets/images/player-logo/?id=90815",
-              "ID": 56601658,
+              "Name": "سوجاوارا",
+              "IMG": "/assets/images/player-logo/?id=66964",
+              "ID": 14658185,
               "Extra": [
                 {
-                  "Name": "موتشيزوكي",
-                  "IMG": "/assets/images/player-logo/?id=154355",
-                  "ID": 71537298
+                  "Name": "أوغاوا",
+                  "IMG": "/assets/images/player-logo/?id=71350",
+                  "ID": 3070406
                 }
               ]
             },
@@ -32928,14 +32928,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "سوجاوارا",
-              "IMG": "/assets/images/player-logo/?id=66964",
-              "ID": 14658185,
+              "Name": "ماتشينو",
+              "IMG": "/assets/images/player-logo/?id=90815",
+              "ID": 56601658,
               "Extra": [
                 {
-                  "Name": "أوغاوا",
-                  "IMG": "/assets/images/player-logo/?id=71350",
-                  "ID": 3070406
+                  "Name": "موتشيزوكي",
+                  "IMG": "/assets/images/player-logo/?id=154355",
+                  "ID": 71537298
                 }
               ]
             },
@@ -33509,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T04:40:35.640Z",
+    "lastUpdated": "2025-09-10T04:41:35.611Z",
     "count": 63
   }
 }
