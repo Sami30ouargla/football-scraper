@@ -23762,6 +23762,361 @@
       }
     },
     {
+      "Cup-id": 570,
+      "Cup-Name": "مباريات ودية دولية",
+      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=570",
+      "Match-id": 4540118,
+      "Team-Right": {
+        "Name": "مصر",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5100",
+        "Goal": 3
+      },
+      "Team-Left": {
+        "Name": "تونس",
+        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5104",
+        "Goal": 0
+      },
+      "Time-Start": "2025-09-09T19:00",
+      "Time-End": "2025-09-09T21:00",
+      "Time-Now": 90,
+      "Match-Status": "انتهت",
+      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%AA%D9%88%D9%86%D8%B3&id=4540118&date=2025-09-09",
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4540118,
+          "Cup-Name": "مباريات ودية دولية",
+          "Cup-Logo": "/assets/images/cup-logo/?id=570",
+          "Team-Right": {
+            "Name": "مصر",
+            "Color": "#DE1B1B",
+            "Logo": "/assets/images/team-logo/?id=5100",
+            "Goal": 3
+          },
+          "Team-Left": {
+            "Name": "تونس",
+            "Color": "#c7d0d8",
+            "Logo": "/assets/images/team-logo/?id=5104",
+            "Goal": 0
+          },
+          "Date": "2025-09-09",
+          "Time": "19:00",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "N/A",
+          "Club-Balance": "N/A",
+          "Club-Capacity": "N/A",
+          "Tv": "أون سبورت 2"
+        },
+        "Match-Events": [
+          {
+            "Event-Time": "6'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "زكريا",
+              "IMG": "/assets/images/player-logo/?id=83061",
+              "ID": 52702549,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "18'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "م. ميسي",
+              "IMG": "/assets/images/player-logo/?id=85744",
+              "ID": 53862238,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          },
+          {
+            "Event-Time": "66'",
+            "Event-Name": "هدف",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
+            "Event-SubType-Id": 1,
+            "Event-SubType-Name": "هدف ميداني",
+            "Event-Player": {
+              "Name": "جابر",
+              "IMG": "/assets/images/player-logo/?id=49902",
+              "ID": 3517821,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 3
+          }
+        ],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "مصر",
+            "Formation": "4-3-3",
+            "Team": [
+              {
+                "Position": "حارس مرمى",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الشناوي",
+                "Player-Logo": "/assets/images/player-logo/?id=49592",
+                "Player-ID": 3487215,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": "N/A",
+                "Player-Name": "جابر",
+                "Player-Logo": "/assets/images/player-logo/?id=49902",
+                "Player-ID": 3517821,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "زكريا",
+                "Player-Logo": "/assets/images/player-logo/?id=83061",
+                "Player-ID": 52702549,
+                "FieldLine": 33,
+                "FieldSide": 0
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "العش",
+                "Player-Logo": "/assets/images/player-logo/?id=102109",
+                "Player-ID": 63024680,
+                "FieldLine": 33,
+                "FieldSide": 33
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "حمدي",
+                "Player-Logo": "/assets/images/player-logo/?id=49596",
+                "Player-ID": 3487219,
+                "FieldLine": 33,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "هاني",
+                "Player-Logo": "/assets/images/player-logo/?id=51522",
+                "Player-ID": 3391231,
+                "FieldLine": 33,
+                "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "السولية",
+                "Player-Logo": "/assets/images/player-logo/?id=49901",
+                "Player-ID": 3517820,
+                "FieldLine": 66,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "غنام",
+                "Player-Logo": "/assets/images/player-logo/?id=60444",
+                "Player-ID": 8917618,
+                "FieldLine": 66,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "أكرم",
+                "Player-Logo": "/assets/images/player-logo/?id=50181",
+                "Player-ID": 3394700,
+                "FieldLine": 66,
+                "FieldSide": 80
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الشحات",
+                "Player-Logo": "/assets/images/player-logo/?id=51614",
+                "Player-ID": 604244,
+                "FieldLine": 99,
+                "FieldSide": 0
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "منسي",
+                "Player-Logo": "/assets/images/player-logo/?id=52897",
+                "Player-ID": 4139602,
+                "FieldLine": 99,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "م. ميسي",
+                "Player-Logo": "/assets/images/player-logo/?id=85744",
+                "Player-ID": 53862238,
+                "FieldLine": 99,
+                "FieldSide": 100
+              }
+            ]
+          },
+          "Away-Team": {
+            "Team-Name": "تونس",
+            "Formation": "4-2-1-3",
+            "Team": [
+              {
+                "Position": "حارس مرمى",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "بن حسن",
+                "Player-Logo": "/assets/images/player-logo/?id=135110",
+                "Player-ID": 70788954,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مدافع أيسر",
+                "Status": "Missing",
+                "Ranking": "N/A",
+                "Player-Name": "العابدي",
+                "Player-Logo": "/assets/images/player-logo/?id=65840",
+                "Player-ID": 12548115,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "علي",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77453370,
+                "FieldLine": 25,
+                "FieldSide": 0
+              },
+              {
+                "Position": "قلب الدفاع",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "نصراوي",
+                "Player-Logo": "/assets/images/player-logo/?id=135108",
+                "Player-ID": 67938067,
+                "FieldLine": 25,
+                "FieldSide": 33
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "شيخاوي",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77453374,
+                "FieldLine": 25,
+                "FieldSide": 66
+              },
+              {
+                "Position": "مدافع أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "زعلوني",
+                "Player-Logo": "/assets/images/player-logo/?id=145659",
+                "Player-ID": 71064430,
+                "FieldLine": 25,
+                "FieldSide": 100
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الشعلالي",
+                "Player-Logo": "/assets/images/player-logo/?id=50145",
+                "Player-ID": 3563828,
+                "FieldLine": 50,
+                "FieldSide": 20
+              },
+              {
+                "Position": "لاعب الوسط الجناح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "شيرني",
+                "Player-Logo": "/assets/images/player-logo/?id=136023",
+                "Player-ID": 70781044,
+                "FieldLine": 50,
+                "FieldSide": 80
+              },
+              {
+                "Position": "N/A",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الحرزي",
+                "Player-Logo": "/assets/images/unknown-user.png",
+                "Player-ID": 77453475,
+                "FieldLine": 75,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيسر",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "دنداني",
+                "Player-Logo": "/assets/images/player-logo/?id=203242",
+                "Player-ID": 77149871,
+                "FieldLine": 100,
+                "FieldSide": 0
+              },
+              {
+                "Position": "المهاجم الصريح",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "بوسنينة",
+                "Player-Logo": "/assets/images/player-logo/?id=192487",
+                "Player-ID": 76825463,
+                "FieldLine": 100,
+                "FieldSide": 50
+              },
+              {
+                "Position": "مهاجم أيمن",
+                "Status": "Starting",
+                "Ranking": "N/A",
+                "Player-Name": "الجبالي",
+                "Player-Logo": "/assets/images/player-logo/?id=135236",
+                "Player-ID": 70791437,
+                "FieldLine": 100,
+                "FieldSide": 100
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
       "Cup-id": 645,
       "Cup-Name": "تصفيات كأس العالم إفريقيا",
       "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=645",
@@ -27963,361 +28318,6 @@
             "Team-Name": "سان مارينو",
             "Formation": "N/A",
             "Team": []
-          }
-        }
-      }
-    },
-    {
-      "Cup-id": 570,
-      "Cup-Name": "مباريات ودية دولية",
-      "Cup-Logo": "https://www.yalla-shoot-365.com/assets/images/cup-logo/?id=570",
-      "Match-id": 4540118,
-      "Team-Right": {
-        "Name": "مصر",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5100",
-        "Goal": 3
-      },
-      "Team-Left": {
-        "Name": "تونس",
-        "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5104",
-        "Goal": 0
-      },
-      "Time-Start": "2025-09-09T19:00",
-      "Time-End": "2025-09-09T21:00",
-      "Time-Now": 90,
-      "Match-Status": "انتهت",
-      "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%85%D8%B5%D8%B1-%D8%B6%D8%AF-%D8%AA%D9%88%D9%86%D8%B3&id=4540118&date=2025-09-09",
-      "matchDetails": {
-        "Match-Card": {
-          "Match-id": 4540118,
-          "Cup-Name": "مباريات ودية دولية",
-          "Cup-Logo": "/assets/images/cup-logo/?id=570",
-          "Team-Right": {
-            "Name": "مصر",
-            "Color": "#DE1B1B",
-            "Logo": "/assets/images/team-logo/?id=5100",
-            "Goal": 3
-          },
-          "Team-Left": {
-            "Name": "تونس",
-            "Color": "#c7d0d8",
-            "Logo": "/assets/images/team-logo/?id=5104",
-            "Goal": 0
-          },
-          "Date": "2025-09-09",
-          "Time": "19:00",
-          "Time-Zone": -120,
-          "Status": "انتهت",
-          "Round": null,
-          "Group": null
-        },
-        "Match-Info": {
-          "Match-Referee": "N/A",
-          "Match-Video": "N/A",
-          "Club-Name": "N/A",
-          "Club-Balance": "N/A",
-          "Club-Capacity": "N/A",
-          "Tv": "أون سبورت 2"
-        },
-        "Match-Events": [
-          {
-            "Event-Time": "6'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "زكريا",
-              "IMG": "/assets/images/player-logo/?id=83061",
-              "ID": 52702549,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 1
-          },
-          {
-            "Event-Time": "18'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "م. ميسي",
-              "IMG": "/assets/images/player-logo/?id=85744",
-              "ID": 53862238,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 2
-          },
-          {
-            "Event-Time": "66'",
-            "Event-Name": "هدف",
-            "Event-Logo": "/assets/images/event-logo/?id=1&subType=1",
-            "Event-SubType-Id": 1,
-            "Event-SubType-Name": "هدف ميداني",
-            "Event-Player": {
-              "Name": "جابر",
-              "IMG": "/assets/images/player-logo/?id=49902",
-              "ID": 3517821,
-              "Extra": []
-            },
-            "Place": "left",
-            "Order": 3
-          }
-        ],
-        "Match-Lineup": {
-          "Home-Team": {
-            "Team-Name": "مصر",
-            "Formation": "4-3-3",
-            "Team": [
-              {
-                "Position": "حارس مرمى",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الشناوي",
-                "Player-Logo": "/assets/images/player-logo/?id=49592",
-                "Player-ID": 3487215,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "جابر",
-                "Player-Logo": "/assets/images/player-logo/?id=49902",
-                "Player-ID": 3517821,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "زكريا",
-                "Player-Logo": "/assets/images/player-logo/?id=83061",
-                "Player-ID": 52702549,
-                "FieldLine": 33,
-                "FieldSide": 0
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "العش",
-                "Player-Logo": "/assets/images/player-logo/?id=102109",
-                "Player-ID": 63024680,
-                "FieldLine": 33,
-                "FieldSide": 33
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "حمدي",
-                "Player-Logo": "/assets/images/player-logo/?id=49596",
-                "Player-ID": 3487219,
-                "FieldLine": 33,
-                "FieldSide": 66
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "هاني",
-                "Player-Logo": "/assets/images/player-logo/?id=51522",
-                "Player-ID": 3391231,
-                "FieldLine": 33,
-                "FieldSide": 100
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "السولية",
-                "Player-Logo": "/assets/images/player-logo/?id=49901",
-                "Player-ID": 3517820,
-                "FieldLine": 66,
-                "FieldSide": 20
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "غنام",
-                "Player-Logo": "/assets/images/player-logo/?id=60444",
-                "Player-ID": 8917618,
-                "FieldLine": 66,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "أكرم",
-                "Player-Logo": "/assets/images/player-logo/?id=50181",
-                "Player-ID": 3394700,
-                "FieldLine": 66,
-                "FieldSide": 80
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الشحات",
-                "Player-Logo": "/assets/images/player-logo/?id=51614",
-                "Player-ID": 604244,
-                "FieldLine": 99,
-                "FieldSide": 0
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "منسي",
-                "Player-Logo": "/assets/images/player-logo/?id=52897",
-                "Player-ID": 4139602,
-                "FieldLine": 99,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "م. ميسي",
-                "Player-Logo": "/assets/images/player-logo/?id=85744",
-                "Player-ID": 53862238,
-                "FieldLine": 99,
-                "FieldSide": 100
-              }
-            ]
-          },
-          "Away-Team": {
-            "Team-Name": "تونس",
-            "Formation": "4-2-1-3",
-            "Team": [
-              {
-                "Position": "حارس مرمى",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "بن حسن",
-                "Player-Logo": "/assets/images/player-logo/?id=135110",
-                "Player-ID": 70788954,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مدافع أيسر",
-                "Status": "Missing",
-                "Ranking": "N/A",
-                "Player-Name": "العابدي",
-                "Player-Logo": "/assets/images/player-logo/?id=65840",
-                "Player-ID": 12548115,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "N/A",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "علي",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77453370,
-                "FieldLine": 25,
-                "FieldSide": 0
-              },
-              {
-                "Position": "قلب الدفاع",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "نصراوي",
-                "Player-Logo": "/assets/images/player-logo/?id=135108",
-                "Player-ID": 67938067,
-                "FieldLine": 25,
-                "FieldSide": 33
-              },
-              {
-                "Position": "N/A",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "شيخاوي",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77453374,
-                "FieldLine": 25,
-                "FieldSide": 66
-              },
-              {
-                "Position": "مدافع أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "زعلوني",
-                "Player-Logo": "/assets/images/player-logo/?id=145659",
-                "Player-ID": 71064430,
-                "FieldLine": 25,
-                "FieldSide": 100
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الشعلالي",
-                "Player-Logo": "/assets/images/player-logo/?id=50145",
-                "Player-ID": 3563828,
-                "FieldLine": 50,
-                "FieldSide": 20
-              },
-              {
-                "Position": "لاعب الوسط الجناح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "شيرني",
-                "Player-Logo": "/assets/images/player-logo/?id=136023",
-                "Player-ID": 70781044,
-                "FieldLine": 50,
-                "FieldSide": 80
-              },
-              {
-                "Position": "N/A",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الحرزي",
-                "Player-Logo": "/assets/images/unknown-user.png",
-                "Player-ID": 77453475,
-                "FieldLine": 75,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيسر",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "دنداني",
-                "Player-Logo": "/assets/images/player-logo/?id=203242",
-                "Player-ID": 77149871,
-                "FieldLine": 100,
-                "FieldSide": 0
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "بوسنينة",
-                "Player-Logo": "/assets/images/player-logo/?id=192487",
-                "Player-ID": 76825463,
-                "FieldLine": 100,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Starting",
-                "Ranking": "N/A",
-                "Player-Name": "الجبالي",
-                "Player-Logo": "/assets/images/player-logo/?id=135236",
-                "Player-ID": 70791437,
-                "FieldLine": 100,
-                "FieldSide": 100
-              }
-            ]
           }
         }
       }
@@ -33509,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T05:52:36.933Z",
+    "lastUpdated": "2025-09-10T05:53:35.506Z",
     "count": 63
   }
 }
