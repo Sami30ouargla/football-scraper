@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 53,
+      "Time-Now": 54,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -28761,7 +28761,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7,
                 "Player-Name": "فالينسيا",
                 "Player-Logo": "/assets/images/player-logo/?id=467",
                 "Player-ID": 374678,
@@ -28787,7 +28787,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Substitute",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "فويث",
                 "Player-Logo": "/assets/images/player-logo/?id=47094",
                 "Player-ID": 3219207,
@@ -28967,7 +28967,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.4,
                 "Player-Name": "بيلاردي",
                 "Player-Logo": "/assets/images/player-logo/?id=61001",
                 "Player-ID": 9412443,
@@ -29007,7 +29007,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.9,
                 "Player-Name": "جونزاليس",
                 "Player-Logo": "/assets/images/player-logo/?id=45027",
                 "Player-ID": 3144433,
@@ -29057,7 +29057,7 @@
       "Team-Right": {
         "Name": "بوليفيا",
         "Logo": "https://www.yalla-shoot-365.com/assets/images/team-logo/?id=5077",
-        "Goal": 0
+        "Goal": 1
       },
       "Team-Left": {
         "Name": "البرازيل",
@@ -29066,7 +29066,7 @@
       },
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
-      "Time-Now": 48,
+      "Time-Now": 49,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%88%D9%84%D9%8A%D9%81%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84&id=4035462&date=2025-09-09",
       "matchDetails": {
@@ -29078,7 +29078,7 @@
             "Name": "بوليفيا",
             "Color": "#007029",
             "Logo": "/assets/images/team-logo/?id=5077",
-            "Goal": 0
+            "Goal": 1
           },
           "Team-Left": {
             "Name": "البرازيل",
@@ -29101,7 +29101,44 @@
           "Club-Capacity": 45000,
           "Tv": "N/A"
         },
-        "Match-Events": [],
+        "Match-Events": [
+          {
+            "Event-Time": "45'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "روتشا",
+              "IMG": "/assets/images/player-logo/?id=106799",
+              "ID": 60431186,
+              "Extra": [
+                {
+                  "Name": "ميدينا",
+                  "IMG": "/assets/images/player-logo/?id=101056",
+                  "ID": 56636501
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 1
+          },
+          {
+            "Event-Time": "45'",
+            "Event-Name": "هدف من ركلة جزاء",
+            "Event-Logo": "/assets/images/event-logo/?id=1&subType=3",
+            "Event-SubType-Id": 3,
+            "Event-SubType-Name": "ركلة جزاء",
+            "Event-Player": {
+              "Name": "ميغيليتو",
+              "IMG": "/assets/images/player-logo/?id=119810",
+              "ID": 66813042,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 2
+          }
+        ],
         "Match-Lineup": {
           "Home-Team": {
             "Team-Name": "بوليفيا",
@@ -29340,7 +29377,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 8,
                 "Player-Name": "ميغيليتو",
                 "Player-Logo": "/assets/images/player-logo/?id=119810",
                 "Player-ID": 66813042,
@@ -29356,7 +29393,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 7.3,
+                "Ranking": 6.8,
                 "Player-Name": "أليسون",
                 "Player-Logo": "/assets/images/player-logo/?id=10896",
                 "Player-ID": 558151,
@@ -29516,7 +29553,7 @@
               {
                 "Position": "مدافع أيسر",
                 "Status": "Starting",
-                "Ranking": 6.6,
+                "Ranking": 6.4,
                 "Player-Name": "هنريكي",
                 "Player-Logo": "/assets/images/player-logo/?id=47102",
                 "Player-ID": 3135331,
@@ -29526,7 +29563,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 5.9,
+                "Ranking": 5.7,
                 "Player-Name": "ريبيرو",
                 "Player-Logo": "/assets/images/player-logo/?id=113061",
                 "Player-ID": 60984745,
@@ -29536,7 +29573,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.6,
                 "Player-Name": "برونو",
                 "Player-Logo": "/assets/images/player-logo/?id=42215",
                 "Player-ID": 3072682,
@@ -29546,7 +29583,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.2,
                 "Player-Name": "فيتينيو",
                 "Player-Logo": "/assets/images/player-logo/?id=61478",
                 "Player-ID": 7153495,
@@ -29556,7 +29593,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.9,
+                "Ranking": 6,
                 "Player-Name": "جيماريش",
                 "Player-Logo": "/assets/images/player-logo/?id=48762",
                 "Player-ID": 3373029,
@@ -29566,7 +29603,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.3,
                 "Player-Name": "سانتوس",
                 "Player-Logo": "/assets/images/player-logo/?id=109492",
                 "Player-ID": 65131542,
@@ -29576,7 +29613,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.3,
                 "Player-Name": "باكيتا",
                 "Player-Logo": "/assets/images/player-logo/?id=41768",
                 "Player-ID": 1767155,
@@ -29586,7 +29623,7 @@
               {
                 "Position": "مهاجم أيسر",
                 "Status": "Starting",
-                "Ranking": 6.3,
+                "Ranking": 6.2,
                 "Player-Name": "لينو",
                 "Player-Logo": "/assets/images/player-logo/?id=68901",
                 "Player-ID": 3263629,
@@ -29606,7 +29643,7 @@
               {
                 "Position": "مهاجم أيمن",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 6.9,
                 "Player-Name": "هنريكي",
                 "Player-Logo": "/assets/images/player-logo/?id=79536",
                 "Player-ID": 50515578,
@@ -29635,7 +29672,7 @@
       },
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
-      "Time-Now": 48,
+      "Time-Now": 49,
       "Match-Status": "الشوط الأول",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D9%81%D9%86%D8%B2%D9%88%D9%8A%D9%84%D8%A7-%D8%B6%D8%AF-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7&id=4035464&date=2025-09-09",
       "matchDetails": {
@@ -32089,7 +32126,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T00:23:33.534Z",
+    "lastUpdated": "2025-09-10T00:24:33.511Z",
     "count": 63
   }
 }
