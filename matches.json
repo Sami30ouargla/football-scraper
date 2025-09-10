@@ -29293,7 +29293,7 @@
         },
         "Match-Info": {
           "Match-Referee": "Cristián Marcelo Garay Reyes",
-          "Match-Video": "N/A",
+          "Match-Video": "https://www.youtube.com/watch?v=Tb3c7N6R7Sk",
           "Club-Name": "ملعب ايل التو",
           "Club-Balance": "N/A",
           "Club-Capacity": "N/A",
@@ -29337,7 +29337,7 @@
             "Order": 2
           },
           {
-            "Event-Time": "60'",
+            "Event-Time": "62'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -31038,6 +31038,27 @@
             "Order": 1
           },
           {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فوندا",
+              "IMG": "/assets/images/player-logo/?id=90655",
+              "ID": 56180109,
+              "Extra": [
+                {
+                  "Name": "روميرو",
+                  "IMG": "/assets/images/player-logo/?id=3026",
+                  "ID": 348984
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 2
+          },
+          {
             "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -31052,27 +31073,6 @@
                   "Name": "Martínez",
                   "IMG": "/assets/images/player-logo/?id=47552",
                   "ID": 3229497
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 2
-          },
-          {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "فوندا",
-              "IMG": "/assets/images/player-logo/?id=90655",
-              "ID": 56180109,
-              "Extra": [
-                {
-                  "Name": "روميرو",
-                  "IMG": "/assets/images/player-logo/?id=3026",
-                  "ID": 348984
                 }
               ]
             },
@@ -33509,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T03:07:33.028Z",
+    "lastUpdated": "2025-09-10T03:08:34.145Z",
     "count": 63
   }
 }
