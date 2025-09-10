@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 62,
+      "Time-Now": 63,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -28529,14 +28529,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بايز",
-              "IMG": "/assets/images/player-logo/?id=126523",
-              "ID": 67710920,
+              "Name": "Alcivar",
+              "IMG": "/assets/images/player-logo/?id=61733",
+              "ID": 8710183,
               "Extra": [
                 {
-                  "Name": "فالينسيا",
-                  "IMG": "/assets/images/player-logo/?id=467",
-                  "ID": 374678
+                  "Name": "أنجولو",
+                  "IMG": "/assets/images/player-logo/?id=100177",
+                  "ID": 59993290
                 }
               ]
             },
@@ -28550,19 +28550,61 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Alcivar",
-              "IMG": "/assets/images/player-logo/?id=61733",
-              "ID": 8710183,
+              "Name": "بايز",
+              "IMG": "/assets/images/player-logo/?id=126523",
+              "ID": 67710920,
               "Extra": [
                 {
-                  "Name": "أنجولو",
-                  "IMG": "/assets/images/player-logo/?id=100177",
-                  "ID": 59993290
+                  "Name": "فالينسيا",
+                  "IMG": "/assets/images/player-logo/?id=467",
+                  "ID": 374678
                 }
               ]
             },
             "Place": "left",
             "Order": 11
+          },
+          {
+            "Event-Time": "62'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ماستانتونو",
+              "IMG": "/assets/images/player-logo/?id=146096",
+              "ID": 71088015,
+              "Extra": [
+                {
+                  "Name": "باريديس",
+                  "IMG": "/assets/images/player-logo/?id=6145",
+                  "ID": 529331
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 12
+          },
+          {
+            "Event-Time": "62'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "ألفاريز",
+              "IMG": "/assets/images/player-logo/?id=61973",
+              "ID": 9638719,
+              "Extra": [
+                {
+                  "Name": "مارتينيز",
+                  "IMG": "/assets/images/player-logo/?id=38667",
+                  "ID": 925369
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 13
           }
         ],
         "Match-Lineup": {
@@ -28603,7 +28645,7 @@
               {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "يبواه",
                 "Player-Logo": "/assets/images/player-logo/?id=61954",
                 "Player-ID": 4913062,
@@ -28827,6 +28869,16 @@
                 "FieldSide": 50
               },
               {
+                "Position": "المهاجم الصريح",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "ألفاريز",
+                "Player-Logo": "/assets/images/player-logo/?id=61973",
+                "Player-ID": 9638719,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مدافع أيمن",
                 "Status": "Substitute",
                 "Ranking": 6.6,
@@ -28837,22 +28889,22 @@
                 "FieldSide": 50
               },
               {
+                "Position": "مهاجم أيمن",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "ماستانتونو",
+                "Player-Logo": "/assets/images/player-logo/?id=146096",
+                "Player-ID": 71088015,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "مدافع أيسر",
                 "Status": "Substitute",
                 "Ranking": "N/A",
                 "Player-Name": "اكونيه",
                 "Player-Logo": "/assets/images/player-logo/?id=8268",
                 "Player-ID": 406471,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "المهاجم الصريح",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ألفاريز",
-                "Player-Logo": "/assets/images/player-logo/?id=61973",
-                "Player-ID": 9638719,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -28883,16 +28935,6 @@
                 "Player-Name": "لوبيز",
                 "Player-Logo": "/assets/images/player-logo/?id=87121",
                 "Player-ID": 54050192,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "مهاجم أيمن",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "ماستانتونو",
-                "Player-Logo": "/assets/images/player-logo/?id=146096",
-                "Player-ID": 71088015,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -32168,7 +32210,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T00:32:36.981Z",
+    "lastUpdated": "2025-09-10T00:33:33.377Z",
     "count": 63
   }
 }
