@@ -29406,14 +29406,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بيدرو",
-              "IMG": "/assets/images/player-logo/?id=67143",
-              "ID": 12774012,
+              "Name": "إستيفاو",
+              "IMG": "/assets/images/player-logo/?id=125399",
+              "ID": 67122760,
               "Extra": [
                 {
-                  "Name": "ريتشارليسون",
-                  "IMG": "/assets/images/player-logo/?id=39936",
-                  "ID": 856146
+                  "Name": "هنريكي",
+                  "IMG": "/assets/images/player-logo/?id=79536",
+                  "ID": 50515578
                 }
               ]
             },
@@ -29427,14 +29427,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "إستيفاو",
-              "IMG": "/assets/images/player-logo/?id=125399",
-              "ID": 67122760,
+              "Name": "بيدرو",
+              "IMG": "/assets/images/player-logo/?id=67143",
+              "ID": 12774012,
               "Extra": [
                 {
-                  "Name": "هنريكي",
-                  "IMG": "/assets/images/player-logo/?id=79536",
-                  "ID": 50515578
+                  "Name": "ريتشارليسون",
+                  "IMG": "/assets/images/player-logo/?id=39936",
+                  "ID": 856146
                 }
               ]
             },
@@ -29692,7 +29692,7 @@
               {
                 "Position": "مدافع أيمن",
                 "Status": "Starting",
-                "Ranking": 7.1,
+                "Ranking": 7.3,
                 "Player-Name": "ميدينا",
                 "Player-Logo": "/assets/images/player-logo/?id=101056",
                 "Player-ID": 56636501,
@@ -31038,27 +31038,6 @@
             "Order": 1
           },
           {
-            "Event-Time": "45+1'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "فوندا",
-              "IMG": "/assets/images/player-logo/?id=90655",
-              "ID": 56180109,
-              "Extra": [
-                {
-                  "Name": "روميرو",
-                  "IMG": "/assets/images/player-logo/?id=3026",
-                  "ID": 348984
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 2
-          },
-          {
             "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -31073,6 +31052,27 @@
                   "Name": "Martínez",
                   "IMG": "/assets/images/player-logo/?id=47552",
                   "ID": 3229497
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 2
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فوندا",
+              "IMG": "/assets/images/player-logo/?id=90655",
+              "ID": 56180109,
+              "Extra": [
+                {
+                  "Name": "روميرو",
+                  "IMG": "/assets/images/player-logo/?id=3026",
+                  "ID": 348984
                 }
               ]
             },
@@ -31834,7 +31834,7 @@
             "Order": 1
           },
           {
-            "Event-Time": "45+1'",
+            "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -33509,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T01:53:34.639Z",
+    "lastUpdated": "2025-09-10T01:54:36.027Z",
     "count": 63
   }
 }
