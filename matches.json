@@ -3002,7 +3002,52 @@
       "Time-Now": 90,
       "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%B3%D9%86%D8%BA%D8%A7%D9%81%D9%88%D8%B1%D8%A9-%D8%AA%D8%AD%D8%AA-23-%D8%B6%D8%AF-%D8%A8%D9%86%D8%BA%D9%84%D8%A7%D8%AF%D8%B4-%D8%AA%D8%AD%D8%AA-23&id=4433021&date=2025-09-09",
-      "matchDetails": null
+      "matchDetails": {
+        "Match-Card": {
+          "Match-id": 4433021,
+          "Cup-Name": "كأس آسيا تحت 23 سنة",
+          "Cup-Logo": "/assets/images/cup-logo/?id=6332",
+          "Team-Right": {
+            "Name": "سنغافورة تحت 23",
+            "Color": "#7f97ab",
+            "Logo": "/assets/images/team-logo/?id=48232",
+            "Goal": 1
+          },
+          "Team-Left": {
+            "Name": "بنغلادش تحت 23",
+            "Color": "#c7d0d8",
+            "Logo": "/assets/images/team-logo/?id=48235",
+            "Goal": 4
+          },
+          "Date": "2025-09-09",
+          "Time": "09:00",
+          "Time-Zone": -120,
+          "Status": "انتهت",
+          "Round": null,
+          "Group": null
+        },
+        "Match-Info": {
+          "Match-Referee": "N/A",
+          "Match-Video": "N/A",
+          "Club-Name": "ملعب فيت تري",
+          "Club-Balance": "N/A",
+          "Club-Capacity": 18000,
+          "Tv": "N/A"
+        },
+        "Match-Events": [],
+        "Match-Lineup": {
+          "Home-Team": {
+            "Team-Name": "سنغافورة تحت 23",
+            "Formation": "N/A",
+            "Team": []
+          },
+          "Away-Team": {
+            "Team-Name": "بنغلادش تحت 23",
+            "Formation": "N/A",
+            "Team": []
+          }
+        }
+      }
     },
     {
       "Cup-id": 6332,
@@ -33464,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T22:52:29.086Z",
+    "lastUpdated": "2025-09-10T22:53:41.738Z",
     "count": 63
   }
 }
