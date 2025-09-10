@@ -22143,7 +22143,7 @@
             "Order": 10
           },
           {
-            "Event-Time": "81'",
+            "Event-Time": "82'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -22269,7 +22269,7 @@
             "Order": 16
           },
           {
-            "Event-Time": "90'",
+            "Event-Time": "89'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -31015,7 +31015,7 @@
         },
         "Match-Info": {
           "Match-Referee": "Maximiliano Ramírez",
-          "Match-Video": "N/A",
+          "Match-Video": "https://www.youtube.com/watch?v=EvPwxs6MoPs",
           "Club-Name": "ملعب كوستاريكا الوطني",
           "Club-Balance": "N/A",
           "Club-Capacity": 45574,
@@ -31038,27 +31038,6 @@
             "Order": 1
           },
           {
-            "Event-Time": "45+1'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "فوندا",
-              "IMG": "/assets/images/player-logo/?id=90655",
-              "ID": 56180109,
-              "Extra": [
-                {
-                  "Name": "روميرو",
-                  "IMG": "/assets/images/player-logo/?id=3026",
-                  "ID": 348984
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 2
-          },
-          {
             "Event-Time": "46'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -31073,6 +31052,27 @@
                   "Name": "Martínez",
                   "IMG": "/assets/images/player-logo/?id=47552",
                   "ID": 3229497
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 2
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فوندا",
+              "IMG": "/assets/images/player-logo/?id=90655",
+              "ID": 56180109,
+              "Extra": [
+                {
+                  "Name": "روميرو",
+                  "IMG": "/assets/images/player-logo/?id=3026",
+                  "ID": 348984
                 }
               ]
             },
@@ -33509,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T03:44:34.946Z",
+    "lastUpdated": "2025-09-10T03:45:35.973Z",
     "count": 63
   }
 }
