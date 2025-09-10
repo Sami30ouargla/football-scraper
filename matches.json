@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 59,
+      "Time-Now": 60,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -28521,6 +28521,48 @@
             },
             "Place": "left",
             "Order": 9
+          },
+          {
+            "Event-Time": "59'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "Alcivar",
+              "IMG": "/assets/images/player-logo/?id=61733",
+              "ID": 8710183,
+              "Extra": [
+                {
+                  "Name": "أنجولو",
+                  "IMG": "/assets/images/player-logo/?id=100177",
+                  "ID": 59993290
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 10
+          },
+          {
+            "Event-Time": "59'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بايز",
+              "IMG": "/assets/images/player-logo/?id=126523",
+              "ID": 67710920,
+              "Extra": [
+                {
+                  "Name": "فالينسيا",
+                  "IMG": "/assets/images/player-logo/?id=467",
+                  "ID": 374678
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 11
           }
         ],
         "Match-Lineup": {
@@ -28539,22 +28581,32 @@
                 "FieldSide": 50
               },
               {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "Alcivar",
+                "Player-Logo": "/assets/images/player-logo/?id=61733",
+                "Player-ID": 8710183,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "بايز",
+                "Player-Logo": "/assets/images/player-logo/?id=126523",
+                "Player-ID": 67710920,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
                 "Position": "لاعب الوسط المهاجم",
                 "Status": "Substitute",
                 "Ranking": -1,
                 "Player-Name": "يبواه",
                 "Player-Logo": "/assets/images/player-logo/?id=61954",
                 "Player-ID": 4913062,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "Alcivar",
-                "Player-Logo": "/assets/images/player-logo/?id=61733",
-                "Player-ID": 8710183,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -28595,16 +28647,6 @@
                 "Player-Name": "ميندا",
                 "Player-Logo": "/assets/images/player-logo/?id=97313",
                 "Player-ID": 59185659,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "بايز",
-                "Player-Logo": "/assets/images/player-logo/?id=126523",
-                "Player-ID": 67710920,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -28997,7 +29039,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.4,
+                "Ranking": 6.5,
                 "Player-Name": "دي بول",
                 "Player-Logo": "/assets/images/player-logo/?id=6790",
                 "Player-ID": 354777,
@@ -32126,7 +32168,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T00:29:33.468Z",
+    "lastUpdated": "2025-09-10T00:30:33.098Z",
     "count": 63
   }
 }
