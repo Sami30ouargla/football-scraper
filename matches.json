@@ -23914,7 +23914,7 @@
             "Order": 5
           },
           {
-            "Event-Time": "74'",
+            "Event-Time": "75'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
             "Event-SubType-Id": -1,
@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 63,
+      "Time-Now": 64,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -28529,14 +28529,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "Alcivar",
-              "IMG": "/assets/images/player-logo/?id=61733",
-              "ID": 8710183,
+              "Name": "بايز",
+              "IMG": "/assets/images/player-logo/?id=126523",
+              "ID": 67710920,
               "Extra": [
                 {
-                  "Name": "أنجولو",
-                  "IMG": "/assets/images/player-logo/?id=100177",
-                  "ID": 59993290
+                  "Name": "فالينسيا",
+                  "IMG": "/assets/images/player-logo/?id=467",
+                  "ID": 374678
                 }
               ]
             },
@@ -28550,14 +28550,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "بايز",
-              "IMG": "/assets/images/player-logo/?id=126523",
-              "ID": 67710920,
+              "Name": "Alcivar",
+              "IMG": "/assets/images/player-logo/?id=61733",
+              "ID": 8710183,
               "Extra": [
                 {
-                  "Name": "فالينسيا",
-                  "IMG": "/assets/images/player-logo/?id=467",
-                  "ID": 374678
+                  "Name": "أنجولو",
+                  "IMG": "/assets/images/player-logo/?id=100177",
+                  "ID": 59993290
                 }
               ]
             },
@@ -30413,8 +30413,8 @@
       },
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
-      "Time-Now": 45,
-      "Match-Status": "شوط",
+      "Time-Now": 46,
+      "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%8A%D8%B1%D9%88-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A7%D8%BA%D9%88%D8%A7%D9%8A&id=4035465&date=2025-09-09",
       "matchDetails": {
         "Match-Card": {
@@ -30436,7 +30436,7 @@
           "Date": "2025-09-09",
           "Time": "23:30",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": 18,
           "Group": null
         },
@@ -30463,6 +30463,27 @@
             },
             "Place": "right",
             "Order": 1
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "فوندا",
+              "IMG": "/assets/images/player-logo/?id=90655",
+              "ID": 56180109,
+              "Extra": [
+                {
+                  "Name": "روميرو",
+                  "IMG": "/assets/images/player-logo/?id=3026",
+                  "ID": 348984
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
@@ -30623,7 +30644,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.6,
                 "Player-Name": "زامبرانو",
                 "Player-Logo": "/assets/images/player-logo/?id=2693",
                 "Player-ID": 533478,
@@ -30653,7 +30674,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 6.5,
+                "Ranking": 6.4,
                 "Player-Name": "Cabrera",
                 "Player-Logo": "/assets/images/player-logo/?id=108186",
                 "Player-ID": 64748482,
@@ -30663,7 +30684,7 @@
               {
                 "Position": "لاعب الوسط المحور",
                 "Status": "Starting",
-                "Ranking": 7,
+                "Ranking": 6.9,
                 "Player-Name": "يوتون",
                 "Player-Logo": "/assets/images/player-logo/?id=16254",
                 "Player-ID": 485269,
@@ -30703,7 +30724,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.8,
+                "Ranking": 6.7,
                 "Player-Name": "Ramos",
                 "Player-Logo": "/assets/images/player-logo/?id=67413",
                 "Player-ID": 17228929,
@@ -30723,6 +30744,16 @@
                 "Player-Name": "جيل",
                 "Player-Logo": "/assets/images/player-logo/?id=64017",
                 "Player-ID": 12722929,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "فوندا",
+                "Player-Logo": "/assets/images/player-logo/?id=90655",
+                "Player-ID": 56180109,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -30783,16 +30814,6 @@
                 "Player-Name": "فيرنانديز",
                 "Player-Logo": "/assets/images/player-logo/?id=7538",
                 "Player-ID": 482282,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "فوندا",
-                "Player-Logo": "/assets/images/player-logo/?id=90655",
-                "Player-ID": 56180109,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -31001,7 +31022,7 @@
           "Date": "2025-09-09",
           "Time": "23:30",
           "Time-Zone": -120,
-          "Status": "شوط",
+          "Status": "الشوط الثاني",
           "Round": 18,
           "Group": null
         },
@@ -31028,6 +31049,27 @@
             },
             "Place": "left",
             "Order": 1
+          },
+          {
+            "Event-Time": "45+1'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "بيزارو",
+              "IMG": "/assets/images/player-logo/?id=74554",
+              "ID": 40774820,
+              "Extra": [
+                {
+                  "Name": "لويولا",
+                  "IMG": "/assets/images/player-logo/?id=100641",
+                  "ID": 59992834
+                }
+              ]
+            },
+            "Place": "left",
+            "Order": 2
           }
         ],
         "Match-Lineup": {
@@ -31042,6 +31084,16 @@
                 "Player-Name": "فيغوروكس",
                 "Player-Logo": "/assets/images/player-logo/?id=61077",
                 "Player-ID": 3130171,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المحور",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "بيزارو",
+                "Player-Logo": "/assets/images/player-logo/?id=74554",
+                "Player-ID": 40774820,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -31102,16 +31154,6 @@
                 "Player-Name": "Gutiérrez",
                 "Player-Logo": "/assets/images/player-logo/?id=116842",
                 "Player-ID": 66538956,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المحور",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "بيزارو",
-                "Player-Logo": "/assets/images/player-logo/?id=74554",
-                "Player-ID": 40774820,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -32210,7 +32252,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T00:33:33.377Z",
+    "lastUpdated": "2025-09-10T00:34:34.415Z",
     "count": 63
   }
 }
