@@ -30070,7 +30070,7 @@
           "Date": "2025-09-09",
           "Time": "23:30",
           "Time-Zone": -120,
-          "Status": "انتهت للتو",
+          "Status": "انتهت",
           "Round": 18,
           "Group": null
         },
@@ -32580,7 +32580,7 @@
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
       "Time-Now": 90,
-      "Match-Status": "انتهت للتو",
+      "Match-Status": "انتهت",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86&id=4427219&date=2025-09-09",
       "matchDetails": {
         "Match-Card": {
@@ -32602,7 +32602,7 @@
           "Date": "2025-09-09",
           "Time": "23:30",
           "Time-Zone": -120,
-          "Status": "انتهت للتو",
+          "Status": "انتهت",
           "Round": null,
           "Group": null
         },
@@ -32709,27 +32709,6 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "مينامينو",
-              "IMG": "/assets/images/player-logo/?id=14573",
-              "ID": 356467,
-              "Extra": [
-                {
-                  "Name": "سوزوكي",
-                  "IMG": "/assets/images/player-logo/?id=83481",
-                  "ID": 49988887
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 6
-          },
-          {
-            "Event-Time": "62'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
               "Name": "كامادا",
               "IMG": "/assets/images/player-logo/?id=49029",
               "ID": 834589,
@@ -32742,7 +32721,7 @@
               ]
             },
             "Place": "right",
-            "Order": 7
+            "Order": 6
           },
           {
             "Event-Time": "62'",
@@ -32759,6 +32738,27 @@
                   "Name": "ماييدا",
                   "IMG": "/assets/images/player-logo/?id=67427",
                   "ID": 14151805
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 7
+          },
+          {
+            "Event-Time": "62'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "مينامينو",
+              "IMG": "/assets/images/player-logo/?id=14573",
+              "ID": 356467,
+              "Extra": [
+                {
+                  "Name": "سوزوكي",
+                  "IMG": "/assets/images/player-logo/?id=83481",
+                  "ID": 49988887
                 }
               ]
             },
@@ -32892,14 +32892,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "سوجاوارا",
-              "IMG": "/assets/images/player-logo/?id=66964",
-              "ID": 14658185,
+              "Name": "ماتشينو",
+              "IMG": "/assets/images/player-logo/?id=90815",
+              "ID": 56601658,
               "Extra": [
                 {
-                  "Name": "أوغاوا",
-                  "IMG": "/assets/images/player-logo/?id=71350",
-                  "ID": 3070406
+                  "Name": "موتشيزوكي",
+                  "IMG": "/assets/images/player-logo/?id=154355",
+                  "ID": 71537298
                 }
               ]
             },
@@ -32913,14 +32913,14 @@
             "Event-SubType-Id": -1,
             "Event-SubType-Name": "N/A",
             "Event-Player": {
-              "Name": "ماتشينو",
-              "IMG": "/assets/images/player-logo/?id=90815",
-              "ID": 56601658,
+              "Name": "سوجاوارا",
+              "IMG": "/assets/images/player-logo/?id=66964",
+              "ID": 14658185,
               "Extra": [
                 {
-                  "Name": "موتشيزوكي",
-                  "IMG": "/assets/images/player-logo/?id=154355",
-                  "ID": 71537298
+                  "Name": "أوغاوا",
+                  "IMG": "/assets/images/player-logo/?id=71350",
+                  "ID": 3070406
                 }
               ]
             },
@@ -33494,7 +33494,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T01:43:33.618Z",
+    "lastUpdated": "2025-09-10T01:44:34.068Z",
     "count": 63
   }
 }
