@@ -28339,7 +28339,7 @@
       },
       "Time-Start": "2025-09-09T23:00",
       "Time-End": "2025-09-10T01:00",
-      "Time-Now": 66,
+      "Time-Now": 67,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A7%D9%84%D8%A5%D9%83%D9%88%D8%A7%D8%AF%D9%88%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D8%A3%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&id=4035463&date=2025-09-09",
       "matchDetails": {
@@ -30428,7 +30428,7 @@
       },
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
-      "Time-Now": 48,
+      "Time-Now": 49,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%A8%D9%8A%D8%B1%D9%88-%D8%B6%D8%AF-%D8%A8%D8%A7%D8%B1%D8%A7%D8%BA%D9%88%D8%A7%D9%8A&id=4035465&date=2025-09-09",
       "matchDetails": {
@@ -30499,6 +30499,27 @@
             },
             "Place": "right",
             "Order": 2
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كاكو",
+              "IMG": "/assets/images/player-logo/?id=13557",
+              "ID": 612715,
+              "Extra": [
+                {
+                  "Name": "Martínez",
+                  "IMG": "/assets/images/player-logo/?id=47552",
+                  "ID": 3229497
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 3
           }
         ],
         "Match-Lineup": {
@@ -30739,7 +30760,7 @@
               {
                 "Position": "المهاجم الصريح",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.9,
                 "Player-Name": "Ramos",
                 "Player-Logo": "/assets/images/player-logo/?id=67413",
                 "Player-ID": 17228929,
@@ -30769,6 +30790,16 @@
                 "Player-Name": "فوندا",
                 "Player-Logo": "/assets/images/player-logo/?id=90655",
                 "Player-ID": 56180109,
+                "FieldLine": 0,
+                "FieldSide": 50
+              },
+              {
+                "Position": "لاعب الوسط المهاجم",
+                "Status": "Substitute",
+                "Ranking": -1,
+                "Player-Name": "كاكو",
+                "Player-Logo": "/assets/images/player-logo/?id=13557",
+                "Player-ID": 612715,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -30849,16 +30880,6 @@
                 "Player-Name": "ريفيروس",
                 "Player-Logo": "/assets/images/player-logo/?id=40980",
                 "Player-ID": 2547307,
-                "FieldLine": 0,
-                "FieldSide": 50
-              },
-              {
-                "Position": "لاعب الوسط المهاجم",
-                "Status": "Substitute",
-                "Ranking": "N/A",
-                "Player-Name": "كاكو",
-                "Player-Logo": "/assets/images/player-logo/?id=13557",
-                "Player-ID": 612715,
                 "FieldLine": 0,
                 "FieldSide": 50
               },
@@ -31014,7 +31035,7 @@
       },
       "Time-Start": "2025-09-09T23:30",
       "Time-End": "2025-09-10T01:30",
-      "Time-Now": 47,
+      "Time-Now": 48,
       "Match-Status": "الشوط الثاني",
       "detailsUrl": "https://www.yalla-shoot-365.com/match/?%D8%AA%D8%B4%D9%8A%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A3%D9%88%D8%B1%D9%88%D8%BA%D9%88%D8%A7%D9%8A&id=4035466&date=2025-09-09",
       "matchDetails": {
@@ -31285,7 +31306,7 @@
               {
                 "Position": "قلب الدفاع",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.8,
                 "Player-Name": "دياز",
                 "Player-Logo": "/assets/images/player-logo/?id=13352",
                 "Player-ID": 378592,
@@ -31371,7 +31392,7 @@
               {
                 "Position": "حارس مرمى",
                 "Status": "Starting",
-                "Ranking": 6.7,
+                "Ranking": 6.9,
                 "Player-Name": "ميلي",
                 "Player-Logo": "/assets/images/player-logo/?id=47158",
                 "Player-ID": 1091210,
@@ -32267,7 +32288,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T00:36:34.969Z",
+    "lastUpdated": "2025-09-10T00:37:33.369Z",
     "count": 63
   }
 }
