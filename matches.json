@@ -30213,6 +30213,21 @@
             "Order": 7
           },
           {
+            "Event-Time": "62'",
+            "Event-Name": "بطاقة صفراء",
+            "Event-Logo": "/assets/images/event-logo/?id=2&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "مارتينيز",
+              "IMG": "/assets/images/player-logo/?id=66774",
+              "ID": 3261764,
+              "Extra": []
+            },
+            "Place": "left",
+            "Order": 8
+          },
+          {
             "Event-Time": "63'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -30231,7 +30246,7 @@
               ]
             },
             "Place": "left",
-            "Order": 8
+            "Order": 9
           },
           {
             "Event-Time": "63'",
@@ -30252,7 +30267,7 @@
               ]
             },
             "Place": "left",
-            "Order": 9
+            "Order": 10
           },
           {
             "Event-Time": "67'",
@@ -30273,7 +30288,7 @@
               ]
             },
             "Place": "right",
-            "Order": 10
+            "Order": 11
           },
           {
             "Event-Time": "68'",
@@ -30294,7 +30309,7 @@
               ]
             },
             "Place": "right",
-            "Order": 11
+            "Order": 12
           },
           {
             "Event-Time": "69'",
@@ -30315,7 +30330,7 @@
               ]
             },
             "Place": "left",
-            "Order": 12
+            "Order": 13
           },
           {
             "Event-Time": "69'",
@@ -30336,7 +30351,7 @@
               ]
             },
             "Place": "right",
-            "Order": 13
+            "Order": 14
           },
           {
             "Event-Time": "74'",
@@ -30357,7 +30372,7 @@
               ]
             },
             "Place": "left",
-            "Order": 14
+            "Order": 15
           },
           {
             "Event-Time": "76'",
@@ -30372,7 +30387,7 @@
               "Extra": []
             },
             "Place": "left",
-            "Order": 15
+            "Order": 16
           },
           {
             "Event-Time": "77'",
@@ -30393,7 +30408,7 @@
               ]
             },
             "Place": "right",
-            "Order": 16
+            "Order": 17
           },
           {
             "Event-Time": "78'",
@@ -30414,7 +30429,7 @@
               ]
             },
             "Place": "right",
-            "Order": 17
+            "Order": 18
           },
           {
             "Event-Time": "86'",
@@ -30435,7 +30450,7 @@
               ]
             },
             "Place": "right",
-            "Order": 18
+            "Order": 19
           }
         ],
         "Match-Lineup": {
@@ -31023,27 +31038,6 @@
             "Order": 1
           },
           {
-            "Event-Time": "46'",
-            "Event-Name": "Substitution",
-            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
-            "Event-SubType-Id": -1,
-            "Event-SubType-Name": "N/A",
-            "Event-Player": {
-              "Name": "كاكو",
-              "IMG": "/assets/images/player-logo/?id=13557",
-              "ID": 612715,
-              "Extra": [
-                {
-                  "Name": "Martínez",
-                  "IMG": "/assets/images/player-logo/?id=47552",
-                  "ID": 3229497
-                }
-              ]
-            },
-            "Place": "right",
-            "Order": 2
-          },
-          {
             "Event-Time": "45+1'",
             "Event-Name": "Substitution",
             "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
@@ -31058,6 +31052,27 @@
                   "Name": "روميرو",
                   "IMG": "/assets/images/player-logo/?id=3026",
                   "ID": 348984
+                }
+              ]
+            },
+            "Place": "right",
+            "Order": 2
+          },
+          {
+            "Event-Time": "46'",
+            "Event-Name": "Substitution",
+            "Event-Logo": "/assets/images/event-logo/?id=1000&subType=-1",
+            "Event-SubType-Id": -1,
+            "Event-SubType-Name": "N/A",
+            "Event-Player": {
+              "Name": "كاكو",
+              "IMG": "/assets/images/player-logo/?id=13557",
+              "ID": 612715,
+              "Extra": [
+                {
+                  "Name": "Martínez",
+                  "IMG": "/assets/images/player-logo/?id=47552",
+                  "ID": 3229497
                 }
               ]
             },
@@ -33494,7 +33509,7 @@
   ],
   "meta": {
     "date": "2025-09-09",
-    "lastUpdated": "2025-09-10T01:48:35.146Z",
+    "lastUpdated": "2025-09-10T01:49:35.692Z",
     "count": 63
   }
 }
